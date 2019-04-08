@@ -1,17 +1,14 @@
-- title: Home
-  url: /
-
 - title: Nieuws
-  url: /nieuws/
+  url: /
   sublinks:
     - title: Binnenland
-      url: /nieuws/binnenland/
+      url: /binnenland/
     - title: Buitenland
-      url: /nieuws/buitenland/
+      url: /buitenland/
     - title: Tech
-      url: /nieuws/tech/
+      url: /tech/
     - title: Overig
-      url: /nieuws/overig/      
+      url: /overig/      
       
 - title: Sport
   url: /sport/
@@ -35,25 +32,25 @@
     - title: Drenthe
       url: /regio/drenthe/    
     - title: Flevoland
-      url: /regio/
+      url: /regio/flevoland/
     - title: Friesland
-      url: /regio/
+      url: /regio/fryslan/
     - title: Gelderland
-      url: /regio/
+      url: /regio/gelderland/
     - title: Groningen
-      url: /regio/
+      url: /regio/groningen/
     - title: Limburg
-      url: /regio/
+      url: /regio/limburg/
     - title: Noord-Brabant
-      url: /regio/
+      url: /regio/noord-brabant/
     - title: Noord-Holland
-      url: /regio/
+      url: /regio/noord-holland/
     - title: Utrecht
-      url: /regio/
+      url: /regio/utrecht/
     - title: Zeeland
-      url: /regio/
+      url: /regio/zeeland/
     - title: Zuid-Holland
-      url: /regio/
+      url: /regio/zuid-holland/
 
 - title: +Extra
   url: /extra/
