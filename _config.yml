@@ -8,5 +8,9 @@ show_excerpts: true # set to true to show excerpts on the homepage
 
 baseurl = "https://cwarrel.github.io/nieuws/"
 
+navbar: light          # other option dark
+navbar-bg: light       # other option dark
+navbar-fixed-top: true # if true, also check _sass/bootstrap4-cdn.scss padding top
+
 plugins:
   - jekyll-seo-tag
