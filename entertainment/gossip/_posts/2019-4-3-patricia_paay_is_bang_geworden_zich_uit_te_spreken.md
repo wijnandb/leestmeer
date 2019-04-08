@@ -1,0 +1,12 @@
+---
+title: "Patricia Paay is bang geworden zich uit te spreken"
+permalink: "2019-4-3-patricia_paay_is_bang_geworden_zich_uit_te_spreken"
+date: Wed, 03 Apr 2019 20:19:00 +0200
+categories: 
+- entertainment 
+- gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/3391508/patricia-paay-is-bang-geworden-zich-uit-te-spreken"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0c4dc3bc-563f-11e9-a9d4-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Patricia Paay staat er om bekend zelden een blad voor de mond te nemen. De blonde flapuit is lekker brutaal en lijkt zelfverzekerd. Toch durft de diva tegenwoordig niet meer alles te zeggen en is ze juist erg verlegen geworden.</p> <p>Twee jaar geleden stond het leven van Patricia Paay in een klap op zijn kop, nadat een seksvideo van haar was uitgelekt. Lange tijd hield ze zich dan ook gedeisd, maar de blondine is er nu weer klaar voor terug te keren in de spotlights.</p><p>„Het gaat goed met me”, vertelt Paay trots in de talkshow M. „Ik voel me sterk en voor mij heb ik het gewoon maar achter me gegooid. Ik ben natuurlijk Rotterdams en wij kunnen dat. Mouwtjes opstropen en doorgaan, niet zeuren.”</p><p>Bang</p><p>Komend weekend wordt Patricia 70 en is ze er helemaal klaar voor om weer terug te keren. „Ik heb al die tijd geen televisie gedaan. Je wordt bang, heel bang. Voor opmerkingen, of wat dan ook. Het is heel raar. Ik ben dat ook niet gewend. Ik ben meestal degene die grapjes maakt, maar die durf je niet meer te maken. Je verandert heel, heel erg”, legt ze uit. „Ik ben minder gebekt, ik durf dingen niet te zeggen en ben meer verlegen. Je zal het niet geloven, maar het is zo.”</p><p>Ze vindt het erg jammer dat ze niet meer zo ’babbelig’ is. „Ik was altijd heel geïnteresseerd in alles en iedereen.” Ze heeft dan ook hulp ingeschakeld om er weer bovenop te komen. „Ik heb een coach gehad. Een van mijn vriendinnen is coach, dus daar heb ik ook veel aan gehad. Het moet eruit getrokken worden. Het moet weg uit je hoofd en dat heeft wel geholpen.”</p><p>Linda de Mol</p><p>Maar ze kreeg ook steun uit onverwachte hoek. „Wie meteen reageerde, en dat vond ik geweldig, was Linda de Mol. Had ik helemaal niet verwacht. Ik kreeg een prachtige brief. Nou ik stond zo wat te huilen, helemaal ’team Patricia’ en dat soort dingen. Wij zeiden allebei: ’Vrouwen moeten elkaar steunen’.”</p><p>Op de hoogte blijven van al het laatste nieuws over de sterren? Schrijf je hier in voor onze nieuwsbrief.</p>

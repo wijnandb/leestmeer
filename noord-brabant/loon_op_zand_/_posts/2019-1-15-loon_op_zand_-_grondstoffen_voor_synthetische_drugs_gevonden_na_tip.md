@@ -1,0 +1,11 @@
+---
+title: "Loon op Zand - Grondstoffen voor synthetische drugs gevonden na tip"
+permalink: "2019-1-15-loon_op_zand_-_grondstoffen_voor_synthetische_drugs_gevonden_na_tip"
+date: Tue, 15 Jan 2019 08:03:00 GMT
+categories: 
+- noord-brabant 
+- loon_op_zand_ 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/15/08-grondstoffen-voor-synthetische-drugs-gevonden-na-tip.html"
+---
+
+Agenten hebben maandagavond 14 januari grondstoffen voor synthetische drugs gevonden aan de Bergstraat. In een leegstaand kassencomplex vonden de dienders 1600 kilogram grondstoffen om amfetamine (speed) van te kunnen maken.

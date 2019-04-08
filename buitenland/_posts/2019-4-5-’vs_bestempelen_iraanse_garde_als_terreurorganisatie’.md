@@ -1,0 +1,10 @@
+---
+title: "’VS bestempelen Iraanse Garde als terreurorganisatie’"
+permalink: "2019-4-5-’vs_bestempelen_iraanse_garde_als_terreurorganisatie’"
+date: Sat, 06 Apr 2019 00:39:37 +0200
+category: buitenland
+externe_link: "https://www.telegraaf.nl/nieuws/3403662/vs-bestempelen-iraanse-garde-als-terreurorganisatie"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a543a012-5826-11e9-b866-0218eaf05005.jpg"
+---
+
+<p class="intro">De Verenigde Staten willen de Iraanse Revolutionaire Garde als een terroristische organisatie bestempelen. Drie Amerikaanse regeringsmedewerkers hebben een artikel in The Wall Street Journal tegen persbureau Reuters bevestigd. Het ministerie van Buitenlandse Zaken zou op zijn vroegst maandag het nieuws bekendmaken.</p> <p>Het is de eerste keer dat de regering in Washington een leger van een soeverein land formeel als terroristische organisatie beschouwd. Over de maatregel werd al jaren gespeculeerd en president Donald Trump richtte in zijn toespraken zijn pijlen vaker op de radicale garde. De Amerikaanse autoriteiten willen niet op het bericht reageren. De Iraanse afvaardiging bij de Verenigde Naties heeft ook nog geen reactie gegeven.</p><p>De Revolutionaire Garde wordt gezien als de elite en bewaker van het in 1979 gevestigde conservatieve regime van de sjiitische geestelijkheid. Het vormt behalve strijdkrachten en inlichtingendiensten ook ondernemingen die de economie domineren.</p><p>De maatregel komt een jaar nadat president Trump de VS uit het nucleaire akkoord met Iran terugtrok en vervolgens de economische duimschroeven weer aandraaide. Vooral zijn minister van Buitenlandse Zaken Mike Pompeo is voorstander van een harde aanpak van Iran.</p><p>Tot nog toe zijn door de VS wel mensen en organisaties die banden hebben met de Revolutionaire Garde aan sancties onderworpen, maar het elitekorps bleef zelf buiten schot. Critici vrezen dat door dit besluit het Amerikaanse leger ook als terroristische organisatie zal worden aangemerkt door vijandige regeringen.</p>

@@ -1,0 +1,11 @@
+---
+title: "Zeewolde - ‘Hout’ de dief"
+permalink: "2017-7-28-zeewolde_-_‘hout’_de_dief"
+date: Fri, 28 Jul 2017 08:56:00 GMT
+categories: 
+- flevoland 
+- zeewolde___ 
+externe_link: "https://www.politie.nl/nieuws/2017/juli/28/03-%E2%80%98hout%E2%80%99-de-dief.html"
+---
+
+Donderdag 27 juli werd een stapel houten palen gestolen op de Wielseweg. Drie verdachten werden aangehouden.

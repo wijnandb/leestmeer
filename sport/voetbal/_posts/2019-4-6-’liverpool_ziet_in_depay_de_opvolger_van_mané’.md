@@ -1,0 +1,12 @@
+---
+title: "’Liverpool ziet in Depay de opvolger van Mané’"
+permalink: "2019-4-6-’liverpool_ziet_in_depay_de_opvolger_van_mané’"
+date: Sat, 06 Apr 2019 16:39:26 +0200
+categories: 
+- sport 
+- voetbal 
+externe_link: "https://www.telegraaf.nl/sport/3404834/liverpool-ziet-in-depay-de-opvolger-van-mane"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5de95812-588d-11e9-9815-0218eaf05005.jpg"
+---
+
+<p class="intro">Memphis Depay vertrok ruim twee jaar geleden van Manchester United naar Olympique Lyon, maar de aanvaller van Oranje keert wellicht terug in de Premier League.</p> <p>Volgens de Franse krant L’Equipe heeft Liverpool het oog laten vallen op de 25-jarige Depay, die in anderhalf jaar Manchester United tot 33 competitiewedstrijden en twee doelpunten op het hoogste Engelse niveau kwam. In januari 2017 verkaste de aanvaller naar Lyon, waar hij nog steeds actief is.</p><p>Opvolger Mané</p><p>Depay zou bij de ploeg van Virgil van Dijk en Georginio Wijnaldum de opvolger moeten worden van Sadio Mané, die volgens de Franse krant open staat voor een vertrek naar Real Madrid. Waar Depay het afgelopen jaar onder bondscoach Ronald Koeman helemaal is opgeleefd in het Nederlands elftal, beleeft hij een minder sprankelend seizoen bij Lyon.</p><p>Nadat de geboren Moordrechter vorig jaar liefst negentien competitietreffers maakte, staat de teller dit seizoen pas op zes. Bovendien zit Depay vaker dan hem lief is op de reservebank. Ook deze zaterdag moest hij (in het thuisduel met Dijon) weer genoegen nemen met een plaats op de bank.</p><p>Verlies</p><p>De ploeg heeft voor de tweede keer binnen vier dagen verloren voor eigen publiek. De nummer drie ging met 3-1 onderuit tegen degradatiekandidaat Dijon. Daardoor is de kans op de tweede plek, die recht geeft op deelname aan de groepsfase van de Champions League, weer wat kleiner geworden. Lyon staat vier punten achter op runner-up Lille, dat zondag het gat kan vergroten in de uitwedstrijd tegen Stade Reims.</p><p>Met een treffer van Martin Terrier in de eerste minuut begon Lyon nog wel goed aan de wedstrijd. Daarna viel de thuisploeg echter stil. Dankzij een doelpunt van Wesley Said en twee eigen treffers, van de Brazilianen Marcelo en Rafael, kon Dijon drie belangrijke punten pakken.</p><p>Lyon verloor afgelopen dinsdag in de halve finales van de Franse beker op eigen veld van Stade Rennes (2-3). In dat duel mocht Depay in de zeventigste minuut invallen.</p><p>Bekijk hier de uitslagen, stand en het programma in de Ligue 1</p>

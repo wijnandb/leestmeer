@@ -1,0 +1,10 @@
+---
+title: "Langere tbs voor doden van vriendin en agent"
+permalink: "2019-4-8-langere_tbs_voor_doden_van_vriendin_en_agent"
+date: Mon, 08 Apr 2019 14:27:02 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3411780/langere-tbs-voor-doden-van-vriendin-en-agent"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0dad3772-5a01-11e9-800d-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">De tbs-maatregel van de man die acht jaar geleden in het Groningse Baflo zijn vriendin en een agent heeft gedood, is maandag verlengd. De rechtbank in Groningen wil dat Alasam S. nog zeker twee jaar wordt behandeld.</p> <p>Hier had het Openbaar Ministerie ook om gevraagd. De kans op herhaling is volgens de rechter nog te groot. De behandeling is in maart 2017 gestart en verliep tot nu toe stroef, merkte de advocaat van S. op in de rechtbank. Zo was een behandelplan laat klaar en heeft S. al ruim een half jaar geen daadwerkelijke behandeling meer gehad. S. kampt met onder meer een antisociale en narcistische persoonlijkheidsstoornis. De tbs-kliniek verwacht met psychotherapie de komende tijd wel progressie te boeken.</p><p>S. (33) sloeg op 13 april 2011 zijn vriendin dood met een brandblusser. Toen een motoragent hem wilde arresteren, wist hij het dienstwapen te bemachtigen en schoot de politieman dood. Een andere agent raakte gewond. Nadat de rechtbank hem 28 jaar cel had opgelegd, kreeg S. in hoger beroep zes jaar en tbs met dwangverpleging.</p><p>S., een uitgeprocedeerde asielzoeker uit Benin, zou in een psychose hebben verkeerd.</p><p>Terug naar Benin</p><p>Na de tbs-behandeling dient S. Nederland te verlaten. Een eerdere terugkeer naar Benin en een voortzetting van de tbs-behandeling aldaar is vooralsnog niet aan de orde. Er zijn geen klinieken in het Afrikaanse land die goed genoeg zijn om S. in zijn huidige toestand verder te behandelen. Hier wordt over twee jaar weer naar gekeken. S. wil het liefst in Nederland blijven. Er loopt momenteel een bezwaarprocedure tegen zijn ongewenstverklaring.</p>

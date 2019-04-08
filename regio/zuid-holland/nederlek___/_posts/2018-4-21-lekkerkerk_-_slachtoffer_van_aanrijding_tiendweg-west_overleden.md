@@ -1,0 +1,11 @@
+---
+title: "Lekkerkerk - Slachtoffer van aanrijding Tiendweg-West overleden"
+permalink: "2018-4-21-lekkerkerk_-_slachtoffer_van_aanrijding_tiendweg-west_overleden"
+date: Sat, 21 Apr 2018 11:21:00 GMT
+categories: 
+- zuid-holland 
+- nederlek___ 
+externe_link: "https://www.politie.nl/nieuws/2018/april/21/06-lekkerkerk-slachtoffer-van-aanrijding-tiendweg-west-overleden.html"
+---
+
+De fietser die in de vroege ochtend van vrijdag 20 april op de Tiendweg-West door een bestelbus werd aangereden, is in de loop van die dag in het ziekenhuis aan zijn verwondingen overleden.

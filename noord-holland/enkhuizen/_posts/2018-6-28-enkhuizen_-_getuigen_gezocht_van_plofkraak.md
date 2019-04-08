@@ -1,0 +1,11 @@
+---
+title: "Enkhuizen - Getuigen gezocht van plofkraak"
+permalink: "2018-6-28-enkhuizen_-_getuigen_gezocht_van_plofkraak"
+date: Thu, 28 Jun 2018 10:59:00 GMT
+categories: 
+- noord-holland 
+- enkhuizen 
+externe_link: "https://www.politie.nl/nieuws/2018/juni/28/04-getuigen-gezocht-van-plofkraak.html"
+---
+
+Donderdagochtendvond rond 04.10 uur vond er een plofkraak plaats bij een pinautomaat op het Koperwiekplein. Getuigen hoorden een harde klap en zagen een scooter wegrijden met vermoedelijk twee daders. Er werd geen geld buitgemaakt. Bij de plofkraak werd gebruik gemaakt van een auto. Onbekend is wat voor auto dit geweest is. Het voertuig is niet op de plaats van de plofkraak achtergebleven. Hier wordt onderzoek naar gedaan.

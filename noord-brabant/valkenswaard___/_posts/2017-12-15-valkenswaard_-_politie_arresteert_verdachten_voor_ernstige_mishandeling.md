@@ -1,0 +1,11 @@
+---
+title: "Valkenswaard - Politie arresteert verdachten voor ernstige mishandeling"
+permalink: "2017-12-15-valkenswaard_-_politie_arresteert_verdachten_voor_ernstige_mishandeling"
+date: Fri, 15 Dec 2017 12:47:00 GMT
+categories: 
+- noord-brabant 
+- valkenswaard___ 
+externe_link: "https://www.politie.nl/nieuws/2017/december/15/09-politie-arresteert-verdachten-voor-ernstige-mishandeling.html"
+---
+
+De politie hield woensdag en donderdag vier verdachten aan voor een ernstige mishandeling op de Markt in Valkenswaard.

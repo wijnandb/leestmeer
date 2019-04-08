@@ -1,0 +1,11 @@
+---
+title: "Oosterhout, Tiel - Politie onderzoekt mishandeling stappers door taxichauffeur"
+permalink: "2019-3-4-oosterhout_tiel_-_politie_onderzoekt_mishandeling_stappers_door_taxichauffeur"
+date: Mon, 04 Mar 2019 13:22:00 GMT
+categories: 
+- noord-brabant 
+- oosterhout___ 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/4/08-politie-onderzoekt-mishandeling-stappers-door-taxichauffeur.html"
+---
+
+Afgelopen nacht is in Tiel een 29-jarige taxichauffeur uit die plaats aangehouden. Hij zou betrokken zijn geweest bij een geweldsincident op de Schapendries in Oosterhout.  Twee mannen en een vrouw uit Den Hout, die op zoek waren naar een taxi, zouden daarbij zijn mishandeld. De recherche stelt een nader onderzoek in. Getuigen van het incident worden verzocht contact op te nemen met de politie via 0900-8844.

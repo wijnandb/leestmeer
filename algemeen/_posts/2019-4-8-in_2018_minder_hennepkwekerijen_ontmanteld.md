@@ -1,0 +1,10 @@
+---
+title: "In 2018 minder hennepkwekerijen ontmanteld"
+permalink: "2019-4-8-in_2018_minder_hennepkwekerijen_ontmanteld"
+date: Mon, 08 Apr 2019 09:25:41 +0200
+category: algemeen
+externe_link: "https://www.telegraaf.nl/nieuws/3409628/in-2018-minder-hennepkwekerijen-ontmanteld"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3df161ec-59e3-11e9-8254-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Vorig jaar zijn minder hennepkwekerijen ontmanteld dan in 2017. Waren het er vorig jaar in totaal 3913, een jaar eerder ontmantelde de politie er nog 4670. „Het aantal opgerolde kwekerijen loopt al een aantal jaren terug”, aldus landelijk coördinator John Jespers.</p> <p>Hij denkt dat het te maken heeft met de prioriteiten die burgemeesters, politie en het Openbaar Ministerie (samen de zogenoemde driehoek) stellen. „Elke driehoek heeft te maken met een scala aan misdrijven. Onder meer op basis van capaciteit moeten ze keuzes maken welke zaken worden opgepakt en welke niet”, aldus Jespers. „We zien wel een trend dat Nederlandse hennepkwekers plantages in het buitenland oprichten. Maar ik zie dat niet als een verplaatsing. Het is meer een uitbreiding.”</p><p>Ook de bereidheid bij Nederlanders om een wietplantage in de buurt te melden, lijkt af te nemen. Ten opzichte van 2017 kwamen vorig jaar bij Meld Misdaad Anoniem 21 procent minder meldingen over hennepplantages binnen: 4529 tips.</p><p>In de politieregio’s Zeeland-West-Brabant, Limburg, Oost-Nederland en de regio Rotterdam werden in 2018 relatief de meeste kwekerijen opgerold, in Oost-Brabant en rond Amsterdam de minste.</p><p>Alleen in Noord-Nederland steeg het aantal hennepkwekerijen dat werd ontmanteld, van 404 in 2017 tot 436 vorig jaar. Dat komt mogelijk door het speciale hennepteam dat ze in deze regio hebben, zegt Jespers. „Niet alleen vanwege de zware, georganiseerde criminaliteit die er achter schuilgaat, maar ook vanwege de risico’s op bijvoorbeeld brand blijven hennepkwekerijen een groot probleem.”</p>

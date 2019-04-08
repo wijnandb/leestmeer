@@ -1,0 +1,11 @@
+---
+title: "Sprang-Capelle - Dronken Waalwijker rijdt met auto berm in en talud af"
+permalink: "2019-1-27-sprang-capelle_-_dronken_waalwijker_rijdt_met_auto_berm_in_en_talud_af"
+date: Sun, 27 Jan 2019 08:57:00 GMT
+categories: 
+- noord-brabant 
+- waalwijk___ 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/27/08-dronken-waalwijker-rijdt-met-auto-berm-in-en-talud-af.html"
+---
+
+Een dronken 24-jarige Waalwijker is afgelopen nacht omstreeks 02.15 uur op de A59 bij het nemen van de afslag Waalwijk Centrum met zijn auto in de berm en daarna van het talud afgereden. Hij bleef bij het ongeval ongedeerd. Hij rook sterk naar alcohol en werd na een eerste indicatieve test aangehouden ter zake rijden onder invloed.

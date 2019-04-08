@@ -1,0 +1,12 @@
+---
+title: "Video Kyrgios provoceert ’boze’ Nadal"
+permalink: "2019-2-28-video_kyrgios_provoceert_’boze’_nadal"
+date: Thu, 28 Feb 2019 14:15:11 +0100
+categories: 
+- sport 
+- tennis 
+externe_link: "https://www.telegraaf.nl/sport/3221556/video-kyrgios-provoceert-boze-nadal"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3a0c1550-3b5b-11e9-867f-6d09b1c05ad9.jpg"
+---
+
+<p class="intro">Nick Kyrgios heeft weer eens voor veel opschudding gezorgd. In zijn sensationele tweede ronde-partij in Acapulco tegen Rafael Nadal toverde de Australische tennisser met zijn racket, maar provoceerde daarnaast ook zijn Spaanse opponent en het publiek. Dat kwam hem na afloop op boegeroep te staan en ook Nadal haalde uit naar Kyrgios.</p> <p>Nadal was niet te spreken over het gedrag van Kyrgios. Na een snelle handdruk toog de verliezer naar de kleedkamer. „Hij is een speler met enorm veel talent, hij zou grandslams moeten winnen en om de eerste plek moeten meestrijden”, reageerde Nadal. „Maar hij toont geen respect richting het publiek, zijn rivalen en naar zichzelf.”</p><p>Aanvankelijk had Nadal weinig te vrezen van Kyrgios. De eerste set verliep soepeltjes voor de nummer twee van de wereld en dat terwijl zijn tegenstander ziek, zwak en misselijk oogde. Kyrgios riep na het 3-6 setverlies dan ook een arts de baan op. Opgeven wilde hij niet, mede omdat hij naar eigen zeggen dan weer alle hoon over zich heen zou krijgen.</p><p>Kyrgios ging door en begon beter en beter te tennissen. Sterker nog, via een gewonnen tiebreak sleepte hij er een beslissende derde bedrijf uit. Daarin haalde hij diverse trucjes uit. Zo serveerde het ’enfant terrible’ één keer onderhands. De poging mislukte, maar toch leidde de actie tot een fluitconcert op de tribune. Ook Nadal kon het trucje niet waarderen.</p><p>Bekijk hieronder de onderhandse service van Kyrgios:</p><p>Ook serveerde Kygios eenmaal terwijl Nadal nog niet helemaal klaar stond om de bal te ontvangen en wisselde in de slotfase op een cruciaal moment van racket. Toch leek Nadal te winnen. De Spanjaard kreeg in een nieuwe tiebreak bij een 6-3 voorsprong drie opeenvolgende wedstrijdpunten. Maar Kyrgios weigerde te capituleren en sloeg uiteindelijk met 8-6 toe. Dat succes vierde hij op een iets te uitbundige manier volgens het publiek. Gejoel volgde, waarop Kyrgios alleen maar meer de confrontatie met de Mexicaanse toeschouwers zocht. De Australiër kan in de volgende ronde waarschijnlijk op een ’vijandig ontvangst’ rekenen.</p>

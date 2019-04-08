@@ -1,0 +1,11 @@
+---
+title: "Oostzaan - Politie houdt drie mannen aan voor verboden wapenbezit"
+permalink: "2018-10-2-oostzaan_-_politie_houdt_drie_mannen_aan_voor_verboden_wapenbezit"
+date: Tue, 02 Oct 2018 08:39:00 GMT
+categories: 
+- noord-holland 
+- oostzaan___ 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/2/04-politie-houdt-drie-mannen-aan-voor-verboden-wapenbezit.html"
+---
+
+De politie heeft in de nacht van maandag op dinsdag twee mannen van 27 jaar en een man van 20 jaar uit Amsterdam aangehouden op verdenking van verboden wapenbezit op het Westeinde.

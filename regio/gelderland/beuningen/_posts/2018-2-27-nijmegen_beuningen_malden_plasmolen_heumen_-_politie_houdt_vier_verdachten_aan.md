@@ -1,0 +1,11 @@
+---
+title: "Nijmegen, Beuningen, Malden, Plasmolen, Heumen - Politie houdt vier verdachten aan"
+permalink: "2018-2-27-nijmegen_beuningen_malden_plasmolen_heumen_-_politie_houdt_vier_verdachten_aan"
+date: Tue, 27 Feb 2018 11:39:00 GMT
+categories: 
+- gelderland 
+- beuningen 
+externe_link: "https://www.politie.nl/nieuws/2018/februari/27/02-nijmegen-politie-houdt-vier-verdachten-aan.html"
+---
+
+De politie heeft dinsdagochtend, in alle vroegte op diverse plaatsen in en om Nijmegen doorzoekingen gedaan. Zeven woningen in Nijmegen, Malden, Plasmolen en Beuningen en een bedrijfspand in Heumen werden doorzocht. De politie hield twee mannen aan van 24 en 49 jaar uit Nijmegen, een 46-jarige inwoner van Malden en een 62-jarige man uit Beuningen. Zij worden verdacht van overtreding van de Wet wapens en munitie en Opiumwet. Meerdere aanhoudingen worden niet uitgesloten.

@@ -1,0 +1,12 @@
+---
+title: "Dochter Johan Derksen schrikt van alle aandacht"
+permalink: "2019-4-4-dochter_johan_derksen_schrikt_van_alle_aandacht"
+date: Thu, 04 Apr 2019 14:35:36 +0200
+categories: 
+- entertainment 
+- gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/3395202/dochter-johan-derksen-schrikt-van-alle-aandacht"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b169b4ee-56d7-11e9-8254-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">De situatie rondom Johan Derksen, die woensdag in het ziekenhuis belandde nadat hij van de trap was gevallen, houdt het land – en met name voetbal minnend Nederland – in zijn greep. Dit tot grote verrassing van zijn dochter Marieke, die op Twitter laat weten verbaasd te zijn door alle aandacht voor haar vader.</p> <p>„Het loopt allemaal een beetje uit de hand, geloof ik”, twittert Marieke. „Superlief en ook tamelijk bizar, alle aandacht. Maar het gaat goed met Johan hoor! De schrik is weg, herstelt als een malle. Dus voor we het weten gaat hij er gewoon weer met gestrekt been in.”</p><p>Veronica Inside-presentator Wilfred Genee maakte woensdagmiddag in zijn radioshow bekend dat Johan van de trap was gevallen en flink in de kreukels ligt. De voetbalanalist liep naast een gebroken arm en een hersenschudding, meerdere breuken op in zijn gezicht. „Hij is vannacht op weg naar het toilet van de trap gevallen. In plaats van dat hij de toiletdeur pakte, pakte hij de ruimte er naast. Daar zit een trap, steil naar beneden. Hij is volledig op zijn gezicht naar beneden gestuiterd.”</p><p>Positief</p><p>Al snel stroomden de steunbetuigingen voor de oud-voetballer binnen en ook Marieke, de succesvolste sportboeken-uitgever van Nederland, liet van zich horen. Ze relativeerde de zaak en benadrukte dat we nog lang niet van haar vader af zijn. „Lieve mensen. Johan ligt helemaal in de prak na zijn val van de trap. Maar laten we het positief houden. Mijn moeder viel van de trap en overleed aan de gevolgen. Johan is er nog, dus nog geen goede nachtrust voor iedereen in de voetballerij. Maar dank voor alle lieve berichten!”</p><p>Jan Boskamp vervangt Derksen in de komende twee uitzendingen van Veronica Inside. Het tv-programma maakt nog geen plannen voor een structurele vervanging van de voetbalanalist, zo liet een woordvoerder van Talpa donderdag weten.</p><p>Op de hoogte blijven van al het laatste nieuws over de sterren? Schrijf je hier in voor onze nieuwsbrief.</p>

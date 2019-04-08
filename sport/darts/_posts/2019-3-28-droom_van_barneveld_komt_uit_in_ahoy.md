@@ -1,0 +1,12 @@
+---
+title: "Droom Van Barneveld komt uit in Ahoy"
+permalink: "2019-3-28-droom_van_barneveld_komt_uit_in_ahoy"
+date: Thu, 28 Mar 2019 21:06:37 +0100
+categories: 
+- sport 
+- darts 
+externe_link: "https://www.telegraaf.nl/sport/3364273/droom-van-barneveld-komt-uit-in-ahoy"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/20853314-51ea-11e9-aba6-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Een dag na zijn degradatie uit de Premier League was Raymond van Barneveld voor even toch een gelukkig man. „Een droom komt uit. Mijn kleinzoon komt bij opa kijken”, liet de vijfvoudig wereldkampioen via sociale media weten. Luttele uren later zou alles anders zijn.</p> <p>Van Barneveld speelde donderdag in Rotterdam Ahoy zijn laatste wedstrijd in de Premier League en zo zou later blijken ook zijn laatste partij uit zijn gehele loopbaan. Tegenstander was niemand minder dan Michael van Gerwen, de huidige koploper in de prestigieuze competitie. Nadat Barney woensdagavond al kansloos verloor (1-7 in legs) van Daryl Gurney ging hij dit keer ook onderuit tegen Mighty Mike.</p><p>Na het desastreus verlopen WK in december van vorig jaar kreeg Van Barneveld een wildcard voor het event. Doordat hij op de wereldranglijst op dat moment was afgegleden naar een 29e plek lag een dergelijke uitnodiging niet zomaar voor de hand. Hij accepeerde de wildcard, maar kon de verwachtingen niet waarmaken. In negen optredens ging de Nederlander zes keer onderuit, speelde tweemaal gelijk en wist slechts één keer te winnen.</p><p>Vroegtijdig afscheid</p><p>Van Barneveld kondigde eind vorig jaar al aan dat 2019 zijn laatste jaar als profdarter zou worden. Inmiddels is hij de nummer 30 op de zogenoemde Order of Merit. De beste 32 darters van de wereld plaatsen zich automatisch voor het wereldkampioenschap, het podium waar Barney uiteindelijk op een waardige manier afscheid wilde nemen. „Ik wil nog steeds naar het WK, dat gaan we dan maar via de vloertoernooien proberen te redden”, stelde hij woensdagavond nog.</p><p>Amper 24 uur later kwam Van Barneveld donderdag rond middernacht terug op die woorden en kondigde hij na de oorwassing (1-7 verlies) tegen Van Gerwen aan dat hij per direct zijn pijlen opbergt. „Bij opkomst voelde ik al: dit wordt mijn laatste wedstrijd ooit”, vertelde de 51-jarige Hagenaar. „ Er is geen greintje twijfel.”</p><p>Lees hieronder in Telegraaf Extra meer over het plotselinge afscheid van Van Barneveld:</p><p>Bekijk hieronder het moment waarop Van Barneveld zijn afscheid aankondigt:</p>

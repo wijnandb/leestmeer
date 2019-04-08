@@ -1,0 +1,10 @@
+---
+title: "Foutje bedankt puntje penis eraf"
+permalink: "2019-4-7-foutje_bedankt_puntje_penis_eraf"
+date: Sun, 07 Apr 2019 13:29:59 +0200
+category: opmerkelijk
+externe_link: "https://www.telegraaf.nl/nieuws/3406351/foutje-bedankt-puntje-penis-eraf"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/96bcb594-5928-11e9-aba6-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Een 52-jarige Indiase man trof het al niet toen hij al twee dagen lang rondliep met een erectie. Maar het kan altijd erger. Onhandige artsen maakten, in een poging de man van zijn probleem af te helpen, een foutje waardoor de man nu het topje van zijn penis node moet missen.</p> <p>Dat schrijft Nieuwsblad op basis van een publicatie onlangs in het British Medical Journal.</p><p>De man kampte al twee dagen met een aanhoudende erectie (priapisme in wetenschappelijke termen) toen hij aanklopte bij het King George ziekenhuis in Lucknow, de hoofdstad van Uttar Pradesh in het noorden van India.</p><p>Viagra</p><p>Priapisme is een pijnlijke aandoening die veelal wordt veroorzaakt door ziektes als leukemie en sikkelcelanemie, maar kan ook het gevolg zijn van het gebruik van medicatie als Viagra.</p><p>Om de man uit zijn penibele situatie te bevrijden, werd hij meteen geopereerd. Zijn urinebuis werd verwijderd, het bloed werd uit zijn penis gedraineerd en er werd een katheter ingebracht. Ook werd zijn penis afgebonden.</p><p>En daar ging het mis. Enkele dagen, na zijn ontslag uit het ziekenhuis, stond de onfortuinlijke man al weer op de stoep van de kliniek. „Zijn penis was donkerder geworden en er was een kleurverschil met zijn eikel”, legt dr. Saqib Mehdi uit.</p><p>Te strak</p><p>Door het té strak afbinden kon necrose ontstaan, waardoor bloedcirculatie onmogelijk werd. Er zat niets anders op dan een deel van zijn penis te amputeren.</p><p>Hoe het nu met de man - wiens identiteit niet werd genoemd - gaat, is niet bekend. Wel kon de man drie weken na de toch wel levensveranderende operatie weer normaal naar het toilet.</p>

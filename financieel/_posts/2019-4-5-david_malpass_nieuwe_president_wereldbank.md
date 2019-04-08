@@ -1,0 +1,10 @@
+---
+title: "David Malpass nieuwe president Wereldbank"
+permalink: "2019-4-5-david_malpass_nieuwe_president_wereldbank"
+date: Fri, 05 Apr 2019 18:51:13 +0200
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3402490/david-malpass-nieuwe-president-wereldbank"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7408fcee-57c3-11e9-9b5b-02c309bc01c1.jpg"
+---
+
+<p class="intro">De Amerikaanse econoom David Malpass is gekozen tot de nieuwe president van de Wereldbank. De 63-jarige Amerikaan staat bekend als loyale aanhanger van Donald Trump, met wie hij een afkeer van grote internationale instituties deelt.</p> <p>Malpass was tijdens de Amerikaanse presidentsverkiezingen in 2016 economisch adviseur van het campagneteam van Trump. De laatste tijd bekleedde hij een hoge functie binnen het ministerie van Financiën, waar hij zich bezighield met internationale economische zaken.</p><p>Over de nieuwe baas van de Wereldbank werd veel gespeculeerd. In het geruchtencircuit werd onder meer Ivanka Trump genoemd als mogelijke kandidaat. Maar dat werd al snel door het Witte Huis tegengesproken. De Amerikaanse presidentsdochter mocht wel het nominatieproces in de Verenigde Staten begeleiden, omdat ze de afgelopen twee jaar nauw samenwerkte met de leiding van de Wereldbank.</p><p>Enige kandidaat</p><p>De Wereldbank is 's werelds grootste instituut voor ontwikkelingssamenwerking. Er bestaat een soort herenakkoord dat de Amerikanen het hoofd van de Wereldbank mogen aanwijzen, terwijl de Europeanen die van het Internationaal Monetair Fonds (IMF) mogen benoemen. Malpass was dan ook de enige kandidaat die formeel voor de post was genomineerd.</p><p>De vorige Wereldbank-president, de tijdens het bewind van Barack Obama aangewezen Jim Yong Kim, kondigde begin dit jaar zijn vertrek aan. Hij werd de afgelopen maanden op interimbasis waargenomen door Kristalina Georgieva. Die voormalige eurocommissaris werkt al langer in de top van de Wereldbank.</p>

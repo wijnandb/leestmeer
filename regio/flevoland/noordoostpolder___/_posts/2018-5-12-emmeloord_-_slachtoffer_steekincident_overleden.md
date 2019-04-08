@@ -1,0 +1,11 @@
+---
+title: "Emmeloord - Slachtoffer steekincident overleden"
+permalink: "2018-5-12-emmeloord_-_slachtoffer_steekincident_overleden"
+date: Sat, 12 May 2018 09:00:00 GMT
+categories: 
+- flevoland 
+- noordoostpolder___ 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/12/03-emmeloord-slachtoffer-steekincident-overleden.html"
+---
+
+Op vrijdag 11 mei is een 24- jarige man uit Emmeloord overleden nadat hij op straat werd neergestoken in de Lange Nering. Agenten troffen de man zwaargewond in de omgeving, op de Korte Achterzijde, aan. Ondanks alle hulpverlening ter plekke, stierf de man korte tijd later aan zijn verwondingen.

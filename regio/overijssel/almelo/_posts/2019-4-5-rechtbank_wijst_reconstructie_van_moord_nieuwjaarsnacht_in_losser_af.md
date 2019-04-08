@@ -1,0 +1,11 @@
+---
+title: "Rechtbank wijst reconstructie van moord nieuwjaarsnacht in Losser af"
+permalink: "2019-4-5-rechtbank_wijst_reconstructie_van_moord_nieuwjaarsnacht_in_losser_af"
+date: Fri, 05 Apr 2019 12:41:00 GMT
+categories: 
+- overijssel 
+- almelo 
+externe_link: "https://www.ad.nl/almelo/rechtbank-wijst-reconstructie-van-moord-nieuwjaarsnacht-in-losser-af~a391e501/"
+---
+
+ALMELO/LOSSER - Volgens justitie bracht Janela A. in de nieuwjaarsnacht in Losser haar partner om het leven. Maar hoe dat moet zijn gegaan, kan ze zich naar eigen zeggen niet herinneren. Daarom is een reconstructie volgens justitie niet nodig.

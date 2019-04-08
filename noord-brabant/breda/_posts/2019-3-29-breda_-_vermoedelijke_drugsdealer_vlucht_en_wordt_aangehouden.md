@@ -1,0 +1,11 @@
+---
+title: "Breda - Vermoedelijke drugsdealer vlucht en wordt aangehouden"
+permalink: "2019-3-29-breda_-_vermoedelijke_drugsdealer_vlucht_en_wordt_aangehouden"
+date: Fri, 29 Mar 2019 11:04:00 GMT
+categories: 
+- noord-brabant 
+- breda 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/29/11-vermoedelijke-drugsdealer-vlucht-en-wordt-aangehouden.html"
+---
+
+De politie heeft donderdagavond 28 maart in Breda een 23-jarige man uit die plaats aangehouden op verdenking van drugshandel. Agenten zagen bij de woonboulevard een drugsoverdracht tussen de inzittenden van twee auto’s. Bij het wegrijden kregen beide voertuigen een stopteken, waarop de 23-jarige man er met hoge snelheid vandoor ging en vluchtte. Op een gegeven moment verliet de man zijn auto en ging rennend verder. In een tuin bij een woonhuis is hij aangehouden. Bij de man zijn drugs en een geldbedrag aangetroffen. Dit is in beslag genomen evenals zijn auto en rijbewijs. De man zit vast voor verhoor.

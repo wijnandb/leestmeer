@@ -1,0 +1,14 @@
+---
+title: "Doesburg - Dode in woning geen misdrijf"
+permalink: "2017-12-10-doesburg_-_dode_in_woning_geen_misdrijf"
+date: Sun, 10 Dec 2017 09:09:00 GMT
+categories: 
+- gelderland 
+- doesburg 
+externe_link: "https://www.politie.nl/nieuws/2017/december/10/02-doesburg-dode-in-woning-geen-misdrijf.html"
+---
+
+Zaterdagavond rond 20.30 uur gingen politie en ambulancedienst na een melding naar een woning aan de Geerhuizen in Doesburg. Daar troffen zij een overleden persoon aan. Er werd politieonderzoek gestart naar de doodsoorzaak. Hiertoe kwamen onder meer forensische opsporing en recherche ter plaatse. Uit onderzoek is niet gebleken van een strafbaar feit. Er is geen sprake van een misdrijf.
+
+
+2017566556 ^MJV

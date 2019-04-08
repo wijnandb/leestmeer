@@ -1,0 +1,11 @@
+---
+title: "Voorschoten - Politie houdt twee verdachten voor poging woninginbraak aan"
+permalink: "2018-1-6-voorschoten_-_politie_houdt_twee_verdachten_voor_poging_woninginbraak_aan"
+date: Sat, 06 Jan 2018 10:11:00 GMT
+categories: 
+- zuid-holland 
+- voorschoten___ 
+externe_link: "https://www.politie.nl/nieuws/2018/januari/6/06-voorschoten-politie-houdt-twee-verdachten-voor-poging-woninginbraak-aan.html"
+---
+
+Een getuige meldde op zaterdag 6 januari omstreeks 01:15 uur het vermoeden van een woninginbraak aan de Van Hamellaan en gaf daarbij een duidelijke omschrijving van twee verdachten op. Vlak na de melding hielden agenten in de omgeving twee verdachten, een 19 en 20-jarige man uit Den Haag, aan. De politie onderzoekt de poging woninginbraak.

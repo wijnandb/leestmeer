@@ -1,0 +1,13 @@
+---
+title: "Westervoort, Zutphen, Arnhem, Apeldoorn, Wageningen, Lobith - Zaken in Bureau GLD van 14 maart"
+permalink: "2018-3-12-westervoort_zutphen_arnhem_apeldoorn_wageningen_lobith_-_zaken_in_bureau_gld_van_14_maart"
+date: Mon, 12 Mar 2018 09:37:00 GMT
+categories: 
+- gelderland 
+- rijnwaarden___ 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/12/02-zaken-in-bureau-gld-van-14-maart.html"
+---
+
+Deze week in Bureau GLD weer zaken met goede camerabeelden. Bureau GLD wordt elke woensdagavond vanaf 17.20 uur (direct na het nieuws) elk uur uitgezonden op Omroep Gelderland en zal daarna elk uur worden herhaald.
+<HR>
+Naderhand worden de zaken ook geplaatst onder 'Gezocht & Vermist' op www.politie.nl. Bij de items zullen de filmpjes van de uitzendingen te zien zijn, evenals foto's van verdachte personen of aangetroffen goederen.

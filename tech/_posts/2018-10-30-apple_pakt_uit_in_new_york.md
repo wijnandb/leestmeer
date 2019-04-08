@@ -1,0 +1,10 @@
+---
+title: "Apple pakt uit in New York"
+permalink: "2018-10-30-apple_pakt_uit_in_new_york"
+date: Tue, 30 Oct 2018 17:51:47 +0100
+category: tech
+externe_link: "https://www.telegraaf.nl/financieel/2742946/apple-pakt-uit-in-new-york"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1267c2dc-dc75-11e8-8b03-5da7a51f3414.JPG"
+---
+
+<p class="intro">Een nieuwe Mac Mini, nieuwe iPad Pro’s en de langverwachte nieuwe MacBook Air. Apple pakt vlak voor de feestdagen flink uit in New York.</p> <p>Philip Schiller kondigde in het Howard Gilman Opera House in New York de nieuwe paradepaardjes aan: ,,De nieuwe IPad Pro is een enorme stap voorwaarts in mobiel werken met een krachtige performance die alle vorige modellen overstijgt. De tablet is dunner en heeft voldoende batterijduur om er een dag mee te werken.”</p><p>De nieuwe tablets zijn verkrijgbaar in twee maten (11 en 12,9 inch) en hebben een Liquid Retina Display. Ze hebben geen homeknop meer.</p><p>Net als de recente iPhones zijn ze te ontgrendelen met Face ID. De Apple-pencil klikt magnetisch tegen de zijkant en laadt dan gelijk op.</p><p>De lightning-poort is net als de homeknop verdwenen en vervangen door een USB-C connector. De nieuwe iPads draaien op iOS 12.</p><p>MacBook Air</p><p>De MacBook Air, een van de meest geliefde notebooks vanwege het gewicht, de vormgeving en de levensduur is ook vernieuwd.</p><p>De nieuw Air heeft een 13 inch Retina Display, Touch ID (vingerafdruksensor in het toetsenbord), een batterij die de hele dag meegaat en elke toets is met een eigen LED verlicht. Vanzelfsprekend ontbreekt het Force Touch trackpad niet.</p><p>De nieuwe MacBook Air heeft tot 16 GB werkgeheugen en tot 1,5 terabyte opslag (ssd). De laptop heeft twee usb-c-poorten maar ook een koptelefooningang. De Air is gemaakt van 100 procent gerecycled aluminium. De goedkoopste variant (8GB RAM en 128 GB opslag) gaat in Nederland 1349 euro kosten.</p><p>Apple lanceerde ook een nieuwe Mac Mini. Het goedkoopste model kost bij ons 899 euro en heeft 8 GB RAM en 128 GB opslagcapaciteit.</p>

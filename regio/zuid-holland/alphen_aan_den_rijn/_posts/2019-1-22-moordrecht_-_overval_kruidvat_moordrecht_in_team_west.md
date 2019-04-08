@@ -1,0 +1,11 @@
+---
+title: "Moordrecht - Overval Kruidvat Moordrecht in Team West"
+permalink: "2019-1-22-moordrecht_-_overval_kruidvat_moordrecht_in_team_west"
+date: Tue, 22 Jan 2019 13:57:00 GMT
+categories: 
+- zuid-holland 
+- alphen_aan_den_rijn 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/22/06-overval-kruidvat-moordrecht-in-team-west.html"
+---
+
+Op vrijdagavond 14 december 2018 overvallen twee mannen de drogist aan de Kerklaan in Moordrecht. Een van de twee bedreigt het personeel met een mes en eist geld. De daders vluchten met een grote hoeveel rolletjes muntgeld uit de kassa’s en het kantoor.

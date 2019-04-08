@@ -1,0 +1,11 @@
+---
+title: "Spanbroek - Getuigenoproep woningoverval"
+permalink: "2017-2-12-spanbroek_-_getuigenoproep_woningoverval"
+date: Sun, 12 Feb 2017 09:04:00 GMT
+categories: 
+- noord-holland 
+- opmeer___ 
+externe_link: "https://www.politie.nl/nieuws/2017/februari/12/04-getuigenoproep-woningoverval.html"
+---
+
+Zaterdagavond vond er een overval plaats op een woning aan de Fazant. De bewoners deden rond 22.25 uur de voordeur open nadat er was aangebeld. Twee mannen drongen de woning binnen. Een derde man bleef buiten staan.

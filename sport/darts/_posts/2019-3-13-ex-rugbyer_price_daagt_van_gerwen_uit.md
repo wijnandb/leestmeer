@@ -1,0 +1,16 @@
+---
+title: "Ex-rugbyer Price daagt Van Gerwen uit"
+permalink: "2019-3-13-ex-rugbyer_price_daagt_van_gerwen_uit"
+date: Wed, 13 Mar 2019 13:19:06 +0100
+categories: 
+- sport 
+- darts 
+externe_link: "https://www.telegraaf.nl/sport/3284796/ex-rugbyer-price-daagt-van-gerwen-uit"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7735cc66-458b-11e9-bd5f-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Gerwyn Price is overtuigd van zijn eigen kwaliteiten en is er heilig van overtuigd dat hij Michael van Gerwen tegenwoordig kan verslaan. Te beginnen donderdagavond met de clash in Nottingham tijdens de zesde speelronde van de Premier League Darts.</p> <p>„Natuurlijk is Michael de nummer één van de wereld en de regerend wereldkampioen, maar ik weet dat ik goed tegenstand kan bieden en ik ben vol vertrouwen dat ik hem kan verslaan”, stelt Price in aanloop naar de ontmoeting met Van Gerwen. De voormalig rugbyer is bezig aan een goed seizoen en won - weliswaar bij afwezigheid van Van Gerwen - onlangs twee events tijdens de Players Championship. Daar maakte hij wel indruk door van de veertien partijen liefst tienmaal een gemiddelde van hoger dan 100 punten per drie pijlen te gooien, met een uitschieter van ruim 112.</p><p>In het verleden twijfelde Price nog of hij Van Gerwen wel zou kunnen kloppen. „Elke keer dacht ik; kan ik het? Maar nu zit ik in een positie dat ik weet dat ik het kan. Ik ben niet bang voor hem of voor iemand anders. Wanneer ik mijn eigen spel speel dan kan ik hem gewoon verslaan”, herhaalt Price tegenover PDC.</p><p>Natuurlijk is Price zich bewust van het feit dat Van Gerwen altijd een behoorlijk niveau aantikt. „Maar wanneer hij zijn ’A-game’ behaalt, dan moet ik mijn ’A+ game’ laten zien.” Overigens verkeert Mighty Mike de laatste weken niet in zijn beste vorm. Zo raakte de 29-jarige Brabander vorige week zijn koppositie kwijt. Zijn eerdere nederlaag tegen James Wade werd namelijk opgevolgd door een onnodige gelijkspel tegen John Henderson. Daardoor delen nu vier man de koppositie in de Premier League. Daarvan heeft Van Gerwen het slechtste legsaldo. Price deed het net iets beter en staat derde. Wade is de echte nummer één van de ranglijst en Rob Cross staat als tweede genoteerd.</p><p>Price won vorig jaar zijn eerste majortitel. Dat deed de 33-jarige darter uit Wales in november door in de eindstrijd van de Grand Slam of Darts door niemand minder dan tweevoudig wereldkampioen Gary Anderson te verslaan. In die partij ontstond een akkefietje met zijn Schotse opponent en maakte Price zich niet populair. Dat incident achtervolgt hem nog altijd. Bijna bij elk optreden tijdens de Premier League wordt Price massaal uitgesloten. Dat deert hem nauwelijks, gezien zijn prestaties.</p><p>Onlangs was Price ook dicht bij de eindzege in de UK Open, maar liet hij het liggen in de halve finales tegen Nathan Aspinall. „Ik was toen enorm teleurgesteld. Maar op het moment ben ik waarschijnlijk de beste speler van de wereld, als je het tenminste over vorm hebt. Dat kan echter ook binnen 24 uur of zelfs binnen twee minuten veranderen.”</p><p>Programma 6e speelronde Premier League</p><p>Nathan Aspinall - Michael Smith
+James Wade - Mensur Suljovic
+Rob Cross - Raymond van Barneveld
+Gerwyn Price - Michael van Gerwen
+Peter Wright - Daryl Gurney</p>
