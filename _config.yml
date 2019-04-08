@@ -6,5 +6,7 @@ description:
   Het laatste nieuws, zowel landelijk als lokaal. Sport, politiek, binnenlands nieuws, buitenlands nieuws, opmerkelijke berichten, showbizz, tech, je vindt het allemaal hier
 show_excerpts: true # set to true to show excerpts on the homepage
 
+baseurl = "https://cwarrel.github.io/nieuws/"
+
 plugins:
   - jekyll-seo-tag
