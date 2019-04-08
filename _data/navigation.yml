@@ -1,0 +1,30 @@
+- title: Home
+  url: /
+
+- title: Nieuws
+  url: /nieuws/
+  sublinks:
+    - title: Binnenland
+      url: /nieuws/binnenland/
+    - title: Buitenland
+      url: /nieuws/buitenland/
+    - title: Tech
+      url: /nieuws/tech/
+    - title: Overig
+      url: /nieuws/overig/      
+      
+- title: Sport
+  url: /sport/
+  sublinks:
+    - title: Voetbal
+      url: /sport/voetbal/
+    - title: Wielrennen
+      url: /sport/wielrennen/
+    - title: Tennis
+      url: /sport/tennis/
+    - title: Autosport
+      url: /sport/autosport/
+    - title: Darts
+      url: /sport/tennis/
+    - title: Schaatsen
+      url: /sport/autosport/      
