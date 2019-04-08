@@ -1,1 +1,10 @@
 theme: minima
+
+title: Nieuws.link
+email: c.warrel@nieuws.link
+description: 
+  Het laatste nieuws, zowel landelijk als lokaal. Sport, politiek, binnelands nieuws, buiten;ands nieuws, opmerkelijke berichten, showbizz, tech, je vindt het allemaal hier
+show_excerpts: true # set to true to show excerpts on the homepage
+
+plugins:
+  - jekyll-seo-tag
