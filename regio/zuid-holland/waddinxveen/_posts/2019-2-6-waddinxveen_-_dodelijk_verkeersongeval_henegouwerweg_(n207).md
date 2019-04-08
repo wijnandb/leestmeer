@@ -1,0 +1,11 @@
+---
+title: "Waddinxveen - Dodelijk verkeersongeval Henegouwerweg (N207)"
+permalink: "2019-2-6-waddinxveen_-_dodelijk_verkeersongeval_henegouwerweg_(n207)"
+date: Wed, 06 Feb 2019 15:34:00 GMT
+categories: 
+- zuid-holland 
+- waddinxveen 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/6/06-waddinxveen---dodelijk-verkeersongeval-henegouwerweg-n207.html"
+---
+
+Woensdag 6 februari omstreeks 10.00 uur vond op de Henegouwerweg (N207) een dodelijk verkeersongeval plaats. Een 62-jarige automobilist uit Reeuwijk kwam daarbij om het leven.

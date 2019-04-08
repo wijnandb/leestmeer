@@ -1,7 +1,7 @@
 ---
 title: "Deze futuristische garage parkeert jouw auto zelf"
 permalink: "2019-4-8-deze_futuristische_garage_parkeert_jouw_auto_zelf"
-date: Mon, 08 Apr 2019 15:01:40 GMT
+date: Mon, 08 Apr 2019 15:01:00 GMT
 categories: 
 - zuid-holland 
 - westland 
