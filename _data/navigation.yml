@@ -27,4 +27,42 @@
     - title: Darts
       url: /sport/tennis/
     - title: Schaatsen
-      url: /sport/autosport/      
+      url: /sport/autosport/
+      
+- title: Regio
+  url: /regio/
+  sublinks:
+    - title: Drenthe
+      url: /regio/drenthe/    
+    - title: Flevoland
+      url: /regio/
+    - title: Friesland
+      url: /regio/
+    - title: Gelderland
+      url: /regio/
+    - title: Groningen
+      url: /regio/
+    - title: Limburg
+      url: /regio/
+    - title: Noord-Brabant
+      url: /regio/
+    - title: Noord-Holland
+      url: /regio/
+    - title: Utrecht
+      url: /regio/
+    - title: Zeeland
+      url: /regio/
+    - title: Zuid-Holland
+      url: /regio/
+
+- title: +Extra
+  url: /extra/
+  sublinks:
+    - title: Entertainment
+      url: /extra/entertainment/
+    - title: Financieel
+      url: /extra/financieel/
+    - title: Cultuur
+      url: /extra/cultuur/
+    - title: Overig
+      url: /extra/overig/
