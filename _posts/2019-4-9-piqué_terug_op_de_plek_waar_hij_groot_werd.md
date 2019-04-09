@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Piqué terug op de plek waar hij groot werd"
+date: Tue, 09 Apr 2019 19:27:23 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3420005/pique-terug-op-de-plek-waar-hij-groot-werd"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bdb73370-5aec-11e9-9405-0218eaf05005.jpg"
+---
+
+<p class="intro">Gerard Piqué weet als geen ander wat FC Barcelona woensdag te wachten staat in de Champions League. De Spaanse topclub treft Manchester United op Old Trafford, voor het eerste duel in de kwartfinales. „De supporters hier zijn fantastisch. Zij steunen hun ploeg altijd, ongeacht hoe het gaat. In Spanje kunnen we nog heel wat leren van de Engelse voetbalcultuur”, zei Piqué een dag voor de wedstrijd.</p> <p>Voor de Catalaan heeft het duel een speciaal tintje. Piqué verhuisde in 2004 van Barcelona naar Manchester United, waar hij zijn eerste stappen als profvoetballer zette. Na vier jaar in Engeland keerde hij terug naar Catalonië. „Dit wordt dan ook een speciale wedstrijd voor mij. Ik kwam in Manchester binnen als jongen en ging weg als een man. Ik heb veel geleerd hier, niet alleen op het veld, maar ook daarbuiten. Ik heb hier van mijn 17e tot mijn 21e gezeten en goede en slechte momenten beleefd. Ik woonde voor het eerst op mezelf en ging als een totaal ander persoon terug naar Barcelona.”</p><p>Piqué koerst met Barça af op titelprolongatie in La Liga en de Catalanen staan ook in de finale van het Spaanse bekertoernooi. Trainer Ernesto Valverde en zijn manschappen willen echter vooral dolgraag succes in de Champions League, waarin ze de voorbije jaren werden overvleugeld door aartsrivaal Real Madrid.</p><p>„Zij hebben deze beker de afgelopen jaren vaak gewonnen, maar wij daarvoor ook”, benadrukt Piqué. „We mogen trots zijn op wat we hebben gepresteerd. Maar we willen meer. We weten wat er vorig jaar tegen AS Roma is gebeurd, daar hebben we van geleerd. Zoiets mag ons niet meer gebeuren.” Barcelona won toen voor eigen publiek met 4-1, maar strandde alsnog in de kwartfinale door de return in Rome met 3-0 te verliezen.</p>

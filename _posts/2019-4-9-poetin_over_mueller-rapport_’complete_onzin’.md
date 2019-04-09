@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Poetin over Mueller-rapport: ’Complete onzin’"
+date: Tue, 09 Apr 2019 19:09:31 +0200
+category: algemeen
+externe_link: "https://www.telegraaf.nl/nieuws/3419904/poetin-over-mueller-rapport-complete-onzin"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6dc3a27e-5aea-11e9-b673-0255c322e81b.jpg"
+---
+
+<p class="intro">Het resultaat van het Amerikaanse onderzoek naar vermeende Russische inmenging in de campagne voor de presidentsverkiezing van Donald Trump in 2016 was vanaf het begin al duidelijk. „We hebben meteen gezegd dat de commissie-Mueller niets zal vinden. Niemand wist dit beter dan wij”, zei de Russische president Vladimir Poetin dinsdag in Sint-Petersburg.</p> <p>„Het was complete onzin”, vervolgde Poetin. Het was altijd al duidelijk dat Rusland zich niet had bemoeid met de verkiezingen, benadrukte hij. Poetin: „De beschuldigingen waren uitsluitend een deel van de binnenlandse strijd in de VS. Een weerspiegeling van het onvermogen van de Democraten om de uitslag van de verkiezingen te accepteren.” Het was voor het eerst dat Poetin commentaar gaf op de bevindingen van de Amerikaanse speciale aanklager Robert Mueller, die twee jaar lang onderzoek deed naar het reilen en zeilen van Trump en een mogelijke samenwerking met de Russen.</p><p>Mueller was in maart klaar met zijn onderzoek en overhandigde het vertrouwelijke rapport aan minister van Justitie William Bar. Tot dusverre is slechts een samenvatting van vier pagina’s naar buiten gekomen. Mueller komt daarin tot de conclusie dat er geen bewijs was voor een geheime verstandhouding tussen de verkiezingscampagne van Trump en vertegenwoordigers van Rusland.</p><p>Relatie</p><p>Poetin: „Het was ons van tevoren duidelijk dat het zou eindigen als ’de berg die een muis baart’, zoals ze zeggen.” Hij benadrukte dat de verzwakte Russisch-Amerikaanse betrekkingen zouden kunnen verbeteren na de vrijpleiting van de Amerikaanse president Trump. „We hopen dat de situatie nu weer normaal wordt.”</p>

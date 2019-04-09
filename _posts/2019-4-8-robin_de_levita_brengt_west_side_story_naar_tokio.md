@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Robin de Levita brengt West Side Story naar Tokio"
+date: Mon, 08 Apr 2019 20:39:25 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3413793/robin-de-levita-brengt-west-side-story-naar-tokio"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a2950096-5a2d-11e9-ab99-0218eaf05005.jpg"
+---
+
+<p class="intro">De Nederlandse theaterproducent Robin de Levita gaat een nieuwe versie van de West Side Story opvoeren in een nieuw theater in Tokio. De voorstelling wordt gespeeld in een ’Scene Around’-theater met een draaischijf, zoals De Levita eerder introduceerde in de musical Soldaat van Oranje.</p> <p>Image Nation, het bedrijf van De Levita, heeft de voorstelling ontwikkeld samen met een Amerikaans team. De regie is in handen van David Saint, die ook als adviseur meewerkt aan de nieuwe filmversie die Steven Spielberg van de West Side Story gaat maken.</p><p>„West Side Story is zonder enige twijfel een van de grootste meesterwerken die de musicalwereld ooit heeft voortgebracht”, stelt De Levita. „Het verhaal leent zich uitstekend voor een nieuwe versie op het ’Scene Around’-podium.” Het stuk zal eerst drie maanden in het Engels te zien zijn en daarna verdergaan in het Japans.</p><p>Meerdere sets</p><p>Net als bij Soldaat van Oranje in Katwijk zal het decor meerdere sets bevatten waar het publiek tijdens de voorstelling langs draait. In Londen gaat volgend jaar een Engelstalige versie in première van de musical die in Nederland al onophoudelijk volle zalen trekt.</p><p>West Side Story is een eigentijdse bewerking van het verhaal van Romeo en Julia. De musical vertelt over twee jonge mensen uit rivaliserende bendes, Tony en Maria, die verliefd op elkaar worden.</p><p>Het stuk, dat in 1957 voor het eerst werd opgevoerd op Broadway, ontving destijds zes Tony-nominaties. De film die in 1961 volgde en waarin Richard Beymer en Natalie Wood de hoofdrollen speelden, won tien Oscars. Regisseur Ivo van Hove gaat komend seizoen in New York een nieuwe versie van het stuk maken.</p>

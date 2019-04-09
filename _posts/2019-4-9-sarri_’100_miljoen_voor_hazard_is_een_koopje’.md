@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Sarri: ’100 miljoen voor Hazard is een koopje’"
+date: Tue, 09 Apr 2019 08:45:03 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3414702/sarri-100-miljoen-voor-hazard-is-een-koopje"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/55af5b86-5aab-11e9-8a46-02c309bc01c1.jpg"
+---
+
+<p class="intro">Coach Maurizio Sarri van Chelsea vreest dat sterspeler Eden Hazard de Londens club zal verlaten voor Real Madrid.</p> <p>Hij tekende wel aan dat 100 miljoen pond (omgerekend 116 miljoen euro) een ’koopje’ is. „In de huidige markt is 100 miljoen pond veel te goedkoop voor een speler als Eden, maar we kunnen hem denk ik niet behouden. Als Eden een nieuwe ervaring wil, zullen we zijn beslissing moeten respecteren”, zei Sarri op Sky Sports na de 2-0-zege maandagavond op West Ham United. Hazard maakte beide treffers.</p><p>Real Madrid</p><p>Het contract van de Belgische international bij Chelsea loopt tot de zomer van 2020, maar Real Madrid zou volgens Spaanse media 100 miljoen pond willen betalen. Sportkrant Marca wist al te berichten dat club en speler bijna akkoord zijn. Het is geen geheim dat Hazard graag wil voetballen onder zijn idool Zinédine Zidane, de Fransman die onlangs terugkeerde als coach van de Koninklijke.</p><p>„Ik zal alles doen wat in mijn macht ligt hem te behouden voor Chelsea. Ik zal hem zeggen dat de club wil verbeteren en een van de beste teams van Engeland en daarmee ook van Europa wil worden. Maar ik denk niet dat ik hem kan overhalen”, zei Sarri.</p><p>Hazard</p><p>Hazard hoorde tijdens het duel met West Ham de fans van de tegenpartij ’Hij gaat naar Madrid’ roepen. De Belg weigerde voor de camera van Sky Sports te bevestigen dat hij de Londense club verlaat. „Mijn toekomst wordt aan het einde van het seizoen bepaald. Tot die tijd zet ik me volledig in voor Chelsea. Ik wil graag in de top vier van de Premier League eindigen en de Europa League winnen. Dat zijn mooie uitdagingen en we moeten profiteren van ons momentum; we hebben nu drie keer op rij gewonnen.”</p>

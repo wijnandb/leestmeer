@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Regeringstroepen heroveren vliegveld Tripoli"
+date: Fri, 05 Apr 2019 22:42:52 +0200
+category: buitenland
+externe_link: "https://www.telegraaf.nl/nieuws/3403358/regeringstroepen-heroveren-vliegveld-tripoli"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0f8eebac-57eb-11e9-b7ab-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Strijdkrachten die trouw zijn aan de internationaal erkende regering in Tripoli hebben vrijdagavond de controle over het vliegveld van de Libische hoofdstad teruggekregen. Dat heeft de minister van Binnenlandse Zaken Fathi Ali Bashagha gezegd op tv.</p> <p>Hij vertelde ook dat er nog gevochten wordt in de regio Qasr bin Ghashir, ten oosten van de luchthaven. Tegenstander Khalifa Haftar ontkende naderhand dat het vliegveld is heroverd.</p><p>De machtige krijgsheer Haftar gaf zijn militie, die hij betitelt als het Libische Nationale Leger, donderdag opdracht op te rukken naar Tripoli. VN-topman António Guterres vloog daarop naar Libië om te proberen escalatie van het opgelaaide conflict te voorkomen. Deze maand zou er een congres worden gehouden om te bezien of verkiezingen mogelijk zijn in het verdeelde Noord-Afrikaanse land waar chaos heerst sinds de dood van Muammar Kaddafi in 2011.</p><p>’Geen militaire oplossing’</p><p>De ministers van Buitenlandse Zaken van de G7, die bijeen waren in de Bretonse stad Dinard gaven een verklaring uit waarin ze de militaire acties in Libië streng veroordeelden. Ze maanden commandant Haftar impliciet de opmars naar Tripoli te staken. „We zijn er heilig van overtuigd dat een militaire oplossing van de conflictsituatie in Libië niet bestaat”, aldus de afgevaardigden van Frankrijk, Groot-Brittannië, Duitsland, VS, Italië, Japan en Canada.</p><p>„We keuren elke militaire actie in Libië ten strengste af”, vervolgden ze. „Iedere Libische speler of agerende groepering die de burgertwist verder aanwakkert, bezorgt onschuldige mensen leed en staat de vrede in de weg die Libië verdient.”</p>

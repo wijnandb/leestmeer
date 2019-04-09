@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Nek-aan-nekrace bij verkiezingen Israël"
+date: Tue, 09 Apr 2019 21:37:17 +0200
+category: algemeen
+externe_link: "https://www.telegraaf.nl/nieuws/3420652/nek-aan-nekrace-bij-verkiezingen-israel"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4eaec6da-5b02-11e9-a131-0255c322e81b.jpg"
+---
+
+<p class="intro">Bij de parlementsverkiezingen in Israël zijn de partijen van de conservatieve premier Benjamin Netanyahu en zijn uitdager Benny Gantz verwikkeld in een nek-aan-nek-race, blijkt uit de eerste exitpolls dinsdag.</p> <p>Volg de tweets van onze correspondent onderaan dit artikel. </p><p>De Likud-partij van Netanyahu komt volgens tv-prognoses op 33 tot 36 zetels, terwijl de centrumalliantie Blauw en Wit van Gantz kan rekenen op 36 tot 37 zetels in het 120 koppige parlement. De verschillende exitpolls geven echter allemaal iets afwijkende prognoses. Netanyahu lijkt volgens deze prognoses op koers om een nieuwe Israëlische regering te leiden en de langst zittende premier van Israël te worden.</p><p>Zowel Netanyahu als zijn rivaal Gantz claimde vlak na de eerste exitpolls de overwinning. Netanyahu voor een „duidelijke” verkiezingswinst voor het rechtse blok geleid door zijn Likud. Benny Gantz claimde de winst nadat twee van de drie exitpolls zijn middenpartij de meeste parlementaire zetels gaven. „We hebben gewonnen! Het Israëlische publiek heeft zijn zegje gedaan!”, zei Gantz’ partij in een verklaring.</p><p>Rechts blok</p><p>Twee andere exitpolls voorspelden echter een parlementaire meerderheid voor het door Netanyahu geleide blok van rechtse partijen. Netanyahu lijkt daarom in een sterkere positie om een regering te vormen met behulp van rechtse fracties. Israël kent een zeer versplinterd politiek landschap, dus er is veel samenwerking tussen partijen noodzakelijk om tot een regering te komen.</p><p>Correspondent Ralph Dekkers bericht live vanuit Tel Aviv over de Israëlische verkiezingen.</p>

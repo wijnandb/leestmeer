@@ -1,0 +1,12 @@
+---
+layout: post
+title: "’Barney’ verwacht lastig karwei in Berlijn"
+date: Thu, 21 Mar 2019 07:23:42 +0100
+categories: 
+- sport 
+- darts 
+externe_link: "https://www.telegraaf.nl/sport/3326446/barney-verwacht-lastig-karwei-in-berlijn"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/33dfe1d8-4c0a-11e9-8b93-0217670beecd.jpg"
+---
+
+<p class="intro">Raymond van Barneveld moet donderdagavond flink aan de bak om kans op lijfsbehoud in de Premier League te houden.</p> <p>De Haagse darter neemt het in Berlijn op tegen thuisfavoriet Max Hopp en moet winnen, anders komt hij flink in de problemen. Barney staat na zes speelronden stijf onderaan. Hij heeft een achterstand van drie punten op nummer acht Daryl Gurney: 5 om 2.</p><p>Van de negen deelnemers valt er na de negende ronde, die volgende week donderdag tijdens de tweede avond in Rotterdam Ahoy plaatsvindt, één af.</p><p>Van Barneveld put vertrouwen uit het feit dat hij afgelopen weekeinde tijdens het achtste event van de Players Championship de finale haalde. Daarin ging de Nederlander wel onderuit, hij verloor van Adrian Lewis.</p><p>„Maar zondag heeft voor extra geloof gezorgd, geloof dat alles mogelijk is”, aldus de 51-jarige vijfvoudig wereldkampioen. „Ik moet blijven knokken en proberen mijn seizoen te redden. Al weet ik dat het moeilijk wordt tegen Max, want hij is een fantastische speler en het publiek zal als een man achter hem staan.”</p><p>Van Barneveld is door zijn vroege uitschakeling op het afgelopen WK flink gekelderd op de Order of Merit en moet nu vloertoernooien winnen om zich te plaatsen voor de grote toernooien. Winnen lukt vooralsnog niet, al was hij afgelopen weekeinde met een finaleplek dus wel dichtbij. Mede daardoor keerde hij terug in de top-32, een plek die aan het einde van het jaar automatische plaatsing voor het WK betekent.</p><p>Hopp</p><p>Hopp kijkt uit naar de partij tegen Van Barneveld. De Duitser is één van de wisselspelers, die per week rouleren en op die manier het gat opvullen dat de aan zijn rug geblesseerde Gary Anderson heeft achtergelaten.</p><p>„Ik ben zo opgewonden om in mijn eigen land voor mijn eigen fans te spelen tegen de legendarische Raymond van Barneveld”, aldus de 22-jarige Hopp.</p><p>Van Gerwen</p><p>Michael van Gerwen gaat momenteel, na zes speelronden, aan de leiding in de Premier League. De regerend kampioen deelt de koppositie met Rob Cross. Beiden hebben negen punten en een positief legsaldo van +12.</p>

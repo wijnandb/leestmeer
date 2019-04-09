@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Duncan wil concurrenten beter leren kennen"
+date: Sat, 06 Apr 2019 19:47:00 +0200
+categories: 
+- entertainment 
+- sterren 
+externe_link: "https://www.telegraaf.nl/entertainment/3405085/duncan-wil-concurrenten-beter-leren-kennen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b258c2ac-5892-11e9-b472-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Duncan Laurence maakt zich niet druk om zijn favorietenrol op het Eurovisiesongfestival. De zanger voelt zich eigenlijk heel relaxed, zelfs vlak voor zijn eerste echte optreden zaterdagavond tijdens Eurovision in Concert in Amsterdam.</p> <p>Los van een aantal radio- en televisieoptredens moet Duncan zaterdag voor het eerst aan de bak. In de eerste instantie niet als zanger, maar als gastheer voor de andere 27 songfestivalacts die aanwezig zijn. „Een heel leuke taak”, zegt de zanger voor de camera van het ANP. „Ik mag iedereen verwelkomen en iedereen een handje geven.”</p><p>„Het is gewoon leuk om iedereen te leren kennen en eventjes een praatje te maken”, aldus Duncan, die eigenlijk veel langer met zijn concurrenten had willen babbelen. „Wie weet is er nog tijd vandaag en anders in Tel Aviv.”</p><p>Duncan heeft zin om zijn Arcade voor het eerst te laten horen. De songfestivalfans hebben hem in ieder geval al met open armen ontvangen. „Het voelt heel warm en open en heel relaxed eigenlijk tot nu toe. Heel veel mensen willen natuurlijk wel even met je op de foto en even kletsen. Het is een enthousiast publiek maar heel warm, dat voel je.”</p><p>Relaxed</p><p>Met de zenuwen valt het tot nu toe best mee. „Ik voel me heel relaxed”, gaat Duncan verder. „Maar ik denk dat het vanavond misschien nog komt vlak voor ik op moet en denk: ’oh shit, ik moet zo in de AFAS voor heel veel mensen optreden’. Maar dat zien we dan wel, het komt allemaal goed.”</p><p>Over de komende weken hoeft Duncan zich ook geen zorgen te maken. De resterende vier weken naar het songfestival zitten helemaal vol. „Het echte avontuur gaat nog beginnen. Maar er komen nog heel veel leuke dingen ervoor en heel veel voorbereidingen nog. Mijn agenda loopt over, maar ik geniet er zo van. Het gaat zo snel, straks zitten we er gewoon al. Die vier weken vliegen om, dat weet ik zeker.”</p><p>Duncan komt op 16 mei uit in de tweede halve finale. Als hij genoeg punten haalt, staat hij twee dagen later in de grote finale.</p>

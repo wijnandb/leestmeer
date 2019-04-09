@@ -1,0 +1,10 @@
+---
+layout: post
+title: "’Niet slecht om op andere ondergrond te spelen’"
+date: Tue, 09 Apr 2019 09:00:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3414549/niet-slecht-om-op-andere-ondergrond-te-spelen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/977b8814-5a9c-11e9-87a7-0217670beecd.jpg"
+---
+
+<p class="intro">Kunstgras is niet de favoriete ondergrond van elke voetballer. Volgens Bert van Marwijk kan het zelfs ten koste gaan van de techniek van jonge spelers.</p> <p>In de tijd dat Van Marwijk zelf nog speler was waren er geen kunstgrasvelden. Een voetbalveld leek soms zelfs meer op een zandvlakte, vol met hobbels en kuilen. „Je techniek was daardoor vooral functioneel. Je moest slim zijn om uit de duels te blijven. Voor je ontwikkeling was het niet zo slecht om op een andere ondergrond te spelen. Op de straat leerde je niet te vallen, de stoepranden of muren werden een middel om via een kaats een tegenstander uit te spelen. Je moest improviseren”, zegt oud-bondscoach Van Marwijk in zijn column in De Telegraaf van dinsdag.</p><p>Gediplomeerde trainer</p><p>„Dat is ook de reden dat die gediplomeerde coach niet al die trainingen en wedstrijden hoeft te begeleiden. Op straat hadden we zelden gelijke aantallen of spelers met gelijke kwaliteiten. Omdat er geen begeleiding was, leerde je zelf de dingen op te lossen. Tegenwoordig zie ik alle spelers naar de kant kijken wanneer ze met een man minder verder moeten of wanneer ze een situatie niet herkennen. Logisch, vanaf de jongste jeugd wordt alles voorgeschreven door die gediplomeerde trainer. Daar kweek je geen zelfstandige profvoetballers of persoonlijkheden mee. Terwijl we daar wel altijd naar zoeken.Daarom mag die trainer best wel eens in de kleedkamer zeggen: ’zoek het zelf maar uit’. Dan moeten ze zelf de partijen verdelen en regels maken. Daar worden ze alleen maar beter van. Zorgen voor extra drempels om het moeilijker te maken.”</p><p>Lees in Telegraaf Extra de volledige column van Bert van Marwijk.</p>

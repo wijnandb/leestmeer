@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Van Gerwen krijgt er weer een concurrent bij"
+date: Mon, 25 Feb 2019 13:48:38 +0100
+categories: 
+- sport 
+- darts 
+externe_link: "https://www.telegraaf.nl/sport/3203821/van-gerwen-krijgt-er-weer-een-concurrent-bij"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/cf6d43c8-38fc-11e9-b228-f9b6bd754a85.jpg"
+---
+
+<p class="intro">Gary Anderson maakt aankomend weekeinde weer zijn rentree. De 48-jarige Schot stond twee maanden aan de kant met een rugblessure en liet mede daardoor de prestigieuze Premier League Darts aan zich voorbijgaan.</p> <p>Anderson is in Minehead de titelverdediger. Vorig jaar won de tweevoudig wereldkampioen in de finale met 11-7 in legs van de Australiër Cory Cadby. Michael van Gerwen werd destijds in een voortijdig stadium uitgeschakeld door landgenoot Jeffrey de Zwaan. Destijds werd het toernooi zonder publiek afgewerkt. Hevige sneeuwval zorgde voor onveilige situaties, waarop werd besloten om geen toeschouwers toe te laten.</p><p>Anderson is nog altijd de nummer 4 van de wereldranglijst. De Flying Scotsman stond in zijn laatste officiële wedstrijd tegenover Van Gerwen. Dat was eind december tijdens het wereldkampioenschap in Londen. In de halve finales werd Anderson toen met 1-6 in sets volledig kansloos gelaten door de Nederlander. Van Gerwen veroverde later ten koste van Michael Smith zijn derde wereldtitel.</p><p>De top-32 van de wereld stroomt tijdens de UK Open, van vrijdag 1 tot en met zondag 3 maart, in de vierde ronde in. Er vallen vijf Nederlanders onder die beschermde status. Naast tweevoudig winnaar Van Gerwen geldt dat ook voor Raymond van Barneveld, die overigens de UK Open ook tweemaal wist te winnen. De 51-jarige Hagenees is de nummer 29 van de wereld, terwijl Mighty Mike de zogenoemde Order of Merit al ruim vijf jaar aanvoert. Verder mogen ook Jermaine Wattimena (24e), Jelle Klaasen (28e) en Benito van de Pas (31e) de eerste drie ronden overslaan.</p><p>In totaal verschijnen er in Minehead liefst twintig Nederlanders aan de oche. Zo behoren bijvoorbeeld Vincent van der Voort, De Zwaan en Danny Noppert ook tot het deelnemersveld. Laatstgenoemde darter uit Friesland gooide afgelopen weekeinde tijdens de Players Championship in Barnsley nog een negendarter. Desondanks strandde hij wel in de halve finales tegen de Duitser Gabriel Clemens.</p>

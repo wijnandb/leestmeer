@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Van der Poel nuchter na harde crash: ’Hoort bij de koers’"
+date: Thu, 21 Mar 2019 17:16:33 +0100
+categories: 
+- sport 
+- wielrennen 
+externe_link: "https://www.telegraaf.nl/sport/3330342/van-der-poel-nuchter-na-harde-crash-hoort-bij-de-koers"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f6715df0-4bf4-11e9-b1b9-0217670beecd.jpg"
+---
+
+<p class="intro">Elke (Nederlandse) wielerfan zag de bui woensdag wel hangen: smaakmaker Mathieu van der Poel zou de voorjaarsklassiekers gaan missen na een keiharde val in Nokere Koerse. Niets is minder waar, want de Limburger zat donderdagochtend alweer op de fiets.</p> <p>En dat hij weer op zijn stalen ros zit, mag toch een klein wonder heten. „Als je de val terugkijkt, had het erger kunnen zijn. Ik zag ze links vallen en had het gevoel dat ik eraan ontsnapte. Maar op de beelden zie je dat mijn achterwiel wegslaat. En dan rijdt er nog iemand op mij in. Heel pijnlijk was dat. En vloeken uiteraard. Voor ik het wist, lag ik in de ambulance maar ik voelde al vrij snel dat het niet supererg was. In het eerste moment dacht ik wel dat het voorbij was. Die snelheid, vallen op kasseien, dat is niet prettig”, zegt hij tegen Het Nieuwsblad.</p><p>Maar iemand de schuld geven, daar wil de wereldkampioen veldrijden niet aan. „Dit hoort bij koers. Aan de kant laten uitzakken is niet altijd mogelijk, dat besef ik ook wel. Hij wordt onderuit gereden, ik heb de pech dat ik er bij lig. Zo simpel was het.”</p><p>Vlaanderen</p><p>Ondanks de op het oog keiharde val, heeft hij relatief weinig last. „Ik voel me redelijk stijf, het zal nog wel een paar dagen duren voordat het weg is. Maar ik mag zeker niet klagen. Of ik vandaag heb afgezien? Meer van het tempo dan van de ronde. De kasseien viel nog wel mee. Mijn heup zeurde nog wat maar dat komt wel goed. Misschien heb ik er zondag (Denain, red) nog last van maar tegen volgende week ga ik er niet veel meer van merken. Ik ben overal stijf, dat is niet onlogisch.</p><p>Op 6 april vindt de Ronde van Vlaanderen plaats. Hij denkt dat hij ’om de prijzen’ mee kan doen. „Dat moet mogelijk zijn. Zoals voor elke klassieker is plaatsing heel belangrijk. En goede benen. Maar da’s niets nieuws. De man naast mij (Stijn Devolder, red) is dan heel belangrijk. Hij kent de weg vanbuiten en gaat er diep in de finale nog bijzitten.”</p>

@@ -6,9 +6,12 @@ description:
   Het laatste nieuws, zowel landelijk als lokaal. Sport, politiek, binnenlands nieuws, buitenlands nieuws, opmerkelijke berichten, showbizz, tech, je vindt het allemaal hier
 show_excerpts: false # set to true to show excerpts on the homepage
 
-navbar: light          # other option dark
-navbar-bg: light       # other option dark
-navbar-fixed-top: true # if true, also check _sass/bootstrap4-cdn.scss padding top
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "post"
 
 plugins:
   - jekyll-seo-tag

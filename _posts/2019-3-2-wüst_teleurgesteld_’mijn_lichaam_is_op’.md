@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Wüst teleurgesteld: ’Mijn lichaam is op’"
+date: Sat, 02 Mar 2019 23:02:58 +0100
+categories: 
+- sport 
+- schaatsen 
+externe_link: "https://www.telegraaf.nl/sport/3232941/wust-teleurgesteld-mijn-lichaam-is-op"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f08a628c-3d36-11e9-89a3-37e0b7fa7dff.jpg"
+---
+
+<p class="intro">Ireen Wüst en Antoinette de Jong baalden na de eerste schaatsdag bij de WK allround in Calgary van zichzelf.</p> <p>„Mijn lichaam is gewoon op”, verzuchtte Wüst, de nummer vier van het klassement. „Alles ging op rood bij mij, wat ben ik toch een sukkel”, mopperde De Jong na haar tweede tijd op de 3000 meter (3.58,25).</p><p>Somber</p><p>De sombere gemoedstoestand bij de twee Nederlandse toppers stond in schril contract met het stralende humeur bij Martina Sablikova. De 31-jarige Tsjechische verbeterde met een tijd van 3.53,31 het wereldrecord dat sinds 2006 in handen was van de Canadese Cindy Klassen (3.53,34).</p><p>„Een verschil van niets, maar het is perfect”, sprak de nummer twee van het klassement glunderend bij de NOS. „Ik heb er geen woorden voor. Ik had al een paar keer eerder een aanval gedaan op dit wereldrecord, maar ging toen steeds dood in de laatste twee ronden. Nu ook weer, maar nu hield ik net voldoende marge over. Fantastisch.”</p><p>Wüst gaf na haar teleurstellende tijd op de 500 meter (tweede op 1,24 van Miho Takagi) de titelstrijd al min of meer op. „Dat was een waardeloze rit”, bekende ze. „Het was meer rennen dan schaatsen, tot aan de kruising sowieso. Ook op mijn leeftijd maak je kennelijk nog steeds domme fouten. Ik wilde te graag mee met Takagi, maar kon haar niet bijbenen. Daardoor moest ik ook nog inhouden bij de wissel, want een botsing wil je al helemaal niet natuurlijk.”</p><p>Op de 3000 meter reed Wüst de zesde tijd (3.59,79). Ze kijkt zondag op de 1500 meter tegen een marge van liefst 3,54 seconden op Takagi aan. „Ik voel dat de energie een beetje op is. Het is een lang seizoen geweest. Niettemin ga ik op de 1500 meter proberen nog iets moois neer te zetten en dan zien we daarna wel hoe het op de 5000 meter afloopt.”</p><p>Frustratie</p><p>De Jong kon op de 3000 meter de excellerende Sablikova niet goed volgen. „Ik had geen rust in mijn hoofd. Daardoor schaatste ik niet effectief. Kijk, Sablikova reed een harde drie, een vet wereldrecord ook, maar als ik in haar spoor was meegegaan, had ik nu dichter bij Takagi gestaan. Dat is frustrerend.”</p>

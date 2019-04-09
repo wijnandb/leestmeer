@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Hoe een poliovirus ontsnapte uit een lab in Bilthoven"
+date: Fri, 05 Apr 2019 09:50:00 GMT
+category: wetenschap
+externe_link: "https://www.volkskrant.nl/nieuws-achtergrond/hoe-een-poliovirus-ontsnapte-uit-een-lab-in-bilthoven~bd924f32/"
+---
+
+Daar lag een liter water vol poliovirus op de vloer bij vaccinproducent Bbio. Al snel bleek een medewerker besmet. Reconstructie van een opmerkelijk ongeval, en de lessen die er twee jaar later uit zijn geleerd.

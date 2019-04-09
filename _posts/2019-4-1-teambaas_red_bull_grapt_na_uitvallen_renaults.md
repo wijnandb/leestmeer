@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Teambaas Red Bull grapt na uitvallen Renaults"
+date: Mon, 01 Apr 2019 18:51:28 +0200
+categories: 
+- sport 
+- autosport 
+externe_link: "https://www.telegraaf.nl/sport/3378497/teambaas-red-bull-grapt-na-uitvallen-renaults"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6c0b2042-54a0-11e9-9b5b-02c309bc01c1.jpg"
+---
+
+<p class="intro">Red Bull-teambaas Christian Horner zag vlak voor het einde van de GP van Bahrein allebei de Renaults uitvallen. Het zorgde er indirect voor de Max Verstappen níet op het podium eindigde. De Brit zag er wel de humor van in.</p> <p>Want door het wegvallen van de Renaults, werd de Safety Car van stal gehaald. Charles Leclerc had op dat moment al enige tijd een motorisch probleem met zijn Ferrari en zag Verstappen zienderogen dichterbij komen. De Safety Car bleek de reddende engel voor de Monegaskische coureur, want er mocht tot en met de finish niet meer ingehaald worden. ’Renault bedankt’, zal Red Bull gedacht hebben.</p><p>„De Renault-motoren hebben ertoe bijgedragen dat we niet op het podium zijn gefinisht. Dat is wel een beetje ironisch, toch? Of we ze nou in de auto hebben of niet”, zei Horner spottend na afloop tegen Motorsport.com.</p><p>Toverwoord</p><p>Verstappen was na afloop gematigd tevreden over zijn vierde plaats. Het was het hele weekeinde worstelen met de RB15. Dat zag ook Horner. „We moeten op zoek naar meer performance. Ferrari was dit weekend heel erg sterk. Mercedes heeft mazzel gehad dat het eerste en tweede is geworden. Ferrari was hier namelijk het dominante team. Het is voor ons nu belangrijk om erachter te komen waar onze sterke en zwakke punten liggen ten opzichte van Ferrari.”</p><p>De Britse teambaas van Red Bull weet dat de bandenkeuze een groot verschil heeft gemaakt. „Ferrari leek op dat vlak wel een ander team dan twee weken geleden. Dat gold ook voor Mercedes, maar dan in negatieve zin. Het gaat er gewoon om dat je achter het toverwoord komt.”</p><p>De snelheid op de rechte stukken van Ferrari kon bij Horner rekenen op het nodige ’respect’. „Het leek wel alsof ze bij Ferrari een extra versnelling konden selecteren. Hun snelheid op de rechte stukken was enorm indrukwekkend. We hebben vooral nog wat werk te doen aan het chassis. Met de motor wordt al goede progressie gemaakt. We moeten ons dus met name focussen op het begrijpen van onze problemen met de banden en kijken hoe we onze auto in een goede window kunnen krijgen.”</p>

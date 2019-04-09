@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Buitenlandse veroordelingen in EU-databank"
+date: Tue, 09 Apr 2019 13:04:30 +0200
+category: algemeen
+externe_link: "https://www.telegraaf.nl/nieuws/3416792/buitenlandse-veroordelingen-in-eu-databank"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e6525d1a-5ab9-11e9-b1b4-0255c322e81b.jpg"
+---
+
+<p class="intro">De EU-lidstaten hebben definitief ingestemd met uitbreiding van het Europese strafregister. Voortaan worden strafbare feiten die door burgers van buiten de Europese Unie en staatlozen in de EU zijn gepleegd in de databank opgenomen. Nu staan in het register alleen persoonsgegevens, vingerafdrukken en foto's van veroordeelde EU-burgers.</p> <p>De maatregel is al goedgekeurd door het Europees Parlement en treedt in de komende weken in alle lidstaten in werking.</p><p>Het in 2012 ingestelde strafregister heet ECRIS. De uitbreiding moet politie en justitie helpen in de strijd tegen misdaad en terrorisme. De maatregel moet zeker stellen dat iemand van buiten de EU zijn criminele verleden niet kan ontsnappen door naar een andere lidstaat te verhuizen.</p><p>De Europese Commissie stelde de uitbreiding voor na de aanslagen in Parijs van november 2015. De databank kan ook worden gebruikt om mensen die met kinderen werken te screenen, of bij de beoordeling van het verlenen van een wapenvergunning. De commissie wil het ook mogelijk maken om de databank te kunnen raadplegen bij de behandeling van visumaanvragen voor de EU of wanneer identiteitsfraude wordt onderzocht. Hierover wordt nog onderhandeld.</p><p>Dat informatie uit andere landen belangrijk kan zijn bleek bijvoorbeeld in 2010 in de zaak rond Robert M. Deze hoofdverdachte in de Amsterdamse kindermisbruikzaak was in Duitsland al eens veroordeeld tot een voorwaardelijke celstraf voor het in bezit hebben en verspreiden van kinderporno. Dat was niet bekend in Nederland, zodat M. een zogenoemde verklaring omtrent het gedrag kon krijgen.</p>
