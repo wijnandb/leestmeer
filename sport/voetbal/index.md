@@ -1,5 +1,7 @@
 ---
-layout: home
-title: "sport"
-category: sport
+layout: category
+title: Voetbal
+category: voetbal
+aantal: 30
 ---
+

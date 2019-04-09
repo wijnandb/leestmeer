@@ -2,13 +2,13 @@
   url: /
   sublinks:
     - title: Binnenland
-      url: nieuws/binnenland/
+      url: /binnenland/
     - title: Buitenland
-      url: nieuws/buitenland/
+      url: /buitenland/
     - title: Tech
-      url: nieuws/tech/
+      url: /tech/
     - title: Overig
-      url: nieuws/overig/      
+      url: /nieuws/      
       
 - title: Sport
   url: /sport/
@@ -56,10 +56,10 @@
   url: /extra/
   sublinks:
     - title: Entertainment
-      url: /extra/entertainment/
+      url: /entertainment/
     - title: Financieel
-      url: /extra/financieel/
+      url: /financieel/
     - title: Cultuur
-      url: /extra/cultuur/
+      url: /cultuur/
     - title: Overig
       url: /extra/overig/

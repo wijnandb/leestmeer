@@ -1,0 +1,26 @@
+<div class="container">
+  <div class="row">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+  </div>
+  <div class="row">
+  {{ content }}
+  </div>
+  {%- if site.categories[page.categories[0]] > 0 -%}
+  <div class="row">
+      <div class="col-sm-6 col-md-3 mx-auto">
+          <h5 class="font-weight-bold text-uppercase mt-3 mb-4 text-light">Nieuws</h5>
+            <ul class="list-unstyled">
+                {%- for post in site.categories[page.categories[0]] limit: 10 -%}
+                <li>
+                    <a href="{{ post.url }}" class="text-dark">{{ post.title | escape }}</a>
+                </li>
+                {%- endfor -%}
+            </ul>
+      </div>
+  </div>
+  {%- endif -%}
+
+</div>
+

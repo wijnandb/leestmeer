@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+  </div>
+  <div class="row">
+  {{ content }}
+  </div>
+
+  <div class="row">
+        <div class="col-md-4 mx-auto">
+            <h5 class="font-weight-bold text-uppercase mt-3 mb-4 text-dark">Nieuws</h5>
+                <ul class="list-group">
+                    
+                  {%- for post in site.categories.nieuws limit: 10 -%}
+                  <li class="list-group-item">
+                      <span class="small text-light">{{ post.date | date: "%-d-%-m-%Y" }}</span><br>
+                      <a href="{{ post.url }}" class="text-dark">{{ post.title | escape }}</a>
+                  </li>
+                  {%- endfor -%}
+              </ul>
+        </div>
+        <div class="col-md-4 mx-auto">
+              <h5 class="font-weight-bold text-uppercase mt-3 mb-4 text-dark">Sport</h5>
+                <ul class="list-group">
+                    {%- for post in site.categories.sport limit: 10 -%}
+                    <li class="list-group-item">
+                        <a href="{{ post.url }}" class="text-dark">{{ post.title | escape }}</a>
+                    </li>
+                    {%- endfor -%}
+                </ul>
+          </div>
+          <div class="col-md-4 mx-auto">
+                  <h5 class="font-weight-bold text-uppercase mt-3 mb-4 text-dark">Cultuur</h5>
+                    <ul class="list-group">
+                        {%- for post in site.categories.cultuur limit: 10 -%}
+                        <li class="list-group-item">
+                            <a href="{{ post.url }}" class="text-dark">{{ post.title | escape }}</a>
+                        </li>
+                        {%- endfor -%}
+                    </ul>
+          </div>
+
+</div>
+</div>
+
