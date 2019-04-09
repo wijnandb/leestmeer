@@ -2,13 +2,13 @@
   url: /
   sublinks:
     - title: Binnenland
-      url: /binnenland/
+      url: nieuws/binnenland/
     - title: Buitenland
-      url: /buitenland/
+      url: nieuws/buitenland/
     - title: Tech
-      url: /tech/
+      url: nieuws/tech/
     - title: Overig
-      url: /overig/      
+      url: nieuws/overig/      
       
 - title: Sport
   url: /sport/
