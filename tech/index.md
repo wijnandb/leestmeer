@@ -2,6 +2,6 @@
 layout: category
 title: Tech
 category: tech
-aantal: 10
+aantal: 30
 ---
 

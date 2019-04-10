@@ -6,6 +6,7 @@ categories:
 - entertainment 
 - opinie 
 externe_link: "https://www.volkskrant.nl/nieuws-achtergrond/hoe-jurist-wevers-goed-geld-verdient-door-de-participatiesamenleving~bb5f7cfb/"
+feature_image: "https://images2.persgroep.net/rcs/2at6s9MFeK4QPy-GPAqyQTNRDxc/diocontent/144238476/_focus/0.5/0.5/_fill/320/320?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.85"
 ---
 
-Held voor de een, geldwolf voor de ander: jurist Wevers helpt ouderen en gehandicapten die gekort worden op huishoudelijke hulp. Hij verdient goed aan de dwangsommen die hij gemeenten oplegt. ‘Ze doen niks, ik hoor niks van ze – ben ik dan een geldwolf?’
+We dachten, zegt vader Henk Wevers als ik binnenkom, ‘dat het nu wel zo’n beetje voorbij zou zijn’. Maar het is niet voorbij.

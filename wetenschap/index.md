@@ -2,6 +2,6 @@
 layout: category
 title: Wetenschap
 category: wetenschap
-aantal: 10
+aantal: 30
 ---
 
