@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Kerkwerve - Automobiliste naar ziekenhuis na eenzijdig ongeval"
+date: Sun, 24 Mar 2019 09:11:00 GMT
+categories: 
+- zeeland 
+- schouwen-duiveland 
+---
+
+Omstreeks 03.15 uur in de nacht van zaterdag op zondag stuitte een motoragent op een eenzijdig ongeval dat was gebeurd op de N59 ter hoogte van Kerkwerve. De politieman zag een personenauto op zijn kop op het naast de weg gelegen fietspad liggen. De bestuurster was op eigen kracht uit het voertuig gekomen.

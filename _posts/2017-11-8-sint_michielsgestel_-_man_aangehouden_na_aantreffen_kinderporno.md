@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Sint Michielsgestel - Man aangehouden na aantreffen kinderporno"
+date: Wed, 08 Nov 2017 12:33:00 GMT
+categories: 
+- noord-brabant 
+- sint_michielsgestel 
+---
+
+Dinsdag 07 november werd een 42-jarige man uit Sint-Michielsgestel door de zedenpolitie aangehouden voor het bezit van kinderporno, nadat hij zich op verzoek van de politie op het bureau had gemeld. De man werd al verdacht van het plegen van schennis in Den Bosch. Er is geen enkele indicatie dat de man zelf kinderporno heeft vervaardigd of ontucht met minderjarigen heeft gepleegd.

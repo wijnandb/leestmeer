@@ -2,28 +2,47 @@
 layout: default
 ---
 
-<div class="container">
+  <div class="row">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-
+  </div>
+  <div class="row">
   {{ content }}
+  </div>
 
-  {%- if site.posts.size > 0 -%}
-    <h2>{{ page.category }}</h2>
-      {%- for post in site.categories.nieuws limit: 10 -%}
-        {%- assign date_format = site.minima.date_format | default: "%-d %B  %Y" -%}
-        <span class="text-muted">{{ post.date | date: date_format }}</span>
-        <h4>
-          <a class="text-dark" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h4>
-        {%- if site.show_excerpts -%}
-           {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-  {%- endif -%}
+  <div class="row">
+        <div class="col-md-4 mx-auto">
+            <h5 class="font-weight-bold text-uppercase mt-3 mb-4 text-dark">Voetbal</h5>
+                <ul class="list-group">
+                    
+                  {%- for post in site.categories.voetbal limit: 10 -%}
+                  <li class="list-group-item">
+                      <span class="small text-light">{{ post.date | date: "%-d-%-m-%Y" }}</span><br>
+                      <a href="{{ post.url }}" class="text-dark">{{ post.title | escape }}</a>
+                  </li>
+                  {%- endfor -%}
+              </ul>
+        </div>
+        <div class="col-md-4 mx-auto">
+              <h5 class="font-weight-bold text-uppercase mt-3 mb-4 text-dark">Tech</h5>
+                <ul class="list-group">
+                    {%- for post in site.categories.tech limit: 10 -%}
+                    <li class="list-group-item">
+                        <a href="{{ post.url }}" class="text-dark">{{ post.title | escape }}</a>
+                    </li>
+                    {%- endfor -%}
+                </ul>
+          </div>
+          <div class="col-md-4 mx-auto">
+                  <h5 class="font-weight-bold text-uppercase mt-3 mb-4 text-dark">Entertainment</h5>
+                    <ul class="list-group">
+                        {%- for post in site.categories.entertainment limit: 10 -%}
+                        <li class="list-group-item">
+                            <a href="{{ post.url }}" class="text-dark">{{ post.title | escape }}</a>
+                        </li>
+                        {%- endfor -%}
+                    </ul>
+          </div>
 
 </div>

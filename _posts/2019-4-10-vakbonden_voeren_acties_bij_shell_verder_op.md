@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Vakbonden voeren acties bij Shell verder op"
+date: Wed, 10 Apr 2019 16:21:04 +0200
+categories: 
+- financieel 
+- koersen 
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f6141ef8-5b9c-11e9-9da7-0255c322e81b.jpg"
+---
+
+<p class="intro">Werknemers van olieconcern Shell die actievoeren in de chemische fabriek in Moerdijk en de raffinaderij in Pernis worden per dag met 40% gekort op hun salaris. Dat zegt bestuurder Piet Verburg van CNV Vakmensen.</p> <p>Volgens de vakbondsbestuurder gaat het om enkele honderden mensen die het werk deels neerleggen. Shell wordt behoorlijk hard geraakt door de acties die de komende dagen worden opgevoerd. „Shell moet snel met een goed cao-bod over de brug komen. De vakmensen bij het concern verdienen gewoon waardering en goede arbeidsvoorwaarden. De acties in Moerdijk en Pernis gaan we opvoeren”, zegt Verburg.</p><p>Lonen</p><p>Shell wil niet ingaan op de eisen van de vakbonden die voor dit jaar een loonsverhoging willen van 5%. Het olieconcern biedt dit jaar 2,5% meer salaris en 2% erbij in 2020. In beide jaren wil het olie- en gasbedrijf ook gemiddeld 1,5% extra loon geven, afhankelijk van de prestaties van de werknemer en in welke schaal die zit.</p><p>Shell erkent dat werknemers die zich als ’actievoerder’ registreren sinds dinsdagmiddag gekort worden op hun loon, maar wil niet aangeven met hoeveel. „De vakbonden zijn meteen bij aanvang van de acties met een gestrekt been erin gegaan en de acties hebben de nodige impact op de beide locaties, zowel financieel, operationeel als op het moraal van de mensen en de atmosfeer op de werkvloer”, zegt een woordvoerder. „Vanwege deze forse impact en ook om de werkwillenden, het grote merendeel van de medewerkers op de locaties, tegemoet te komen is besloten de actievoerders te korten op hun loon voor de dagen dat ze staken.”</p><p>Acties</p><p>Shell geeft verder aan de eerste paar dagen de actievoerders de ruimte te hebben geboden voor hun acties. „En daar hebben ze ook het recht toe. Wij maken nu echter gebruik van ons recht om met een tegenactie te reageren. Uiteraard hopen we nog steeds dat we er met de bonden uit gaan komen, maar wij blijven erbij dat een gemiddelde loonsverhoging van gemiddeld 7.5% voor twee jaar een mooi bod is.”</p>

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Raamsdonksveer - Twee inbrekers aangehouden in Raamsdonksveer"
+date: Mon, 01 Apr 2019 07:27:00 GMT
+categories: 
+- noord-brabant 
+- geertruidenberg 
+---
+
+De politie heeft maandag 1 april 2019 omstreeks 03.45 uur mede dankzij alerte getuigen  in een horecazaak op het Anker  twee inbrekers op heterdaad aangehouden. Het gaat om een 25-jarige man zonder vaste woon- of verblijfplaats en een 20-jarige Oosterhouter. Hun auto werd op het Randeel aangetroffen. Dit voertuig is in beslag genomen.

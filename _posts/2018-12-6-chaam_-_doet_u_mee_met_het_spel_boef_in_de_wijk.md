@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Chaam - Doet u mee met het spel Boef in de Wijk?"
+date: Thu, 06 Dec 2018 21:40:00 GMT
+categories: 
+- noord-brabant 
+- alphen-chaam 
+---
+
+Wijkagent Peter Hendrikx wil woensdagavond 19 december 2018 tussen 19.30 en 22.00 uur met inwoners van Chaam het spel 'Boef in de wijk' spelen.

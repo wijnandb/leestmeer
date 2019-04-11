@@ -2,7 +2,8 @@
 layout: post
 title: "Dringen bij Kom in de Kas in Zuilichem: meer bezoekers dan ooit"
 date: Sat, 06 Apr 2019 16:25:00 GMT
-categories: 
+categories:
+- regio 
 - gelderland 
 - zaltbommel 
 externe_link: "https://www.ad.nl/zaltbommel/dringen-bij-kom-in-de-kas-in-zuilichem-meer-bezoekers-dan-ooit~a277b38f/"

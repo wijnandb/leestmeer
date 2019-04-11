@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Zierikzee - Vuurwapen aangetroffen tijdens controle voertuig"
+date: Fri, 22 Mar 2019 13:43:00 GMT
+categories: 
+- zeeland 
+- schouwen-duiveland 
+---
+
+In de nacht van donderdag op vrijdag, omstreeks 02.45 uur, controleerden agenten in de Oosterscheldestraat in Zierikzee een personenauto. De bestuurder gaf al direct aan dat hij geen rijbewijs had en toen de agenten met hem in gesprek gingen, roken ze de hun welbekende henneplucht uit de auto komen.

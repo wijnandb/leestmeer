@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Hank - Hondeneigenaar gezocht"
+date: Sat, 21 Jul 2018 09:24:00 GMT
+categories: 
+- noord-brabant 
+- werkendam 
+---
+
+De politie zoekt de eigenaar van twee zwarte bouviers. Deze liepen vannacht rond 04.30 uur op de A27 bij Hank.

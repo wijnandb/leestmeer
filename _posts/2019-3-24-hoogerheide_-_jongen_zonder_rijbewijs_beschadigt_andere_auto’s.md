@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Hoogerheide - Jongen zonder rijbewijs beschadigt andere auto’s"
+date: Sun, 24 Mar 2019 08:07:00 GMT
+categories: 
+- noord-brabant 
+- woensdrecht 
+---
+
+Zaterdag rond 15.45 uur meldden verschillende getuigen dat de bestuurder van een personenauto door agressief rijgedrag verschillende geparkeerde auto’s had beschadigd op de Haviksberg in Hoogerheide. De jongen zou willen weglopen, maar werd tegengehouden door omstanders. Er zou op een gegeven moment zelfs een grimmige sfeer ontstaan, aldus de melders.

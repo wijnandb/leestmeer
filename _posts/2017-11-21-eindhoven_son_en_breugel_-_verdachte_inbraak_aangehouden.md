@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Eindhoven/Son en Breugel - Verdachte inbraak aangehouden"
+date: Tue, 21 Nov 2017 13:26:00 GMT
+categories: 
+- noord-brabant 
+- son_en_breugel 
+---
+
+Wij hielden dinsdagochtend rond 8.00 uur een 36-jarige man uit Eindhoven aan in zijn woning. Hij wordt er van verdacht betrokken te zijn bij 2 bedrijfsinbraken in Son en Breugel op zaterdag 9 september. We kwamen de man op het spoor aan de hand van DNA-materiaal dat was achtergebleven bij de bedrijven. De verdachte is de cel ingegaan voor verder onderzoek

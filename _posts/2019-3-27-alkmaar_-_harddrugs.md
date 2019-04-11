@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Alkmaar - Harddrugs"
+date: Wed, 27 Mar 2019 14:49:00 GMT
+categories: 
+- noord-holland 
+- alkmaar 
+---
+
+Op woensdagmiddag hield de politie de 51-jarige bewoner van een pand aan de De Savornin Lohmanstraat in Alkmaar aan wegens het in bezit hebben van harddrugs.

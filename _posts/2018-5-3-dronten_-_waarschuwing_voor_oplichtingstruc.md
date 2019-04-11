@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Dronten - Waarschuwing voor oplichtingstruc"
+date: Thu, 03 May 2018 14:21:00 GMT
+categories: 
+- flevoland 
+- dronten 
+---
+
+Woensdag 25 april kreeg een bejaarde vrouw een belletje van een jonge vrouw die zich voordeed als vriendin van haar kleinzoon. Op die manier probeerde ze geld afhandig te maken. De pientere vrouw trapte hier niet in.

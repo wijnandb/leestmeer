@@ -3,6 +3,7 @@ layout: post
 title: "Duurzaam ondernemen in Helmond: gas erop, spreekwoordelijk"
 date: Sat, 06 Apr 2019 05:00:00 GMT
 categories: 
+- regio
 - noord-brabant 
 - helmond 
 externe_link: "https://www.ad.nl/helmond/duurzaam-ondernemen-in-helmond-gas-erop-spreekwoordelijk~a9223964/"

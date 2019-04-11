@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Deurningen - Automobilist overleden na aanrijding met tractor"
+date: Tue, 04 Sep 2018 08:22:00 GMT
+categories: 
+- overijssel 
+- dinkelland 
+---
+
+Bij een aanrijding tussen een tractor en een auto is maandagavond rond 19.00 uur een 20-jarige man uit Hengelo om het leven gekomen.

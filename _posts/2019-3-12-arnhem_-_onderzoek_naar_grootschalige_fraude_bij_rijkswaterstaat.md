@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Arnhem - Onderzoek naar grootschalige fraude bij Rijkswaterstaat"
+date: Tue, 12 Mar 2019 15:00:00 GMT
+categories: 
+- gelderland 
+- arnhem 
+---
+
+Naar aanleiding van aangifte door Rijkswaterstaat tegen een medewerker is de politie een onderzoek gestart. Er is een verdenking van het plegen van grootschalige fraude door de medewerker en derden. Dat betekent dat het onderzoek niet alleen gericht is op de betreffende medewerker maar breder plaatsvindt.

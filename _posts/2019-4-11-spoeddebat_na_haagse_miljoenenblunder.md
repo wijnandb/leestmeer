@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Spoeddebat na Haagse miljoenenblunder"
+date: Thu, 11 Apr 2019 13:17:14 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3430224/spoeddebat-na-haagse-miljoenenblunder"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5eff3476-5c4b-11e9-950a-02c309bc01c1.jpg"
+---
+
+<p class="intro">Den Haag moet nog ruim 71.000 euro terugkrijgen van de in totaal ruim 2,5 miljoen euro die de gemeente per ongeluk overmaakte aan 69 bijstandsgerechtigden.</p> <p>LIVE – Verslaggever Germa Graveland is bij debat aanwezig. Haar tweets lees je onderaan dit artikel (vanaf circa 13.30 uur).</p><p>Op het Haagse stadhuis aan het Spui is vanmiddag een spoeddebat over de miljoenenblunder, die kwam doordat bij de uitbetaling een ambtenaar in plaats van een punt een komma zette. Ondanks strenge regels merkte niemand dat op tijd op en ontstond de paniek pas toen donderdag de fout werd ontdekt. De bijstandsgerechtigden hadden recht op een kleine premie omdat ze bij een werkgever een zogeheten proefplaatsing hadden gehad.</p><p>’Zoveel mateurisme’</p><p>Onder andere de lokale CDA-fractie reageerde al verbijsterd over ’zoveel amateurisme’ en ook de PvdA gaf aan zich zorgen te maken over het geblunder met ’deze toch al zeer kwetsbare groep Hagenaars’.</p><p>Inmiddels hebben 66 van de 69 mensen het onjuiste bedrag teruggestort. Twee anderen hadden al (een gedeelte) van het ontvangen bedrag naar een andere rekening overgemaakt. De banken hadden echter het volledige bedrag al teruggeboekt naar de gemeente, maar ruim 17.500 euro was dus al weg. Daarom stort de gemeente dat ontbrekende geld weer terug en gaat dit verhalen bij die twee mensen.</p><p>Hagenaar weigert terugstorten</p><p>De derde persoon kreeg bijna 54.000 euro in zijn of haar schoot geworpen en wil dat nog niet teruggeven. Deze Hagenaar heeft al ruim 10.000 euro opgenomen en het resterende bedrag op de rekening is inmiddels geblokkeerd. Volgens verantwoordelijk wethouder Rachid Guernaoui is er contact met de bijstandsgerechtigde en gaat de gemeente dit geld ook verhalen.</p>

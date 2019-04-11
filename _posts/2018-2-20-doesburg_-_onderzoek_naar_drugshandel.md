@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Doesburg - Onderzoek naar drugshandel"
+date: Tue, 20 Feb 2018 11:56:00 GMT
+categories: 
+- gelderland 
+- doesburg 
+---
+
+Dinsdagmorgen hield de politie op verschillende locaties in Doesburg twee verdachten aan in een lopend onderzoek naar drugshandel. Het gaat om mannen van 27 en 31 jaar afkomstig uit Doesburg. Het onderzoek was opgestart na meldingen van overlast door vermoedelijk handel in drugs. Hierin werd al eerder een aanhouding verricht.

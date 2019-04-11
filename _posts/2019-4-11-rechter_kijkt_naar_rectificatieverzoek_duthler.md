@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Rechter kijkt naar rectificatieverzoek Duthler"
+date: Thu, 11 Apr 2019 14:44:10 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3431083/rechter-kijkt-naar-rectificatieverzoek-duthler"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/858571da-5c57-11e9-9da7-0255c322e81b.jpg"
+---
+
+<p class="intro">De voorzieningenrechter in Amsterdam oordeelt over twee weken of zakenblad Quote een artikel over VVD-senator Anne-Wil Duthler moet rectificeren. Tijdens een kort geding dat de politica had aangespannen gaven de advocaten van het tijdschrift aan dat hierover niet viel te praten.</p> <p>Duthler is in opspraak omdat ze haar politieke positie zou gebruiken voor zakelijke belangen. Hierover werd al meerdere keren gepubliceerd, maar volgens de senator zijn de journalisten met de publicatie van een artikel op 15 maart een grens over gegaan.</p><p>Het bericht op de website van Quote had als kop: ’Geldeiser legt beslag op bedrijf VVD-senator Anne-Wil Duthler’. Volgens de senator hebben de journalisten geen gedegen onderzoek gedaan en zich voor het karretje laten spannen van een „verongelijkte leverancier.” In het artikel wordt in haar ogen bovendien „van alles door elkaar gehaald” en staan volgens Duthler „zinsneden die worden gebruikt bij ernstige vormen van criminaliteit.”</p><p>„Er is lang onderzoek gedaan naar mevrouw Duthler”, zei de raadsman van het blad. „De journalisten hebben met heel veel mensen gesproken en veel bronnen geraadpleegd. Dit is echt vakwerk.” Bovendien is volgens hem uitvoerig wederhoor toegepast, waarbij ontwijkend of beperkt op vragen zou zijn gereageerd.</p><p>Het tijdschrift meldde verder onder meer dat Duthler, in tegenstelling tot wat zij steeds heeft beweerd, wel degelijk direct betrokken is bij een groep bedrijven van haar man op het gebied van privacybescherming.</p><p>De VVD doet onderzoek naar de integriteit van Duthler na berichtgeving door Quote.</p>

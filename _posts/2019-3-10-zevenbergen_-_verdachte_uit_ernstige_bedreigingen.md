@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Zevenbergen - Verdachte uit ernstige bedreigingen"
+date: Sun, 10 Mar 2019 11:11:00 GMT
+categories: 
+- noord-brabant 
+- moerdijk 
+---
+
+Een 27-jarige verdachte werd zaterdag 9 maart 2019 rond 14u45 op de Boschstraat aangehouden, omdat hij ernstige bedreigingen uitte.

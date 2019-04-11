@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Drachten - Scooterrijder en passagier gewond na aanrijding"
+date: Tue, 03 Oct 2017 06:59:00 GMT
+categories: 
+- fryslan 
+- smallingerland 
+---
+
+Een 17-jarige scooterrijder uit Drachten is maandagmiddag ernstig gewond geraakt nadat hij in botsing kwam met een bestelbus. Achterop de scooter zat een jongeman. Hij raakte licht gewond. Het zwaar gewonde slachtoffer werd gestabiliseerd en vervolgens per traumahelikopter overgevlogen naar het ziekenhuis.

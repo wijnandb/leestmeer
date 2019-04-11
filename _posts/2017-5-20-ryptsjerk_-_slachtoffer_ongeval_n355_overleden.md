@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ryptsjerk - Slachtoffer ongeval N355 overleden"
+date: Sat, 20 May 2017 18:06:00 GMT
+categories: 
+- fryslan 
+- dongeradeel 
+---
+
+Een inwoonster van Leeuwarden (68) is zaterdag als gevolg van een ernstig verkeersongeval overleden. De vrouw overleed in het ziekenhuis nadat ze eerder die middag was aangereden op de N355 bij Ryptsjerk.

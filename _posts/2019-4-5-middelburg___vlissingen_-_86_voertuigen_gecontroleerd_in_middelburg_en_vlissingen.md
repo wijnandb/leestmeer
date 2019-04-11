@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Middelburg / Vlissingen - 86 Voertuigen gecontroleerd in Middelburg en Vlissingen"
+date: Fri, 05 Apr 2019 07:29:00 GMT
+categories: 
+- zeeland 
+- middelburg 
+---
+
+Donderdagmiddag is een verkeerscontrole gehouden op de Schietbaan in Middelburg en langs de Willem Ruysstraat in Vlissingen. De aandacht ging in het bijzonder uit naar overtredingen zoals rijden onder invloed van drugs en alcohol, rijden zonder rijbewijs of ongeldig verklaard rijbewijs. Ook is gekeken naar zaken die in verband gebracht kunnen worden met woninginbraken en grensoverschrijdende criminaliteit. Bij de hele actie is ook een GGD-arts aanwezig geweest. Deze heeft direct bloed afgenomen bij verdachten na een eerste positieve uitslag van de speekseltest.

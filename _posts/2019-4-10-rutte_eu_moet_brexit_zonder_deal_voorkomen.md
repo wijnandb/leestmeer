@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Rutte: EU moet Brexit zonder deal voorkomen"
+date: Wed, 10 Apr 2019 15:58:54 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3425671/rutte-eu-moet-brexit-zonder-deal-voorkomen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/eba5b6d2-5b99-11e9-92e5-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Premier Mark Rutte laat zijn stem over het gevraagde Brexit-uitstel afhangen van de uitleg van premier Theresa May over haar verzoek.</p> <p>„Voor Nederland is van belang dat er geen no-deal Brexit komt.” Dat zei hij in Brussel voorafgaand aan overleg tussen de landen aan de Noordzee die het meest getroffen worden in geval van een wanordelijk Brits vertrek uit de EU.</p><p>„Tegelijk moeten we niet in een limbo blijven. Dus hoe kunnen we zorgen dat er wel instemming in Londen komt over de Brexit?” zei hij.</p><p>De EU-leiders nemen woensdag op een speciale top een besluit over het verzoek van May om de brexit tot 30 juni uit te stellen. De huidige deadline verloopt vrijdag om middernacht Brusselse tijd. Als de EU-landen geen uitstel gunnen en voor vrijdagnacht het Lagerhuis niet heeft ingestemd met de brexitovereenkomst tussen May en de EU, valt het Verenigd Koninkrijk automatisch uit de EU.</p><p>De Belgische premier Charles Michel nodigde de leiders van Nederland, Frankrijk, Denemarken, Zweden en Ierland uit om zich gezamenlijk zo goed mogelijk voor te bereiden. ,,Het gaat erom dat we de turbulentie limiteren en een logistiek plan hebben.''</p><p>Om het 'horroscenario' van een no-dealbrexit te voorkomen, zullen de 27 andere leiders naar verwachting uitstel verlenen, maar over de lengte daarvan is verdeeldheid. Premier Michel wou niet zeggen of kort of lang uitstel zijn voorkeur heeft. ,,Het risico van een wanordelijke brexit bestaat nog steeds. Die vergt gigantische inspanningen van bijvoorbeeld de douanediensten.''</p><p>Als Londen lang uitstel krijgt, dan moeten de Britten garanderen dat ze niet het functioneren van de EU zullen dwarsbomen.</p>

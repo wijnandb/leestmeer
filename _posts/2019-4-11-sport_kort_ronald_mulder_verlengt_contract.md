@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Sport Kort: Ronald Mulder verlengt contract"
+date: Thu, 11 Apr 2019 12:05:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3428840/sport-kort-ronald-mulder-verlengt-contract"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/510f8794-5c41-11e9-950a-02c309bc01c1.jpg"
+---
+
+<p class="intro">In de rubriek Sport Kort hebben we aandacht voor de overige sportgebeurtenissen. Dagelijks brengen we hier in een korte samenvatting de andere hoogtepunten.</p> <p>12:01 uur: Ronald Mulder blijft nog minstens een jaar schaatsen voor Team Reggeborgh. De Nederlands kampioen 500 meter is momenteel 33 jaar. „Ik heb het idee dat ik nog wel langer door kan. Mensen zeggen dat je oud wordt, maar zo voel ik dat niet. Ik heb een heel goed seizoen gedraaid. Tijdens de World Cup finale in Salt Lake City werd er heel hard gereden op de 500 meter. Met de 33’ers van Koelizjnikov en Shinhama is een nieuwe standaard gezet. Wij gaan op zoek naar een manier om daar te komen, daar ligt een hele mooie uitdaging.”</p><p>09:50 uur: Timo Roosen staat zondag namens Jumbo-Visma aan de start van de 117e editie van Parijs-Roubaix. De 26-jarige Brabander vervangt Amund Grøndahl Jansen, die vanwege een verkoudheid niet kan meedoen aan de ’Hel van het Noorden’. De Noor reed zondag wel de Ronde van Vlaanderen. De Belg Wout van Aert is de kopman in de klassieker over bijna 260 kilometer, waarvan 54,5 kilometer over kasseien gaat. Die steentjes, ruim 6 miljoen stuks, liggen verspreid over 29 stroken. Vorig jaar zegevierde Peter Sagan op de wielerbaan in Roubaix. De debuterende Van Aert kwam toen als dertiende over de finish.</p><p>08:15 uur: De NBA heeft afscheid genomen van twee iconen. De laatste speeldag van dit seizoen in de reguliere competitie markeerde het einde van de carrières van Dirk Nowitzki en Dwyane Wade, die jarenlang tot de sterren van de Amerikaanse basketbalcompetitie behoorden. Beiden werden woensdagavond op grootse wijze uitgezwaaid.</p>

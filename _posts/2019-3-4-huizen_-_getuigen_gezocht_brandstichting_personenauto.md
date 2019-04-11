@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Huizen - Getuigen gezocht: brandstichting personenauto"
+date: Mon, 04 Mar 2019 13:57:00 GMT
+categories: 
+- noord-holland 
+- huizen 
+---
+
+Op de Ambachtsweg stond in de nacht van zaterdag 2 maart op zondag 3 maart een auto in de brand. Mogelijk heeft één van de verdachten ook brandwonden opgelopen. De politie zoekt getuigen.
