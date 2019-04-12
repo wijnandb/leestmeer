@@ -22,7 +22,7 @@
     - title: Autosport
       url: /sport/autosport/
     - title: Darts
-      url: /sport/tennis/
+      url: /sport/darts/
     - title: Schaatsen
       url: /sport/autosport/
       
@@ -56,10 +56,10 @@
   url: /extra/
   sublinks:
     - title: Entertainment
-      url: /entertainment/
+      url: /extra/entertainment/
     - title: Financieel
-      url: /financieel/
+      url: /extra/financieel/
     - title: Cultuur
-      url: /cultuur/
+      url: /extra/cultuur/
     - title: Overig
       url: /extra/overig/
