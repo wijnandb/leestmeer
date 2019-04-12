@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Dappere klant neergestoken"
+date: Fri, 12 Apr 2019 16:43:56 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3438158/dappere-klant-neergestoken"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/687b1d44-5d31-11e9-a27a-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Een klant van een Dirk van den Broek-supermarkt in Rotterdam is vrijdagmiddag gewond geraakt toen hij ingreep bij een overval. De dappere man werd neergestoken door een van de twee daders.</p> <p>De supermarkt aan de Akkerwinde in Rotterdam Hoogvliet werd vrijdag halverwege de middag overvallen door gemaskerde daders die met een mes binnenkwamen en het personeel bedreigden, maar enkele heldhaftige klanten die zagen wat er gebeurde, grepen meteen in.</p><p>Bij de worsteling die ontstond nadat ze op de twee overvallers doken, raakte er een gewond doordat hij werd gestoken. Hij is naar het ziekenhuis gebracht, onduidelijk is hoe hij eraan toe is. Een van de daders, een 20-jarige man uit Rotterdam, werd in bedwang gehouden tot de politie arriveerde en daarna meteen aangehouden. De ander wist in het tumult te ontkomen.</p><p>Sporenonderzoek</p><p>Het onderzoek werd meteen opgestart. Kort na de overval werd de supermarkt afgezet met rood-witte linten en werden er door de technische recherche sporen veilig gesteld.</p><p>De politie is op zoek naar getuigen van de overval zodat ook de tweede overvaller kan worden opgepakt. „Het is een forse man”, vertelt een woordvoerster van de politie. „Verdere details, zoals zijn geschatte leeftijd, kunnen we helaas niet geven omdat hij geheel in het zwart was gekleed. Hij had ook gezichtsbedekking, een capuchon, en handschoenen.”</p><p>De politie gaat ervan uit dat er twee daders waren. „Op camerabeelden is in ieder geval te zien dat ze met z’n tweeën binnenkwamen.” Getuigen kunnen zich melden via het landelijk nummer van de politie (0900-8844) of zich wenden tot Meld Misdaad Anoniem.</p>
