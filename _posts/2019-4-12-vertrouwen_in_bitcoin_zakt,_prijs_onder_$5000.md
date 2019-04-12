@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Vertrouwen in Bitcoin zakt, prijs onder $5000"
+date: Fri, 12 Apr 2019 10:35:42 +0200
+categories: 
+- financieel 
+- koersen 
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4ef4f31c-5d00-11e9-847b-0218eaf05005.jpg"
+---
+
+<p class="intro">De prijs van cryptomunt Bitcoin is vrijdag onder de grens van $5000 gezakt. Enkele grote beleggers namen na de recente koersspurt vanaf $4200 winst. China zou ingrijpen in het mijnen, het produceren, van cryptomunten zoals de bitcoin.</p> <p>Vrijdag rond half elf zakte Bitcoin op enkele belangrijke beurzen voor de munt onder de vooraf als belangrijke grens aangeduide $5000.</p><p>In Zuid-Korea moest cryptohandelsplatform Bithumb - slachtoffer van een grote hackaanval met voor $13 miljoen verdwenen munten - over 2018 een verlies van $180 miljoen erkennen. Het grote platform lijdt onder de waardedalingen en kan kosten niet snel genoeg verlagen.</p><p>In 2017 noteerde de belangrijke beurs in het land dat veel in crypto’s handelt een winst van bijna een half miljard dollar.</p><p>Waarschuwing IMF</p><p>Met Bitcoin ging in de Aziatische markt in de ochtend een serie munten mee achteruit in waarde. De Litecoin verloor 14%, Ethereum verloor 9%. Ripple-munt xrp ging 9% terug.</p><p>Ook in China nam het gebruik van crypto’s afgelopen jaren toe. Peking zou beperkingen opleggen aan de productie van munten en het elektriciteitsgebruik, een ingreep die het vrij snel kan doorvoeren en de markt aan banden leggen.</p><p>Het IMF waarschuwde eerder voor „de rol van verstoorders” van blockchaintechnologie het economisch systeem kan opschudden. Woensdag meldde IMF-voorzitter Lagarde dat de munten, die worden verhandeld op het digitale grootboek blockchain, de kracht hebben om de financiële sector te treffen.</p><p>Meer van zulk financieel nieuws via je mail? Schrijf je hier in voor onze nieuwsbrief.</p>
