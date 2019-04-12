@@ -2,7 +2,9 @@
 layout: post
 title: "’Selena Gomez heeft nieuwe vlam’"
 date: Mon, 08 Apr 2019 14:27:59 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3411786/selena-gomez-heeft-nieuwe-vlam"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c6cf9a0e-59f9-11e9-9815-0218eaf05005.jpg"
 ---

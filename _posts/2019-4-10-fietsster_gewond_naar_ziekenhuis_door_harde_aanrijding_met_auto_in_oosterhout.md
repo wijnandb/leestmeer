@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 17:44:00 GMT
 categories: 
 - noord-brabant 
 - oosterhout 
+externe_link: "https://www.ad.nl/oosterhout/fietsster-gewond-naar-ziekenhuis-door-harde-aanrijding-met-auto-in-oosterhout~ac55c161/"
 feature_image: "https://images3.persgroep.net/rcs/bsqYu5u_0jUMc6k_EX3salF_UT4/diocontent/145256543/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

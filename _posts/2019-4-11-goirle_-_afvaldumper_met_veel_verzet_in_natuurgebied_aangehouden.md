@@ -2,9 +2,8 @@
 layout: post
 title: "Goirle - Afvaldumper met veel verzet in natuurgebied aangehouden"
 date: Thu, 11 Apr 2019 07:18:00 GMT
-categories: 
-- noord-brabant 
-- goirle 
+category: nieuws
+externe_link: "https://www.politie.nl/nieuws/2019/april/11/08-afvaldumper-met-veel-verzet-in-natuurgebied-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/april/08-zw/milieu.jpg"
 ---
 

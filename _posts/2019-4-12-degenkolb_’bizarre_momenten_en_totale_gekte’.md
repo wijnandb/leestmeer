@@ -2,7 +2,9 @@
 layout: post
 title: "Degenkolb: ’Bizarre momenten en totale gekte’"
 date: Fri, 12 Apr 2019 09:56:58 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/3435065/degenkolb-bizarre-momenten-en-totale-gekte"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b8503360-5cf8-11e9-b343-02c309bc01c1.jpg"
 ---

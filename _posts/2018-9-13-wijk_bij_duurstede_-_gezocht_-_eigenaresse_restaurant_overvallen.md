@@ -5,6 +5,7 @@ date: Thu, 13 Sep 2018 10:59:00 GMT
 categories: 
 - utrecht 
 - wijk_bij_duurstede 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/september/03-wijk-bij-duurstede-12-overval.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/september/03-mn/wijk-12-roof.jpg"
 ---
 

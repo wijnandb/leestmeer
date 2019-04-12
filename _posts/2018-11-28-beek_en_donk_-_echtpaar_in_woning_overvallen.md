@@ -5,6 +5,7 @@ date: Wed, 28 Nov 2018 09:07:00 GMT
 categories: 
 - noord-brabant 
 - laarbeek 
+externe_link: "https://www.politie.nl/nieuws/2018/november/28/09-echtpaar-in-woning-overvallen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/onderzoek-in-woning-naar-inbraak.jpg"
 ---
 

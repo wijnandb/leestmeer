@@ -6,7 +6,6 @@ categories:
 - sport 
 - voetbal 
 externe_link: "https://podcast.npo.nl/file/nos-voetbalpodcast/2221/nporadio1_nos-voetbalpodcast_20180924_de-nos-voetbalpodcast-7-het-staat-nu-3-0-voor-van-bommel.mp3"
-feature_image: "https://podcast.npo.nl/file/nos-voetbalpodcast/2221/nporadio1_nos-voetbalpodcast_20180924_de-nos-voetbalpodcast-7-het-staat-nu-3-0-voor-van-bommel.mp3"
 ---
 
 Deze week met Arno Vermeulen, Jeroen Elshoff, Arman Avsaroglu en Philip Kooke.  Over het krediet van Erik ten Hag, de vergelijking tussen Mark van Bommel en Diego Simeone, moet Jorrit Hendrix in Oranje en is Groningen van het ‘Padje’?

@@ -4,7 +4,8 @@ title: "Van Gerwen op zijn hoede"
 date: Wed, 10 Apr 2019 18:47:24 +0200
 categories: 
 - sport 
-- darts 
+- scoreboard 
+externe_link: "https://www.telegraaf.nl/sport/3426735/van-gerwen-op-zijn-hoede"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/37d05034-5bb9-11e9-84d4-02c309bc01c1.jpg"
 ---
 

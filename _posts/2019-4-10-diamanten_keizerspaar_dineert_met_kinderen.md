@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 12:36:00 +0200
 categories: 
 - entertainment 
 - royalty 
+externe_link: "https://www.telegraaf.nl/entertainment/3423315/diamanten-keizerspaar-dineert-met-kinderen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/baed3cb6-5b82-11e9-ab5f-0218eaf05005.jpg"
 ---
 

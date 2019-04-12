@@ -2,9 +2,8 @@
 layout: post
 title: "Zeist - Gezocht - Handgranaat op terras gegooid"
 date: Fri, 12 Apr 2019 06:57:00 GMT
-categories: 
-- utrecht 
-- zeist 
+category: utrecht
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/03-handgranaat-op-terras-gegooid.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/april/03-mn/zeist-10-granaat.jpg"
 ---
 

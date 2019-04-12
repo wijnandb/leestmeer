@@ -5,6 +5,7 @@ date: Mon, 25 Sep 2017 11:52:00 GMT
 categories: 
 - noord-brabant 
 - bergeijk 
+externe_link: "https://www.politie.nl/nieuws/2017/september/25/09-aanhoudingen-in-onderzoek-witwassen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/september/09-ob/bergeijk.jpg"
 ---
 

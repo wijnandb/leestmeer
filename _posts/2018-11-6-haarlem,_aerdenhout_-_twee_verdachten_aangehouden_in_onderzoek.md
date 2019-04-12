@@ -5,6 +5,7 @@ date: Tue, 06 Nov 2018 12:41:00 GMT
 categories: 
 - noord-holland 
 - bloemendaal 
+externe_link: "https://www.politie.nl/nieuws/2018/november/6/04-twee-verdachten-aangehouden-in-onderzoek.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/juni/04-nh/img_20180708_160636.jpg"
 ---
 

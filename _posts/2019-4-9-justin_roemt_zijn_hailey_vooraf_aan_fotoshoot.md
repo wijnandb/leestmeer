@@ -2,7 +2,9 @@
 layout: post
 title: "Justin roemt zijn Hailey vooraf aan fotoshoot"
 date: Tue, 09 Apr 2019 07:50:40 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3414535/justin-roemt-zijn-hailey-vooraf-aan-fotoshoot"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3c9c5820-5aa5-11e9-9fc0-0217670beecd.jpg"
 ---

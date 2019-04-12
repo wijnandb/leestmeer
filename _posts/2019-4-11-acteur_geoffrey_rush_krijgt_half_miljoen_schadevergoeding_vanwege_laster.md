@@ -2,7 +2,7 @@
 layout: post
 title: "Acteur Geoffrey Rush krijgt half miljoen schadevergoeding vanwege laster"
 date: Thu, 11 Apr 2019 12:11:13 +0200
-category: nieuws
+category: cultuur
 externe_link: "https://nos.nl/l/2279967"
 feature_image: "https://nos.nl/data/image/2019/04/11/542860/1008x567.jpg"
 ---

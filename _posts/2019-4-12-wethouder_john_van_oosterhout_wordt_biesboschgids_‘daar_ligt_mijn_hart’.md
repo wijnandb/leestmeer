@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 09:00:00 GMT
 categories: 
 - noord-brabant 
 - oosterhout 
+externe_link: "https://www.ad.nl/oosterhout/wethouder-john-van-oosterhout-wordt-biesboschgids-daar-ligt-mijn-hart~a8e27f82/"
 feature_image: "https://images3.persgroep.net/rcs/BYCM6bdK_CIFUIEWHvZnCcTGCYg/diocontent/145316564/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

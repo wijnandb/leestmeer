@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 08:21:59 +0200
 categories: 
 - financieel 
 - geld 
+externe_link: "https://www.telegraaf.nl/financieel/3428205/acm-start-onderzoek-naar-machtsmisbruik-apple"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/50f9dda2-5c25-11e9-847b-0218eaf05005.jpg"
 ---
 

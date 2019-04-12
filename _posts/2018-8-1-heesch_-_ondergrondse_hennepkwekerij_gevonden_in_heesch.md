@@ -5,6 +5,7 @@ date: Wed, 01 Aug 2018 09:59:00 GMT
 categories: 
 - noord-brabant 
 - bernheze 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/1/09-ondergrondse-hennepkwekerij-gevonden-in-heesch.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/augustus/09-ob/img-20180801-wa0002.jpg"
 ---
 

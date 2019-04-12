@@ -2,9 +2,8 @@
 layout: post
 title: "Lori Loughlin uit serie geknipt"
 date: Thu, 11 Apr 2019 08:27:58 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3428218/lori-loughlin-uit-serie-geknipt"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/fc90554a-5c36-11e9-a27a-02d1dbdc35d1.jpg"
 ---
 

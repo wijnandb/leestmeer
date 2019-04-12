@@ -2,7 +2,9 @@
 layout: post
 title: "Alaphilippe slaat ook toe in Baskenland, Schachmann blijft leider"
 date: Tue, 09 Apr 2019 17:28:05 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2279709"
 feature_image: "https://nos.nl/data/image/2019/04/09/542514/1008x567.jpg"
 ---

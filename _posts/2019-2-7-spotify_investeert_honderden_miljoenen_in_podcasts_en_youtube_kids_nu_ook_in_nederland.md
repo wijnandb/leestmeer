@@ -4,7 +4,6 @@ title: "Spotify investeert honderden miljoenen in podcasts en Youtube Kids nu oo
 date: Thu, 07 Feb 2019 16:11:13 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4088/nporadio1_nosop3techpodcast_20190207_spotify-investeert-honderden-miljoenen-in-podcasts-en-youtube-kids-nu-ook-in-nederland.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4088/nporadio1_nosop3techpodcast_20190207_spotify-investeert-honderden-miljoenen-in-podcasts-en-youtube-kids-nu-ook-in-nederland.mp3"
 ---
 
 0:00 Groot podcastnieuws deze week: Spotify neemt Gimlet Media en Anchor over. Door deze overnames wordt Spotify een belangrijke podcastapp, verwacht Anne Janssens van Podcastplatform Dag en Nacht Media.

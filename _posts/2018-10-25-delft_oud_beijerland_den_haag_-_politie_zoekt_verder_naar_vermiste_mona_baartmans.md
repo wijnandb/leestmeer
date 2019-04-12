@@ -5,6 +5,7 @@ date: Thu, 25 Oct 2018 13:07:00 GMT
 categories: 
 - zuid-holland 
 - oud-beijerland 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/25/06---delft-politie-zoekt-verder-naar-mona-baartmans.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/oktober/06-dh/opnames-ov_oktober-2018.jpg"
 ---
 

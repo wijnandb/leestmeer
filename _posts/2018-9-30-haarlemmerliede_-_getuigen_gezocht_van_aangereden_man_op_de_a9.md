@@ -5,6 +5,7 @@ date: Sun, 30 Sep 2018 10:13:00 GMT
 categories: 
 - noord-holland 
 - haarlemmerliede 
+externe_link: "https://www.politie.nl/nieuws/2018/september/30/04-getuigen-gezocht-van-aangereden-man-op-de-a9.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/politiemotor-geparkeerd.jpg"
 ---
 

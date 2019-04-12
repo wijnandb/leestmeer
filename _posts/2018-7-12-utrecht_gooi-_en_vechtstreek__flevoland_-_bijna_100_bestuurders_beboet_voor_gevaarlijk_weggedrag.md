@@ -5,6 +5,7 @@ date: Thu, 12 Jul 2018 11:32:00 GMT
 categories: 
 - flevoland 
 - lelystad 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/12/03-mdn-bijna-100-bestuurders-beboet-voor-gevaarlijk-weggedrag.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/juli/03-mn/actie-goliath2-bewerkt.jpg"
 ---
 

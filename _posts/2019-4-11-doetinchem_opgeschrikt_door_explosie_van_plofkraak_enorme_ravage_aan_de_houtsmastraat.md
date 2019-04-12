@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 21:32:00 GMT
 categories: 
 - gelderland 
 - doetinchem 
+externe_link: "https://www.ad.nl/doetinchem/doetinchem-opgeschrikt-door-explosie-van-plofkraak-enorme-ravage-aan-de-houtsmastraat~a93139fe/"
 feature_image: "https://images1.persgroep.net/rcs/-eOn-JxWV57YhfbLu4ltX7SHiIg/diocontent/145341826/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

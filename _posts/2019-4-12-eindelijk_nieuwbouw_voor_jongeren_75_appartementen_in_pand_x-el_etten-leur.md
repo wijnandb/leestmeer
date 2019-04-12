@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 08:01:29 GMT
 categories: 
 - noord-brabant 
 - etten-leur 
+externe_link: "https://www.ad.nl/etten-leur/eindelijk-nieuwbouw-voor-jongeren-75-appartementen-in-pand-x-el-etten-leur~a5a38cc8/"
 feature_image: "https://images3.persgroep.net/rcs/f3Tpv8U38yDaMetmI3IdtcO-9vI/diocontent/145311306/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

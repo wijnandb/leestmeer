@@ -5,6 +5,7 @@ date: Fri, 25 May 2018 08:53:00 GMT
 categories: 
 - zuid-holland 
 - bergambacht 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/25/01---twee-aanhoudingen-na-aantreffen-chemicalien-voor-synthetische-drugs.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/drugs/drugsvaten.jpg"
 ---
 

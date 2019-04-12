@@ -2,7 +2,9 @@
 layout: post
 title: "Duncan Laurence werkt aan nieuwe muziek"
 date: Tue, 09 Apr 2019 12:44:27 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3416691/duncan-laurence-werkt-aan-nieuwe-muziek"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e6f0c7a0-5aca-11e9-8596-02d1dbdc35d1.jpg"
 ---

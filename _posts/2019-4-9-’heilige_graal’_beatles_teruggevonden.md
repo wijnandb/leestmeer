@@ -2,7 +2,9 @@
 layout: post
 title: "’Heilige graal’ Beatles teruggevonden"
 date: Tue, 09 Apr 2019 10:22:46 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3415478/heilige-graal-beatles-teruggevonden"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a1f4d6d2-5aa7-11e9-8851-02d2fb1aa1d7.jpg"
 ---

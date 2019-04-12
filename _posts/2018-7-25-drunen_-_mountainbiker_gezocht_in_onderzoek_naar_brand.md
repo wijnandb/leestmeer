@@ -5,6 +5,7 @@ date: Wed, 25 Jul 2018 12:54:00 GMT
 categories: 
 - noord-brabant 
 - heusden 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/25/09-mountainbiker-gezocht-in-onderzoek-naar-brand.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/juli/09-ob/duinen.jpg"
 ---
 

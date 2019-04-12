@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 17:46:33 GMT
 categories: 
 - noord-brabant 
 - tilburg 
+externe_link: "https://www.ad.nl/tilburg/arrestatieteam-valt-woning-in-tilburg-binnen-en-arresteert-man-vanwege-eerdere-dreiging~ad27f3a4/"
 feature_image: "https://images3.persgroep.net/rcs/OpcVdn3fB3ZcWmcxJRzKZmw8q2g/diocontent/145328674/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

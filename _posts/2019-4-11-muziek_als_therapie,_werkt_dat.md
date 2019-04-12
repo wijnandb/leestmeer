@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 17:00:19 +0200
 categories: 
 - overig 
 - gezondheid 
+externe_link: "https://www.nu.nl/gezondheid/5834910/muziek-als-therapie-werkt-dat.html"
 feature_image: "https://media.nu.nl/m/u6pxv0ba4neh_sqr256.jpg/muziek-als-therapie-werkt-dat.jpg"
 ---
 

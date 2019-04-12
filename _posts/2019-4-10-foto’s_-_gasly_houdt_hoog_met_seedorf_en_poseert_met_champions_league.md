@@ -2,7 +2,9 @@
 layout: post
 title: "Foto’s - Gasly houdt hoog met Seedorf en poseert met Champions League"
 date: Wed, 10 Apr 2019 18:57:57 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3426772/foto-s-gasly-houdt-hoog-met-seedorf-en-poseert-met-champions-league"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ca27d324-5bb1-11e9-a00c-02c309bc01c1.jpg"
 ---

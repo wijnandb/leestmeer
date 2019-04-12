@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 01:49:09 GMT
 categories: 
 - entertainment 
 - show 
+externe_link: "https://www.ad.nl/show/disney-gaat-in-november-met-streamingdienst-strijd-aan-met-netflix~a1a984b3/"
 feature_image: "https://images1.persgroep.net/rcs/I4KDPW6wbnmsLuL069yVFNxZ7_Y/diocontent/145349171/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

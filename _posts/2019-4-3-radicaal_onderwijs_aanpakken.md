@@ -3,8 +3,8 @@ layout: post
 title: "Radicaal onderwijs aanpakken"
 date: Wed, 03 Apr 2019 09:04:00 +0200
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/nieuws/3386311/radicaal-onderwijs-aanpakken"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/716e9fba-55df-11e9-a54a-02c309bc01c1.jpg"
 ---

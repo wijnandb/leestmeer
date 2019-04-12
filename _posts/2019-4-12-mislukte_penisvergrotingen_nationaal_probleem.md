@@ -2,7 +2,7 @@
 layout: post
 title: "Mislukte penisvergrotingen nationaal probleem"
 date: Fri, 12 Apr 2019 08:24:47 +0200
-category: buitenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3434553/mislukte-penisvergrotingen-nationaal-probleem"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c3c36ca6-5ceb-11e9-ba01-0255c322e81b.jpg"
 ---

@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 09:00:00 GMT
 categories: 
 - sport 
 - andere_sporten 
+externe_link: "https://www.ad.nl/dordrecht/dutch-windmills-uit-de-competitie-gehaald~adebf73d/"
 feature_image: "https://images4.persgroep.net/rcs/36EdjX7HTFBrIEu8GxQOYrQnbhs/diocontent/141564998/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Pierie tekent voor 5 jaar bij Ajax"
 date: Fri, 12 Apr 2019 06:38:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3434185/pierie-tekent-voor-5-jaar-bij-ajax"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/49e855f2-5ced-11e9-9635-02c309bc01c1.jpg"
 ---

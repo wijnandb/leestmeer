@@ -2,9 +2,8 @@
 layout: post
 title: "Delft - Gezocht - Nieuwe info zoektocht naar Errol Janssen"
 date: Tue, 12 Mar 2019 08:29:00 GMT
-categories: 
-- fryslan 
-- franekeradeel 
+category: fryslan
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/06-dh/tw-12-03/06-nieuwe-info-zoektocht-naar-errol-janssen.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/06-dh/tw-12-03/190312_team_auto-errol-janssen.jpg"
 ---
 

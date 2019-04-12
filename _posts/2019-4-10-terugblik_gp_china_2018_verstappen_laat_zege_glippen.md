@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 11:05:59 +0200
 categories: 
 - sport 
 - autosport 
+externe_link: "https://www.telegraaf.nl/sport/3422569/terugblik-gp-china-2018-verstappen-laat-zege-glippen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/db58d5a4-5b6f-11e9-8c76-02d1dbdc35d1.jpg"
 ---
 

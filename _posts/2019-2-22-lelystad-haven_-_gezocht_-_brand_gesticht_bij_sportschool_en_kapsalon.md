@@ -2,9 +2,8 @@
 layout: post
 title: "Lelystad-Haven - Gezocht - Brand gesticht bij sportschool en kapsalon"
 date: Fri, 22 Feb 2019 07:32:00 GMT
-categories: 
-- flevoland 
-- lelystad 
+category: flevoland
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/03-brand-gesticht-bij-sportschool.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/brandweerauto.jpg"
 ---
 

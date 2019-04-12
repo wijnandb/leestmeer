@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 05:30:55 GMT
 categories: 
 - gelderland 
 - arnhem 
+externe_link: "https://www.ad.nl/arnhem/nieuwe-bomen-op-geelkerkenkamp-in-oosterbeek-buurt-overweegt-stap-naar-rechter~a4a8c2cb/"
 feature_image: "https://images2.persgroep.net/rcs/K7MnKBYUph-Su1dc0uiNWdur8UE/diocontent/100619165/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

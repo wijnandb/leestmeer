@@ -5,6 +5,7 @@ date: Sat, 16 Feb 2019 07:59:00 GMT
 categories: 
 - zuid-holland 
 - delft 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/16/06-delft-politie-zoekt-getuigen-van-steekincident-papsouwselaan-delft.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/zijkant-politieauto-met-logo.jpg"
 ---
 

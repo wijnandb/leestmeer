@@ -5,6 +5,7 @@ date: Mon, 12 Nov 2018 14:47:00 GMT
 categories: 
 - zeeland 
 - noord-beveland 
+externe_link: "https://www.politie.nl/nieuws/2018/november/12/08-politie-vraagt-benadeelde-horecaondernemers-van-flessentrekker-aangifte-te-doen.html"
 ---
 
 De politie heeft de afgelopen tijd twee aangiften opgenomen van gedupeerde horecaondernemers van een zogenoemde flessentrekker. De politie vermoedt dat de man dit vaker doet en roept benadeelden op om aangifte te doen. 

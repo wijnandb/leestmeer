@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 11:04:00 GMT
 categories: 
 - noord-brabant 
 - breda 
+externe_link: "https://www.ad.nl/breda/misverstand-verdwenen-anwb-wegwijzer-baarle-nassau-is-terecht~a057b05f/"
 feature_image: "https://images0.persgroep.net/rcs/2FK5BseLp1wxXBpFQGHb_pV-8r4/diocontent/145167718/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

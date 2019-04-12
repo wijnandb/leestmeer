@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 12:55:15 GMT
 categories: 
 - noord-brabant 
 - helmond 
+externe_link: "https://www.ad.nl/helmond/de-meest-bonte-bieb-ter-wereld-dankzij-de-stoffen-van-vlisco-uit-helmond~a4e389ab/"
 feature_image: "https://images2.persgroep.net/rcs/LPL5X0s6UOu4P7FfkU4GffGycFw/diocontent/145098364/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

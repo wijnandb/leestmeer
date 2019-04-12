@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: De borsten van Britt en een iPhone zonder koptele
 date: Thu, 08 Sep 2016 16:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4209/nporadio1_nosop3techpodcast_20160908_nos-op-3-tech-podcast-de-borsten-van-britt-en-een-iphone-zonder-koptelefooningang.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4209/nporadio1_nosop3techpodcast_20160908_nos-op-3-tech-podcast-de-borsten-van-britt-en-een-iphone-zonder-koptelefooningang.mp3"
 ---
 
 Zowel Apple als Sony presenteerden nieuwe apparaten. Beiden gaan 't anders doen dan ze deden: Apple gooit de koptelefoonaansluiting in hun nieuwe iPhone eruit en Sony komt eerder dan we van ze gewend zijn met een nieuwe console.

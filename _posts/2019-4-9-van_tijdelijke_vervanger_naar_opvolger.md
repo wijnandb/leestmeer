@@ -2,7 +2,9 @@
 layout: post
 title: "Van tijdelijke vervanger naar opvolger"
 date: Tue, 09 Apr 2019 10:10:23 +0200
-category: financieel
+categories: 
+- financieel 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/3415152/van-tijdelijke-vervanger-naar-opvolger"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ecbd71b4-5a9e-11e9-a56a-02c309bc01c1.jpg"
 ---

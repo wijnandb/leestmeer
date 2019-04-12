@@ -4,7 +4,6 @@ title: "Handige nieuwe bankierapps dankzij PSD2 en extreme reacties op social me
 date: Thu, 21 Feb 2019 17:19:53 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4387/nporadio1_nosop3techpodcast_20190221_handige-nieuwe-bankierapps-dankzij-psd2-en-extreme-reacties-op-social-media_4JU9ZD.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4387/nporadio1_nosop3techpodcast_20190221_handige-nieuwe-bankierapps-dankzij-psd2-en-extreme-reacties-op-social-media_4JU9ZD.mp3"
 ---
 
 0:00 Slachtoffers en nabestaanden van ongelukken en misdrijven krijgen op social media vaak allerlei nare opmerkingen van mensen die ze niet kennen. Daar moeten we mee ophouden, vindt Stichting Slachtofferhulp.

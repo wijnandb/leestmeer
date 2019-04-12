@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 06:09:00 GMT
 categories: 
 - gelderland 
 - rivierenland 
+externe_link: "https://www.ad.nl/rivierenland/groen-licht-voor-kade-aan-de-krinkelwinkel-in-gorinchem~ae528e7d/"
 feature_image: "https://images0.persgroep.net/rcs/YRDtks2Tt_7_T2i5_05M-dRbS_s/diocontent/108281176/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

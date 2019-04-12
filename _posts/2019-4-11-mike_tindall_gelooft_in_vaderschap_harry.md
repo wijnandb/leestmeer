@@ -2,9 +2,8 @@
 layout: post
 title: "Mike Tindall gelooft in vaderschap Harry"
 date: Thu, 11 Apr 2019 11:37:02 +0200
-categories: 
-- entertainment 
-- royalty 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3429466/mike-tindall-gelooft-in-vaderschap-harry"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5c39eece-5c3d-11e9-b144-0255c322e81b.jpg"
 ---
 

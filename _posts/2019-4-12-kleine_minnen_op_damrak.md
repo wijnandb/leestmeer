@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 08:25:00 GMT
 categories: 
 - noord-holland 
 - amsterdam 
+externe_link: "https://www.ad.nl/amsterdam/kleine-minnen-op-damrak~a75e64ba/"
 feature_image: "https://images2.persgroep.net/rcs/EB8z-MY5De8ku7UDnCI9hsYXSFM/diocontent/145371814/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

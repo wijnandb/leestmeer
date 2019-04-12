@@ -5,6 +5,7 @@ date: Tue, 10 Jan 2017 13:45:00 GMT
 categories: 
 - zuid-holland 
 - binnenmaas 
+externe_link: "https://www.politie.nl/nieuws/2017/januari/10/07-invallen-na-onderzoek-woninginbraken.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/januari/07-rt/kluis.jpg"
 ---
 

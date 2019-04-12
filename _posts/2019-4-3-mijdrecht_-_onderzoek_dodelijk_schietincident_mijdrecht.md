@@ -5,6 +5,7 @@ date: Wed, 03 Apr 2019 09:32:00 GMT
 categories: 
 - utrecht 
 - de_ronde_venen 
+externe_link: "https://www.politie.nl/nieuws/2019/april/3/03-mijdrecht-schietincident.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/afzetlint.jpg"
 ---
 

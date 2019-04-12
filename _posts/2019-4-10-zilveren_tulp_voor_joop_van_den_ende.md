@@ -4,7 +4,7 @@ title: "Zilveren Tulp voor Joop van den Ende"
 date: Wed, 10 Apr 2019 06:12:15 GMT
 categories: 
 - entertainment 
-- show 
+- cultuur 
 externe_link: "https://www.ad.nl/show/zilveren-tulp-voor-joop-van-den-ende~a8213673/"
 feature_image: "https://images1.persgroep.net/rcs/ADfW94G6As1UB4isznoap1bA9oc/diocontent/118214840/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

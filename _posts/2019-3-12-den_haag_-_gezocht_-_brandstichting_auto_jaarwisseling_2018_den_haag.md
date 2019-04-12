@@ -5,6 +5,7 @@ date: Tue, 12 Mar 2019 07:53:00 GMT
 categories: 
 - zuid-holland 
 - den_haag 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/06-dh/tw-12-03/06-brandstichting-personenauto-den-haag.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/06-dh/tw-12-03/190312_team_brandstichting-bussumsestraat-1.jpg"
 ---
 

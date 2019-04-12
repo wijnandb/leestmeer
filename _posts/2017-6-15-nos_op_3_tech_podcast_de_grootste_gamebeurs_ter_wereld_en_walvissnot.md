@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: De grootste gamebeurs ter wereld en walvissnot"
 date: Thu, 15 Jun 2017 17:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4170/nporadio1_nosop3techpodcast_20170615_nos-op-3-tech-podcast-de-grootste-gamebeurs-ter-wereld-en-walvissnot.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4170/nporadio1_nosop3techpodcast_20170615_nos-op-3-tech-podcast-de-grootste-gamebeurs-ter-wereld-en-walvissnot.mp3"
 ---
 
 0:00 Het is een spannende week voor gamers over de hele wereld, want de E3 is weer bezig. Dat is de grootste gamebeurs van de wereld waar heleboel nieuwe spellen worden aangekondigd en gespeeld. Wij vatten het belangrijkste nieuws voor je samen.

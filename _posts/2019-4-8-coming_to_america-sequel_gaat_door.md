@@ -2,7 +2,9 @@
 layout: post
 title: "Coming to America-sequel gaat door"
 date: Mon, 08 Apr 2019 23:40:44 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3414293/coming-to-america-sequel-gaat-door"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0e3bca9e-5a49-11e9-a528-02c309bc01c1.jpg"
 ---

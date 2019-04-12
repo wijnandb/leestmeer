@@ -4,7 +4,8 @@ title: "Nieuwe muziek van muzikant Dio verloren na auto-inbraak"
 date: Thu, 11 Apr 2019 14:12:15 +0200
 categories: 
 - entertainment 
-- achterklap 
+- muziek 
+externe_link: "https://www.nu.nl/achterklap/5837919/nieuwe-muziek-van-muzikant-dio-verloren-na-auto-inbraak.html"
 feature_image: "https://media.nu.nl/m/ju5x1s8a33j1_sqr256.jpg/nieuwe-muziek-van-muzikant-dio-verloren-na-auto-inbraak.jpg"
 ---
 

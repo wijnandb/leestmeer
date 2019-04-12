@@ -2,7 +2,9 @@
 layout: post
 title: "Sport Kort: Badloe passeert Van Rijsselberghe op EK"
 date: Wed, 10 Apr 2019 20:12:00 +0200
-category: sport
+categories: 
+- sport 
+- scoreboard 
 externe_link: "https://www.telegraaf.nl/sport/3421543/sport-kort-badloe-passeert-van-rijsselberghe-op-ek"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0aae09d2-5bc0-11e9-b343-02c309bc01c1.jpg"
 ---

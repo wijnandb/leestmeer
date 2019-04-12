@@ -2,7 +2,7 @@
 layout: post
 title: "‘Blanke man moet mannelijkheid kunnen vieren’"
 date: Thu, 11 Apr 2019 16:14:51 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3432100/blanke-man-moet-mannelijkheid-kunnen-vieren"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/44f1de26-5c64-11e9-bda1-02d2fb1aa1d7.jpg"
 ---

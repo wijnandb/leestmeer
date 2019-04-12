@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 17:46:11 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.ad.nl/nijmegen/neeltje-vindt-gigantisch-opblaasei-van-jamin-in-nijmegen~ab750e99f/"
 feature_image: "https://images2.persgroep.net/rcs/DC_Tv171QrkcrclwmEMHDVBqZjs/diocontent/145310618/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

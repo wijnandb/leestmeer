@@ -5,6 +5,7 @@ date: Fri, 08 Mar 2019 09:53:00 GMT
 categories: 
 - noord-brabant 
 - waalwijk 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/8/08-spullen-voor-kweken-van-hennep-gevonden-tijdens-integrale-controle.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/08-zw/sprangcapellehennep.jpg"
 ---
 

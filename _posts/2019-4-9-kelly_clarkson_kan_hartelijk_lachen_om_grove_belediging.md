@@ -2,7 +2,9 @@
 layout: post
 title: "Kelly Clarkson kan hartelijk lachen om grove belediging"
 date: Tue, 09 Apr 2019 11:23:41 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3416012/kelly-clarkson-kan-hartelijk-lachen-om-grove-belediging"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2a160990-5aa9-11e9-9815-0218eaf05005.jpg"
 ---

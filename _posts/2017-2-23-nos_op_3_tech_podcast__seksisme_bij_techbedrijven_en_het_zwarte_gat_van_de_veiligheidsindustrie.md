@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast:  Seksisme bij techbedrijven en het zwarte gat van
 date: Thu, 23 Feb 2017 16:30:00 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4185/nporadio1_nosop3techpodcast_20170223_nos-op-3-tech-podcast-seksisme-bij-techbedrijven-en-het-zwarte-gat-van-de-veiligheidsindustrie.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4185/nporadio1_nosop3techpodcast_20170223_nos-op-3-tech-podcast-seksisme-bij-techbedrijven-en-het-zwarte-gat-van-de-veiligheidsindustrie.mp3"
 ---
 
 Het veilig houden van Europa is Big Business. Jaarlijks gaan er miljarden Europese subsidie naar de ontwikkeling van nieuwe veiligheids-technologie, maar wordt Europa er daadwerkelijk veiliger van?

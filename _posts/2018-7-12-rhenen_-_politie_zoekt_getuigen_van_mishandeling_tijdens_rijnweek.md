@@ -5,6 +5,7 @@ date: Thu, 12 Jul 2018 13:00:00 GMT
 categories: 
 - utrecht 
 - rhenen 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/12/03-politie-zoekt-getuigen-van-mishandeling-tijdens-rijnweek.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/mouw-nieuwe-uniform-politie.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 05 Jan 2017 10:34:00 GMT
 categories: 
 - gelderland 
 - neerijnen 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/dossiers/2017/10-echt-hugo-charles-al-jaren-vermist/de-zaak.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/dossiers/2017/coldcasekalender-fotos/10-lg/charles.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 29 Nov 2018 10:07:00 GMT
 categories: 
 - utrecht 
 - zeist 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/november/03-zeist-28-scheermesjes-gestolen-uit-supermarkt.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/november/03-mn/zeist-28-winkeldfst.jpg"
 ---
 

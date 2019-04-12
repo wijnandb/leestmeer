@@ -2,9 +2,8 @@
 layout: post
 title: "Rechtbank zuivert naam Geoffrey Rush"
 date: Thu, 11 Apr 2019 10:36:25 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3428865/rechtbank-zuivert-naam-geoffrey-rush"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e02fe668-5c36-11e9-b4ef-0217670beecd.jpg"
 ---
 

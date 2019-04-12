@@ -5,6 +5,7 @@ date: Tue, 08 Nov 2016 13:39:00 GMT
 categories: 
 - noord-holland 
 - bussum 
+externe_link: "https://www.politie.nl/nieuws/2016/november/8/03-politie-zoekt-getuigen-van-bedrijfsinbraak.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/intake-en-service-en-meldkamer/bord-met-logo-politie.jpg"
 ---
 

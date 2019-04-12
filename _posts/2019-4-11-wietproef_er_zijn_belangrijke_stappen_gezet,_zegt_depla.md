@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 17:00:14 GMT
 categories: 
 - noord-brabant 
 - breda 
+externe_link: "https://www.ad.nl/breda/wietproef-er-zijn-belangrijke-stappen-gezet-zegt-depla~ae895949/"
 feature_image: "https://images2.persgroep.net/rcs/57jGjkW_FQFXHNBBNkK6o9K1vPE/diocontent/117519143/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

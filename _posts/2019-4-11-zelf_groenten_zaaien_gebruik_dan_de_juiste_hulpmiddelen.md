@@ -2,7 +2,9 @@
 layout: post
 title: "Zelf groenten zaaien? Gebruik dan de juiste hulpmiddelen"
 date: Thu, 11 Apr 2019 06:37:55 GMT
-category: nieuws
+categories: 
+- overig 
+- wonen 
 externe_link: "https://www.ad.nl/wonen/zelf-groenten-zaaien-gebruik-dan-de-juiste-hulpmiddelen~ad881033/"
 feature_image: "https://images1.persgroep.net/rcs/6ZGUDX_dRtbT3-dlke27mPd5HGQ/diocontent/145288719/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Jakobsen herhaalt huzarenstukje in Scheldeprijs"
 date: Wed, 10 Apr 2019 17:25:43 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2279872"
 feature_image: "https://nos.nl/data/image/2019/04/10/542725/1008x567.jpg"
 ---

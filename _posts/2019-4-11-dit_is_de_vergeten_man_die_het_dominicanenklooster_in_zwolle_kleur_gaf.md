@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 07:01:00 GMT
 categories: 
 - overijssel 
 - zwolle 
+externe_link: "https://www.ad.nl/zwolle/dit-is-de-vergeten-man-die-het-dominicanenklooster-in-zwolle-kleur-gaf~a5bd7169/"
 feature_image: "https://images1.persgroep.net/rcs/VTPANoPYWgnOxdmBsx6xMjGcrtQ/diocontent/145226351/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -2,9 +2,8 @@
 layout: post
 title: "’Geadopteerden hebben concreet hulp nodig’"
 date: Thu, 11 Apr 2019 06:15:00 +0200
-categories: 
-- entertainment 
-- opinie 
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3425812/geadopteerden-hebben-concreet-hulp-nodig"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/cb2b4274-5bfc-11e9-9a52-0218eaf05005.jpg"
 ---
 

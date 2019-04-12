@@ -5,6 +5,7 @@ date: Sun, 20 Jan 2019 09:02:00 GMT
 categories: 
 - zuid-holland 
 - delft 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/20/06-delft-verdachte-aangehouden-na-diefstal-vanaf-balkon.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/ambulance.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Sun, 22 Apr 2018 08:03:00 GMT
 categories: 
 - noord-holland 
 - wormerland 
+externe_link: "https://www.politie.nl/nieuws/2018/april/22/04-omstanders-grijpen-woninginbreker.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/politieheliec135.jpg"
 ---
 

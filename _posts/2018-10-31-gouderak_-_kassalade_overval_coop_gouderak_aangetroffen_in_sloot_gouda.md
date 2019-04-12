@@ -5,6 +5,7 @@ date: Wed, 31 Oct 2018 12:26:00 GMT
 categories: 
 - zuid-holland 
 - ouderkerk 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/31/06-gouderak-kassalade-overval-coop-gouderak-aangetroffen-in-sloot-gouda.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/oktober/06-dh/ltozdef.jpg"
 ---
 

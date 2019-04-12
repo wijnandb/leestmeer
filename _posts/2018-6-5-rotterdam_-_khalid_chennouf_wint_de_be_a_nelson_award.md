@@ -5,6 +5,7 @@ date: Tue, 05 Jun 2018 19:47:00 GMT
 categories: 
 - zuid-holland 
 - hellevoetsluis 
+externe_link: "https://www.politie.nl/nieuws/2018/juni/5/khalid-chennouf-wint-de-be-a-nelson-award.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/juni/07-rt/iftar2018.jpg"
 ---
 

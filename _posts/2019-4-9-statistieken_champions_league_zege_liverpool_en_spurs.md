@@ -2,7 +2,9 @@
 layout: post
 title: "Statistieken Champions League: Zege Liverpool en Spurs"
 date: Tue, 09 Apr 2019 23:58:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3420516/statistieken-champions-league-zege-liverpool-en-spurs"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1aa6bc84-5b17-11e9-a00c-02c309bc01c1.jpg"
 ---

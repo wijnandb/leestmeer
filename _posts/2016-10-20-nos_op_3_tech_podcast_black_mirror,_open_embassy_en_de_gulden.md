@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Black Mirror, Open Embassy en de Gulden"
 date: Thu, 20 Oct 2016 17:15:19 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4203/nporadio1_nosop3techpodcast_20161020_nos-op-3-tech-podcast-black-mirror-open-embassy-en-de-gulden.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4203/nporadio1_nosop3techpodcast_20161020_nos-op-3-tech-podcast-black-mirror-open-embassy-en-de-gulden.mp3"
 ---
 
 Tijd voor een nieuwe NOS op 3 Tech Podcast! Iedere week hoor je bij ons het laatste nieuws en ontwikkelingen op het gebied van tech, sociale media, apps en meer.

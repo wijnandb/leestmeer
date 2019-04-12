@@ -5,6 +5,7 @@ date: Mon, 07 Jan 2019 15:09:00 GMT
 categories: 
 - zuid-holland 
 - dordrecht 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/7/07-politie-houdt-vier-mensen-aan-na-megadiefstal-koper.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-3.jpg"
 ---
 

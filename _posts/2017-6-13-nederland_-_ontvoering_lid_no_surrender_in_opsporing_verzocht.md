@@ -5,6 +5,7 @@ date: Tue, 13 Jun 2017 18:15:00 GMT
 categories: 
 - zuid-holland 
 - binnenmaas 
+externe_link: "https://www.politie.nl/nieuws/2017/juni/13/00-opsporing-verzocht-13-juni.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/gezocht/opsporing-verzocht/algemeen-beeld/nieuw-uniform-tijdens-ov---belpanel-verkleind.jpg"
 ---
 

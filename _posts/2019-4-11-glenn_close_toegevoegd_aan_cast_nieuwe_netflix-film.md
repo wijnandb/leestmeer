@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 20:20:53 +0200
 categories: 
 - entertainment 
 - film 
+externe_link: "https://www.nu.nl/film/5839008/glenn-close-toegevoegd-aan-cast-nieuwe-netflix-film.html"
 feature_image: "https://media.nu.nl/m/2q8xes7aze6f_sqr256.jpg/glenn-close-toegevoegd-aan-cast-nieuwe-netflix-film.jpg"
 ---
 

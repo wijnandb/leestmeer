@@ -5,6 +5,7 @@ date: Fri, 14 Dec 2018 14:54:00 GMT
 categories: 
 - zuid-holland 
 - noordwijk 
+externe_link: "https://www.politie.nl/nieuws/2018/december/14/06-den-haag-noordwijk-drie-veroordeelden-aangehouden-door-eva-team.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

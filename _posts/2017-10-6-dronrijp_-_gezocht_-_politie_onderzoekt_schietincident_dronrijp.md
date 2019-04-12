@@ -2,9 +2,8 @@
 layout: post
 title: "Dronrijp - Gezocht - Politie onderzoekt schietincident Dronrijp"
 date: Fri, 06 Oct 2017 11:09:00 GMT
-categories: 
-- fryslan 
-- menameradiel 
+category: fryslan
+externe_link: "https://www.politie.nl/gezocht-en-vermist/dossiers/2017/01-dronrijp-schietincident-dotinga-tun/politie-onderzoekt-schietincident-dronrijp.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/dossiers/2017/tgo-kenjar-dronrijp/dronrijp.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Fri, 12 May 2017 09:21:00 GMT
 categories: 
 - drenthe 
 - westerveld 
+externe_link: "https://www.politie.nl/nieuws/2017/mei/12/01-aangehouden-oplichter-gaf-zich-uit-als-arts.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/ingesloten-op-politiebureau-2.jpg"
 ---
 

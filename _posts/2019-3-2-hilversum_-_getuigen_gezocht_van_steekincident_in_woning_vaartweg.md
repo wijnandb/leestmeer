@@ -5,6 +5,7 @@ date: Sat, 02 Mar 2019 10:35:00 GMT
 categories: 
 - noord-holland 
 - hilversum 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/2/03-getuigen-gezocht-van-steekincident-in-woning-vaartweg.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/zijkant-politieauto-met-logo.jpg"
 ---
 

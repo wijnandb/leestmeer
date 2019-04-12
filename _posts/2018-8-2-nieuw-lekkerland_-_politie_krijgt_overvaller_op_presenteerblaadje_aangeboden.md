@@ -5,6 +5,7 @@ date: Thu, 02 Aug 2018 08:10:00 GMT
 categories: 
 - zuid-holland 
 - molenwaard 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/2/07-politie-krijgt-overvaller-op-presenteerblaadje-aangeboden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/augustus/07-rt/alblasserdamsnieuws.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Video: ’Toekomst’ versus ’Oude Dame’"
 date: Wed, 10 Apr 2019 11:16:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3421582/video-toekomst-versus-oude-dame"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5565f240-5b71-11e9-b144-0255c322e81b.jpg"
 ---

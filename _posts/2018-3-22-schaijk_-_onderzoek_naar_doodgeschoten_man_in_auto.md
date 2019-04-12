@@ -5,6 +5,7 @@ date: Thu, 22 Mar 2018 19:12:00 GMT
 categories: 
 - noord-brabant 
 - landerd 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/22/09-onderzoek-naar-doodgeschoten-man-in-auto.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/maart/09-ob/20180322_170549.jpg"
 ---
 

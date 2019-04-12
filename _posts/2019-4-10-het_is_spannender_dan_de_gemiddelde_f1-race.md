@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 18:12:05 +0200
 categories: 
 - entertainment 
 - opinie 
+externe_link: "https://www.telegraaf.nl/columns/3426596/het-is-spannender-dan-de-gemiddelde-f1-race"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4cbba160-5beb-11e9-ac91-02d2fb1aa1d7.jpg"
 ---
 

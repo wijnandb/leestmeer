@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 07:28:46 +0200
 categories: 
 - entertainment 
 - film 
+externe_link: "https://www.nu.nl/film/5839314/streamingdienst-van-disney-komt-met-serie-van-love-simon.html"
 feature_image: "https://media.nu.nl/m/a6qxqwxakrq3_sqr256.jpg/streamingdienst-van-disney-komt-met-serie-van-love-simon.jpg"
 ---
 

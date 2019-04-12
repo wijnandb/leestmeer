@@ -2,7 +2,7 @@
 layout: post
 title: "Gewonden bij brand op boten in haven Dordrecht"
 date: Thu, 11 Apr 2019 18:13:11 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3432892/gewonden-bij-brand-op-boten-in-haven-dordrecht"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ca8d393e-5c7a-11e9-9635-02c309bc01c1.jpg"
 ---

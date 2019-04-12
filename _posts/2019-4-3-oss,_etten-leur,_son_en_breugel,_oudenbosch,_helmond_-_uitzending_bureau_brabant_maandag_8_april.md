@@ -4,7 +4,8 @@ title: "Oss, Etten-Leur, Son en Breugel, Oudenbosch, Helmond - Uitzending Bureau
 date: Wed, 03 Apr 2019 12:25:00 GMT
 categories: 
 - noord-brabant 
-- etten-leur 
+- son_en_breugel 
+externe_link: "https://www.politie.nl/nieuws/2019/april/1/08-uitzending-bureau-brabant-maandag-8-april.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/april/09-ob/20190403_113206.jpg"
 ---
 

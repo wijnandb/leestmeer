@@ -5,6 +5,7 @@ date: Thu, 20 Dec 2018 09:48:00 GMT
 categories: 
 - utrecht 
 - houten 
+externe_link: "https://www.politie.nl/nieuws/2018/december/20/03-identiteit-inbreker-friezenpoort-bekend.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/onderzoek-in-woning-naar-inbraak.jpg"
 ---
 

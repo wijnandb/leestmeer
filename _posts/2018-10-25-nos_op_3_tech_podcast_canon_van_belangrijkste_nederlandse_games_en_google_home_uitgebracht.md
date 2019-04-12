@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Canon van belangrijkste Nederlandse games en Goog
 date: Thu, 25 Oct 2018 17:04:03 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4103/nporadio1_nosop3techpodcast_20181025_nos-op-3-tech-podcast-canon-van-belangrijkste-nederlandse-games-en-google-home-uitgebracht.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4103/nporadio1_nosop3techpodcast_20181025_nos-op-3-tech-podcast-canon-van-belangrijkste-nederlandse-games-en-google-home-uitgebracht.mp3"
 ---
 
 0:00 Saudi-Arabië heeft ontzettend veel geld geïnvesteerd in techbedrijven in Silicon Valley. Hoe reageren die bedrijven op de moord op de kritische Saudische journalist Jamal Khashoggi?

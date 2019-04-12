@@ -5,6 +5,7 @@ date: Mon, 04 Jun 2018 13:55:00 GMT
 categories: 
 - zuid-holland 
 - brielle 
+externe_link: "https://www.politie.nl/nieuws/2018/juni/4/07-zeven-verdachten-aangehouden-na-mishandeling-in-brielle.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-door-agenten-op-straat.jpg"
 ---
 

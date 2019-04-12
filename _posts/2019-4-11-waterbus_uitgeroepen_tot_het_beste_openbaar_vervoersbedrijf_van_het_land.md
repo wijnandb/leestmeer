@@ -4,7 +4,8 @@ title: "Waterbus uitgeroepen tot het beste openbaar vervoersbedrijf van het land
 date: Thu, 11 Apr 2019 12:51:00 GMT
 categories: 
 - zuid-holland 
-- dordrecht 
+- rotterdam 
+externe_link: "https://www.ad.nl/dordrecht/waterbus-uitgeroepen-tot-het-beste-openbaar-vervoersbedrijf-van-het-land~a818a9de/"
 feature_image: "https://images0.persgroep.net/rcs/salGcgJQyuHjeZAie8llXs0UvGk/diocontent/106883167/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

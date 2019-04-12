@@ -2,7 +2,9 @@
 layout: post
 title: "Nielson maakt programma Vestrock compleet"
 date: Wed, 10 Apr 2019 16:37:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3425953/nielson-maakt-programma-vestrock-compleet"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/90ad1740-5b9c-11e9-bbde-0217670beecd.jpg"
 ---

@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 10:13:53 GMT
 categories: 
 - zuid-holland 
 - waterweg 
+externe_link: "https://www.ad.nl/waterweg/straatverlichting-industrieweg-in-vlaardingen-al-maanden-kapot~a34d073d/"
 feature_image: "https://images3.persgroep.net/rcs/wbwr4yCunK551I3JDPUYxm4K3Hk/diocontent/144214112/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

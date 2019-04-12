@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 16:47:00 GMT
 categories: 
 - zuid-holland 
 - voorne-putten 
+externe_link: "https://www.ad.nl/voorne-putten/kunstroute-nissewaard-beelden-en-schilderijen-sieren-de-polder~a1a963d0/"
 feature_image: "https://images4.persgroep.net/rcs/l5DXvyS9TXKS5LOtGQrZ8T-9WM0/diocontent/145179461/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

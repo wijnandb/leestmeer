@@ -5,6 +5,7 @@ date: Thu, 11 Jan 2018 10:12:00 GMT
 categories: 
 - flevoland 
 - lelystad 
+externe_link: "https://www.politie.nl/nieuws/2018/januari/11/03-man-om-het-leven-gekomen-zwartezeestraat-%E2%80%93-recherche-zoekt-getuigen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/gele-politiejas.jpg"
 ---
 

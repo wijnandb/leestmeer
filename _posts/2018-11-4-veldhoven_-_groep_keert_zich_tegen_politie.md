@@ -5,6 +5,7 @@ date: Sun, 04 Nov 2018 10:54:00 GMT
 categories: 
 - noord-brabant 
 - veldhoven 
+externe_link: "https://www.politie.nl/nieuws/2018/november/4/09-groep-keert-zicht-tegen-politie.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding---agent-drukt-verdachte-tegen-muur-om-boeien-om-te-doen.jpg"
 ---
 

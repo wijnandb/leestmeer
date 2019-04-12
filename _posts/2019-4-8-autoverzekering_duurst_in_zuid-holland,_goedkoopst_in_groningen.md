@@ -2,7 +2,9 @@
 layout: post
 title: "Autoverzekering duurst in Zuid-Holland, goedkoopst in Groningen"
 date: Mon, 08 Apr 2019 16:06:53 +0200
-category: financieel
+categories: 
+- financieel 
+- geld 
 externe_link: "https://www.telegraaf.nl/financieel/3412534/autoverzekering-duurst-in-zuid-holland-goedkoopst-in-groningen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0b498254-5a0d-11e9-bd41-0218eaf05005.jpg"
 ---

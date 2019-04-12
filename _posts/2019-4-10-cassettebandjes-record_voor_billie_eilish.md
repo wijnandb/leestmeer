@@ -2,7 +2,9 @@
 layout: post
 title: "Cassettebandjes-record voor Billie Eilish"
 date: Wed, 10 Apr 2019 11:05:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3422878/cassettebandjes-record-voor-billie-eilish"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/dbc235fc-5b7a-11e9-8c76-02d1dbdc35d1.jpg"
 ---

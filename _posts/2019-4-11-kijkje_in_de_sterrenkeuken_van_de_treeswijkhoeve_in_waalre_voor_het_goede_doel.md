@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 17:55:00 GMT
 categories: 
 - noord-brabant 
 - valkenswaard 
+externe_link: "https://www.ad.nl/valkenswaard/kijkje-in-de-sterrenkeuken-van-de-treeswijkhoeve-in-waalre-voor-het-goede-doel~acfa7507/"
 feature_image: "https://images1.persgroep.net/rcs/ouK2bMcsJE4BUdgydMIx5b1liZ8/diocontent/145244370/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

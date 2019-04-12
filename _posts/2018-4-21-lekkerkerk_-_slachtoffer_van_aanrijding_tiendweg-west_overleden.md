@@ -5,6 +5,7 @@ date: Sat, 21 Apr 2018 11:21:00 GMT
 categories: 
 - zuid-holland 
 - nederlek 
+externe_link: "https://www.politie.nl/nieuws/2018/april/21/06-lekkerkerk-slachtoffer-van-aanrijding-tiendweg-west-overleden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/detailopname-surveillancewagen.jpg"
 ---
 

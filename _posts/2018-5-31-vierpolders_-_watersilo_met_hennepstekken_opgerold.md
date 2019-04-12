@@ -5,6 +5,7 @@ date: Thu, 31 May 2018 11:54:00 GMT
 categories: 
 - zuid-holland 
 - brielle 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/31/07-watersilo-met-hennepstekken-opgerold.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/mei/07-rt/foto-watersilo-002.jpg"
 ---
 

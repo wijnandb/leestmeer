@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 09:56:10 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.ad.nl/den-bosch/roep-om-behoud-en-uitbreiding-van-ventweg-langs-n65-klinkt-steeds-luider-in-vught-er-is-een-petitie-gestart~ada46203/"
 feature_image: "https://images3.persgroep.net/rcs/bjYTvZsv6-eiAucvWcHi2fpewnw/diocontent/139544428/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

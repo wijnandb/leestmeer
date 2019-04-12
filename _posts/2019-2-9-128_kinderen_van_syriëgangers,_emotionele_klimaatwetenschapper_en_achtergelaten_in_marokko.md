@@ -4,7 +4,6 @@ title: "#128: Kinderen van Syriëgangers, Emotionele klimaatwetenschapper en ach
 date: Sat, 09 Feb 2019 16:40:18 +0100
 category: podcast
 externe_link: "https://podcast.npo.nl/file/het-beste-uit-het-oog/4063/nporadio1_het-beste-uit-het-oog_20190209_128-kinderen-van-syriegangers-emotionele-klimaatwetenschapper-en-achtergelaten-in-marokko_CBV7HR.mp3"
-feature_image: "https://podcast.npo.nl/file/het-beste-uit-het-oog/4063/nporadio1_het-beste-uit-het-oog_20190209_128-kinderen-van-syriegangers-emotionele-klimaatwetenschapper-en-achtergelaten-in-marokko_CBV7HR.mp3"
 ---
 
 Ons land is huiverig als het gaat om het terughalen van Syriëgangers en hun kinderen. In België doen ze dat anders. Bij onze zuiderburen zijn twee kinderen van Syriëstrijders aangekomen.  We spraken daarover met VRT journalist Anne van Renterghem. 

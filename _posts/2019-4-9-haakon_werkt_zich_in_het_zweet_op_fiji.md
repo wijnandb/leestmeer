@@ -2,7 +2,9 @@
 layout: post
 title: "Haakon werkt zich in het zweet op Fiji"
 date: Tue, 09 Apr 2019 19:07:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- royalty 
 externe_link: "https://www.telegraaf.nl/entertainment/3419702/haakon-werkt-zich-in-het-zweet-op-fiji"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/64165f14-5aea-11e9-b689-0217670beecd.jpg"
 ---

@@ -5,6 +5,7 @@ date: Tue, 14 Aug 2018 10:08:00 GMT
 categories: 
 - noord-holland 
 - bloemendaal 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/14/04-verdachte-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/juni/04-nh/2014-12-04-12h09m43.jpg"
 ---
 

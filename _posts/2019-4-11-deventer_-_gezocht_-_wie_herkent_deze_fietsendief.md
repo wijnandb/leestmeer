@@ -2,9 +2,8 @@
 layout: post
 title: "Deventer - Gezocht - Wie herkent deze fietsendief?"
 date: Thu, 11 Apr 2019 08:47:00 GMT
-categories: 
-- overijssel 
-- deventer 
+category: overijssel
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/02-oon/fb/diefstal-fiets-deventer.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/april/02-on/2019094693-1.jpg"
 ---
 

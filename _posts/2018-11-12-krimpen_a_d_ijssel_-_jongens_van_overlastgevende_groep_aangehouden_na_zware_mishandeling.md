@@ -5,6 +5,7 @@ date: Mon, 12 Nov 2018 15:56:00 GMT
 categories: 
 - zuid-holland 
 - krimpen_aan_den_ijssel 
+externe_link: "https://www.politie.nl/nieuws/2018/november/12/07-jongens-van-overlastgevende-groep-aangehouden-na-zware-mishandeling-krimpen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-door-agenten-op-straat.jpg"
 ---
 

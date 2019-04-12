@@ -4,7 +4,6 @@ title: "De Stemming #45: Zomer- of wintertijd is politiek tijdbommetje"
 date: Fri, 19 Oct 2018 00:00:00 +0200
 category: podcast
 externe_link: "https://podcast.npo.nl/file/destemmingvanvullingsenvanweezel/2946/nporadio1_destemmingvanvullingsenvanweezel_20181019_de-stemming-45-zomer-of-wintertijd-is-politiek-tijdbommetje.mp3"
-feature_image: "https://podcast.npo.nl/file/destemmingvanvullingsenvanweezel/2946/nporadio1_destemmingvanvullingsenvanweezel_20181019_de-stemming-45-zomer-of-wintertijd-is-politiek-tijdbommetje.mp3"
 ---
 
 Politieke analisten verdenken voorzitter Jean-Claude Juncker van de Europese Commissie ervan dat hij de lidstaten bewust heeft opgezadeld met een politiek lastige kwestie. De commissie heeft besloten dat de wisseling van zomer- met wintertijd wordt afgeschaft, maar laat het aan de lidstaten zelf te kiezen voor zomertijd óf wintertijd. Dat leidt tot verwarring in de coalitie. 

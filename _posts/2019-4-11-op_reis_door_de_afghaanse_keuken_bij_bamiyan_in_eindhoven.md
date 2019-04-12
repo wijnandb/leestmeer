@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 08:32:55 GMT
 categories: 
 - noord-brabant 
 - eindhoven 
+externe_link: "https://www.ad.nl/eindhoven/op-reis-door-de-afghaanse-keuken-bij-bamiyan-in-eindhoven~aea9c75e/"
 feature_image: "https://images4.persgroep.net/rcs/jME291Pc18ie5NN1ZVnZvLPj8QE/diocontent/143375582/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

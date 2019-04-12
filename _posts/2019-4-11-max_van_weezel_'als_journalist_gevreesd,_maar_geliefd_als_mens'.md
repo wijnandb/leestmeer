@@ -2,8 +2,8 @@
 layout: post
 title: "Max van Weezel 'als journalist gevreesd, maar geliefd als mens'"
 date: Thu, 11 Apr 2019 16:08:57 +0200
-category: binnenland
-externe_link: "http://feeds.nos.nl/~r/nosnieuwsbinnenland/~3/m3Ivtt_PCOE/2279987"
+category: politiek
+externe_link: "https://nos.nl/l/2279987"
 feature_image: "https://nos.nl/data/image/2019/04/11/542900/1008x567.jpg"
 ---
 
@@ -24,4 +24,4 @@ feature_image: "https://nos.nl/data/image/2019/04/11/542900/1008x567.jpg"
 <p>Ook de redactie van het NOS-radioprogramma Met het Oog op Morgen gaat Van Weezel missen. "We gaan zijn warme persoonlijkheid, mooie stem, grapjes en deskundigheid enorm missen", schrijft het radioprogramma op Twitter.</p>
 <h2>Genereus</h2>
 <p>Vrij Nederland schreef een In Memoriam over de presentator. "Altijd was Max bereid privé-nummers van bewindslieden op te diepen uit één van zijn beduimelde schriftjes, mee te denken met jonge journalisten of politici bemoedigend toe te spreken over de omgang met de dilemma's van de macht", schrijft het blad.</p>
-<p>Tot het laatst wijdde hij zich met al zijn energie aan de Haagse journalistiek, gaat het blad verder. "Met Max van Weezel is niet alleen een groot journalist overleden, maar ook een dierbare collega. We zullen hem geweldig missen."</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbinnenland/~4/m3Ivtt_PCOE" height="1" width="1" alt=""/>
+<p>Tot het laatst wijdde hij zich met al zijn energie aan de Haagse journalistiek, gaat het blad verder. "Met Max van Weezel is niet alleen een groot journalist overleden, maar ook een dierbare collega. We zullen hem geweldig missen."</p>

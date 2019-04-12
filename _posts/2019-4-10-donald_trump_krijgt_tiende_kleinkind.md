@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 18:14:05 +0200
 categories: 
 - entertainment 
 - gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/3426610/donald-trump-krijgt-tiende-kleinkind"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b13f08a6-5bab-11e9-ba01-0255c322e81b.png"
 ---
 

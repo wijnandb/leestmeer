@@ -5,6 +5,7 @@ date: Thu, 15 Mar 2018 10:39:00 GMT
 categories: 
 - noord-brabant 
 - valkenswaard 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/15/09-uitzending-bureau-brabant-maandag-19-maart-2018.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/maart/09-ob/img-20180314-wa0000.jpg"
 ---
 

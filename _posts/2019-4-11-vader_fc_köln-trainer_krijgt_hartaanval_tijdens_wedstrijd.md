@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 09:25:28 GMT
 categories: 
 - sport 
 - voetbal 
+externe_link: "https://www.ad.nl/buitenlands-voetbal/vader-fc-koln-trainer-krijgt-hartaanval-tijdens-wedstrijd~a4c7a6a5/"
 feature_image: "https://images2.persgroep.net/rcs/qiZQMCTYyqskvgLYBpIOE56bdw0/diocontent/145267222/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

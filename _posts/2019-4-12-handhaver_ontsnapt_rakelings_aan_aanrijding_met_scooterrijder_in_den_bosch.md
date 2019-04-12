@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 07:21:47 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.ad.nl/den-bosch/handhaver-ontsnapt-rakelings-aan-aanrijding-met-scooterrijder-in-den-bosch~aaa084b6/"
 feature_image: "https://images0.persgroep.net/rcs/H6xi82oUkkM3g0ZmgBpdPHtd2OY/diocontent/103922162/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

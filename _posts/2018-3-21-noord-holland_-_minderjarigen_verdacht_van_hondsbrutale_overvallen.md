@@ -4,7 +4,8 @@ title: "Noord-Holland - Minderjarigen verdacht van hondsbrutale overvallen"
 date: Wed, 21 Mar 2018 07:38:00 GMT
 categories: 
 - noord-holland 
-- landsmeer 
+- oostzaan 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/21/04-minderjarigen-verdacht-van-hondsbrutale-overvallen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding---agent-drukt-verdachte-tegen-muur-om-boeien-om-te-doen.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 04:01:00 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.ad.nl/nijmegen/van-agt-blijft-onvermoeibaar-strijden-voor-palestina~ae74e4bb/"
 feature_image: "https://images1.persgroep.net/rcs/qQW65KdPTzsQPGndcNUbPHx70CM/diocontent/75086002/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

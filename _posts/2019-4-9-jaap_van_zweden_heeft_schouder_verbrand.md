@@ -2,7 +2,9 @@
 layout: post
 title: "Jaap van Zweden heeft schouder verbrand"
 date: Tue, 09 Apr 2019 11:06:52 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3415663/jaap-van-zweden-heeft-schouder-verbrand"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/769191b0-5abb-11e9-a0c3-0255c322e81b.jpg"
 ---

@@ -5,6 +5,7 @@ date: Sun, 01 Oct 2017 08:51:00 GMT
 categories: 
 - gelderland 
 - lingewaal 
+externe_link: "https://www.politie.nl/nieuws/2017/oktober/1/02-heukelum-mysterie-rond-vermiste-paraglider-lijkt-opgelost.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/intake-en-service-en-meldkamer/aangifte-meldkamer.jpg"
 ---
 

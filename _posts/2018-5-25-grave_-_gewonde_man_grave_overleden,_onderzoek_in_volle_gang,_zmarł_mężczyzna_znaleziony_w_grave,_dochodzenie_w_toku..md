@@ -5,6 +5,7 @@ date: Fri, 25 May 2018 09:10:00 GMT
 categories: 
 - noord-brabant 
 - grave 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/25/09-gewonde-man-grave-overleden-onderzoek-in-volle-gang.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/mei/09-ob/janek.jpg"
 ---
 

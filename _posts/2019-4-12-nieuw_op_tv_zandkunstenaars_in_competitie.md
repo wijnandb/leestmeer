@@ -4,7 +4,8 @@ title: "Nieuw op tv: zandkunstenaars in competitie"
 date: Fri, 12 Apr 2019 05:00:59 GMT
 categories: 
 - entertainment 
-- show 
+- televisie 
+externe_link: "https://www.ad.nl/show/nieuw-op-tv-zandkunstenaars-in-competitie~a781aed6/"
 feature_image: "https://images0.persgroep.net/rcs/SL6ltyyih8ZJ3bEn-L4X8OlmbGU/diocontent/145334687/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

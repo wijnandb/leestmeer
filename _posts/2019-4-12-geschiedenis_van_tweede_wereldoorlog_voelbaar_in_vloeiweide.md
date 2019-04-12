@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 07:45:00 GMT
 categories: 
 - noord-brabant 
 - breda 
+externe_link: "https://www.ad.nl/breda/geschiedenis-van-tweede-wereldoorlog-voelbaar-in-vloeiweide~abfaffa7/"
 feature_image: "https://images0.persgroep.net/rcs/3qW45H9KBGnn8f6xnEHXCDs2m6U/diocontent/145128962/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

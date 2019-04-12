@@ -5,6 +5,7 @@ date: Sat, 29 Sep 2018 08:06:00 GMT
 categories: 
 - overijssel 
 - twenterand 
+externe_link: "https://www.politie.nl/nieuws/2018/september/29/02-man-met-inbrekerswerktuig-en-wapen-aangehouden-na-achtervolging.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-bij-auto.jpg"
 ---
 

@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Nog een miljardenboete voor Google en true crime 
 date: Thu, 19 Jul 2018 16:27:46 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4117/nporadio1_nosop3techpodcast_20180719_nos-op-3-tech-podcast-nog-een-miljardenboete-voor-google-en-true-crime-series-massaal-gestreamed.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4117/nporadio1_nosop3techpodcast_20180719_nos-op-3-tech-podcast-nog-een-miljardenboete-voor-google-en-true-crime-series-massaal-gestreamed.mp3"
 ---
 
 0:00 De Europese Commissie heeft Google een recordboete opgelegd van ruim 4 miljard euro voor machtsmisbruik

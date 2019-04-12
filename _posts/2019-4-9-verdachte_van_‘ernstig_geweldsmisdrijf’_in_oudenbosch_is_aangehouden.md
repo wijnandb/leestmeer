@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Verdachte van ‘ernstig geweldsmisdrijf’ in Oudenbosch is aangehouden"
-date: Tue, 09 Apr 2019 19:08:48 GMT
+date: Tue, 09 Apr 2019 19:08:00 GMT
 categories: 
 - noord-brabant 
 - roosendaal 

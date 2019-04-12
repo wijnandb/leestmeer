@@ -2,7 +2,7 @@
 layout: post
 title: "Rechter kijkt naar rectificatieverzoek Duthler"
 date: Thu, 11 Apr 2019 14:44:10 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3431083/rechter-kijkt-naar-rectificatieverzoek-duthler"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/858571da-5c57-11e9-9da7-0255c322e81b.jpg"
 ---

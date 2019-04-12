@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Was de aanslagpleger in Toronto een vrouwenhater?
 date: Thu, 26 Apr 2018 17:14:18 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4129/nporadio1_nosop3techpodcast_20180426_nos-op-3-tech-podcast-was-de-aanslagpleger-in-toronto-een-vrouwenhater.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4129/nporadio1_nosop3techpodcast_20180426_nos-op-3-tech-podcast-was-de-aanslagpleger-in-toronto-een-vrouwenhater.mp3"
 ---
 
 0:00 Wat mag je nou precies wel en niet delen op Facebook? Deze week zijn de interne richtlijnen voor moderators openbaar gemaakt. Is het vooral een charme-offensief of schieten we er ook wat mee op?

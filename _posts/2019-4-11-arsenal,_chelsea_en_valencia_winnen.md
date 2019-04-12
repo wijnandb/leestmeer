@@ -2,7 +2,9 @@
 layout: post
 title: "Arsenal, Chelsea en Valencia winnen"
 date: Thu, 11 Apr 2019 23:00:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3433873/arsenal-chelsea-en-valencia-winnen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/76b6918c-5c9f-11e9-b673-0255c322e81b.jpg"
 ---

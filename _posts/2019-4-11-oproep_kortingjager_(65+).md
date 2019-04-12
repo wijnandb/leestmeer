@@ -2,9 +2,8 @@
 layout: post
 title: "Oproep: kortingjager (65+)"
 date: Thu, 11 Apr 2019 13:47:55 +0200
-categories: 
-- financieel 
-- geld 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3430468/oproep-kortingjager-65"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/610e7efc-5c50-11e9-a27a-02d1dbdc35d1.jpg"
 ---
 

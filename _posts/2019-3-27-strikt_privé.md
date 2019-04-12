@@ -3,8 +3,8 @@ layout: post
 title: "Strikt Privé"
 date: Wed, 27 Mar 2019 08:00:00 +0100
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3352804/strikt-prive"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a759c438-5003-11e9-958d-0255c322e81b.jpg"
 ---

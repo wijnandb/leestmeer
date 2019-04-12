@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 11:47:36 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.ad.nl/nijmegen/zo-beleefde-heino-falcke-zijn-wereldprimeur~a361a67c/"
 feature_image: "https://images0.persgroep.net/rcs/my2CP5a8M88K1Fs7jTxwqjR_jx8/diocontent/145295694/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

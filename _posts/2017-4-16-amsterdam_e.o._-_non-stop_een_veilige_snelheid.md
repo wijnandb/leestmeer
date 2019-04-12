@@ -5,6 +5,7 @@ date: Sun, 16 Apr 2017 19:08:00 GMT
 categories: 
 - noord-holland 
 - aalsmeer 
+externe_link: "https://www.politie.nl/nieuws/2017/april/16/05-non-stop.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/lasercontrole-snelheid-auto.jpg"
 ---
 

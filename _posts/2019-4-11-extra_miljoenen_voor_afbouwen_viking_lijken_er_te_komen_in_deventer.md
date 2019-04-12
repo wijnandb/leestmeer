@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 04:01:22 GMT
 categories: 
 - overijssel 
 - deventer 
+externe_link: "https://www.ad.nl/deventer/extra-miljoenen-voor-afbouwen-viking-lijken-er-te-komen-in-deventer~a51e2d42/"
 feature_image: "https://images3.persgroep.net/rcs/XFmgqxKkQ3jSe9GFMbQVItSftqs/diocontent/143428772/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

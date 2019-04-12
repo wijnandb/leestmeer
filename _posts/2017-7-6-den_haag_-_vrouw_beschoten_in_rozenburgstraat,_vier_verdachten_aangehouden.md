@@ -5,6 +5,7 @@ date: Thu, 06 Jul 2017 11:19:00 GMT
 categories: 
 - utrecht 
 - renswoude 
+externe_link: "https://www.politie.nl/nieuws/2017/juli/6/06-den-haag-vrouw-beschoten-in-rozenburgstraat-vier-verdachten-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-3.jpg"
 ---
 

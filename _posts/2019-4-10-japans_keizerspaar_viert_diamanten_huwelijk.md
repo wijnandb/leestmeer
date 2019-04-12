@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 10:43:00 +0200
 categories: 
 - entertainment 
 - royalty 
+externe_link: "https://www.telegraaf.nl/entertainment/3423237/japans-keizerspaar-viert-diamanten-huwelijk"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4c9294b4-5b82-11e9-b689-0217670beecd.jpg"
 ---
 

@@ -4,7 +4,8 @@ title: "Petra Berger: Bij mij ligt geen 40.000 euro op de plank"
 date: Fri, 12 Apr 2019 05:27:58 GMT
 categories: 
 - entertainment 
-- muziek 
+- show 
+externe_link: "https://www.ad.nl/show/petra-berger-bij-mij-ligt-geen-40-000-euro-op-de-plank~a8b9fb9c/"
 feature_image: "https://images1.persgroep.net/rcs/j4CT49mmWK8J7UBk5YAaX2PzUoU/diocontent/145240816/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

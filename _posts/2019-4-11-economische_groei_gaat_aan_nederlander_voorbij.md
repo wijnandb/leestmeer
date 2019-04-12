@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 05:30:00 +0200
 categories: 
 - financieel 
 - geld 
+externe_link: "https://www.telegraaf.nl/financieel/3427171/economische-groei-gaat-aan-nederlander-voorbij"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a56be1b0-5c1a-11e9-8459-02d1dbdc35d1.jpg"
 ---
 

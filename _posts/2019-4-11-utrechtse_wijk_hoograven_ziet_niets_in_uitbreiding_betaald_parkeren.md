@@ -2,9 +2,8 @@
 layout: post
 title: "Utrechtse wijk Hoograven ziet niets in uitbreiding betaald parkeren"
 date: Thu, 11 Apr 2019 14:32:44 GMT
-categories: 
-- utrecht 
-- utrecht 
+category: utrecht
+externe_link: "https://www.ad.nl/utrecht/utrechtse-wijk-hoograven-ziet-niets-in-uitbreiding-betaald-parkeren~a5e1817c/"
 feature_image: "https://images2.persgroep.net/rcs/pLBxI1kHyaESnNBFQkOgCO_RW1o/diocontent/118881165/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

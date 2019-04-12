@@ -5,6 +5,7 @@ date: Wed, 28 Mar 2018 13:09:00 GMT
 categories: 
 - zuid-holland 
 - hellevoetsluis 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/28/06-wassenaar-verdachte-serie-brandstichtingen-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/brandweerauto.jpg"
 ---
 

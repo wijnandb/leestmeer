@@ -5,6 +5,7 @@ date: Fri, 18 Jan 2019 13:35:00 GMT
 categories: 
 - zeeland 
 - hulst 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/18/08-man-verdacht-van-witwassen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/collegas-op-straat.jpg"
 ---
 

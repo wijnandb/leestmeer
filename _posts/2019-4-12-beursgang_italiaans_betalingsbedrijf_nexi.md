@@ -2,9 +2,8 @@
 layout: post
 title: "Beursgang Italiaans betalingsbedrijf Nexi"
 date: Fri, 12 Apr 2019 11:04:00 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3435608/beursgang-italiaans-betalingsbedrijf-nexi"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/399c263c-5d02-11e9-8854-0217670beecd.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 30 Jan 2019 13:21:00 GMT
 categories: 
 - noord-brabant 
 - loon_op_zand 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/30/08-vrouw-64-komt-om-leven-bij-geweldsmisdrijf-zoon-28-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/januari/08-zw/kaatsheiuvel.jpg"
 ---
 

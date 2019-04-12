@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Let op met refurbished telefoons en Spotify naar 
 date: Thu, 01 Mar 2018 16:30:51 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4138/nporadio1_nosop3techpodcast_20180301_nos-op-3-tech-podcast-let-op-met-refurbished-telefoons-en-spotify-naar-de-beurs.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4138/nporadio1_nosop3techpodcast_20180301_nos-op-3-tech-podcast-let-op-met-refurbished-telefoons-en-spotify-naar-de-beurs.mp3"
 ---
 
 0:00 Pas op met het kopen van een refurbished iphone, waarschuwt de consumentenbond. Zij hebben 18 van zulke telefoons getest, en bestempelen maar een derde ervan als goeie koop.

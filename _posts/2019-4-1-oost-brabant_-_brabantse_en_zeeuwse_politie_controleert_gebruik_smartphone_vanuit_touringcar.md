@@ -4,7 +4,8 @@ title: "Oost-Brabant - Brabantse en Zeeuwse politie controleert gebruik smartpho
 date: Mon, 01 Apr 2019 11:26:00 GMT
 categories: 
 - noord-brabant 
-- den_bosch 
+- uden 
+externe_link: "https://www.politie.nl/nieuws/2019/april/1/09-brabantse-en-zeeuwse-politie-controleert-gebruik-smartphone-vanuit-touringcar.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/april/09-ob/touringcar.jpg"
 ---
 

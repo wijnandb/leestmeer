@@ -3,7 +3,6 @@ layout: post
 title: "Zonnepanelen op bootjes voor duurzame jachthaven Hellevoet"
 date: Wed, 10 Apr 2019 05:43:33 GMT
 categories: 
-- regio
 - zuid-holland 
 - voorne-putten 
 externe_link: "https://www.ad.nl/voorne-putten/zonnepanelen-op-bootjes-voor-duurzame-jachthaven-hellevoet~a2cc1312/"

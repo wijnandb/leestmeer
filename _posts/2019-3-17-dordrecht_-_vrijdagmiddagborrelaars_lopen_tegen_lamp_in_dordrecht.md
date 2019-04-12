@@ -5,6 +5,7 @@ date: Sun, 17 Mar 2019 11:41:00 GMT
 categories: 
 - zuid-holland 
 - dordrecht 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/17/07-vrijdagmiddagborrelaars-lopen-tegen-lamp-in-dordrecht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/07-rt/alcoholcontrole1.jpg"
 ---
 

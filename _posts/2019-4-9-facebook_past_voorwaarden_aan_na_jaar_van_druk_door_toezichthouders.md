@@ -2,7 +2,7 @@
 layout: post
 title: "Facebook past voorwaarden aan na jaar van druk door toezichthouders"
 date: Tue, 09 Apr 2019 17:27:24 +0200
-category: algemeen
+category: tech
 externe_link: "https://nos.nl/l/2279708"
 feature_image: "https://nos.nl/data/image/2019/03/31/540411/1008x567.jpg"
 ---

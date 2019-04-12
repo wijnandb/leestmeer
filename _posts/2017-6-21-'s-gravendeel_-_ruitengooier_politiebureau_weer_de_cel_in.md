@@ -5,6 +5,7 @@ date: Wed, 21 Jun 2017 09:26:00 GMT
 categories: 
 - zuid-holland 
 - binnenmaas 
+externe_link: "https://www.politie.nl/nieuws/2017/juni/21/07-ruitengooier-politiebureau-weer-de-cel-in.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-3.jpg"
 ---
 

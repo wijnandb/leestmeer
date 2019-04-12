@@ -2,7 +2,9 @@
 layout: post
 title: "Video: Barcelona met klein verschil langs Manchester"
 date: Wed, 10 Apr 2019 22:59:45 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3427530/video-barcelona-met-klein-verschil-langs-manchester"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8db6da20-5c3d-11e9-b4ef-0217670beecd.jpg"
 ---

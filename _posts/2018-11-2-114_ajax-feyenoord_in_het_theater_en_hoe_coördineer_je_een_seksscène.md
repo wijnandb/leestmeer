@@ -4,7 +4,6 @@ title: "#114: Ajax-Feyenoord in het theater en hoe coördineer je een seksscène
 date: Sat, 03 Nov 2018 00:00:00 +0100
 category: podcast
 externe_link: "https://podcast.npo.nl/file/het-beste-uit-het-oog/2917/nporadio1_het-beste-uit-het-oog_20181103_114-ajax-feyenoord-in-het-theater-en-hoe-coordineer-je-een-seksscene.mp3"
-feature_image: "https://podcast.npo.nl/file/het-beste-uit-het-oog/2917/nporadio1_het-beste-uit-het-oog_20181103_114-ajax-feyenoord-in-het-theater-en-hoe-coordineer-je-een-seksscene.mp3"
 ---
 
 Het Amerikaanse televisienetwerk HBO maakt tegenwoordig gebruik van een intimiteitscoördinator, die controleert of seksscènes wel veilig verlopen. De Nederlandse actrice Anna Drijver en Ron Toekook van de Beroepsvereniging van Film- en Televisiemakers vinden dat in Nederland professioneel wordt omgegaan met seksscènes.

@@ -5,6 +5,7 @@ date: Wed, 16 Jan 2019 17:20:00 GMT
 categories: 
 - overijssel 
 - hardenberg 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/16/02-de-krim.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/januari/02-on/overval-de-krim.jpg"
 ---
 

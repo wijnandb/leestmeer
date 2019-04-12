@@ -3,8 +3,8 @@ layout: post
 title: "Van mij mogen ze de kapsalon houden in 010"
 date: Thu, 28 Mar 2019 10:16:08 +0100
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3359668/van-mij-mogen-ze-de-kapsalon-houden-in-010"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1f7998bc-513a-11e9-8bc7-0217670beecd.jpg"
 ---

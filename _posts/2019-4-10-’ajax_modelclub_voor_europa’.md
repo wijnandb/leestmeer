@@ -2,7 +2,9 @@
 layout: post
 title: "’Ajax modelclub voor Europa’"
 date: Wed, 10 Apr 2019 08:00:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/nieuws/3421414/ajax-modelclub-voor-europa"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f0c9f880-5b76-11e9-b673-0255c322e81b.jpg"
 ---

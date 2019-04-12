@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 06:08:55 GMT
 categories: 
 - sport 
 - voetbal 
+externe_link: "https://www.ad.nl/nederlands-voetbal/nac-gaat-voor-laatste-kans-in-degradatiekraker-tegen-fc-emmen~a6e0f029/"
 feature_image: "https://images4.persgroep.net/rcs/9dVub7PXGgjQDBm7QeEkfJy4m7c/diocontent/145323415/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 16 Nov 2016 09:58:00 GMT
 categories: 
 - zuid-holland 
 - bernisse 
+externe_link: "https://www.politie.nl/nieuws/2016/november/16/07-overvallen-en-pinpas-diefstallen-in-bureau-rijnmond.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2016/september/07-rm/bureau-rijnmond-1-6.jpg"
 ---
 

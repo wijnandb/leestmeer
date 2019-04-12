@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 09:26:00 GMT
 categories: 
 - gelderland 
 - apeldoorn 
+externe_link: "https://www.ad.nl/apeldoorn/apeldoorn-kan-goedkope-merkkleding-scoren-tk-maxx-is-onder-grote-belangstelling-geopend~a8a9aa79/"
 feature_image: "https://images4.persgroep.net/rcs/tzIslodTqzVcMk3GvCzL2YerhN8/diocontent/145297574/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

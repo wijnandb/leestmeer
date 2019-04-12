@@ -5,6 +5,7 @@ date: Tue, 23 Jan 2018 07:44:00 GMT
 categories: 
 - gelderland 
 - oldebroek 
+externe_link: "https://www.politie.nl/nieuws/2018/januari/22/02-zaken-in-bureau-gld-van-24-januari.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/onderwerpen/bureau-gld.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Tue, 11 Sep 2018 13:25:00 GMT
 categories: 
 - noord-holland 
 - uitgeest 
+externe_link: "https://www.politie.nl/nieuws/2018/september/11/04-getuigenoproep-geweldincident-heemskerk.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/juni/04-nh/2010-03-10-13h46m23.jpg"
 ---
 

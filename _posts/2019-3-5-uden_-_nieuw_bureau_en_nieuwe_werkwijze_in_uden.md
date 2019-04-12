@@ -5,6 +5,7 @@ date: Tue, 05 Mar 2019 09:31:00 GMT
 categories: 
 - noord-brabant 
 - uden 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/5/09-nieuw-bureau-en-nieuwe-werkwijze-in-uden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/09-ob/20190305-nieuwbouw.jpg"
 ---
 

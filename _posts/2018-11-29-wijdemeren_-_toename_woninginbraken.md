@@ -5,6 +5,7 @@ date: Thu, 29 Nov 2018 17:47:00 GMT
 categories: 
 - noord-holland 
 - wijdemeren 
+externe_link: "https://www.politie.nl/nieuws/2018/november/29/03-toename-woninginbraken.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/controle-woninginbraak.jpg"
 ---
 

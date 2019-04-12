@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 15:52:01 GMT
 categories: 
 - overijssel 
 - kampen 
+externe_link: "https://www.ad.nl/kampen/kampen-verdubbelt-budget-voor-citymarketing~aa9ddb41/"
 feature_image: "https://images0.persgroep.net/rcs/sCVWMKqfaiGbLIehWvUbIH-BMdM/diocontent/114467247/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

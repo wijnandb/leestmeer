@@ -5,6 +5,7 @@ date: Wed, 27 Feb 2019 16:20:00 GMT
 categories: 
 - gelderland 
 - tiel 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/02-oon/ov/brandstichting-in-woning-tiel.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/stockfotos/algemeen/afzetlint.jpg"
 ---
 

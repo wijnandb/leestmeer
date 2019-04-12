@@ -5,6 +5,7 @@ date: Tue, 28 Mar 2017 08:52:00 GMT
 categories: 
 - fryslan 
 - harlingen 
+externe_link: "https://www.politie.nl/nieuws/2017/maart/27/treinongeluk-harlingen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/politiehelikopter.jpg"
 ---
 

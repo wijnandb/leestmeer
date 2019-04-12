@@ -2,7 +2,9 @@
 layout: post
 title: "Ook Zweden op staatsbezoek naar Ierland"
 date: Tue, 09 Apr 2019 22:29:50 +0200
-category: entertainment
+categories: 
+- entertainment 
+- royalty 
 externe_link: "https://www.telegraaf.nl/entertainment/3420919/ook-zweden-op-staatsbezoek-naar-ierland"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/45ae8db8-5b07-11e9-847b-0218eaf05005.jpg"
 ---

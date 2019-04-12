@@ -5,6 +5,7 @@ date: Thu, 10 Jan 2019 08:24:00 GMT
 categories: 
 - noord-brabant 
 - heusden 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/10/09-grote-hoeveelheid-cocaine-tussen-fruit-gevonden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/mouw-nieuwe-uniform-politie.jpg"
 ---
 

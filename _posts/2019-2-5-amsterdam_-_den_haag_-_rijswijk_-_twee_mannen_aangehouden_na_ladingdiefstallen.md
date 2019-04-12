@@ -4,7 +4,8 @@ title: "Amsterdam - Den Haag - Rijswijk - Twee mannen aangehouden na ladingdiefs
 date: Tue, 05 Feb 2019 10:11:00 GMT
 categories: 
 - zuid-holland 
-- delft 
+- rijswijk 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/5/05-ladingdiefstallen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/februari/05-am/ladingdiefstallen-2.jpg"
 ---
 

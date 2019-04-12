@@ -2,9 +2,8 @@
 layout: post
 title: "Zwolle - Gezocht - Handgranaten ontploft op Hanselaarmate"
 date: Tue, 02 Apr 2019 15:29:00 GMT
-categories: 
-- overijssel 
-- zwolle 
+category: overijssel
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/02-oon/ov/handgranaten-ontploft-in-zwolle.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/stockfotos/logos/detailopname-surveillancewagen.jpg"
 ---
 

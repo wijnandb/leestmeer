@@ -5,6 +5,7 @@ date: Fri, 28 Sep 2018 20:22:00 GMT
 categories: 
 - zuid-holland 
 - cromstrijen 
+externe_link: "https://www.politie.nl/nieuws/2018/september/28/07-bestuurder-rijdt-twee-keer-op-agent-in.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/agenten-bij-verkeerscontrole-.jpg"
 ---
 

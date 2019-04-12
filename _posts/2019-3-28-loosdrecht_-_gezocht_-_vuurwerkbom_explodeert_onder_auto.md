@@ -2,9 +2,8 @@
 layout: post
 title: "Loosdrecht - Gezocht - Vuurwerkbom explodeert onder auto"
 date: Thu, 28 Mar 2019 11:28:00 GMT
-categories: 
-- noord-holland 
-- wijdemeren 
+category: noord-holland
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/03-vuurwerkbom-explodeert-onder-auto.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/03-mn/loosdrecht-27-bom.jpg"
 ---
 

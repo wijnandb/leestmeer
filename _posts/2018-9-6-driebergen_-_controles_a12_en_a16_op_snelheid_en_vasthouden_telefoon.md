@@ -5,6 +5,7 @@ date: Thu, 06 Sep 2018 11:11:00 GMT
 categories: 
 - zuid-holland 
 - bodegraven-reeuwijk 
+externe_link: "https://www.politie.nl/nieuws/2018/september/6/controles-a12-en-a16-op-snelheid-en-vasthouden-telefoon.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/voertuig-langs-weg.jpg"
 ---
 

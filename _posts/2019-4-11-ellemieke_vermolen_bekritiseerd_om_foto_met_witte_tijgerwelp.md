@@ -4,7 +4,8 @@ title: "Ellemieke Vermolen bekritiseerd om foto met witte tijgerwelp"
 date: Thu, 11 Apr 2019 15:43:20 GMT
 categories: 
 - entertainment 
-- show 
+- sterren 
+externe_link: "https://www.ad.nl/show/ellemieke-vermolen-bekritiseerd-om-foto-met-witte-tijgerwelp~a019c5a5/"
 feature_image: "https://images2.persgroep.net/rcs/J4X1Bp887o-avk5KDe1cbQ0VpW4/diocontent/145313664/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

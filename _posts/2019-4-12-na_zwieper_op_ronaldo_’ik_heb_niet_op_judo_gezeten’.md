@@ -2,7 +2,9 @@
 layout: post
 title: "Na zwieper op Ronaldo: ’Ik heb niet op judo gezeten’"
 date: Fri, 12 Apr 2019 06:14:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3434094/na-zwieper-op-ronaldo-ik-heb-niet-op-judo-gezeten"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/affaa1d0-5ca5-11e9-8c2f-0217670beecd.jpg"
 ---

@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Dit moet het antwoord zijn op illegaal films down
 date: Thu, 02 Feb 2017 16:30:00 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4188/nporadio1_nosop3techpodcast_20170202_nos-op-3-tech-podcast-dit-moet-het-antwoord-zijn-op-illegaal-films-downloaden.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4188/nporadio1_nosop3techpodcast_20170202_nos-op-3-tech-podcast-dit-moet-het-antwoord-zijn-op-illegaal-films-downloaden.mp3"
 ---
 
 Hoe kun je nog veilig stemmen tegenwoordig, zonder kans dat je gehackt wordt door het buitenland?

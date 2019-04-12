@@ -2,7 +2,9 @@
 layout: post
 title: "Alaphilippe hard onderuit in Baskenland, Schachmann wint weer"
 date: Wed, 10 Apr 2019 18:03:54 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2279880"
 feature_image: "https://nos.nl/data/image/2019/04/10/542730/1008x567.jpg"
 ---

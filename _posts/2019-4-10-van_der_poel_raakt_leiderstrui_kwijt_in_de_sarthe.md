@@ -2,7 +2,9 @@
 layout: post
 title: "Van der Poel raakt leiderstrui kwijt in de Sarthe"
 date: Wed, 10 Apr 2019 15:52:38 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2279859"
 feature_image: "https://nos.nl/data/image/2019/04/10/542693/1008x567.jpg"
 ---

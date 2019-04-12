@@ -2,7 +2,7 @@
 layout: post
 title: "Vrouw crasht auto nadat ze spin in wagen ziet"
 date: Thu, 11 Apr 2019 19:55:50 +0200
-category: buitenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3433290/vrouw-crasht-auto-nadat-ze-spin-in-wagen-ziet"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0f21280a-5c83-11e9-b673-0255c322e81b.jpg"
 ---

@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 13:02:56 GMT
 categories: 
 - overijssel 
 - almelo 
+externe_link: "https://www.ad.nl/almelo/dames-canisius-uit-almelo-en-tubbergen-knap-vijfde-op-wk-schoolvolleybal~ac574cbd/"
 feature_image: "https://images0.persgroep.net/rcs/Mu6ethkIa_96Kqr82KsepuGTv4E/diocontent/103607388/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

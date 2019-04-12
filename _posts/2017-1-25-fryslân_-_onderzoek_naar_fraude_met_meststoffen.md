@@ -5,6 +5,7 @@ date: Wed, 25 Jan 2017 14:20:00 GMT
 categories: 
 - fryslan 
 - littenseradiel 
+externe_link: "https://www.politie.nl/nieuws/2017/januari/25/01---onderzoek-naar-fraude-met-meststoffen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/jas-met-opdruk-technische-recherche.jpg"
 ---
 

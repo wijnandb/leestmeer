@@ -2,7 +2,9 @@
 layout: post
 title: "Lof voor ’kleinkinderen van Cruijff’"
 date: Fri, 12 Apr 2019 10:34:23 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3435269/lof-voor-kleinkinderen-van-cruijff"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ceb81fdc-5cfd-11e9-b6df-02d2fb1aa1d7.jpg"
 ---

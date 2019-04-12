@@ -5,6 +5,7 @@ date: Sun, 23 Sep 2018 18:41:00 GMT
 categories: 
 - zuid-holland 
 - papendrecht 
+externe_link: "https://www.politie.nl/nieuws/2018/september/23/07-update-over-familiedrama-in-papendrecht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/september/00-km/20180922_papendrecht.jpg"
 ---
 

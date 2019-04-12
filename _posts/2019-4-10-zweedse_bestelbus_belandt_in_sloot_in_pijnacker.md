@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 11:46:26 GMT
 categories: 
 - zuid-holland 
 - delft 
+externe_link: "https://www.ad.nl/delft/zweedse-bestelbus-belandt-in-sloot-in-pijnacker~a267d028/"
 feature_image: "https://images3.persgroep.net/rcs/EF-l29bIkx4C2svO-K9-8W0x-GI/diocontent/145235098/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

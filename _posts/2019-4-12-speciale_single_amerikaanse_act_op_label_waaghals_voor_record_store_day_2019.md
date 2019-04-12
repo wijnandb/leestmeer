@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 05:00:43 GMT
 categories: 
 - gelderland 
 - arnhem 
+externe_link: "https://www.ad.nl/arnhem/speciale-single-amerikaanse-act-op-label-waaghals-voor-record-store-day-2019~a691e093/"
 feature_image: "https://images4.persgroep.net/rcs/WQUFcDseW6jw-9Cf7ZidcRt-YQA/diocontent/145309621/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

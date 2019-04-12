@@ -2,9 +2,8 @@
 layout: post
 title: "Waarom gaat de een sneller vreemd dan de ander?"
 date: Thu, 11 Apr 2019 19:00:28 GMT
-categories: 
-- entertainment 
-- gezondheid 
+category: wetenschap
+externe_link: "https://www.ad.nl/wetenschap/waarom-gaat-de-een-sneller-vreemd-dan-de-ander~a76b9c8f/"
 feature_image: "https://images3.persgroep.net/rcs/tz3cp5DSVkWG3xVkWMPnM8z5wek/diocontent/145301695/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

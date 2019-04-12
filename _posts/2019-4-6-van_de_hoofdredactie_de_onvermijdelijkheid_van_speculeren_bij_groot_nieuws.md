@@ -2,7 +2,7 @@
 layout: post
 title: "Van de hoofdredactie: De onvermijdelijkheid van speculeren bij groot nieuws"
 date: Sat, 06 Apr 2019 15:53:32 +0200
-category: algemeen
+category: nieuws
 externe_link: "https://nos.nl/l/2279281"
 feature_image: "https://nos.nl/data/image/2019/03/08/535550/1008x567.jpg"
 ---

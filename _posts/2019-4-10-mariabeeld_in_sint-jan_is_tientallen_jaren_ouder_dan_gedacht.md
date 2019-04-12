@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 10:00:00 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.ad.nl/den-bosch/mariabeeld-in-sint-jan-is-tientallen-jaren-ouder-dan-gedacht~a7b6fb07/"
 feature_image: "https://images1.persgroep.net/rcs/lys6LR-KXXLY2E82sbxy03q6O7Q/diocontent/105666892/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -2,9 +2,7 @@
 layout: post
 title: "Vingerafdrukscanner smartphone gefopt door plastic print"
 date: Mon, 08 Apr 2019 14:00:00 GMT
-categories: 
-- overig 
-- wetenschap 
+category: wetenschap
 externe_link: "https://www.ad.nl/tech/vingerafdrukscanner-smartphone-gefopt-door-plastic-print~abe56c91/"
 feature_image: "https://images4.persgroep.net/rcs/Z76pOwXyL-CgEE-Ouxxey9qgsP4/diocontent/145046599/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

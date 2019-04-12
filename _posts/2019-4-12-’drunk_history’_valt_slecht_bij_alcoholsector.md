@@ -2,7 +2,7 @@
 layout: post
 title: "’Drunk history’ valt slecht bij alcoholsector"
 date: Fri, 12 Apr 2019 07:15:53 +0200
-category: entertainment
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3434314/drunk-history-valt-slecht-bij-alcoholsector"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/24d73766-5ce2-11e9-b343-02c309bc01c1.jpg"
 ---

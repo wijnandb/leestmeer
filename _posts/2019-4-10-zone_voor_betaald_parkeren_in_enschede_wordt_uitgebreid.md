@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 12:56:00 GMT
 categories: 
 - overijssel 
 - enschede 
+externe_link: "https://www.ad.nl/enschede/zone-voor-betaald-parkeren-in-enschede-wordt-uitgebreid~abbedd1b/"
 feature_image: "https://images3.persgroep.net/rcs/F9b3l4-EqORJ6JiduDyVdTf77Pc/diocontent/145238564/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

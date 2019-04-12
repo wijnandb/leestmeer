@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Super Mario op je iPhone en whatsappjes intrekken
 date: Thu, 15 Dec 2016 15:30:00 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4195/nporadio1_nosop3techpodcast_20161215_nos-op-3-tech-podcast-super-mario-op-je-iphone-en-whatsappjes-intrekken.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4195/nporadio1_nosop3techpodcast_20161215_nos-op-3-tech-podcast-super-mario-op-je-iphone-en-whatsappjes-intrekken.mp3"
 ---
 
 Heb je per ongeluk een iets te pikant berichtje gestuurd naar die leuke collega? Geen probleem! Binnenkort kan je in WhatsApp verzonden berichten weer intrekken.

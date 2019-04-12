@@ -5,6 +5,7 @@ date: Thu, 04 Apr 2019 17:32:00 GMT
 categories: 
 - zuid-holland 
 - rotterdam 
+externe_link: "https://www.politie.nl/nieuws/2019/april/4/07-grootschalige-havenbeschermingsoefening-in-rotterdam.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/april/00-km/port-defender-5.jpg"
 ---
 

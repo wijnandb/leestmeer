@@ -5,6 +5,7 @@ date: Sat, 29 Sep 2018 12:17:00 GMT
 categories: 
 - noord-holland 
 - landsmeer 
+externe_link: "https://www.politie.nl/nieuws/2018/september/29/04-getuigen-gezocht-van-gewapende-overval.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/zijkant-politieauto-met-logo.jpg"
 ---
 

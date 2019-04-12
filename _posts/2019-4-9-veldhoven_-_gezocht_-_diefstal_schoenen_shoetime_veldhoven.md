@@ -5,6 +5,7 @@ date: Tue, 09 Apr 2019 17:05:40 GMT
 categories: 
 - noord-brabant 
 - veldhoven 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/09.-diefstal-shoetime-veldhoven.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/april/09-ob/2019048775/nn1.jpg"
 ---
 

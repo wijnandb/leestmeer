@@ -2,7 +2,9 @@
 layout: post
 title: "Ajax-Juventus: nog 14 fans zitten vast, 5 agenten gewond"
 date: Thu, 11 Apr 2019 13:43:36 +0200
-category: nieuws
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://nos.nl/l/2279975"
 feature_image: "https://nos.nl/data/image/2019/04/11/542879/1008x567.jpg"
 ---

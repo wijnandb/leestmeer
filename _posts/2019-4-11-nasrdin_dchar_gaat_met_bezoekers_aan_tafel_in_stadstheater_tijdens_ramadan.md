@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 16:04:06 GMT
 categories: 
 - zuid-holland 
 - zoetermeer 
+externe_link: "https://www.ad.nl/zoetermeer/nasrdin-dchar-gaat-met-bezoekers-aan-tafel-in-stadstheater-tijdens-ramadan~a9e8fb45/"
 feature_image: "https://images4.persgroep.net/rcs/Z9NfttzNEfbDQLNFAalSP9hDFpI/diocontent/145218845/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

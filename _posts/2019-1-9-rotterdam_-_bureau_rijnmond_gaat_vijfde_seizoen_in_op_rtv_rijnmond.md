@@ -5,6 +5,7 @@ date: Wed, 09 Jan 2019 12:49:00 GMT
 categories: 
 - zuid-holland 
 - sliedrecht 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/9/07-bureau-rijnmond-gaat-vijfde-seizoen-in.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/januari/07-rt/woordvoering-jan-2019.jpg"
 ---
 

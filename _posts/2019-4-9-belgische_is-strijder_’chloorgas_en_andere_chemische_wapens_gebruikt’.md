@@ -2,7 +2,7 @@
 layout: post
 title: "Belgische IS-strijder: ’Chloorgas en andere chemische wapens gebruikt’"
 date: Tue, 09 Apr 2019 22:52:21 +0200
-category: algemeen
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/3421034/belgische-is-strijder-chloorgas-en-andere-chemische-wapens-gebruikt"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5f006906-5b09-11e9-b343-02c309bc01c1.jpg"
 ---

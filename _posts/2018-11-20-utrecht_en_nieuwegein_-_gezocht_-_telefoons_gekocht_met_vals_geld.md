@@ -5,6 +5,7 @@ date: Tue, 20 Nov 2018 09:08:00 GMT
 categories: 
 - utrecht 
 - houten 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/oktober/03-telefoons-gekocht-met-vals-geld-nieuwegein.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/november/03-mn/utrechtnieuwegeinhouten-24-vals-geld-nieuw.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Tue, 07 Aug 2018 14:28:00 GMT
 categories: 
 - zuid-holland 
 - hillegom 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/7/06-den-haagpolitieagenten-van-het-eva-team-houden-twee-gezochte-personen-aan.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

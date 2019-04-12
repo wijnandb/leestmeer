@@ -5,6 +5,7 @@ date: Mon, 22 Oct 2018 19:48:00 GMT
 categories: 
 - gelderland 
 - doetinchem 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/oktober/02-oon/gld/diefstal-airbags-uit-autos-doetinchem.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/oktober/02-on/2018426748-1.jpg"
 ---
 

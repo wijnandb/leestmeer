@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 12:17:19 +0200
 categories: 
 - overig 
 - gezondheid 
+externe_link: "https://www.nu.nl/gezondheid/5819823/doktersadvies-wanneer-koorts-met-vlekjes-gevaarlijk-is-bij-kinderen.html"
 feature_image: "https://media.nu.nl/m/teqx09aaln3o_sqr256.jpg/doktersadvies-wanneer-koorts-met-vlekjes-gevaarlijk-is-bij-kinderen.jpg"
 ---
 

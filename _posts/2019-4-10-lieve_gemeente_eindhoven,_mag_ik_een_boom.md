@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 10:44:00 GMT
 categories: 
 - noord-brabant 
 - eindhoven 
+externe_link: "https://www.ad.nl/eindhoven/lieve-gemeente-eindhoven-mag-ik-een-boom~a6034934/"
 feature_image: "https://images2.persgroep.net/rcs/zeTZ-B3Xeo0a8nACYIINJrtAI-c/diocontent/145227142/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

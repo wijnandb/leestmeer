@@ -2,7 +2,9 @@
 layout: post
 title: "Gekte op woningmarkt neemt af, zeggen makelaars"
 date: Thu, 11 Apr 2019 10:00:01 +0200
-category: nieuws
+categories: 
+- financieel 
+- economie 
 externe_link: "https://nos.nl/l/2279949"
 feature_image: "https://nos.nl/data/image/2019/04/11/542863/1008x567.jpg"
 ---

@@ -5,6 +5,7 @@ date: Wed, 17 Oct 2018 09:36:00 GMT
 categories: 
 - utrecht 
 - leusden 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/17/03-overleden-man-gevonden-in-auto-achterveld.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/gele-politiejas.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Fri, 23 Dec 2016 10:08:00 GMT
 categories: 
 - gelderland 
 - ubbergen 
+externe_link: "https://www.politie.nl/nieuws/2016/december/16/02-ooij-politie-doet-onderzoek-naar-woningbrand.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/brandweerauto.jpg"
 ---
 

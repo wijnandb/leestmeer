@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Zo makkelijk zijn politici te hacken"
 date: Thu, 12 Jan 2017 16:20:56 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4191/nporadio1_nosop3techpodcast_20170112_nos-op-3-tech-podcast-zo-makkelijk-zijn-politici-te-hacken.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4191/nporadio1_nosop3techpodcast_20170112_nos-op-3-tech-podcast-zo-makkelijk-zijn-politici-te-hacken.mp3"
 ---
 
 Deze week hoor je in de Tech Podcast hoe makkelijk het kan zijn om toegang te krijgen tot de accounts van politici.

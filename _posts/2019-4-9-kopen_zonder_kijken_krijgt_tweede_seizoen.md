@@ -2,7 +2,9 @@
 layout: post
 title: "Kopen zonder kijken krijgt tweede seizoen"
 date: Tue, 09 Apr 2019 16:32:02 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3418963/kopen-zonder-kijken-krijgt-tweede-seizoen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/46bf9d9c-5ad4-11e9-ab5f-0218eaf05005.jpg"
 ---

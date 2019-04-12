@@ -2,7 +2,7 @@
 layout: post
 title: "Dopinginstanties gaan akkoord met mildere straffen voor topkickboksers"
 date: Mon, 08 Apr 2019 20:20:39 +0200
-category: algemeen
+category: nieuws
 externe_link: "https://nos.nl/l/2279604"
 feature_image: "https://nos.nl/data/image/2018/03/02/456124/1008x567.jpg"
 ---

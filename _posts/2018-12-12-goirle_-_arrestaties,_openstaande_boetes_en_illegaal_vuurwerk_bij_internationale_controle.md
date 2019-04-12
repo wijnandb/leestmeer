@@ -5,6 +5,7 @@ date: Wed, 12 Dec 2018 10:12:00 GMT
 categories: 
 - noord-brabant 
 - goirle 
+externe_link: "https://www.politie.nl/nieuws/2018/december/12/08-arrestaties-openstaande-boetes-en-illegaal-vuurwerk-bij-internationale-controle.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/december/08-zw/verkeerscontrole.jpg"
 ---
 

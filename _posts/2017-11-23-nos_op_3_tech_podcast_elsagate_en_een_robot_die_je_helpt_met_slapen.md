@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Elsagate en een robot die je helpt met slapen"
 date: Thu, 23 Nov 2017 17:30:00 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4153/nporadio1_nosop3techpodcast_20171123_nos-op-3-tech-podcast-elsagate-en-een-robot-die-je-helpt-met-slapen.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4153/nporadio1_nosop3techpodcast_20171123_nos-op-3-tech-podcast-elsagate-en-een-robot-die-je-helpt-met-slapen.mp3"
 ---
 
 0:00 Youtube onderneemt actie tegen Elsagate, een verzamelnaam voor duizenden verontrustende en ongepaste kindervideo’s op Youtube. Hierin zie je bijvoorbeeld bekende tekenfilmfiguurtjes die worden gemarteld, maar ook volwassenen die samen met kinderen ongepaste handelingen uitvoeren.

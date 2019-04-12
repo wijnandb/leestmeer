@@ -5,6 +5,7 @@ date: Sun, 26 Nov 2017 20:26:00 GMT
 categories: 
 - noord-brabant 
 - landerd 
+externe_link: "https://www.politie.nl/nieuws/2017/november/26/09-voetganger-ernstig-gewond-na-aanrijding-verdachte-opgepakt.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/intake-en-service-en-meldkamer/bord-met-logo-politie.jpg"
 ---
 

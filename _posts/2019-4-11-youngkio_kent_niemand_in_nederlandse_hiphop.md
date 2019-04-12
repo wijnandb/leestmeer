@@ -2,7 +2,9 @@
 layout: post
 title: "YoungKio kent niemand in Nederlandse hiphop"
 date: Thu, 11 Apr 2019 09:21:07 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3428434/young-kio-kent-niemand-in-nederlandse-hiphop"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/94cdd600-5c2a-11e9-9cd4-0217670beecd.png"
 ---

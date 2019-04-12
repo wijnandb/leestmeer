@@ -5,6 +5,7 @@ date: Thu, 28 Feb 2019 14:09:00 GMT
 categories: 
 - noord-holland 
 - hilversum 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/28/03-politiebureau-hilversum.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/mijn-buurt/bureaus/03/gv-hilversum-img_1499.jpg"
 ---
 

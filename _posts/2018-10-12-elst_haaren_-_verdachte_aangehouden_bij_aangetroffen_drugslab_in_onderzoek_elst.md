@@ -3,8 +3,9 @@ layout: post
 title: "Elst/Haaren - Verdachte aangehouden bij aangetroffen drugslab in onderzoek Elst"
 date: Fri, 12 Oct 2018 10:58:00 GMT
 categories: 
-- gelderland 
-- overbetuwe 
+- noord-brabant 
+- haaren 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/12/02-elst-drugslab.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/drugs/drugsvaten.jpg"
 ---
 

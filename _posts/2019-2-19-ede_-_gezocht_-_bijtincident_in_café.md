@@ -5,6 +5,7 @@ date: Tue, 19 Feb 2019 14:29:00 GMT
 categories: 
 - gelderland 
 - ede 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/gld/bijtincident-in-cafe.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/02-on/2018568009-1.jpg"
 ---
 

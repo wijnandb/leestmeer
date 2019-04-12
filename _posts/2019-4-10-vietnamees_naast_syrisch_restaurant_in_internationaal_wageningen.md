@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 07:26:00 GMT
 categories: 
 - gelderland 
 - wageningen 
+externe_link: "https://www.ad.nl/wageningen/vietnamees-naast-syrisch-restaurant-in-internationaal-wageningen~a8e1cf66/"
 feature_image: "https://images3.persgroep.net/rcs/an1vlic_EYKPUsDKX4-HsiNib9E/diocontent/121666988/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

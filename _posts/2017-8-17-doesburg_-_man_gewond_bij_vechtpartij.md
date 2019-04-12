@@ -5,6 +5,7 @@ date: Thu, 17 Aug 2017 09:58:00 GMT
 categories: 
 - gelderland 
 - doesburg 
+externe_link: "https://www.politie.nl/nieuws/2017/augustus/17/02-doesburg-man-gewond-bij-vechtpartij.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/afzetlint-bij-een-afzetting-van-een-pd.jpg"
 ---
 

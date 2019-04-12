@@ -5,6 +5,7 @@ date: Tue, 27 Feb 2018 15:38:00 GMT
 categories: 
 - gelderland 
 - westervoort 
+externe_link: "https://www.politie.nl/nieuws/2018/februari/27/onderwerpen-bij-bureaugld-28-02-2018.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/onderwerpen/bureau-gld.jpg"
 ---
 

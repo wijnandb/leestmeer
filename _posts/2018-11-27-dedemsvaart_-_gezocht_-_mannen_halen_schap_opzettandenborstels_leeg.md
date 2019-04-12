@@ -5,6 +5,7 @@ date: Tue, 27 Nov 2018 13:52:00 GMT
 categories: 
 - overijssel 
 - hardenberg 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/november/02-oon/gld/mannen-halen-schap-opzetborstels-leeg.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/november/02-on/2018405084-1.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 08:28:31 GMT
 categories: 
 - utrecht 
 - woerden 
+externe_link: "https://www.ad.nl/woerden/minkema-college-is-blij-met-extra-aanmeldingen-uitgelote-leerlingen~ac95a650/"
 feature_image: "https://images1.persgroep.net/rcs/vQzpI5kXzeri6K7XblmKvy34qj8/diocontent/136851717/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

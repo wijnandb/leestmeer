@@ -4,7 +4,8 @@ title: "Eindhoven - Onderzoek naar dodelijk schietincident in volle gang"
 date: Sat, 06 Apr 2019 15:27:00 GMT
 categories: 
 - noord-brabant 
-- eindhoven 
+- eindhoven_e.o. 
+externe_link: "https://www.politie.nl/nieuws/2019/april/6/09-onderzoek-naar-dodelijk-schietincident-in-volle-gang.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/april/09-ob/10.jpg"
 ---
 

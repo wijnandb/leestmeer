@@ -5,6 +5,7 @@ date: Thu, 23 Aug 2018 10:42:00 GMT
 categories: 
 - gelderland 
 - lingewaard 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/23/02-bemmel-politie-vindt-afscheidsbrief-bij-onderzoek-incident-gemeentehuis.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/november/06-dh/afzetlint.jpg"
 ---
 

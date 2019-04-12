@@ -2,9 +2,8 @@
 layout: post
 title: "Nederlandse handballers in slotminuut onderuit tegen Slovenië"
 date: Thu, 11 Apr 2019 19:19:00 GMT
-categories: 
-- sport 
-- andere_sporten 
+category: sport
+externe_link: "https://www.ad.nl/andere-sporten/nederlandse-handballers-in-slotminuut-onderuit-tegen-slovenie~a6396b7f/"
 feature_image: "https://images2.persgroep.net/rcs/jo66yZA5_SszIpMhSzWH7Q9-PXI/diocontent/145330834/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

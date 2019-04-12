@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Harry en Meghan verhuisd naar Windsor"
-date: Thu, 04 Apr 2019 19:49:00 GMT
+date: Thu, 04 Apr 2019 23:01:34 +0200
 categories: 
 - entertainment 
 - royalty 
-externe_link: "https://www.ad.nl/show/harry-en-meghan-verhuisd-naar-windsor~abf17ca4/"
-feature_image: "https://images2.persgroep.net/rcs/DnrmTi8WFD8bOsGdd7icCeDA0dQ/diocontent/144531064/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
+externe_link: "https://www.telegraaf.nl/entertainment/3397912/harry-en-meghan-verhuisd-naar-windsor"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/dc503e68-571c-11e9-938c-0255c322e81b.jpg"
 ---
 
-De Britse prins Harry en Meghan kunnen hun verhuisdozen gaan uitpakken. Volgens Britse media zijn de twee officieel vertrokken uit Kensington Palace.
+<p class="intro">Prins Harry en Meghan kunnen hun verhuisdozen gaan uitpakken. Volgens Britse media zijn de twee officieel vertrokken uit Kensington Palace.</p> <p>Harry en Meghan wonen nu in Frogmore Cottage in Windsor, niet ver van Windsor Castle. Dat is net op tijd voor de hertog en hertogin van Sussex hun eerste kindje verwelkomen. Het paar wilde gesetteld zijn voordat de baby zou komen en Meghan is later deze maand uitgerekend.</p><p>De Sussexes lieten de afgelopen maanden hun nieuwe huis volledig renoveren. Het historische huis werd in de 18e eeuw gebouwd voor koningin Charlotte, de vrouw van koning George III.</p>

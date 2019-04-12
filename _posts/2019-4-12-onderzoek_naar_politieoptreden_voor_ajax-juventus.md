@@ -2,7 +2,9 @@
 layout: post
 title: "Onderzoek naar politieoptreden voor Ajax-Juventus"
 date: Fri, 12 Apr 2019 09:04:23 +0200
-category: nieuws
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://nos.nl/l/2280087"
 feature_image: "https://nos.nl/data/image/2019/04/12/543065/1008x567.jpg"
 ---

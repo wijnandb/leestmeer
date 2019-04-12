@@ -2,9 +2,8 @@
 layout: post
 title: "Rotterdam - Beschermingsoefening Port Defender in Rotterdamse haven succesvol verlopen"
 date: Thu, 11 Apr 2019 15:20:00 GMT
-categories: 
-- zuid-holland 
-- rotterdam 
+category: nieuws
+externe_link: "https://www.politie.nl/nieuws/2019/april/11/havenbeschermingsoefening-ter-voorbereiding-op-situaties-waar-je-niet-op-hoopt.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/april/07-rt/portdefender2.jpg"
 ---
 

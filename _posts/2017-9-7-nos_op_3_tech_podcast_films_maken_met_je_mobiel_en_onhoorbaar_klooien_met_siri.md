@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: films maken met je mobiel en onhoorbaar klooien m
 date: Thu, 07 Sep 2017 18:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4164/nporadio1_nosop3techpodcast_20170907_nos-op-3-tech-podcast-films-maken-met-je-mobiel-en-onhoorbaar-klooien-met-siri.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4164/nporadio1_nosop3techpodcast_20170907_nos-op-3-tech-podcast-films-maken-met-je-mobiel-en-onhoorbaar-klooien-met-siri.mp3"
 ---
 
 0:00 ?Om een film te maken heb je al lang geen grote peperdure camera's meer nodig, met je mobieltje kom je ook een heel eind. In Hilversum zijn deze week de ?Mobile Movie Days, een filmfestival voor films die met een mobieltje zijn gemaakt.

@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 08:35:00 GMT
 categories: 
 - overijssel 
 - enschede 
+externe_link: "https://www.ad.nl/enschede/krapte-op-twentse-woningmarkt-houdt-aan-prijzen-stijgen-door~a3366084/"
 feature_image: "https://images3.persgroep.net/rcs/-VnghBR-dzFc2eJxn1GWsVXaIWs/diocontent/145295459/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

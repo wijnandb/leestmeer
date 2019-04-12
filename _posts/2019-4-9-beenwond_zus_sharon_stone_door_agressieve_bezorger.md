@@ -2,7 +2,9 @@
 layout: post
 title: "Beenwond zus Sharon Stone door agressieve bezorger"
 date: Tue, 09 Apr 2019 11:57:49 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3416453/beenwond-zus-sharon-stone-door-agressieve-bezorger"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4c6a2ec8-5ac6-11e9-938c-0255c322e81b.jpg"
 ---

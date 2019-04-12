@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 13:52:38 +0200
 categories: 
 - entertainment 
 - film 
+externe_link: "https://www.nu.nl/film/5836104/george-clooney-maakt-langverwachte-film-over-auto-ontwerper-delorean.html"
 feature_image: "https://media.nu.nl/m/7wgxbwiabn1v_sqr256.jpg/george-clooney-maakt-langverwachte-film-over-auto-ontwerper-delorean.jpg"
 ---
 

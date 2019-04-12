@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Hoe kom je van je smartphoneverslaving af?"
 date: Thu, 20 Apr 2017 18:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4177/nporadio1_nosop3techpodcast_20170420_nos-op-3-tech-podcast-hoe-kom-je-van-je-smartphoneverslaving-af.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4177/nporadio1_nosop3techpodcast_20170420_nos-op-3-tech-podcast-hoe-kom-je-van-je-smartphoneverslaving-af.mp3"
 ---
 
 0:00 Ben jij ook meer met je telefoon bezig dan eigenlijk goed voor je is? Je bent niet de enige. Journalist Wouter van Noort schreef het boek 'Is daar iemand' over smartphoneverslaving en is te gast.

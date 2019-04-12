@@ -5,6 +5,7 @@ date: Thu, 07 Mar 2019 15:35:00 GMT
 categories: 
 - zuid-holland 
 - schiedam 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/7/07-twee-vermoedelijke-autobrandstichters-schiedam-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/07-rt/autobrand.jpg"
 ---
 

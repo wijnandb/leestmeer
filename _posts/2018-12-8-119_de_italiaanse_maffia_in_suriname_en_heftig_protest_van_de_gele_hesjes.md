@@ -4,7 +4,6 @@ title: "#119: de Italiaanse maffia in Suriname en heftig protest van de gele hes
 date: Sat, 08 Dec 2018 16:00:20 +0100
 category: podcast
 externe_link: "https://podcast.npo.nl/file/het-beste-uit-het-oog/3181/nporadio1_het-beste-uit-het-oog_20181208_119-heftig-protest-van-de-gele-hesjes-en-de-italiaanse-maffia-op-suriname.mp3"
-feature_image: "https://podcast.npo.nl/file/het-beste-uit-het-oog/3181/nporadio1_het-beste-uit-het-oog_20181208_119-heftig-protest-van-de-gele-hesjes-en-de-italiaanse-maffia-op-suriname.mp3"
 ---
 
 Zijn de gele hesjes een Frans fenomeen of is er sprake van een uitslaande brand in heel Europa? In Het Beste uit het Oog deze week een gesprek met financieel geograaf en columnist Ewald Engelen. "Wat ik zie, is een lagere middenklasse die in opstand komt tegen een enorme financiële clan. Tegen een regering die ze zien als toondoof."

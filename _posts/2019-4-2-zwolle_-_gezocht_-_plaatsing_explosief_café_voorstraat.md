@@ -2,9 +2,8 @@
 layout: post
 title: "Zwolle - Gezocht - Plaatsing explosief café Voorstraat"
 date: Tue, 02 Apr 2019 11:47:00 GMT
-categories: 
-- overijssel 
-- zwolle 
+category: overijssel
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/oktober/02-plaatsing-explosief-cafe-voorstraat.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/oktober/02-on/2018456826-geblurd.jpg"
 ---
 

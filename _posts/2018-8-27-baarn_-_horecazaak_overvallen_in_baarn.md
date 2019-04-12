@@ -5,6 +5,7 @@ date: Mon, 27 Aug 2018 12:06:00 GMT
 categories: 
 - utrecht 
 - baarn 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/27/03-horecazaak-overvallen-in-baarn.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/gele-politiejas.jpg"
 ---
 

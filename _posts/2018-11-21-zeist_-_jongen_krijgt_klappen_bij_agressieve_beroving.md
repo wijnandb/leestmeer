@@ -5,6 +5,7 @@ date: Wed, 21 Nov 2018 15:19:00 GMT
 categories: 
 - utrecht 
 - zeist 
+externe_link: "https://www.politie.nl/nieuws/2018/november/21/03-jongen-krijgt-klappen-bij-agressieve-beroving.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/detailopname-van-uniformen-motoragenten.jpg"
 ---
 

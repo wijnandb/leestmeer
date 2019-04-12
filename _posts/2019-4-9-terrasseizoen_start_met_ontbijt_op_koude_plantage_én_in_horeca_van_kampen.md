@@ -5,6 +5,7 @@ date: Tue, 09 Apr 2019 09:22:00 GMT
 categories: 
 - overijssel 
 - kampen 
+externe_link: "https://www.ad.nl/kampen/terrasseizoen-start-met-ontbijt-op-koude-plantage-en-in-horeca-van-kampen~a9ddd12b/"
 feature_image: "https://images1.persgroep.net/rcs/OHkugliBC86HK4_3zp2ead2pGcs/diocontent/121850753/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

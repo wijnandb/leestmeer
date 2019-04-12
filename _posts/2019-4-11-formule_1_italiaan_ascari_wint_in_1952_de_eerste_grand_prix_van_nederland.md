@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 19:24:54 +0200
 categories: 
 - sport 
 - autosport 
+externe_link: "https://nos.nl/l/2280018"
 ---
 
 Het circuit van Zandvoort wordt in 1952 toegevoegd aan de strijd om de wereldtitel in de Formule. Alberto Ascari wint in zijn Ferrari de duinenrace. Voor Nederland treden Jan Flinterman en Dries van der Lof zonder succes aan.

@@ -4,7 +4,8 @@ title: "Boskoop - Nog drie verdachten wederrechtelijke vrijheidsberoving Sint Ja
 date: Wed, 14 Nov 2018 14:47:00 GMT
 categories: 
 - zuid-holland 
-- boskoop 
+- waddinxveen 
+externe_link: "https://www.politie.nl/nieuws/2018/november/14/06-nog-drie-verdachten-wederrechtelijke-vrijheidsberoving-sint-janshof-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

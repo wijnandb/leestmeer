@@ -4,7 +4,6 @@ title: "iOS 12 nu al getest en hoe veilig is zo'n slotje in je browser?"
 date: Thu, 07 Jun 2018 16:57:26 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4123/nporadio1_nosop3techpodcast_20180607_ios-12-nu-al-getest-en-hoe-veilig-is-zo-n-slotje-in-je-browser.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4123/nporadio1_nosop3techpodcast_20180607_ios-12-nu-al-getest-en-hoe-veilig-is-zo-n-slotje-in-je-browser.mp3"
 ---
 
 0:00 Deze week was de WWDC, de jaarlijkse ontwikkelaars-conferentie van Apple. Hier worden nieuwe functies van de volgende versie van iOS onthuld. 3FM DJ en Apple-fan Michiel Veenstra heeft al een paar dagen met de eerste betaversie gespeeld en vertelt of het beviel.

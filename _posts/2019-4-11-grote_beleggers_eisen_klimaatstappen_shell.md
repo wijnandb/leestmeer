@@ -2,7 +2,9 @@
 layout: post
 title: "Grote beleggers eisen klimaatstappen Shell"
 date: Thu, 11 Apr 2019 21:24:52 GMT
-category: binnenland
+categories: 
+- financieel 
+- economie 
 externe_link: "https://www.ad.nl/economie/grote-beleggers-eisen-klimaatstappen-shell~a43b5bb6/"
 feature_image: "https://images0.persgroep.net/rcs/AqfYtMs5WTiQJWloE4apHifnlGU/diocontent/145178457/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

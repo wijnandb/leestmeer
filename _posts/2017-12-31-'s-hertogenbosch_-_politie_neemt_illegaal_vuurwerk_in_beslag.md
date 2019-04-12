@@ -5,6 +5,7 @@ date: Sun, 31 Dec 2017 10:31:00 GMT
 categories: 
 - noord-brabant 
 - maasdonk 
+externe_link: "https://www.politie.nl/nieuws/2017/december/31/09-politie-neemt-illegaal-vuurwerk-in-beslag.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/december/09-ob/vuurwerk-3112.jpg"
 ---
 

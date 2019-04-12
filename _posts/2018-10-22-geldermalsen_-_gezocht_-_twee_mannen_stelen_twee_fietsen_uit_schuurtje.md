@@ -5,6 +5,7 @@ date: Mon, 22 Oct 2018 19:37:00 GMT
 categories: 
 - gelderland 
 - geldermalsen 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/oktober/02-oon/gld/diefstal-twee-fietsen-uit-schuurtje.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/oktober/02-on/2018403168-1.jpg"
 ---
 

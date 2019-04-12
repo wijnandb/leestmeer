@@ -5,6 +5,7 @@ date: Tue, 19 Feb 2019 07:28:00 GMT
 categories: 
 - zuid-holland 
 - schiedam 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/februari/07-wie-herkent-overvallers-supermarkt-nolenslaan-schiedam.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/februari/07/dader2.jpg"
 ---
 

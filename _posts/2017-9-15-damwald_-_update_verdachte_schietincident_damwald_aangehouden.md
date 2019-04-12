@@ -5,6 +5,7 @@ date: Fri, 15 Sep 2017 16:02:00 GMT
 categories: 
 - fryslan 
 - dantumadiel 
+externe_link: "https://www.politie.nl/nieuws/2017/september/15/01-verdachte-schietincident-damwald-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

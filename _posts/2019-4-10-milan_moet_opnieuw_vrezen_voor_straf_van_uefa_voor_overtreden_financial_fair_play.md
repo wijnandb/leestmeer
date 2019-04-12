@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 11:11:19 GMT
 categories: 
 - sport 
 - voetbal 
+externe_link: "https://www.ad.nl/buitenlands-voetbal/milan-moet-opnieuw-vrezen-voor-straf-van-uefa-voor-overtreden-financial-fair-play~a3415ea5/"
 feature_image: "https://images0.persgroep.net/rcs/_ygOZXZMBwbXcqtjB766d6WEW-Y/diocontent/145047173/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

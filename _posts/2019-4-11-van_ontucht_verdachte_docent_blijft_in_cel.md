@@ -2,7 +2,7 @@
 layout: post
 title: "Van ontucht verdachte docent blijft in cel"
 date: Thu, 11 Apr 2019 17:27:23 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3432675/van-ontucht-verdachte-docent-blijft-in-cel"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5a23c066-5c6e-11e9-8854-0217670beecd.jpg"
 ---

@@ -5,6 +5,7 @@ date: Wed, 28 Nov 2018 10:29:00 GMT
 categories: 
 - noord-brabant 
 - waalre 
+externe_link: "https://www.politie.nl/nieuws/2018/november/28/twee-vrouwen-opgepakt-voor-mishandeling-na-verkeersruzie.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/sirene-op-politieauto.jpg"
 ---
 

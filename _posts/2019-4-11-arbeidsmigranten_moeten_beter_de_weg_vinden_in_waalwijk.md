@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 08:01:16 GMT
 categories: 
 - noord-brabant 
 - waalwijk 
+externe_link: "https://www.ad.nl/waalwijk/arbeidsmigranten-moeten-beter-de-weg-vinden-in-waalwijk~a8b3c6dc/"
 feature_image: "https://images1.persgroep.net/rcs/vs4C98daNsVcquQPhER9h-PhIW4/diocontent/144499319/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -4,7 +4,6 @@ title: "Een Europees uploadfilter is weer een stap dichterbij en wanneer rij jij
 date: Thu, 14 Feb 2019 17:40:19 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4294/nporadio1_nosop3techpodcast_20190214_een-europees-uploadfilter-is-weer-een-stap-dichterbij-en-wanneer-rij-jij-elektrisch_6BPGQW.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4294/nporadio1_nosop3techpodcast_20190214_een-europees-uploadfilter-is-weer-een-stap-dichterbij-en-wanneer-rij-jij-elektrisch_6BPGQW.mp3"
 ---
 
 0:00 Er is een Europees akkoord over nieuwe auteursrechten-regels, en daarmee is de komst van de zogenoemde linktaks en uploadfilter weer een stap dichterbij gekomen. Hoe dat precies zit vertelt Stefan Kulk, universitair oocent en onderzoeker aan de Universiteit Utrecht.

@@ -2,7 +2,7 @@
 layout: post
 title: "Brits Lagerhuis steunt uitstelverzoek May"
 date: Tue, 09 Apr 2019 20:03:42 +0200
-category: algemeen
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/3420210/brits-lagerhuis-steunt-uitstelverzoek-may"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/fd9f1a9c-5af2-11e9-93c9-02c309bc01c1.jpg"
 ---

@@ -5,6 +5,7 @@ date: Fri, 08 Mar 2019 12:29:00 GMT
 categories: 
 - zuid-holland 
 - lansingerland 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/07-knullige-inbrekers-berkel-gezocht.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/07-rt/kluisdieven-berkel.jpg"
 ---
 

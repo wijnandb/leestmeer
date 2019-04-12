@@ -5,6 +5,7 @@ date: Fri, 07 Oct 2016 13:47:00 GMT
 categories: 
 - gelderland 
 - scherpenzeel 
+externe_link: "https://www.politie.nl/nieuws/2016/oktober/7/02-barneveld-succesvolle-preventiecontrole-in-donkere-dagen-offensief.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/agenten-bij-verkeerscontrole-.jpg"
 ---
 

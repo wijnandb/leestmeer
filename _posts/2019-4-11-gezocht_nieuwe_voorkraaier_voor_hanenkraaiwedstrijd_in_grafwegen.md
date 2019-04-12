@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 16:57:35 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.ad.nl/nijmegen/gezocht-nieuwe-voorkraaier-voor-hanenkraaiwedstrijd-in-grafwegen~ac2abbb3/"
 feature_image: "https://images1.persgroep.net/rcs/criqYNS3UvD6OMx5S5MdSIiXVZE/diocontent/145255008/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

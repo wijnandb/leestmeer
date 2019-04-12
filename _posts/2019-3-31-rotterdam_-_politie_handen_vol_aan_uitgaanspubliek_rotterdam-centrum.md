@@ -5,6 +5,7 @@ date: Sun, 31 Mar 2019 15:02:00 GMT
 categories: 
 - zuid-holland 
 - rotterdam 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/31/07-onrustig-uitgaansweekend-in-rotterdam.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/voor-een-arrestant-wordt-ingesloten-wordt-deze-gefouilleerd-en-in-progis-ingevoerd.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Jakobsen oppermachtig in Scheldeprijs: ’Helemaal geweldig’"
 date: Wed, 10 Apr 2019 18:11:57 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/3426595/jakobsen-oppermachtig-in-scheldeprijs-helemaal-geweldig"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5d5bb086-5bab-11e9-966f-0217670beecd.jpg"
 ---

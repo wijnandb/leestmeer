@@ -5,6 +5,7 @@ date: Sun, 25 Mar 2018 08:07:00 GMT
 categories: 
 - drenthe 
 - assen 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/25/01-drie-aanhoudingen-na-mogelijk-schietincident-stationsplein-assen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/agent-met-vest-en-portofoon.jpg"
 ---
 

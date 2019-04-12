@@ -5,6 +5,7 @@ date: Sun, 27 Aug 2017 04:17:00 GMT
 categories: 
 - drenthe 
 - noordenveld 
+externe_link: "https://www.politie.nl/nieuws/2017/augustus/27/01---man-overleden-na-schietincident-in-woning.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/zijkant-politieauto-met-logo.jpg"
 ---
 

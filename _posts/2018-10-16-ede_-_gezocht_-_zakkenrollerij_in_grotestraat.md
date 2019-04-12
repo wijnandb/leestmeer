@@ -5,6 +5,7 @@ date: Tue, 16 Oct 2018 12:58:00 GMT
 categories: 
 - gelderland 
 - ede 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/oktober/02-oon/gld/zakkenrollerij-in-grotestraat.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/oktober/02-on/2018141366-01.jpg"
 ---
 

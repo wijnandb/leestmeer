@@ -5,6 +5,7 @@ date: Fri, 22 Mar 2019 17:06:00 GMT
 categories: 
 - noord-brabant 
 - zundert 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/22/08-man-van-%E2%80%98kippenfilmpje%E2%80%99-opgepakt.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/detailopname-surveillancewagen.jpg"
 ---
 

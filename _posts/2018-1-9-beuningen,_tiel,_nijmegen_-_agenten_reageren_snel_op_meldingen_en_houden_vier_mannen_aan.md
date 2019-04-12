@@ -5,6 +5,7 @@ date: Tue, 09 Jan 2018 14:14:00 GMT
 categories: 
 - gelderland 
 - beuningen 
+externe_link: "https://www.politie.nl/nieuws/2018/januari/9/02-beuningen-tiel-nijmegen---agenten-reageren-snel-op-meldingen-en-houden-vier-mannen-aan.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding.jpg"
 ---
 

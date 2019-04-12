@@ -5,6 +5,7 @@ date: Wed, 16 Jan 2019 09:52:00 GMT
 categories: 
 - zuid-holland 
 - krimpen_aan_den_ijssel 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/16/07-deze-week-vier-nieuwe-zaken-in-bureau-rijnmond.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/augustus/07-rt/br_logo_vierkant.jpg"
 ---
 

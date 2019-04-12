@@ -4,7 +4,8 @@ title: "Deurne/Asten - Verdachten na aanrijding aangehouden"
 date: Wed, 14 Nov 2018 14:58:00 GMT
 categories: 
 - noord-brabant 
-- asten 
+- deurne 
+externe_link: "https://www.politie.nl/nieuws/2018/november/14/09-verdachten-na-aanrijding-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/detailopname-surveillancewagen.jpg"
 ---
 

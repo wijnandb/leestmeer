@@ -5,6 +5,7 @@ date: Sun, 11 Dec 2016 09:43:00 GMT
 categories: 
 - utrecht 
 - renswoude 
+externe_link: "https://www.politie.nl/nieuws/2016/december/11/02-dieren-ede-verkeersongevallen-door-drankgebruik.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/politieauto-met-zwaailicht.jpg"
 ---
 

@@ -2,9 +2,8 @@
 layout: post
 title: "'Grote beleggers eisen klimaatstappen Shell'"
 date: Thu, 11 Apr 2019 22:13:34 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3433767/grote-beleggers-eisen-klimaatstappen-shell"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/848bacf6-5c96-11e9-a72a-0255c322e81b.jpg"
 ---
 

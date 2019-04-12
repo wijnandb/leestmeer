@@ -2,7 +2,7 @@
 layout: post
 title: "’Albanees moet voortaan verplicht visum aanvragen’"
 date: Thu, 11 Apr 2019 22:07:58 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3433752/albanees-moet-voortaan-verplicht-visum-aanvragen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/356ac77c-5c9d-11e9-a00c-02c309bc01c1.jpg"
 ---

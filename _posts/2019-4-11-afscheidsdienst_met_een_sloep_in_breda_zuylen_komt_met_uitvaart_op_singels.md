@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 18:49:27 GMT
 categories: 
 - noord-brabant 
 - breda 
+externe_link: "https://www.ad.nl/breda/afscheidsdienst-met-een-sloep-in-breda-zuylen-komt-met-uitvaart-op-singels~a58587f7/"
 feature_image: "https://images4.persgroep.net/rcs/QnUjk2Li3HOmPyNDNzh_SWcChNc/diocontent/68358584/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

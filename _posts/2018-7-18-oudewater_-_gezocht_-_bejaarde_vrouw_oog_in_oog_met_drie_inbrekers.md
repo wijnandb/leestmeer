@@ -5,6 +5,7 @@ date: Wed, 18 Jul 2018 13:49:00 GMT
 categories: 
 - utrecht 
 - oudewater 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/juli/03-oudewater-18-80-jarige-vrouw-oog-in-oog-met-inbrekers.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/juli/03-mn/oudewater-18-woninginbraak.jpg"
 ---
 

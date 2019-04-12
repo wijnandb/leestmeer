@@ -5,6 +5,7 @@ date: Mon, 16 Jul 2018 14:44:00 GMT
 categories: 
 - utrecht 
 - zeist 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/15/03-drie-aanhoudingen-na-straatroof-in-zeist.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/gele-politiejas.jpg"
 ---
 

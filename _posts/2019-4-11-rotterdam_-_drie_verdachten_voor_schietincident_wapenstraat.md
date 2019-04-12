@@ -2,9 +2,8 @@
 layout: post
 title: "Rotterdam - Drie verdachten voor schietincident Wapenstraat"
 date: Thu, 11 Apr 2019 14:49:00 GMT
-categories: 
-- zuid-holland 
-- rotterdam 
+category: zuid-holland
+externe_link: "https://www.politie.nl/nieuws/2019/april/11/07-drie-verdachten-vast-voor-schietincident-wapenstraat.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/politielogo-gevel.jpg"
 ---
 

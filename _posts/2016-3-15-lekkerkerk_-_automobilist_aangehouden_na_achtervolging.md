@@ -5,6 +5,7 @@ date: Tue, 15 Mar 2016 07:20:00 GMT
 categories: 
 - zuid-holland 
 - nederlek 
+externe_link: "https://www.politie.nl/nieuws/2016/maart/15/06-lekkerkerk-automobilist-aangehouden-na-achtervolging.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/noodhulp-auto.jpg"
 ---
 

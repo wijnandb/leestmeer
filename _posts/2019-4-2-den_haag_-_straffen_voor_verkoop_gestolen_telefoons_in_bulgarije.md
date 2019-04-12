@@ -5,6 +5,7 @@ date: Tue, 02 Apr 2019 13:47:00 GMT
 categories: 
 - zuid-holland 
 - den_haag 
+externe_link: "https://www.politie.nl/nieuws/2019/april/2/06-straffen-voor-verkoop-gestolen-telefoons-in-bulgarije.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/juli/06-dh/occasion-den-haag-002.jpg"
 ---
 

@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Hardloop-apps die staatsgeheimen verraden"
 date: Thu, 12 Jul 2018 16:32:32 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4118/nporadio1_nosop3techpodcast_20180712_nos-op-3-tech-podcast-hardloop-apps-die-staatsgeheimen-verraden.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4118/nporadio1_nosop3techpodcast_20180712_nos-op-3-tech-podcast-hardloop-apps-die-staatsgeheimen-verraden.mp3"
 ---
 
 0:00 Via hardloop-apps kan je allerlei gevoelige en geheime informatie achterhalen, zoals locaties van legerbases, en namen en adressen van hooggeplaatste militairen. De Correspondent deed hier een groot onderzoek naar, en Dimitri Tokmetzis van de Correspondent is te gast.

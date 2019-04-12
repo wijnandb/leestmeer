@@ -2,9 +2,8 @@
 layout: post
 title: "KPN voegt IT-beveiligingsdochters samen"
 date: Thu, 11 Apr 2019 09:45:58 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3428574/kpn-voegt-it-beveiligingsdochters-samen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/28a79b4c-5c2e-11e9-b144-0255c322e81b.jpg"
 ---
 

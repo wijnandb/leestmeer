@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 10:02:21 GMT
 categories: 
 - sport 
 - wielrennen 
+externe_link: "https://www.ad.nl/wielrennen/killer-fabio-jakobsen-loert-vanuit-de-luwte-ik-ben-nooit-nerveus~a02a39dd/"
 feature_image: "https://images0.persgroep.net/rcs/SXwBEXpQxkiNLWriFaLgp-8hGlQ/diocontent/145161781/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

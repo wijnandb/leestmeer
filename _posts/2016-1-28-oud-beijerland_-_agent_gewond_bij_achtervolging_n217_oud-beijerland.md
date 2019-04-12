@@ -5,6 +5,7 @@ date: Thu, 28 Jan 2016 18:51:49 GMT
 categories: 
 - zuid-holland 
 - strijen 
+externe_link: "https://www.politie.nl/nieuws/2016/januari/28/07-agent-gewond-bij-achtervolging-n217-oud-beijerland.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/ambulance.jpg"
 ---
 

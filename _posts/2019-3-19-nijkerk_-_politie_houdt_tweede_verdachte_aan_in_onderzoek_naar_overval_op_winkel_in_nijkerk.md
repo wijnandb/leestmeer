@@ -5,6 +5,7 @@ date: Tue, 19 Mar 2019 10:59:00 GMT
 categories: 
 - gelderland 
 - nijkerk 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/19/02-politie-houdt-tweede-verdachte-aan-in-onderzoek-naar-overval-op-winkel-in-nijkerk.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-3.jpg"
 ---
 

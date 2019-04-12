@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 09:12:00 GMT
 categories: 
 - zuid-holland 
 - dordrecht 
+externe_link: "https://www.ad.nl/dordrecht/middenvelder-thomas-kok-is-weer-de-oude~a9d83227/"
 feature_image: "https://images2.persgroep.net/rcs/-z349n9-Osa_KtlH9eYpRx4TgpE/diocontent/144925650/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -4,7 +4,6 @@ title: "Appcontract vóór je seks hebt & de race om thuisassistenten"
 date: Thu, 11 Jan 2018 17:30:00 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4146/nporadio1_nosop3techpodcast_20180111_appcontract-voor-je-seks-hebt-de-race-om-thuisassistenten.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4146/nporadio1_nosop3techpodcast_20180111_appcontract-voor-je-seks-hebt-de-race-om-thuisassistenten.mp3"
 ---
 
 En ook appbouwers volgen discussies over seksueel machtsmisbruik. Legalfling wil ervoor zorgen dat je voordat je ja tegen seks zegt, eerst samen een contract tekent over wat je wel en wat je niet wilt. Hoe werkt dit?

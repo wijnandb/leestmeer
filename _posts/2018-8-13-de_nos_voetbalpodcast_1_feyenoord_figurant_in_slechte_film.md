@@ -6,7 +6,6 @@ categories:
 - sport 
 - voetbal 
 externe_link: "https://podcast.npo.nl/file/nos-voetbalpodcast/1878/nporadio1_nos-voetbalpodcast_20180813_de-nos-voetbalpodcast-1-feyenoord-figurant-in-slechte-film.mp3"
-feature_image: "https://podcast.npo.nl/file/nos-voetbalpodcast/1878/nporadio1_nos-voetbalpodcast_20180813_de-nos-voetbalpodcast-1-feyenoord-figurant-in-slechte-film.mp3"
 ---
 
 Deze week met Arno Vermeulen, Frank Snoeks, Jeroen Grueter en Arman Avsaroglu. 

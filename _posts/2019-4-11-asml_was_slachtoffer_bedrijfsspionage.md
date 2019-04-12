@@ -2,9 +2,8 @@
 layout: post
 title: "ASML was slachtoffer bedrijfsspionage"
 date: Thu, 11 Apr 2019 09:41:00 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3428080/asml-was-slachtoffer-bedrijfsspionage"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e049b4ca-5c2d-11e9-ab1a-0218eaf05005.jpg"
 ---
 

@@ -2,9 +2,8 @@
 layout: post
 title: "Nieuwegeins ingenieursbureau tracht koudwatervrees exacte vakken weg te nemen op Girls Day"
 date: Thu, 11 Apr 2019 19:15:00 GMT
-categories: 
-- utrecht 
-- utrecht 
+category: utrecht
+externe_link: "https://www.ad.nl/utrecht/nieuwegeins-ingenieursbureau-tracht-koudwatervrees-exacte-vakken-weg-te-nemen-op-girls-day~a7a5277a/"
 feature_image: "https://images3.persgroep.net/rcs/C1-1i3k465Tu3qlrenZjlAb8Zmw/diocontent/145311951/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

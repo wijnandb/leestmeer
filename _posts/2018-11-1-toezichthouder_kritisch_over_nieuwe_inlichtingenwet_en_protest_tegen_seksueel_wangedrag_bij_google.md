@@ -4,7 +4,6 @@ title: "Toezichthouder kritisch over nieuwe inlichtingenwet en protest tegen sek
 date: Thu, 01 Nov 2018 17:47:32 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4101/nporadio1_nosop3techpodcast_20181101_toezichthouder-kritisch-over-nieuwe-inlichtingenwet-en-protest-tegen-seksueel-wangedrag-bij-google.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4101/nporadio1_nosop3techpodcast_20181101_toezichthouder-kritisch-over-nieuwe-inlichtingenwet-en-protest-tegen-seksueel-wangedrag-bij-google.mp3"
 ---
 
 0:00 De nieuwe inlichtingenwet is een half jaar van kracht. De toezichthouder die beoordeelt wanneer de inlichtingendiensten mogen tappen of hacken is kritisch over de uitvoering van die wet.

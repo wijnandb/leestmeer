@@ -4,7 +4,8 @@ title: "Enschede, Nijverdal, Zwolle, Ommen, Hardenberg, Den Ham - Zaken in Onder
 date: Tue, 06 Feb 2018 14:33:00 GMT
 categories: 
 - overijssel 
-- hellendoorn 
+- ommen 
+externe_link: "https://www.politie.nl/nieuws/2018/februari/6/02-zaken-in-onder-de-loep-van-8-februari.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/onderwerpen/onder-de-loep.jpg"
 ---
 

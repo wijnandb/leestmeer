@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 08:08:27 GMT
 categories: 
 - gelderland 
 - zaltbommel 
+externe_link: "https://www.ad.nl/zaltbommel/gewonde-bij-botsing-twee-auto-s-in-gameren~a7518e79/"
 feature_image: "https://images0.persgroep.net/rcs/owO0Otp4aXkkFSzMWDnO8VfoL70/diocontent/145224766/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

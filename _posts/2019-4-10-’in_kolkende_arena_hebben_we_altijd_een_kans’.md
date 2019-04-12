@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 09:00:00 +0200
 categories: 
 - sport 
 - voetbal 
+externe_link: "https://www.telegraaf.nl/nieuws/3421421/in-kolkende-aren-a-hebben-we-altijd-een-kans"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bd8a654a-5b9e-11e9-bdd3-02d2fb1aa1d7.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 13 Dec 2017 12:02:00 GMT
 categories: 
 - noord-brabant 
 - boxmeer 
+externe_link: "https://www.politie.nl/nieuws/2017/december/13/09-politie-zoekt-getuigen-overval.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/detailopname-surveillancewagen.jpg"
 ---
 

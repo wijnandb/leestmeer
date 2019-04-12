@@ -2,9 +2,8 @@
 layout: post
 title: "The Weeknd eigenaar van eSports-bedrijf"
 date: Thu, 11 Apr 2019 07:55:00 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3428153/the-weeknd-eigenaar-van-e-sports-bedrijf"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4edb1c08-5c1f-11e9-8fc6-02d2fb1aa1d7.jpg"
 ---
 

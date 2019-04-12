@@ -2,7 +2,9 @@
 layout: post
 title: "Robert de Hoog en Jonas Smulders in Indië-film"
 date: Tue, 09 Apr 2019 19:55:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3419816/robert-de-hoog-en-jonas-smulders-in-indie-film"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/abd9c596-5af1-11e9-bdd3-02d2fb1aa1d7.jpg"
 ---

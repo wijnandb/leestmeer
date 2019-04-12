@@ -2,7 +2,7 @@
 layout: post
 title: "Huilende kleuter beste nieuwsfoto"
 date: Thu, 11 Apr 2019 22:30:00 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3433103/huilende-kleuter-beste-nieuwsfoto"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8e13601e-5c98-11e9-b673-0255c322e81b.jpg"
 ---

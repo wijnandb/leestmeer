@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 08:00:16 GMT
 categories: 
 - entertainment 
 - film 
+externe_link: "https://www.ad.nl/show/james-bond-baas-ralph-fiennes-is-plots-een-balletleraar~a541b34d/"
 feature_image: "https://images0.persgroep.net/rcs/o-zjP8CAYiZsSsP-xeZkyOST0hM/diocontent/144773559/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

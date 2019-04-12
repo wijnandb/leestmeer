@@ -2,7 +2,7 @@
 layout: post
 title: "Prijs voor Almeers Bos der Onverzettelijken"
 date: Thu, 11 Apr 2019 23:14:01 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3433899/prijs-voor-almeers-bos-der-onverzettelijken"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c0b4207a-5c9e-11e9-b172-02d1dbdc35d1.JPG"
 ---

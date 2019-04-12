@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 10:21:15 +0200
 categories: 
 - financieel 
 - geld 
+externe_link: "https://www.telegraaf.nl/financieel/3422235/steeds-sterkere-signalen-afkoeling-woningmarkt"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9ba29680-5b69-11e9-8c76-02d1dbdc35d1.jpg"
 ---
 

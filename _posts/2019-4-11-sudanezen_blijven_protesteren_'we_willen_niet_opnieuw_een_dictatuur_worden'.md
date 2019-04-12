@@ -2,8 +2,8 @@
 layout: post
 title: "Sudanezen blijven protesteren: 'We willen niet opnieuw een dictatuur worden'"
 date: Thu, 11 Apr 2019 22:03:08 +0200
-category: nieuws
-externe_link: "https://nos.nl/l/2280042"
+category: buitenland
+externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/JLWszQLfUYI/2280042"
 feature_image: "https://nos.nl/data/image/2019/04/11/542996/1008x567.jpg"
 ---
 
@@ -18,4 +18,4 @@ feature_image: "https://nos.nl/data/image/2019/04/11/542996/1008x567.jpg"
 <p>Die opmerking wordt ondersteund door interne memo's van de Amerikaanse overheid uit 2008. Daarin staat dat Ibn Ouf een bedreiging vormt voor de stabiliteit van de Sudanese regio Darfur. Hij zou daar betrokken zijn geweest bij schendingen van de mensenrechten. Volgens de cable fungeerde hij als contactpersoon tussen de Sudanese overheid en de wrede Janjaweed milities. Ibn Ouf verleende ook logistieke hulp aan de milities en leidde aanvallen in Darfur, volgens de memo's. Hij kreeg om die reden in 2007 Amerikaanse sancties opgelegd.</p>
 <h2>Opluchting</h2>
 <p>"Er is nog veel onduidelijk en net als de mensen in Sudan ben ik boos en gefrustreerd. De enige opluchting is dat Bashir eindelijk is afgezet, dat is heel belangrijk", zegt Ahmed. "Ik zie het liefst dat hij vandaag nog naar Den Haag gaat [vanwege een aanhoudingsbevel door het Internationale strafhof, red]. Ik zal er staan om hem te ontvangen."</p>
-<p>Bekijk hieronder een profiel van de afgezette president Bashir:</p>
+<p>Bekijk hieronder een profiel van de afgezette president Bashir:</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbuitenland/~4/JLWszQLfUYI" height="1" width="1" alt=""/>

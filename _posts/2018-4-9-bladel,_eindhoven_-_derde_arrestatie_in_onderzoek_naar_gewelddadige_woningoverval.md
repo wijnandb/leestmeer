@@ -5,6 +5,7 @@ date: Mon, 09 Apr 2018 10:09:00 GMT
 categories: 
 - noord-brabant 
 - bladel 
+externe_link: "https://www.politie.nl/nieuws/2018/april/9/09-derde-arrestatie-in-onderzoek-naar-gewelddadige-woningoverval.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/september/09-ob/bladeltgo.jpg"
 ---
 

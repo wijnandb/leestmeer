@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 08:10:08 GMT
 categories: 
 - zuid-holland 
 - delft 
+externe_link: "https://www.ad.nl/delft/de-elpee-is-de-laatste-jaren-aan-een-enorme-comeback-bezig~aa11f164/"
 feature_image: "https://images4.persgroep.net/rcs/kiLeioljy4czI8aTQ8V5SKnzCOU/diocontent/102077994/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

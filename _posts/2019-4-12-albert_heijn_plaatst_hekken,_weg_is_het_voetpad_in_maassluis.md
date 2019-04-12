@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 08:40:23 GMT
 categories: 
 - zuid-holland 
 - waterweg 
+externe_link: "https://www.ad.nl/waterweg/albert-heijn-plaatst-hekken-weg-is-het-voetpad-in-maassluis~a5055879/"
 feature_image: "https://images3.persgroep.net/rcs/z7XRH1Ba_TBwgPYerBIlBA5rxqg/diocontent/145313444/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

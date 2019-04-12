@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: IKEA Place en stakende stemacteurs"
 date: Thu, 28 Sep 2017 15:29:18 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4161/nporadio1_nosop3techpodcast_20170928_nos-op-3-tech-podcast-ikea-place-en-stakende-stemacteurs.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4161/nporadio1_nosop3techpodcast_20170928_nos-op-3-tech-podcast-ikea-place-en-stakende-stemacteurs.mp3"
 ---
 
 0:00 Apple zet vol in op augmented reality. Ze geven ontwikkelaars handige hulpmiddelen om augmented reality in hun apps te verwerken. En een van de leukste voorbeelden daarvan is een nieuwe app van IKEA, waarmee je kan kijken hoe die ene stoel of bank past in jouw huis.

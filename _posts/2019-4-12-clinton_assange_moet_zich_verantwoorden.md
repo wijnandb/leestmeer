@@ -2,7 +2,7 @@
 layout: post
 title: "Clinton: Assange moet zich verantwoorden"
 date: Fri, 12 Apr 2019 08:42:00 +0200
-category: buitenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3434667/clinton-assange-moet-zich-verantwoorden"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2de29cb8-5cee-11e9-950a-02c309bc01c1.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Ten Hag ziet kansen in return"
 date: Wed, 10 Apr 2019 23:26:59 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3427647/ten-hag-ziet-kansen-in-return"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5c5cfb3a-5bde-11e9-a2cf-02d1dbdc35d1.jpg"
 ---

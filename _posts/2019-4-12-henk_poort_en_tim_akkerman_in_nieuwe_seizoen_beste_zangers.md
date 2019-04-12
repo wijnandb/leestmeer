@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 08:57:36 GMT
 categories: 
 - entertainment 
 - show 
+externe_link: "https://www.ad.nl/show/henk-poort-en-tim-akkerman-in-nieuwe-seizoen-beste-zangers~aef73469/"
 feature_image: "https://images3.persgroep.net/rcs/5TYMv0p-rEEou0tnH5ESN19XFs4/diocontent/122791404/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

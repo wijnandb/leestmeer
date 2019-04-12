@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 18:02:00 GMT
 categories: 
 - noord-brabant 
 - etten-leur 
+externe_link: "https://www.ad.nl/etten-leur/ik-zou-niet-weten-waar-ik-was-geweest-zonder-de-meedenkcoaches~a32bbdf9/"
 feature_image: "https://images0.persgroep.net/rcs/hapW_OCZl_p8lQfuKmjrHQL20Xk/diocontent/145249953/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

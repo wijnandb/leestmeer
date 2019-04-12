@@ -2,8 +2,8 @@
 layout: post
 title: "Maanlanding eerste commerciële sonde mislukt"
 date: Thu, 11 Apr 2019 21:40:47 +0200
-category: nieuws
-externe_link: "https://nos.nl/l/2280040"
+category: buitenland
+externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/Z5XK_YE7gjk/2280040"
 feature_image: "https://nos.nl/data/image/2019/04/11/542997/1008x567.jpg"
 ---
 
@@ -13,4 +13,4 @@ feature_image: "https://nos.nl/data/image/2019/04/11/542997/1008x567.jpg"
 <h2>SpaceX</h2>
 <p>De privaat gefinancierde Beresheet, Hebreeuws voor 'genesis' of 'in den beginne', werd op 22 februari vanuit Cape Canaveral in de Verenigde Staten gelanceerd. Een Falcon 9-raket van SpaceX, het bedrijf van Elon Musk, bracht de sonde eerst in een baan rond de aarde.</p>
 <p>Aan boord van de sonde was een robot, die twee dagen lang het magnetische veld rond de maan zou meten en beelden naar de aarde zou doorsturen. Ook waren een Israëlische vlag, het volkslied, de Thora en het verhaal van een Holocaustoverlevende in het ruimtevoertuig aanwezig.</p>
-<p>Vorige week donderdag doorstond de sonde, die iets minder dan 600 kilo weegt, de cruciale test toen het in een baan rond de maan kwam. Daarna minderde de sonde vaart om tot een geslaagde landing te kunnen komen.</p>
+<p>Vorige week donderdag doorstond de sonde, die iets minder dan 600 kilo weegt, de cruciale test toen het in een baan rond de maan kwam. Daarna minderde de sonde vaart om tot een geslaagde landing te kunnen komen.</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbuitenland/~4/Z5XK_YE7gjk" height="1" width="1" alt=""/>

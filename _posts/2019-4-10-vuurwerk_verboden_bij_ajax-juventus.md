@@ -2,7 +2,9 @@
 layout: post
 title: "Vuurwerk verboden bij Ajax-Juventus"
 date: Wed, 10 Apr 2019 11:26:26 +0200
-category: binnenland
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/nieuws/3422745/vuurwerk-verboden-bij-ajax-juventus"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b1875654-5b8a-11e9-966f-0217670beecd.jpg"
 ---

@@ -5,6 +5,7 @@ date: Tue, 01 May 2018 13:26:00 GMT
 categories: 
 - noord-brabant 
 - sint_michielsgestel 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/1/09-arrestatie-voor-explosie-bij-woning.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/zijkant-politieauto-met-logo.jpg"
 ---
 

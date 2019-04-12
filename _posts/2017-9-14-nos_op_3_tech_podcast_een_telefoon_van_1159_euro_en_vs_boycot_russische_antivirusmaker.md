@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Een telefoon van 1159 euro en VS boycot Russische
 date: Thu, 14 Sep 2017 18:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4163/nporadio1_nosop3techpodcast_20170914_nos-op-3-tech-podcast-een-telefoon-van-1159-euro-en-vs-boycot-russische-antivirusmaker.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4163/nporadio1_nosop3techpodcast_20170914_nos-op-3-tech-podcast-een-telefoon-van-1159-euro-en-vs-boycot-russische-antivirusmaker.mp3"
 ---
 
 0:00 We blikken terug op de najaarspresentatie van Apple met 3FM-DJ en Applekenner Michiel Veenstra. En vragen ons af wie er bijna twaalfhonderd euro over heeft voor een nieuwe iPhone.

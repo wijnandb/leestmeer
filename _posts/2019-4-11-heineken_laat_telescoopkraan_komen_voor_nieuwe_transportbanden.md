@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 12:32:00 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.ad.nl/den-bosch/heineken-laat-telescoopkraan-komen-voor-nieuwe-transportbanden~a120b585/"
 feature_image: "https://images1.persgroep.net/rcs/nnrxYpo7d3GMmpRVnXhjNGUtA1A/diocontent/145308169/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

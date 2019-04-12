@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 14:01:00 GMT
 categories: 
 - overijssel 
 - oldenzaal 
+externe_link: "https://www.ad.nl/oldenzaal/fields-of-joy-strikt-de-dijk-als-headliner~a2572636/"
 feature_image: "https://images0.persgroep.net/rcs/sxWhCwnbx6jX8KPYEPsFYYiHTbs/diocontent/103137679/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

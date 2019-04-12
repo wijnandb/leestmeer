@@ -2,7 +2,9 @@
 layout: post
 title: "Baudet praat over de uil van Minerva of over volgespoten vrouwen: allemaal parodie"
 date: Tue, 09 Apr 2019 15:53:00 GMT
-category: algemeen
+categories: 
+- entertainment 
+- opinie 
 externe_link: "https://www.volkskrant.nl/nieuws-achtergrond/baudet-die-over-volgespoten-vrouwen-praat-in-zijn-blootje-ligt-en-aan-lavendel-lurkt-het-is-allemaal-parodie~ba5fdb03/"
 feature_image: "https://images4.persgroep.net/rcs/2NQM1fRVy8F8w2sRXkyonFBRVpo/diocontent/143296586/_focus/0.5/0.5/_fill/320/320?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.85"
 ---

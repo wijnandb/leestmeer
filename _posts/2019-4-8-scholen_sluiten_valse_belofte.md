@@ -3,8 +3,8 @@ layout: post
 title: "Scholen sluiten valse belofte"
 date: Mon, 08 Apr 2019 18:57:00 +0200
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3413542/scholen-sluiten-valse-belofte"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/25f8f166-5a21-11e9-9533-0255c322e81b.png"
 ---

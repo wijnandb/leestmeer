@@ -5,6 +5,7 @@ date: Thu, 17 Jan 2019 08:00:00 GMT
 categories: 
 - noord-brabant 
 - best 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/dossiers/2019/09-lijk-in-de-bossen-bij-best/lijk-in-de-bossen-bij-best.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/dossiers/2019/09-ob/lijk-in-bossen-best/blouse1.jpg"
 ---
 

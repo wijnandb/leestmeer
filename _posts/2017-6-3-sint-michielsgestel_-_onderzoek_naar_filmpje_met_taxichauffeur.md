@@ -5,6 +5,7 @@ date: Sat, 03 Jun 2017 19:01:00 GMT
 categories: 
 - noord-brabant 
 - sint_michielsgestel 
+externe_link: "https://www.politie.nl/nieuws/2017/juni/3/09-onderzoek-naar-filmpje-met-taxichauffeur.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/twitter-en-facebook-op-telefoonscherm.jpg"
 ---
 

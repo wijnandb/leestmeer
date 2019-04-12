@@ -2,7 +2,9 @@
 layout: post
 title: "In Baskenland staat geen maat op Schachmann"
 date: Thu, 11 Apr 2019 15:27:00 GMT
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.ad.nl/wielrennen/in-baskenland-staat-geen-maat-op-schachmann~a1ca5982/"
 feature_image: "https://images2.persgroep.net/rcs/7lJul4KHZwDB5XR09gHazMaefac/diocontent/145257581/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

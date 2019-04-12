@@ -2,7 +2,7 @@
 layout: post
 title: "'Conflict in Libië kan mensensmokkel naar Europa weer op gang brengen'"
 date: Fri, 05 Apr 2019 22:41:25 +0200
-category: algemeen
+category: nieuws
 externe_link: "https://nos.nl/l/2279215"
 feature_image: "https://nos.nl/data/image/2019/04/05/541752/1008x567.jpg"
 ---

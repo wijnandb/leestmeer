@@ -3,8 +3,8 @@ layout: post
 title: "Hoe brigadier Etienne had liggen vechten voor zijn leven"
 date: Thu, 04 Apr 2019 08:15:00 +0200
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3392584/hoe-brigadier-etienne-had-liggen-vechten-voor-zijn-leven"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/fd8bac88-5664-11e9-9f98-0217670beecd.jpg"
 ---

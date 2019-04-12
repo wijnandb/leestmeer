@@ -3,8 +3,8 @@ layout: post
 title: "’Uiteindelijk is het de gediplomeerde mens die het laatste lacht’"
 date: Mon, 01 Apr 2019 08:00:00 +0200
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/vrouw/3367702/uiteindelijk-is-het-de-gediplomeerde-mens-die-het-laatste-lacht"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/dffb41fe-522e-11e9-b9c2-02d1dbdc35d1.jpg"
 ---

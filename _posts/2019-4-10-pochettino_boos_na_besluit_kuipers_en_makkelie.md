@@ -2,7 +2,9 @@
 layout: post
 title: "Pochettino boos na besluit Kuipers en Makkelie"
 date: Wed, 10 Apr 2019 11:54:03 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3423049/pochettino-boos-na-besluit-kuipers-en-makkelie"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2c3e19dc-5b77-11e9-a00c-02c309bc01c1.jpg"
 ---

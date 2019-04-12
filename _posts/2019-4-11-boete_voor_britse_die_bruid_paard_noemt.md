@@ -2,7 +2,7 @@
 layout: post
 title: "Boete voor Britse die bruid paard noemt"
 date: Thu, 11 Apr 2019 21:52:45 +0200
-category: buitenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3433709/boete-voor-britse-die-bruid-paard-noemt"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6a67d3b6-5c93-11e9-ba01-0255c322e81b.jpg"
 ---

@@ -5,6 +5,7 @@ date: Tue, 17 Jul 2018 14:12:00 GMT
 categories: 
 - zuid-holland 
 - giessenlanden 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/juli/07-nieuwe-sporen-richting-verdachte-van-schietincident-noordeloos-gerel-palm.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/juli/07-rt/imgcache.0_217_.jpg"
 ---
 

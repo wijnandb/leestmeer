@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 11:03:26 GMT
 categories: 
 - overijssel 
 - zwolle 
+externe_link: "https://www.ad.nl/zwolle/studenten-cibap-maken-nachtwacht-na-maar-dan-net-even-anders~a686545a/"
 feature_image: "https://images2.persgroep.net/rcs/UEU6rbqOkpPoUzrV7eEIokoy5KM/diocontent/145303484/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -4,7 +4,6 @@ title: "Wat zoekt Google in China? En slechthorende gamer recenseert games voor 
 date: Thu, 18 Oct 2018 18:02:11 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4104/nporadio1_nosop3techpodcast_20181018_wat-zoekt-google-in-china-en-slechthorende-gamer-recenseert-games-voor-doven.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4104/nporadio1_nosop3techpodcast_20181018_wat-zoekt-google-in-china-en-slechthorende-gamer-recenseert-games-voor-doven.mp3"
 ---
 
 00.00 Twitter-accounts die werden aangestuurd door de Russische trollen hebben 1400 keer over vliegramp MH17 getweet. Onze dataredacteur Winny de Jong legt uit hoe ze hierachter kwam.

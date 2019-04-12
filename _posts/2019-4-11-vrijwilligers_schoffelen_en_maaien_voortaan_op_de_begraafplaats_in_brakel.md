@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 17:49:00 GMT
 categories: 
 - gelderland 
 - zaltbommel 
+externe_link: "https://www.ad.nl/zaltbommel/vrijwilligers-schoffelen-en-maaien-voortaan-op-de-begraafplaats-in-brakel~a5dbe7bf/"
 feature_image: "https://images4.persgroep.net/rcs/Irazxy5gj7Qu8pWaYZf7gIp5kwY/diocontent/133530422/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

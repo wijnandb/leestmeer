@@ -4,7 +4,8 @@ title: "Almelo - Politie blijft op zoek naar verdachte schietincident Beckum"
 date: Tue, 12 Mar 2019 09:20:00 GMT
 categories: 
 - overijssel 
-- almelo 
+- hengelo 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/12/02-almelo-politie-blijft-op-zoek-naar-verdachte-schietincident-beckum.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/at-bikers-me/arrestatieteam-at.jpg"
 ---
 

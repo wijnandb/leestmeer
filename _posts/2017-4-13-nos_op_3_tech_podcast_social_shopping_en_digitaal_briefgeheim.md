@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Social shopping en digitaal briefgeheim"
 date: Thu, 13 Apr 2017 16:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4178/nporadio1_nosop3techpodcast_20170413_nos-op-3-tech-podcast-social-shopping-en-digitaal-briefgeheim.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4178/nporadio1_nosop3techpodcast_20170413_nos-op-3-tech-podcast-social-shopping-en-digitaal-briefgeheim.mp3"
 ---
 
 0:00 In de grondwet staat vastgelegd dat niemand zomaar jouw post mag bekijken, maar over e-mail of whatsappjes staat niks. Da's niet meer van deze tijd vindt een meerderheid in de Tweede Kamer.

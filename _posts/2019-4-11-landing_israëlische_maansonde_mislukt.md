@@ -2,7 +2,7 @@
 layout: post
 title: "Landing Israëlische maansonde mislukt"
 date: Thu, 11 Apr 2019 21:43:47 +0200
-category: buitenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3433665/landing-israelische-maansonde-mislukt"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/992858f0-5c99-11e9-8c76-02d1dbdc35d1.jpg"
 ---

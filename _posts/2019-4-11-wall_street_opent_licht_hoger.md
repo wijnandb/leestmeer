@@ -2,9 +2,8 @@
 layout: post
 title: "Wall Street opent licht hoger"
 date: Thu, 11 Apr 2019 15:38:14 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3431563/wall-street-opent-licht-hoger"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3285a63c-5c5f-11e9-a27a-02d1dbdc35d1.jpg"
 ---
 

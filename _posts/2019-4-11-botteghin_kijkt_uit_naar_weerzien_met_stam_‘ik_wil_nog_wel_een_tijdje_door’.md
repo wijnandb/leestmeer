@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 06:00:39 GMT
 categories: 
 - sport 
 - voetbal 
+externe_link: "https://www.ad.nl/nederlands-voetbal/botteghin-kijkt-uit-naar-weerzien-met-stam-ik-wil-nog-wel-een-tijdje-door~a588a340/"
 feature_image: "https://images3.persgroep.net/rcs/IbJIzgTJanYT-Yatfx7nt1RhB7E/diocontent/145248047/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

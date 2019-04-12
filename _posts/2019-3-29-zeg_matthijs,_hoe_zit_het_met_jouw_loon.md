@@ -3,8 +3,8 @@ layout: post
 title: "Zeg Matthijs, hoe zit het met jouw loon?"
 date: Fri, 29 Mar 2019 17:39:03 +0100
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3368743/zeg-matthijs-hoe-zit-het-met-jouw-loon"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3d83ab1e-5247-11e9-827b-0218eaf05005.jpg"
 ---

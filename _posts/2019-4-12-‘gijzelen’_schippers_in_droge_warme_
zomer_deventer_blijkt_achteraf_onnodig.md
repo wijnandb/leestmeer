@@ -6,6 +6,7 @@ date: Fri, 12 Apr 2019 08:00:00 GMT
 categories: 
 - overijssel 
 - deventer 
+externe_link: "https://www.ad.nl/deventer/gijzelen-schippers-in-droge-warme-zomer-deventer-blijkt-achteraf-onnodig~ad899d58/"
 feature_image: "https://images3.persgroep.net/rcs/hTCc3_nZT19YdLiN7G9Uiyhhjd4/diocontent/137694965/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

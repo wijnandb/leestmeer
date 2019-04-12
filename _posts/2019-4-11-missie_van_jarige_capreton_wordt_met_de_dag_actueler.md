@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 08:49:00 GMT
 categories: 
 - gelderland 
 - zaltbommel 
+externe_link: "https://www.ad.nl/zaltbommel/missie-van-jarige-capreton-wordt-met-de-dag-actueler~ae2eb4b0/"
 feature_image: "https://images0.persgroep.net/rcs/bL7Qa1cBxXH8NO5qnoFN87oubQE/diocontent/144099786/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

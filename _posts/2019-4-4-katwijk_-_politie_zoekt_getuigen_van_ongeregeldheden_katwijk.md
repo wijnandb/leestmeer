@@ -5,6 +5,7 @@ date: Thu, 04 Apr 2019 14:07:00 GMT
 categories: 
 - zuid-holland 
 - katwijk 
+externe_link: "https://www.politie.nl/nieuws/2019/april/4/06-katwijk-politie-zoekt-getuigen-van-ongeregeldheden-katwijk.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/zijkant-politieauto-met-logo.jpg"
 ---
 

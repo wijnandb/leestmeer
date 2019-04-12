@@ -5,6 +5,7 @@ date: Tue, 05 Mar 2019 13:13:00 GMT
 categories: 
 - gelderland 
 - heerde 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/02-oon/gld/inbraak-bij-paviljoen.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/02-on/2018541701-1.jpg"
 ---
 

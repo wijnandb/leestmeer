@@ -5,6 +5,7 @@ date: Sun, 07 Feb 2016 10:13:00 GMT
 categories: 
 - gelderland 
 - millingen_aan_de_rijn 
+externe_link: "https://www.politie.nl/nieuws/2016/februari/7/02-millingen-aan-de-rijn-beschonken-nijmeegse-rijdt-fietser-aan.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/nachtelijke-verkeerscontrole.jpg"
 ---
 

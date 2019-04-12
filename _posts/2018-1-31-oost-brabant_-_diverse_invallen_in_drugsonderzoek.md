@@ -5,6 +5,7 @@ date: Wed, 31 Jan 2018 05:00:00 GMT
 categories: 
 - noord-brabant 
 - someren 
+externe_link: "https://www.politie.nl/nieuws/2018/januari/31/09-oost-brabant-diverse-invallen-in-drugsonderzoek.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/at-bikers-me/arrestatieteam-at.jpg"
 ---
 

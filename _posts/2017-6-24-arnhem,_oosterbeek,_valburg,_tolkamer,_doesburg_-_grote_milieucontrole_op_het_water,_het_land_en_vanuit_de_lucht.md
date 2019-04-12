@@ -4,7 +4,8 @@ title: "Arnhem, Oosterbeek, Valburg, Tolkamer, Doesburg - Grote milieucontrole o
 date: Sat, 24 Jun 2017 08:15:00 GMT
 categories: 
 - gelderland 
-- doesburg 
+- rijnwaarden 
+externe_link: "https://www.politie.nl/nieuws/2017/juni/24/02-arnhem-grote-milieucontrole-op-het-water-het-land-en-vanuit-de-lucht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/agent-op-schip-waterpolitie.jpg"
 ---
 

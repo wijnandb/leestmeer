@@ -5,6 +5,7 @@ date: Mon, 19 Nov 2018 15:41:00 GMT
 categories: 
 - zuid-holland 
 - papendrecht 
+externe_link: "https://www.politie.nl/nieuws/2018/november/19/vier-aanhoudingen-en-700-cobra%E2%80%99s-in-papendrechts-vuurwerkonderzoek.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/november/07-rt/img-20181115-wa0005.jpg"
 ---
 

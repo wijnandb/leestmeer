@@ -5,6 +5,7 @@ date: Sat, 06 Jan 2018 10:11:00 GMT
 categories: 
 - zuid-holland 
 - voorschoten 
+externe_link: "https://www.politie.nl/nieuws/2018/januari/6/06-voorschoten-politie-houdt-twee-verdachten-voor-poging-woninginbraak-aan.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

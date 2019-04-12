@@ -5,6 +5,7 @@ date: Mon, 28 Jan 2019 10:20:00 GMT
 categories: 
 - gelderland 
 - lingewaard 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/28/02-doornenburg-man-door-geweld-om-het-leven-gekomen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/ambulance.jpg"
 ---
 

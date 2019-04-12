@@ -5,6 +5,7 @@ date: Tue, 04 Dec 2018 14:12:00 GMT
 categories: 
 - zuid-holland 
 - katwijk 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/december/06-dh/tw-04-12/06-winkeldiefstal-digros-visserijkade-katwijk.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/december/06-dh/tw-04-12/181204_team_boodschappendieven-katwijk-1.jpg"
 ---
 

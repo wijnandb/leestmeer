@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 13:18:00 GMT
 categories: 
 - noord-brabant 
 - helmond 
+externe_link: "https://www.ad.nl/helmond/zangroep-pabo-uit-helmond-ziet-sarah~aa75f3fc/"
 feature_image: "https://images3.persgroep.net/rcs/RWnozvi2LSztOat5ZI_n4K3-fDo/diocontent/116058658/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

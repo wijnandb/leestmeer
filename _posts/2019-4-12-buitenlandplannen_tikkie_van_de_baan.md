@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 08:31:33 +0200
 categories: 
 - financieel 
 - economie 
+externe_link: "https://www.nu.nl/economie/5839500/buitenlandplannen-tikkie-van-de-baan.html"
 feature_image: "https://media.nu.nl/m/k6qxdn0aazeb_sqr256.jpg/buitenlandplannen-tikkie-van-de-baan.jpg"
 ---
 

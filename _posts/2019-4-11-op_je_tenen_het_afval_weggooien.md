@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 12:39:51 GMT
 categories: 
 - zuid-holland 
 - gouda 
+externe_link: "https://www.ad.nl/gouda/op-je-tenen-het-afval-weggooien~ad9f53bd/"
 feature_image: "https://images2.persgroep.net/rcs/kFQ3BrVs23_2BDKCzkrUu5L8V1k/diocontent/145306876/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

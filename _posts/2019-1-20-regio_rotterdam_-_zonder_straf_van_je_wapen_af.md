@@ -4,7 +4,8 @@ title: "regio Rotterdam - Zonder straf van je wapen af"
 date: Sun, 20 Jan 2019 20:16:00 GMT
 categories: 
 - zuid-holland 
-- dordrecht 
+- vlaardingen 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/20/07-zonder-straf-van-je-wapen-af.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/januari/07-rt/sarina.jpg"
 ---
 

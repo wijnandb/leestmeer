@@ -5,6 +5,7 @@ date: Fri, 29 Mar 2019 16:56:00 GMT
 categories: 
 - zuid-holland 
 - rotterdam 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/29/07-wie-herkent-verdachte-plaatsen-handgranaat.html"
 ---
 
 In het onderzoek naar het plaatsen van handgranaten aan de Schiedamseweg en een ontploffing aan de Schiedamsedijk,

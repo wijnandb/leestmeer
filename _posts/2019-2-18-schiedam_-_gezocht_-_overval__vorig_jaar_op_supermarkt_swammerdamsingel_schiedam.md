@@ -5,6 +5,7 @@ date: Mon, 18 Feb 2019 15:34:00 GMT
 categories: 
 - zuid-holland 
 - schiedam 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/overval-vorig-jaar-op-supermarkt-swammerdamsingel-schiedam.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/07-rt/swammerdamsingel-1.jpg"
 ---
 

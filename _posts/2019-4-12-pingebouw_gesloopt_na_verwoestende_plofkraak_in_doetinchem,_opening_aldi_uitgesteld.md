@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 08:08:00 GMT
 categories: 
 - gelderland 
 - doetinchem 
+externe_link: "https://www.ad.nl/doetinchem/pingebouw-gesloopt-na-verwoestende-plofkraak-in-doetinchem-opening-aldi-uitgesteld~a36e34a9/"
 feature_image: "https://images3.persgroep.net/rcs/d_gpDhaPPsRr0zWouxv5TlQPHDA/diocontent/145370916/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

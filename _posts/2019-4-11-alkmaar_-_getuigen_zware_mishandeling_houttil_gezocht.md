@@ -2,9 +2,8 @@
 layout: post
 title: "Alkmaar - Getuigen zware mishandeling Houttil gezocht"
 date: Thu, 11 Apr 2019 06:58:00 GMT
-categories: 
-- noord-holland 
-- alkmaar 
+category: noord-holland
+externe_link: "https://www.politie.nl/nieuws/2019/april/11/04-getuigen-zware-mishandeling-houttil-gezocht.html"
 ---
 
 De politie zoekt getuigen van een zware mishandeling gepleegd op zaterdag 9 maart rond 03.45 uur op de Houttil. Een 21-jarige man uit Alkmaar liep hierdoor zwaar letsel op. 

@@ -5,6 +5,7 @@ date: Sat, 15 Dec 2018 13:58:00 GMT
 categories: 
 - noord-holland 
 - koggenland 
+externe_link: "https://www.politie.nl/nieuws/2018/december/15/04-aanhoudingen-bij-controle-op-de-a7.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/juni/04-nh/2014-12-04-12h09m43.jpg"
 ---
 

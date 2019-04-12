@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 19:01:09 GMT
 categories: 
 - zuid-holland 
 - rotterdam 
+externe_link: "https://www.ad.nl/den-haag/werkstraffen-geeist-na-knokpartij-om-voordringen-bij-tikibad~a3dac4ae/"
 feature_image: "https://images1.persgroep.net/rcs/87DeCI7_M2QxaVtF357YdEBt4S8/diocontent/132887736/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

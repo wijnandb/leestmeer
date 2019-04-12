@@ -5,6 +5,7 @@ date: Sat, 29 Jul 2017 18:12:00 GMT
 categories: 
 - overijssel 
 - wierden 
+externe_link: "https://www.politie.nl/nieuws/2017/juli/29/02-hoge-hexel-overleden-man-aangetroffen-in-vakantiewoning.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/forensische-onderzoekers-op-plaats-delict.jpg"
 ---
 

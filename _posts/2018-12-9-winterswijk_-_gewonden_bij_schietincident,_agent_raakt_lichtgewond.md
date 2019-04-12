@@ -5,6 +5,7 @@ date: Sun, 09 Dec 2018 12:15:00 GMT
 categories: 
 - gelderland 
 - winterswijk 
+externe_link: "https://www.politie.nl/nieuws/2018/december/9/02-winterswijk-gewonden-bij-schietincident-agent-raakt-lichtgewond.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/dienstwapen-in-holster-agent.jpg"
 ---
 

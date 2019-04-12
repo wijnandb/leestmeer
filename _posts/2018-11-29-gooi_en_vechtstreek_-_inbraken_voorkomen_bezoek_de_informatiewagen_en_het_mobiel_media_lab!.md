@@ -4,7 +4,8 @@ title: "Gooi en Vechtstreek - Inbraken voorkomen? Bezoek de informatiewagen en h
 date: Thu, 29 Nov 2018 10:16:00 GMT
 categories: 
 - noord-holland 
-- huizen 
+- weesp 
+externe_link: "https://www.politie.nl/nieuws/2018/november/29/03-informatie-woninginbraken.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/november/03-mn/mml-afb2-nw.jpg"
 ---
 

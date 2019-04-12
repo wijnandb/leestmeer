@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 15:21:13 GMT
 categories: 
 - gelderland 
 - apeldoorn 
+externe_link: "https://www.ad.nl/apeldoorn/appartement-blijft-heel-gewild-in-apeldoorn-ook-al-lijken-de-cijfers-anders-te-zeggen~af920012/"
 feature_image: "https://images1.persgroep.net/rcs/R4tKoHaxihzKBguPuHVHBRWxfAU/diocontent/145320277/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

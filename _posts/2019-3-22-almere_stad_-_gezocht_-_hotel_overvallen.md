@@ -2,9 +2,8 @@
 layout: post
 title: "Almere Stad - Gezocht - Hotel overvallen"
 date: Fri, 22 Mar 2019 08:16:00 GMT
-categories: 
-- flevoland 
-- almere 
+category: flevoland
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/03-hotel-overvallen.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/03-mn/almere-apollo3.jpg"
 ---
 

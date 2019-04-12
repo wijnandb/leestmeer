@@ -2,7 +2,9 @@
 layout: post
 title: "Hilaria Baldwin bewust open over miskraam"
 date: Tue, 09 Apr 2019 17:47:29 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3419549/hilaria-baldwin-bewust-open-over-miskraam"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c7b7712c-5ade-11e9-bda1-02d2fb1aa1d7.jpg"
 ---

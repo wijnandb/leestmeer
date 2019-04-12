@@ -2,7 +2,9 @@
 layout: post
 title: "Van der Poel wint met indrukwekkende jump"
 date: Tue, 09 Apr 2019 16:05:49 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/3418707/van-der-poel-wint-met-indrukwekkende-jump"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/db8a38e6-5ad0-11e9-8d0e-02d1dbdc35d1.jpg"
 ---

@@ -2,9 +2,8 @@
 layout: post
 title: "Stieltjeskanaal - Onderzoek naar kofferbakmoord duurt voort"
 date: Tue, 26 Mar 2019 10:13:00 GMT
-categories: 
-- drenthe 
-- coevorden 
+category: drenthe
+externe_link: "https://www.politie.nl/nieuws/2019/maart/26/01-onderzoek-naar-kofferbakmoord-duurt-voort.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/01-nn/190327-localfocus.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 05:51:00 GMT
 categories: 
 - sport 
 - voetbal 
+externe_link: "https://www.ad.nl/nederlands-voetbal/ajax-juventus-gezien-door-3-5-miljoen-mensen~ab57289f/"
 feature_image: "https://images1.persgroep.net/rcs/GRE8qeijqVyH2_mtTXqxdS9Rwlw/diocontent/145268858/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

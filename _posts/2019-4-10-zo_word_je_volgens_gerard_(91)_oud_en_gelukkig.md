@@ -4,7 +4,8 @@ title: "Zo word je volgens Gerard (91) oud en gelukkig"
 date: Wed, 10 Apr 2019 18:06:09 GMT
 categories: 
 - zuid-holland 
-- delft 
+- zoetermeer 
+externe_link: "https://www.ad.nl/westland/zo-word-je-volgens-gerard-91-oud-en-gelukkig~a4915922/"
 feature_image: "https://images3.persgroep.net/rcs/xZNt3497v40QykelGANPRR9gIwA/diocontent/145233053/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Tue, 26 Feb 2019 10:10:00 GMT
 categories: 
 - gelderland 
 - brummen 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/gld/inbraak-bij-tennisclub.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/02-on/2019008444-1.jpg"
 ---
 

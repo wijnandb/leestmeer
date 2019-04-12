@@ -5,6 +5,7 @@ date: Fri, 16 Nov 2018 12:18:00 GMT
 categories: 
 - overijssel 
 - wierden 
+externe_link: "https://www.politie.nl/nieuws/2018/november/16/02-verdachte-aangehouden-voor-gewelddadige-dood-herman-smit.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding---agent-drukt-verdachte-tegen-muur-om-boeien-om-te-doen.jpg"
 ---
 

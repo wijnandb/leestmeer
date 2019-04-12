@@ -6,7 +6,6 @@ categories:
 - sport 
 - voetbal 
 externe_link: "https://podcast.npo.nl/file/nos-voetbalpodcast/2497/nporadio1_nos-voetbalpodcast_20181022_de-nos-voetbalpodcast-11-ze-zijn-in-rotterdam-bang-om-naar-amsterdam-te-gaan.mp3"
-feature_image: "https://podcast.npo.nl/file/nos-voetbalpodcast/2497/nporadio1_nos-voetbalpodcast_20181022_de-nos-voetbalpodcast-11-ze-zijn-in-rotterdam-bang-om-naar-amsterdam-te-gaan.mp3"
 ---
 
 Deze week met Jan Roelfs, Arman Avsaroglu, Andy Houtkamp en Jeroen Elshof. Over het wennen aan de VAR, Ajax moet tegen Benfica laten zien wat het waard is, de problemen bij NAC en FC Groningen en waarom was Jan Roelfs blij om Guus Meeuwis te horen.

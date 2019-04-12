@@ -2,7 +2,9 @@
 layout: post
 title: "The Passion krijgt opnieuw audiodescriptie"
 date: Tue, 09 Apr 2019 13:44:42 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3417051/the-passion-krijgt-opnieuw-audiodescriptie"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9b06a4b4-5ace-11e9-9cd4-0217670beecd.jpg"
 ---

@@ -5,6 +5,7 @@ date: Wed, 08 Aug 2018 16:00:00 GMT
 categories: 
 - gelderland 
 - renkum 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/augustus/02-oon/gld/overval-tankstation-heelsum.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/augustus/02-on/2018143883-1.jpg"
 ---
 

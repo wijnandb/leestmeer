@@ -5,6 +5,7 @@ date: Fri, 22 Mar 2019 12:40:00 GMT
 categories: 
 - zeeland 
 - kapelle 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/22/08-veel-informatie-verzameld-tijdens-start-project-piggyback.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/08-zw/coke-antwerpen.jpg"
 ---
 

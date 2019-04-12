@@ -5,6 +5,7 @@ date: Sun, 17 Mar 2019 09:54:00 GMT
 categories: 
 - noord-brabant 
 - eindhoven 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/17/politie-houdt-serieovervaller-eindhoven-aan.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/arrestant-voor-de-balie-in-gesprek-met-agent.jpg"
 ---
 

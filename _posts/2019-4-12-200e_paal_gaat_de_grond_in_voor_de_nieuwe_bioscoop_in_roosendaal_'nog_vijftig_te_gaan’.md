@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 08:00:00 GMT
 categories: 
 - noord-brabant 
 - roosendaal 
+externe_link: "https://www.ad.nl/roosendaal/200e-paal-gaat-de-grond-in-voor-de-nieuwe-bioscoop-in-roosendaal-nog-vijftig-te-gaan~a5a8569c/"
 feature_image: "https://images3.persgroep.net/rcs/DzejKCtqpNUAetg4NV5KtKdHSGc/diocontent/145316529/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Sat, 12 Jan 2019 08:24:00 GMT
 categories: 
 - noord-holland 
 - aalsmeer 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/12/05-twee-aanhoudingen-in-onderzoek-naar-reeks-plofkraken.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/januari/05-am/aalsmeer-en-amsterdam-plofkraken-facebook.jpg"
 ---
 

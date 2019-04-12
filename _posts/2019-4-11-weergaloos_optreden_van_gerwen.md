@@ -4,7 +4,8 @@ title: "Weergaloos optreden Van Gerwen"
 date: Thu, 11 Apr 2019 22:48:08 +0200
 categories: 
 - sport 
-- darts 
+- scoreboard 
+externe_link: "https://www.telegraaf.nl/sport/3433848/weergaloos-optreden-van-gerwen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e258e5b0-5ce6-11e9-8854-0217670beecd.jpg"
 ---
 

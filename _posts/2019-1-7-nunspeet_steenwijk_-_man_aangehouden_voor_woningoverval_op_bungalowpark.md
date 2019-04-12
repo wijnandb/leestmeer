@@ -3,8 +3,9 @@ layout: post
 title: "Nunspeet Steenwijk - Man aangehouden voor woningoverval op bungalowpark"
 date: Mon, 07 Jan 2019 10:43:00 GMT
 categories: 
-- gelderland 
-- nunspeet 
+- overijssel 
+- steenwijkerland 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/7/02-man-aangehouden-voor-woningoverval-op-bungalowpark.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-door-agenten-op-straat.jpg"
 ---
 

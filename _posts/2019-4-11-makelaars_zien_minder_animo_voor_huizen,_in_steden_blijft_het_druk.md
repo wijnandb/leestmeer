@@ -2,8 +2,10 @@
 layout: post
 title: "Makelaars zien minder animo voor huizen, in steden blijft het druk"
 date: Thu, 11 Apr 2019 20:48:59 +0200
-category: binnenland
-externe_link: "http://feeds.nos.nl/~r/nosnieuwsbinnenland/~3/IWCXaGQKgYc/2280036"
+categories: 
+- financieel 
+- economie 
+externe_link: "https://nos.nl/l/2280036"
 feature_image: "https://nos.nl/data/image/2019/04/11/542983/1008x567.jpg"
 ---
 
@@ -19,4 +21,4 @@ feature_image: "https://nos.nl/data/image/2019/04/11/542983/1008x567.jpg"
 <p>"Ik had het idee dat ik nooit een huis zou vinden als ik niet minimaal 5 tot 10 procent boven de vraagprijs zou gaan zitten", vertelt Robbert Lammers, die eind vorig jaar van Groningen naar Den Haag verhuisde.</p>
 <h2>Geen kantelpunt</h2>
 <p>Makelaar Daae snapt dat nog niet alle (potentiële) kopers zien dat het minder druk is op de huizenmarkt. "Als er iemand voor en iemand na jou komt kijken bij een huis, dan heb je al snel het gevoel dat het druk is. Maar wij hebben er elke dag mee te maken en zien wel degelijk dat er minder belangstelling is."</p>
-<p>Hoewel de markt dus wat lijkt af te koelen, verwachten de makelaars niet dat de verkoopprijzen de komende tijd sterk zullen afnemen. Van een kantelpunt is nog geen sprake, denkt makelaar Linger uit Amsterdam. "De prijzen stijgen misschien niet meer verder, maar blijven wel hoog. "Maar zo lang de hypotheekrente niet stijgt en er maar weinig woningen bij worden gebouwd, komt er ook niet echt een daling."</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbinnenland/~4/IWCXaGQKgYc" height="1" width="1" alt=""/>
+<p>Hoewel de markt dus wat lijkt af te koelen, verwachten de makelaars niet dat de verkoopprijzen de komende tijd sterk zullen afnemen. Van een kantelpunt is nog geen sprake, denkt makelaar Linger uit Amsterdam. "De prijzen stijgen misschien niet meer verder, maar blijven wel hoog. "Maar zo lang de hypotheekrente niet stijgt en er maar weinig woningen bij worden gebouwd, komt er ook niet echt een daling."</p>

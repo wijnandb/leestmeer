@@ -4,7 +4,8 @@ title: "Poeldijk - Vanavond in Team West; woning in Poeldijk tweemaal overvallen
 date: Tue, 02 Apr 2019 10:04:00 GMT
 categories: 
 - zuid-holland 
-- delft 
+- westland 
+externe_link: "https://www.politie.nl/nieuws/2019/april/2/06-vanavond-in-team-west-woning-in-poeldijk-tweemaal-overvallen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/oktober/06-dh/hilda-kirsten-2.jpg"
 ---
 

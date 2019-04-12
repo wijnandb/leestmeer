@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 12:17:57 GMT
 categories: 
 - noord-brabant 
 - eindhoven 
+externe_link: "https://www.ad.nl/eindhoven/geen-eindhoven-culinair-maar-bourgondisch-eindhoven~a1f5df8d/"
 feature_image: "https://images2.persgroep.net/rcs/xyD2NZEY6SDBpKA7pYo6jdhVVTM/diocontent/107055920/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

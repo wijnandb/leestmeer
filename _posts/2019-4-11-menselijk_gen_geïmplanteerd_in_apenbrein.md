@@ -2,7 +2,7 @@
 layout: post
 title: "Menselijk gen geïmplanteerd in apenbrein"
 date: Thu, 11 Apr 2019 17:39:15 +0200
-category: buitenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3432743/menselijk-gen-geimplanteerd-in-apenbrein"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f654a2d8-5c6f-11e9-9a52-0218eaf05005.jpg"
 ---

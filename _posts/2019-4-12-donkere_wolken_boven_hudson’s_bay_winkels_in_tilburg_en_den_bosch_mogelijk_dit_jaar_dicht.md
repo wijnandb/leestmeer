@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 06:01:00 GMT
 categories: 
 - noord-brabant 
 - tilburg 
+externe_link: "https://www.ad.nl/tilburg/donkere-wolken-boven-hudson-s-bay-winkels-in-tilburg-en-den-bosch-mogelijk-dit-jaar-dicht~abbb0215/"
 feature_image: "https://images1.persgroep.net/rcs/9OFRtcfHUiPAgoxX1p90TYZHpHo/diocontent/116785289/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

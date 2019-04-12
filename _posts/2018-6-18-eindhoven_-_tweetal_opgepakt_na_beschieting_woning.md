@@ -5,6 +5,7 @@ date: Mon, 18 Jun 2018 07:52:00 GMT
 categories: 
 - noord-brabant 
 - son_en_breugel 
+externe_link: "https://www.politie.nl/nieuws/2018/juni/18/09-tweetal-opgepakt-na-beschieting-woning.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/ingesloten-arrestant-in-observatiecel-cel-zonder-dikke-deur.jpg"
 ---
 

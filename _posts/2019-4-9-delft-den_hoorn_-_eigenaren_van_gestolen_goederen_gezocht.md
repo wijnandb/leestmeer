@@ -2,9 +2,8 @@
 layout: post
 title: "Delft-Den Hoorn - Eigenaren van gestolen goederen gezocht"
 date: Tue, 09 Apr 2019 15:42:00 GMT
-categories: 
-- zuid-holland 
-- delft 
+category: zuid-holland
+externe_link: "https://www.politie.nl/nieuws/2019/april/9/06-delft-den-hoorn-eigenaren-van-gestolen-goederen-gezocht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/april/06-dh/goederen1.jpg"
 ---
 

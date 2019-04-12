@@ -5,6 +5,7 @@ date: Thu, 03 Jan 2019 10:03:00 GMT
 categories: 
 - zuid-holland 
 - noordwijk 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/3/06-noordwijk---politie-zoekt-getuigen-straatroof.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/politie-embleem.jpg"
 ---
 

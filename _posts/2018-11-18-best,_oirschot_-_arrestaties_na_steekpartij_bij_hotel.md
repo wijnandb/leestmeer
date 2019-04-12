@@ -4,7 +4,8 @@ title: "Best, Oirschot - Arrestaties na steekpartij bij hotel"
 date: Sun, 18 Nov 2018 16:34:00 GMT
 categories: 
 - noord-brabant 
-- best 
+- oirschot 
+externe_link: "https://www.politie.nl/nieuws/2018/november/18/09-arrestaties-na-steekpartij-bij-hotel.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-3.jpg"
 ---
 

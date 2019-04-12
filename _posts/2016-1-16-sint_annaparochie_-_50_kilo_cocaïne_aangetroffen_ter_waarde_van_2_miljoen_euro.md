@@ -5,6 +5,7 @@ date: Sat, 16 Jan 2016 10:13:00 GMT
 categories: 
 - fryslan 
 - het_bildt 
+externe_link: "https://www.politie.nl/nieuws/2016/januari/16/01-50-kilo-cocaine-aangetroffen-ter-waarde-van-2-miljoen-euro.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/drugs/agenten-op-onderzoek-in-druglab.jpg"
 ---
 

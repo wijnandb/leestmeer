@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Drugs als medicijn? 'Ketamine niet meer aanprijzen dan nodig'"
-date: Thu, 11 Apr 2019 11:04:39 +0200
+date: Thu, 11 Apr 2019 16:58:53 +0200
 categories: 
 - overig 
 - gezondheid 
+externe_link: "https://www.nu.nl/gezondheid/5834964/drugs-als-medicijn-ketamine-niet-meer-aanprijzen-dan-nodig.html"
 feature_image: "https://media.nu.nl/m/x8mxg4xaqaia_sqr256.jpg/drugs-als-medicijn-ketamine-niet-meer-aanprijzen-dan-nodig.jpg"
 ---
 

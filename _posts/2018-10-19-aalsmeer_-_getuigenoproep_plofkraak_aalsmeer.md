@@ -5,6 +5,7 @@ date: Fri, 19 Oct 2018 06:53:00 GMT
 categories: 
 - noord-holland 
 - aalsmeer 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/19/05-getuigenoproep-plofkraak-aalsmeer.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/oktober/05-am/plofkraak-aalsmeer.jpg"
 ---
 

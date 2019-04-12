@@ -5,6 +5,7 @@ date: Wed, 30 Jan 2019 15:52:00 GMT
 categories: 
 - zuid-holland 
 - lansingerland 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/30/twaalf-nachtelijke-auto-inbraken-in-berkel.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/logo-politie-op-dienstauto.jpg"
 ---
 

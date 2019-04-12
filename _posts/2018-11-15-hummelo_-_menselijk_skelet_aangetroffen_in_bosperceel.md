@@ -5,6 +5,7 @@ date: Thu, 15 Nov 2018 09:37:00 GMT
 categories: 
 - gelderland 
 - bronckhorst 
+externe_link: "https://www.politie.nl/nieuws/2018/november/15/02-hummelo-menselijk-skelet-aangetroffen-in-bosperceel.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/mouw-nieuwe-uniform-politie.jpg"
 ---
 

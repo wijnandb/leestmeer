@@ -2,9 +2,8 @@
 layout: post
 title: "Veenendaal - Gezocht - Snelkrakers slaan toe bij juwelier"
 date: Fri, 12 Apr 2019 05:54:00 GMT
-categories: 
-- utrecht 
-- veenendaal 
+category: utrecht
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/03-snelkrakers-slaan-toe-bij-juwelier.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/april/03-mn/veenendaal-10-snelkraak.jpg"
 ---
 

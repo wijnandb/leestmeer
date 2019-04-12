@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Waarom is tech zo'n mannenwereld en een run op vi
 date: Thu, 08 Mar 2018 17:03:50 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4137/nporadio1_nosop3techpodcast_20180308_nos-op-3-tech-podcast-waarom-is-tech-zo-n-mannenwereld-en-een-run-op-videokaarten.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4137/nporadio1_nosop3techpodcast_20180308_nos-op-3-tech-podcast-waarom-is-tech-zo-n-mannenwereld-en-een-run-op-videokaarten.mp3"
 ---
 
 0:00 8 maart is internationale vrouwendag. Daarom staan wij stil bij de positie van vrouwen in de tech. Wist je dat vrouwen heel belangrijk zijn geweest bij de ontwikkeling van computers? Waarom is het dan toch nog zo'n mannenwereld?

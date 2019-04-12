@@ -2,7 +2,7 @@
 layout: post
 title: "Vermist - Tamara Tulejova"
 date: Fri, 29 Mar 2019 16:00:00 GMT
-category: politieberichten
+category: noord-holland
 externe_link: "https://www.politie.nl/gezocht-en-vermist/vermiste-kinderen/2019/maart/tamara-tulejova.html"
 ---
 

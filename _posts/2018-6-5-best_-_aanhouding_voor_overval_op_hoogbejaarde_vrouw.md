@@ -5,6 +5,7 @@ date: Tue, 05 Jun 2018 12:35:00 GMT
 categories: 
 - noord-brabant 
 - oirschot 
+externe_link: "https://www.politie.nl/nieuws/2018/juni/5/09-aanhouding-voor-overval-op-hoogbejaarde-vrouw.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

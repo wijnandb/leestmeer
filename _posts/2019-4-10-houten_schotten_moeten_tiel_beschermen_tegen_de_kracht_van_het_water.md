@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 21:20:00 GMT
 categories: 
 - gelderland 
 - tiel 
+externe_link: "https://www.ad.nl/tiel/houten-schotten-moeten-tiel-beschermen-tegen-de-kracht-van-het-water~a480fbf8/"
 feature_image: "https://images4.persgroep.net/rcs/eqgFULfbzlijnGvPS_QWyHLMEfs/diocontent/145262564/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

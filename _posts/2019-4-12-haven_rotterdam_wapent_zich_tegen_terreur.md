@@ -2,7 +2,7 @@
 layout: post
 title: "Haven Rotterdam wapent zich tegen terreur"
 date: Fri, 12 Apr 2019 08:00:00 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3434063/haven-rotterdam-wapent-zich-tegen-terreur"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4c5a65d8-5cb5-11e9-b172-02d1dbdc35d1.jpg"
 ---

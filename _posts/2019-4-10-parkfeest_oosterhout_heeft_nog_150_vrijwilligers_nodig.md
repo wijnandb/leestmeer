@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 13:19:00 GMT
 categories: 
 - noord-brabant 
 - oosterhout 
+externe_link: "https://www.ad.nl/oosterhout/parkfeest-oosterhout-heeft-nog-150-vrijwilligers-nodig~a8caa02e/"
 feature_image: "https://images2.persgroep.net/rcs/OT7j7FXIPEu-YiKpvFZB0uuj34w/diocontent/124291881/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

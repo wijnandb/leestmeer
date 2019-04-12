@@ -5,6 +5,7 @@ date: Wed, 12 Sep 2018 10:52:00 GMT
 categories: 
 - gelderland 
 - wijchen 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/september/02-oon/gld/mishandeling-en-beroving-nabij-tempel.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/september/02-on/2018248057-1.jpg"
 ---
 

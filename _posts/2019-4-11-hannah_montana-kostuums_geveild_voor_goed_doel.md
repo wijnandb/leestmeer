@@ -2,7 +2,9 @@
 layout: post
 title: "Hannah Montana-kostuums geveild voor goed doel"
 date: Thu, 11 Apr 2019 22:31:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3433794/hannah-montana-kostuums-geveild-voor-goed-doel"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c48fcaec-5c98-11e9-93c9-02c309bc01c1.jpg"
 ---

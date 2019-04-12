@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Nieuw datalek bij Facebook-quizjes en PUBG vs For
 date: Thu, 28 Jun 2018 17:10:47 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4120/nporadio1_nosop3techpodcast_20180628_nos-op-3-tech-podcast-nieuw-datalek-bij-facebook-quizjes-en-pubg-vs-fortnite.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4120/nporadio1_nosop3techpodcast_20180628_nos-op-3-tech-podcast-nieuw-datalek-bij-facebook-quizjes-en-pubg-vs-fortnite.mp3"
 ---
 
 0:00 De run op krachtige grafische kaarten lijkt voorbij. In maart hadden we het nog over hoe duur en moeilijk verkrijgbaar die dingen waren. Inmiddels zit Nvidia, een van de makers van die kaarten met een overschot.

@@ -2,7 +2,9 @@
 layout: post
 title: "Ruud de Wild ruziet met Sunny Bergman"
 date: Tue, 09 Apr 2019 15:16:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3418181/ruud-de-wild-ruziet-met-sunny-bergman"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/08d8bf0e-5ae8-11e9-9a52-0218eaf05005.jpg"
 ---

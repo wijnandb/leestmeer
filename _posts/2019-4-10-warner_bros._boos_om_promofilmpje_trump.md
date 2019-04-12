@@ -2,7 +2,9 @@
 layout: post
 title: "Warner Bros. boos om promofilmpje Trump"
 date: Wed, 10 Apr 2019 08:50:49 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3421763/warner-bros-boos-om-promofilmpje-trump"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d446d7f4-5b5e-11e9-8c2f-0217670beecd.jpg"
 ---

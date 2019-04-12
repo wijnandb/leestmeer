@@ -2,9 +2,8 @@
 layout: post
 title: "Zwolle - Gezocht - Diefstal telefoon uit winkel"
 date: Thu, 04 Apr 2019 09:03:00 GMT
-categories: 
-- overijssel 
-- zwolle 
+category: overijssel
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/02-oon/odl/diefstal-telefoon-uit-winkel-diezerstraat.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/april/02-on/2019066161-1.jpg"
 ---
 

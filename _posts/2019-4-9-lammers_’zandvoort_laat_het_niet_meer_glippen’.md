@@ -2,7 +2,9 @@
 layout: post
 title: "Lammers: ’Zandvoort laat het niet meer glippen’"
 date: Tue, 09 Apr 2019 07:37:00 +0200
-category: sport
+categories: 
+- sport 
+- autosport 
 externe_link: "https://www.telegraaf.nl/sport/3414085/lammers-zandvoort-laat-het-niet-meer-glippen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ccb07a3e-5a89-11e9-9fc0-0217670beecd.jpg"
 ---

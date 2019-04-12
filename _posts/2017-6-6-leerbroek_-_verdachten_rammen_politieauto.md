@@ -5,6 +5,7 @@ date: Tue, 06 Jun 2017 11:43:00 GMT
 categories: 
 - zuid-holland 
 - zederik 
+externe_link: "https://www.politie.nl/nieuws/2017/juni/6/07-verdachten-rammen-politieauto.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/politie-embleem.jpg"
 ---
 

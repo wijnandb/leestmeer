@@ -2,9 +2,8 @@
 layout: post
 title: "Gezocht - Van wie is dit serviesgoed?"
 date: Thu, 28 Mar 2019 08:08:00 GMT
-categories: 
-- utrecht 
-- ijsselstein 
+category: utrecht
+externe_link: "https://www.politie.nl/gezocht-en-vermist/eigenaar-gezocht/2019/maart/03-van-wie-is-dit-serviesgoed.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/gestolen-gevonden/2019/maart/03-mn/ijsselstein-27-servies2.jpg"
 ---
 

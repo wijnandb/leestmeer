@@ -5,6 +5,7 @@ date: Tue, 07 Jun 2016 10:46:00 GMT
 categories: 
 - fryslan 
 - het_bildt 
+externe_link: "https://www.politie.nl/nieuws/2016/juni/7/01-beslag-gelegd-op-crimineel-vermogen-in-henneponderzoek.html"
 ---
 
 De politie heeft vandaag vier verdachten aangehouden op verdenking van hennepteelt, -handel en/of witwassen. Het gaat om twee mannen van 33 en 48 jaar uit Leeuwarden en een man van 36 jaar uit de gemeente Het Bildt. Tevens werd er een vrouw van 68 jaar woonachtig in Leeuwarden aangehouden.

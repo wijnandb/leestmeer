@@ -5,6 +5,7 @@ date: Wed, 13 Feb 2019 10:31:00 GMT
 categories: 
 - noord-brabant 
 - woensdrecht 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/13/09-uitzending-bureau-brabant-maandag-18-februari.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/gezocht/verdachten/2019/februari/09-ob/2019009805-woninginbraak/20190218-reco-ossendrecht-1.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Jeff Goldblum krijgt eigen serie op Disney+"
 date: Fri, 12 Apr 2019 10:48:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3435345/jeff-goldblum-krijgt-eigen-serie-op-disney"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/50cbc2b2-5cfe-11e9-8854-0217670beecd.jpg"
 ---

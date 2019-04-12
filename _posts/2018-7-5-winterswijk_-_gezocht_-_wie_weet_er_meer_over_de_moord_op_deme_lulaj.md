@@ -5,6 +5,7 @@ date: Thu, 05 Jul 2018 09:37:00 GMT
 categories: 
 - gelderland 
 - winterswijk 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/dossiers/2018/demelulaj.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/nieuws/2018/juli/02-on/demelulaj2.jpg"
 ---
 

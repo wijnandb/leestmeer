@@ -2,7 +2,9 @@
 layout: post
 title: "Prins Harry en Oprah bundelen krachten"
 date: Wed, 10 Apr 2019 14:39:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3424433/prins-harry-en-oprah-bundelen-krachten"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/58f63d42-5b8b-11e9-b144-0255c322e81b.jpg"
 ---

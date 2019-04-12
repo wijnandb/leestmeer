@@ -5,6 +5,7 @@ date: Tue, 05 Mar 2019 15:39:00 GMT
 categories: 
 - zuid-holland 
 - westland 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/5/06-poeldijk-getuigen-gezocht-van-woningoverval.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/busje-forensische-opsporing.jpg"
 ---
 

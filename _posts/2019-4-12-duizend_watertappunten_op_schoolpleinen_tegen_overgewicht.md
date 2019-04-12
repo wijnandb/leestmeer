@@ -2,9 +2,9 @@
 layout: post
 title: "Duizend watertappunten op schoolpleinen tegen overgewicht"
 date: Fri, 12 Apr 2019 08:23:31 +0200
-category: nieuws
+category: politiek
 externe_link: "https://nos.nl/l/2280076"
-feature_image: "https://nos.nl/data/image/2019/04/12/543050/1008x567.jpg"
+feature_image: "https://nos.nl/data/image/2019/04/12/543076/1008x567.jpg"
 ---
 
 <p>In de strijd tegen overgewicht komen er op schoolpleinen zo'n duizend nieuwe waterpunten. Staatssecretaris Blokhuis stelt daar 2 miljoen euro voor beschikbaar. Over de watertaps waren al afspraken gemaakt in het Preventieakkoord dat Blokhuis heeft gesloten met maatschappelijke organisaties en bedrijven.</p>

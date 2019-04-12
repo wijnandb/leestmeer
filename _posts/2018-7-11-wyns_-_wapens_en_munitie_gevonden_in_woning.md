@@ -5,6 +5,7 @@ date: Wed, 11 Jul 2018 12:48:00 GMT
 categories: 
 - fryslan 
 - tytsjerksteradiel 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/11/01-wapens-en-munitie-gevonden-in-woning.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/logo-politie-op-dienstauto.jpg"
 ---
 

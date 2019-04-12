@@ -2,7 +2,9 @@
 layout: post
 title: "Van Barneveld blijft steken op wereldranglijst"
 date: Mon, 08 Apr 2019 13:36:24 +0200
-category: sport
+categories: 
+- sport 
+- darts 
 externe_link: "https://www.telegraaf.nl/sport/3411350/van-barneveld-blijft-steken-op-wereldranglijst"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d325ea76-5a3d-11e9-87a7-0217670beecd.jpg"
 ---

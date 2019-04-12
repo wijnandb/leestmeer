@@ -2,7 +2,9 @@
 layout: post
 title: "Prins Haakon welkom geheten op Fiji"
 date: Tue, 09 Apr 2019 16:12:30 +0200
-category: entertainment
+categories: 
+- entertainment 
+- royalty 
 externe_link: "https://www.telegraaf.nl/entertainment/3418776/prins-haakon-welkom-geheten-op-fiji"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8a1a6426-5ad1-11e9-bdb3-0218eaf05005.png"
 ---

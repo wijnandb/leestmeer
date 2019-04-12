@@ -5,6 +5,7 @@ date: Thu, 08 Mar 2018 09:37:00 GMT
 categories: 
 - noord-brabant 
 - schijndel 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/8/08-overvallen-beroving-en-woninginbraak-in-bureau-brabant.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/maart/08-zw/imca.jpg"
 ---
 

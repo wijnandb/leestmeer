@@ -5,6 +5,7 @@ date: Tue, 13 Mar 2018 13:31:00 GMT
 categories: 
 - zeeland 
 - noord-beveland 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/13/06-den-haag-drugs-aangetroffen-in-zeecontainers.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/maart/06-dh/20180312_191350.jpg"
 ---
 

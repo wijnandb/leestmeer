@@ -2,7 +2,9 @@
 layout: post
 title: "Autobanden en chutney voor prins Charles"
 date: Mon, 08 Apr 2019 22:55:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- royalty 
 externe_link: "https://www.telegraaf.nl/entertainment/3414109/autobanden-en-chutney-voor-prins-charles"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/eb9158cc-5a40-11e9-87a7-0217670beecd.jpg"
 ---

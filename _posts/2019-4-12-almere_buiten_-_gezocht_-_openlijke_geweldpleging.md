@@ -2,9 +2,8 @@
 layout: post
 title: "Almere Buiten - Gezocht - Openlijke geweldpleging"
 date: Fri, 12 Apr 2019 07:00:00 GMT
-categories: 
-- flevoland 
-- almere 
+category: flevoland
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/03-openlijke-geweldpleging.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/april/03-mn/almere-11-mish1.jpg"
 ---
 

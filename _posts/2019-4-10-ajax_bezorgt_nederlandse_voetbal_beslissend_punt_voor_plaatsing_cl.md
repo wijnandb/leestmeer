@@ -2,7 +2,9 @@
 layout: post
 title: "Ajax bezorgt Nederlandse voetbal beslissend punt voor plaatsing CL"
 date: Wed, 10 Apr 2019 23:45:14 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://nos.nl/l/2279916"
 feature_image: "https://nos.nl/data/image/2019/04/10/542796/1008x567.jpg"
 ---

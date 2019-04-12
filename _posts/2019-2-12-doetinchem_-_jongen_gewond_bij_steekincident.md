@@ -5,6 +5,7 @@ date: Tue, 12 Feb 2019 17:11:00 GMT
 categories: 
 - gelderland 
 - doetinchem 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/12/02-doetinchem-jongen-gewond-bij-steekincident.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stock-afbeeldingen/verkeer/ambulance.jpg"
 ---
 

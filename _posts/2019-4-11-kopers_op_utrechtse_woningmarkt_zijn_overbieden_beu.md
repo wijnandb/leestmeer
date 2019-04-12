@@ -2,9 +2,8 @@
 layout: post
 title: "Kopers op Utrechtse woningmarkt zijn overbieden beu"
 date: Thu, 11 Apr 2019 17:35:43 GMT
-categories: 
-- utrecht 
-- utrecht 
+category: utrecht
+externe_link: "https://www.ad.nl/utrecht/kopers-op-utrechtse-woningmarkt-zijn-overbieden-beu~aae557c2/"
 feature_image: "https://images4.persgroep.net/rcs/SDsik1at6BebtfD9UHkh470SjU4/diocontent/143070042/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

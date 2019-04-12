@@ -5,6 +5,7 @@ date: Thu, 30 Aug 2018 06:57:00 GMT
 categories: 
 - utrecht 
 - veenendaal 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/augustus/03-veenendaal-29-schieten.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/augustus/03-mn/veenendaal-29-schiet.jpg"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Kamermeerderheid: regel herinvoering visumplicht voor Albanezen"
 date: Fri, 12 Apr 2019 02:13:36 +0200
-category: nieuws
+category: politiek
 externe_link: "https://nos.nl/l/2280057"
 feature_image: "https://nos.nl/data/image/2019/04/12/543014/1008x567.jpg"
 ---

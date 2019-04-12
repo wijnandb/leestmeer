@@ -2,7 +2,9 @@
 layout: post
 title: "Seuntjens houdt het voor gezien in Venlo"
 date: Thu, 11 Apr 2019 16:16:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3431758/seuntjens-houdt-het-voor-gezien-in-venlo"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1c717f08-5c67-11e9-8854-0217670beecd.jpg"
 ---

@@ -5,6 +5,7 @@ date: Sat, 10 Nov 2018 11:41:00 GMT
 categories: 
 - gelderland 
 - heerde 
+externe_link: "https://www.politie.nl/nieuws/2018/november/10/02-heerde-buurtbewoners-helpen-politie-om-inbrekers-op-te-pakken.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/man-wordt-geboeid-afgevoerd.jpg"
 ---
 

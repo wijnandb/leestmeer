@@ -2,7 +2,9 @@
 layout: post
 title: "Fajah Lourens komt met Killerbody-lekkernijen"
 date: Tue, 09 Apr 2019 18:41:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3419693/fajah-lourens-komt-met-killerbody-lekkernijen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7ef13740-5ae6-11e9-af69-0255c322e81b.jpg"
 ---

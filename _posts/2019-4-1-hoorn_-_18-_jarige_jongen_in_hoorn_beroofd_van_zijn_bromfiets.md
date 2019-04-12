@@ -5,6 +5,7 @@ date: Mon, 01 Apr 2019 10:43:00 GMT
 categories: 
 - noord-holland 
 - hoorn 
+externe_link: "https://www.politie.nl/nieuws/2019/april/1/04-18-jarige-jongen-in-hoorn-beroofd-van-zijn-bromfiets.html"
 ---
 
 Een 18-jarige jongen uit Hoorn is zondag rond 18.00 uur op de Korenmolen beroofd van zijn bromfiets, helm en smartphone.

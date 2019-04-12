@@ -2,8 +2,10 @@
 layout: post
 title: "Goudse en Edammer kaas inzet in handelsconflict over vliegtuigen"
 date: Tue, 09 Apr 2019 12:24:57 +0200
-category: buitenland
-externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/z41eo0hOqUc/2279668"
+categories: 
+- financieel 
+- economie 
+externe_link: "https://nos.nl/l/2279668"
 feature_image: "https://nos.nl/data/image/2019/04/09/542421/1008x567.jpg"
 ---
 
@@ -26,4 +28,4 @@ feature_image: "https://nos.nl/data/image/2019/04/09/542421/1008x567.jpg"
 <p>De timing van het Amerikaanse voorstel is interessant. De dreiging met extra heffingen komt op een moment dat Boeing onder druk staat door twee recente vliegtuigcrashes. Zowel van Lion Air als van Ethiopian Airlines stortte een Boeing 737-MAX toestel neer. De oorzaak lijkt mogelijk bij technische problemen te liggen, wat het bedrijf kan schaden.</p>
 <p>Daarnaast staat de VS op het punt om opnieuw met de EU om tafel te gaan om de gesprekken over onderlinge handelstarieven te hervatten. Op dit moment heeft de VS al verhoogde importtarieven ingesteld op industriële producten als staal en aluminium uit Europa.</p>
 <p>Die zijn het gevolg van het handelsconflict tussen de EU en de VS dat vorig jaar ontstond. President Trump ergert zich aan de in zijn ogen hoge importheffingen op Amerikaanse auto's.</p>
-<p>De nieuwe lijst met verhoogde heffingen die de VS nu voorstelt, zou daar dan bovenop komen.</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbuitenland/~4/z41eo0hOqUc" height="1" width="1" alt=""/>
+<p>De nieuwe lijst met verhoogde heffingen die de VS nu voorstelt, zou daar dan bovenop komen.</p>

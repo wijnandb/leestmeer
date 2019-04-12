@@ -5,6 +5,7 @@ date: Mon, 27 Mar 2017 09:05:00 GMT
 categories: 
 - fryslan 
 - menameradiel 
+externe_link: "https://www.politie.nl/nieuws/2017/maart/27/01-twee-motorrijders-gewond-bij-eenzijdige-ongevallen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/maar/01-noord-nl/17458281_1035418716590886_7168007836493893274_n.jpg"
 ---
 

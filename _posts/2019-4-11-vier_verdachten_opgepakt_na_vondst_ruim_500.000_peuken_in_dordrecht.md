@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 13:03:00 GMT
 categories: 
 - zuid-holland 
 - dordrecht 
+externe_link: "https://www.ad.nl/dordrecht/vier-verdachten-opgepakt-na-vondst-ruim-500-000-peuken-in-dordrecht~a120370a/"
 feature_image: "https://images3.persgroep.net/rcs/wkMKfAmqIoZxVq5l8wcq-ri6YJ4/diocontent/145309987/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

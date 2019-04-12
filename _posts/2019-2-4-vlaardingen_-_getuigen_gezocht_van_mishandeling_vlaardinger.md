@@ -5,6 +5,7 @@ date: Mon, 04 Feb 2019 11:12:00 GMT
 categories: 
 - zuid-holland 
 - vlaardingen 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/4/07-getuigen-gezocht-van-mishandeling-vlaardinger.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/februari/08-zw/steegje-kornelis-speelmanstraat.jpg"
 ---
 

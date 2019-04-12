@@ -2,9 +2,8 @@
 layout: post
 title: "Delft/Den Hoorn - Gezocht - Woninginbraken Delft/Den Hoorn"
 date: Tue, 09 Apr 2019 06:50:00 GMT
-categories: 
-- zuid-holland 
-- delft 
+category: zuid-holland
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/06-dh/tw-09-04/06-woninginbraken-delft-den-hoorn.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/april/06-dh/tw-09-04/goederen01.jpg"
 ---
 

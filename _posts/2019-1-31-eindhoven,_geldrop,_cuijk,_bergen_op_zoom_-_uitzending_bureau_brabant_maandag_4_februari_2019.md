@@ -4,7 +4,8 @@ title: "Eindhoven, Geldrop, Cuijk, Bergen op Zoom - Uitzending Bureau Brabant ma
 date: Thu, 31 Jan 2019 10:47:00 GMT
 categories: 
 - noord-brabant 
-- cuijk 
+- geldrop-mierlo 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/30/09-uitzending-bureau-brabant-maandag-4-februari-2019.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/gezocht/verdachten/2019/februari/09-ob/20190204-standupper-plus.jpg"
 ---
 

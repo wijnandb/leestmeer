@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 13:02:32 GMT
 categories: 
 - zuid-holland 
 - delft 
+externe_link: "https://www.ad.nl/delft/geest-van-popmuzikant-peter-tetteroo-blijft-voortleven-in-delftse-scene~af8744c3/"
 feature_image: "https://images3.persgroep.net/rcs/7c1uroYi1sGwm-OhHDKkEt5pRuE/diocontent/145183654/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

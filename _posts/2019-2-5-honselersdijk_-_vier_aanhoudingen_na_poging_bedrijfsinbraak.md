@@ -5,6 +5,7 @@ date: Tue, 05 Feb 2019 10:06:00 GMT
 categories: 
 - zuid-holland 
 - westland 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/5/06-westland-vier-aanhoudingen-na-poging-bedrijfsinbraak.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/intake-en-service-en-meldkamer/meldkamer-de-yp-den-haag.jpg"
 ---
 

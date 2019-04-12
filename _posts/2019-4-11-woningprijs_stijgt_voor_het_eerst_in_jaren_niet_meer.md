@@ -2,9 +2,8 @@
 layout: post
 title: "Woningprijs stijgt voor het eerst in jaren niet meer"
 date: Thu, 11 Apr 2019 10:00:00 +0200
-categories: 
-- financieel 
-- geld 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3427443/woningprijs-stijgt-voor-het-eerst-in-jaren-niet-meer"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7610c300-5c41-11e9-ba01-0255c322e81b.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Mon, 15 Oct 2018 14:19:00 GMT
 categories: 
 - zuid-holland 
 - leerdam 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/15/07-244-kilo-vuurwerk-in-leerdamse-woning.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/afzetlint-gebruikt-bij-een-afzetting-van-een-pd.jpg"
 ---
 

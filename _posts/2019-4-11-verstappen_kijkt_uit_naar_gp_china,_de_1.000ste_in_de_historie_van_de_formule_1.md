@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 16:58:11 +0200
 categories: 
 - sport 
 - autosport 
+externe_link: "https://nos.nl/l/2279994"
 ---
 
 De coureur van Red Bull hoopt dit weekend in Shanghai weer mee te kunnen doen om het podium. Hij heeft niks te klagen over de nieuwe motor van Honda.

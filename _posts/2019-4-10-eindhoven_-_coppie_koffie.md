@@ -4,7 +4,8 @@ title: "Eindhoven - Coppie Koffie?"
 date: Wed, 10 Apr 2019 07:28:00 GMT
 categories: 
 - noord-brabant 
-- eindhoven 
+- eindhoven_e.o. 
+externe_link: "https://www.politie.nl/nieuws/2019/april/9/coppie-koffie.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/april/09-ob/koffiekarretje-ehn-noord.jpg"
 ---
 

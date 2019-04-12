@@ -2,9 +2,8 @@
 layout: post
 title: "Koningin Margrethe opent pandaverblijf"
 date: Wed, 10 Apr 2019 23:13:09 +0200
-categories: 
-- entertainment 
-- royalty 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3427577/koningin-margrethe-opent-pandaverblijf"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7ab3126c-5bd5-11e9-8459-02d1dbdc35d1.jpg"
 ---
 

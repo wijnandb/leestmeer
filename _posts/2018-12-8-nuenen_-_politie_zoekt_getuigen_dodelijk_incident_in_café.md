@@ -5,6 +5,7 @@ date: Sat, 08 Dec 2018 09:09:00 GMT
 categories: 
 - noord-brabant 
 - nuenen,_gerwen_en_nederwetten 
+externe_link: "https://www.politie.nl/nieuws/2018/december/8/politie-zoekt-getuigen-dodelijk-incident-in-cafe.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/logo-politie-op-dienstauto.jpg"
 ---
 

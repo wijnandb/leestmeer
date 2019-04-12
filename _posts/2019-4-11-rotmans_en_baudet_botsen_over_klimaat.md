@@ -2,7 +2,7 @@
 layout: post
 title: "Rotmans en Baudet botsen over klimaat"
 date: Thu, 11 Apr 2019 21:36:51 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3433652/rotmans-en-baudet-botsen-over-klimaat"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9df32c2e-5c9f-11e9-9af6-0217670beecd.jpg"
 ---

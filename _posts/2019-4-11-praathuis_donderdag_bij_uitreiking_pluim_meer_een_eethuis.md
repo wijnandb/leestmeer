@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 15:33:17 GMT
 categories: 
 - noord-brabant 
 - roosendaal 
+externe_link: "https://www.ad.nl/roosendaal/praathuis-donderdag-bij-uitreiking-pluim-meer-een-eethuis~a18596de/"
 feature_image: "https://images4.persgroep.net/rcs/h29pS4Dmq6SLS3MV4mELy6tIi5g/diocontent/145316530/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

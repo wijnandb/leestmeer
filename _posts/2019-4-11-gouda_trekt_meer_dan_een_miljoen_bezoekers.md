@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 09:20:35 GMT
 categories: 
 - zuid-holland 
 - gouda 
+externe_link: "https://www.ad.nl/gouda/gouda-trekt-meer-dan-een-miljoen-bezoekers~a54e073e/"
 feature_image: "https://images2.persgroep.net/rcs/a9soT8ceGTfvtCrCiv-Rh9D_9KQ/diocontent/142880278/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

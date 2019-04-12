@@ -5,6 +5,7 @@ date: Tue, 17 Jan 2017 19:20:00 GMT
 categories: 
 - zuid-holland 
 - giessenlanden 
+externe_link: "https://www.politie.nl/nieuws/2017/januari/17/opsporing-verzocht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/gezocht/opsporing-verzocht/algemeen-beeld/nieuw-uniform-tijdens-ov---belpanel-verkleind.jpg"
 ---
 

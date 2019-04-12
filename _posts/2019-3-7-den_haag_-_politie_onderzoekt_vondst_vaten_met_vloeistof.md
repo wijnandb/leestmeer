@@ -5,6 +5,7 @@ date: Thu, 07 Mar 2019 12:06:00 GMT
 categories: 
 - zuid-holland 
 - den_haag 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/7/06-den-haag---politie-onderzoekt-vondst-vaten-met-vloeistof.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/politiemotor-geparkeerd.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "‘Dit is een gevaarlijke uitslag voor Ajax’"
 date: Thu, 11 Apr 2019 02:07:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/video/3428025/dit-is-een-gevaarlijke-uitslag-voor-ajax"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c9f183a8-5bef-11e9-b343-02c309bc01c1.jpg"
 ---

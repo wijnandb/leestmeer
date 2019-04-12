@@ -4,7 +4,6 @@ title: "Een techdag voor meisjes en is kunstmatige intelligentie een gevaar voor
 date: Thu, 12 Apr 2018 17:08:52 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4131/nporadio1_nosop3techpodcast_20180412_een-techdag-voor-meisjes-en-is-kunstmatige-intelligentie-een-gevaar-voor-de-mensheid.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4131/nporadio1_nosop3techpodcast_20180412_een-techdag-voor-meisjes-en-is-kunstmatige-intelligentie-een-gevaar-voor-de-mensheid.mp3"
 ---
 
 0:00 Maar liefst 10 uur lang werd Facebook-baas Mark Zuckerberg ondervraagd in het Amerikaanse parlement, naar aanleiding van het Cambridge Analytica-schandaal. Wat heeft het opgeleverd?

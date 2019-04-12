@@ -2,9 +2,8 @@
 layout: post
 title: "Britten boeken zomerreisjes na uitstel Brexit"
 date: Thu, 11 Apr 2019 17:49:58 +0200
-categories: 
-- financieel 
-- koersen 
+category: nieuws
+externe_link: "https://www.telegraaf.nl/financieel/3432781/britten-boeken-zomerreisjes-na-uitstel-brexit"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/353ff5a8-5c73-11e9-9da7-0255c322e81b.jpg"
 ---
 

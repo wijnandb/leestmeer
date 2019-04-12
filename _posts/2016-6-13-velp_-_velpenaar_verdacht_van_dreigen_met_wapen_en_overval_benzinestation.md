@@ -5,6 +5,7 @@ date: Mon, 13 Jun 2016 09:35:00 GMT
 categories: 
 - gelderland 
 - rozendaal 
+externe_link: "https://www.politie.nl/nieuws/2016/juni/13/02-velp-velpenaar-verdacht-van-dreigen-met-wapen-en-overval-benzinestation.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-op-straat.jpg"
 ---
 

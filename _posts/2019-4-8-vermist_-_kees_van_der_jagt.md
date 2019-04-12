@@ -2,7 +2,7 @@
 layout: post
 title: "Vermist - Kees van der Jagt"
 date: Mon, 08 Apr 2019 20:50:00 GMT
-category: politieberichten
+category: limburg
 externe_link: "https://www.politie.nl/gezocht-en-vermist/vermiste-volwassenen/2019/april/cornelis-van-der-jagt.html"
 ---
 

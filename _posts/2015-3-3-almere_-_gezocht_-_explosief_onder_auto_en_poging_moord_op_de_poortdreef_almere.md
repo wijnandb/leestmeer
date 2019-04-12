@@ -5,6 +5,7 @@ date: Tue, 03 Mar 2015 19:20:57 GMT
 categories: 
 - noord-holland 
 - muiden 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/dossiers/2014/05-poging-liquidatie-poortdreef-almere.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/dossiers/2014/05-amsterdam/almere-liquidatiepoging/gat-in-wegdek.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 16:47:59 GMT
 categories: 
 - gelderland 
 - arnhem 
+externe_link: "https://www.ad.nl/arnhem/fotografe-uit-arnhem-maakt-boek-over-zinkend-land-in-stille-oceaan-bewoners-lijken-niet-te-beseffen-wat-ze-overkomt~a9db508d/"
 feature_image: "https://images1.persgroep.net/rcs/-3wbQ1GhINilxMRTW3-cgCPubvA/diocontent/142416806/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

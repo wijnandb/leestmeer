@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nooit doen tegen Italianen: zelf óók je beste kostuum aantrekken"
-date: Wed, 10 Apr 2019 07:00:22 GMT
+date: Wed, 10 Apr 2019 07:00:00 GMT
 categories: 
 - sport 
 - voetbal 

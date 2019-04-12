@@ -4,7 +4,8 @@ title: "Nederland - Overzicht inzet politie bij Sinterklaasintochten"
 date: Sat, 17 Nov 2018 16:58:00 GMT
 categories: 
 - fryslan 
-- leeuwarden 
+- fryslân 
+externe_link: "https://www.politie.nl/nieuws/2018/november/17/00-overzicht-inzet-politie-bij-sinterklaasintochten.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/november/06-dh/agent-en-sint.jpg"
 ---
 

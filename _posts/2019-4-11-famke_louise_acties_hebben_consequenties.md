@@ -2,9 +2,8 @@
 layout: post
 title: "Famke Louise: acties hebben consequenties"
 date: Thu, 11 Apr 2019 13:32:10 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3430359/famke-louise-acties-hebben-consequenties"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7b562894-5c4d-11e9-a27a-02d1dbdc35d1.jpg"
 ---
 

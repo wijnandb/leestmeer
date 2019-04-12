@@ -2,7 +2,9 @@
 layout: post
 title: "Kippenvel: 10-jarige Tyago ziet zijn held Ronaldo"
 date: Thu, 11 Apr 2019 11:04:58 +0200
-category: binnenland
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/nieuws/3429142/kippenvel-10-jarige-tyago-ziet-zijn-held-ronaldo"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f240105c-5c41-11e9-b843-0218eaf05005.jpg"
 ---

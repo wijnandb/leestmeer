@@ -2,9 +2,8 @@
 layout: post
 title: "Ellemieke Vermolen diep door het stof"
 date: Thu, 11 Apr 2019 19:22:09 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3433141/ellemieke-vermolen-diep-door-het-stof"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b74b69bc-5c80-11e9-a72a-0255c322e81b.png"
 ---
 

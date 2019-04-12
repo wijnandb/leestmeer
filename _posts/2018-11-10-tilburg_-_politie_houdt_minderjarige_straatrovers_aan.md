@@ -5,6 +5,7 @@ date: Sat, 10 Nov 2018 07:24:00 GMT
 categories: 
 - noord-brabant 
 - goirle 
+externe_link: "https://www.politie.nl/nieuws/2018/november/10/08-politie-houdt-minderjarige-straatrovers-aan.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-door-agenten-op-straat.jpg"
 ---
 

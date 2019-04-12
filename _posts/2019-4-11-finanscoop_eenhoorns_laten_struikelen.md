@@ -2,9 +2,8 @@
 layout: post
 title: "Finanscoop: Eenhoorns laten struikelen?"
 date: Thu, 11 Apr 2019 21:00:56 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3433511/finanscoop-eenhoorns-laten-struikelen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3226c2ca-5c8c-11e9-92e5-02d2fb1aa1d7.jpg"
 ---
 

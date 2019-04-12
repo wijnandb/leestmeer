@@ -5,6 +5,7 @@ date: Thu, 13 Dec 2018 10:41:00 GMT
 categories: 
 - gelderland 
 - zutphen 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/november/02-oon/gld1/tweemaal-winkeldiefstal-smartphones-zutphen-hengelo.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/november/02-on/2018460827-2018462470-1.jpg"
 ---
 

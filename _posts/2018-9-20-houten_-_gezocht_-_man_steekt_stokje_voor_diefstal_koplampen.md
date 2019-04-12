@@ -5,6 +5,7 @@ date: Thu, 20 Sep 2018 06:25:00 GMT
 categories: 
 - utrecht 
 - houten 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/september/03-houten-19-koplamp.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/september/03-mn/houten-19.jpg"
 ---
 

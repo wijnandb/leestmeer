@@ -2,9 +2,8 @@
 layout: post
 title: "Utrecht - Gezocht - Dossier: schietincident 24 Oktoberplein Utrecht"
 date: Wed, 03 Apr 2019 13:14:00 GMT
-categories: 
-- utrecht 
-- utrecht 
+category: utrecht
+externe_link: "https://www.politie.nl/gezocht-en-vermist/dossiers/2019/03-incident-utrecht/dossier-incident-utrecht.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/nieuws/2019/maart/00-km/bloemen-bij-tram-utrecht.jpg"
 ---
 

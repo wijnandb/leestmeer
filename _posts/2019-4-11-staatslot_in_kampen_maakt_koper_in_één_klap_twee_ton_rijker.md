@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 10:05:00 GMT
 categories: 
 - overijssel 
 - kampen 
+externe_link: "https://www.ad.nl/kampen/staatslot-in-kampen-maakt-koper-in-een-klap-twee-ton-rijker~a27878cd/"
 feature_image: "https://images1.persgroep.net/rcs/wSMt7Pr_0I-uIbd8VWkFE2Atp2E/diocontent/139555421/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

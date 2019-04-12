@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 09:17:50 GMT
 categories: 
 - zuid-holland 
 - alphen 
+externe_link: "https://www.ad.nl/alphen/boete-van-90-euro-voor-gulle-geefster~a1137360/"
 feature_image: "https://images0.persgroep.net/rcs/qi9l7CBSxiRtf8X0qdjCeRDJDHs/diocontent/75917245/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

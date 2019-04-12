@@ -2,9 +2,8 @@
 layout: post
 title: "Woerden - Gezocht - Paard bijna gestikt door touw"
 date: Thu, 11 Apr 2019 09:25:00 GMT
-categories: 
-- utrecht 
-- woerden 
+category: utrecht
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/03-paard-bijna-gestikt-door-touw.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/april/03-mn/woerden-10-paard1.jpg"
 ---
 

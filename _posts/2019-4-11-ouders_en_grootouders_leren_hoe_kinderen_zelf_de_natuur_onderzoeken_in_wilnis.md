@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 14:50:00 GMT
 categories: 
 - utrecht 
 - woerden 
+externe_link: "https://www.ad.nl/woerden/ouders-en-grootouders-leren-hoe-kinderen-zelf-de-natuur-onderzoeken-in-wilnis~a76af378/"
 feature_image: "https://images2.persgroep.net/rcs/OHiovDFgl7FtVBB7ta25PKyXUdQ/diocontent/145236617/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

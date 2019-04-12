@@ -4,7 +4,8 @@ title: "Ouddorp - Fataal verkeersongeval op N57 bij Ouddorp"
 date: Fri, 05 Apr 2019 11:36:00 GMT
 categories: 
 - zuid-holland 
-- dirksland 
+- goeree-overflakkee 
+externe_link: "https://www.politie.nl/nieuws/2019/april/4/fataal-verkeersongeval-op-n57-bij-ouddorp.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/politieman-en-ambulancebroeder.jpg"
 ---
 

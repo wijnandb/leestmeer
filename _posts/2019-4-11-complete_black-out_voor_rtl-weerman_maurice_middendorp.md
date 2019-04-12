@@ -2,9 +2,8 @@
 layout: post
 title: "Complete black-out voor RTL-weerman Maurice Middendorp"
 date: Thu, 11 Apr 2019 20:32:40 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3433405/complete-black-out-voor-rtl-weerman-maurice-middendorp"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/160d3b36-5c97-11e9-b673-0255c322e81b.png"
 ---
 

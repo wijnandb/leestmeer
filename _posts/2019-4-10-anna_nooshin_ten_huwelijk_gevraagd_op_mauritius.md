@@ -4,7 +4,8 @@ title: "Anna Nooshin ten huwelijk gevraagd op Mauritius"
 date: Wed, 10 Apr 2019 11:33:00 GMT
 categories: 
 - entertainment 
-- show 
+- sterren 
+externe_link: "https://www.ad.nl/show/anna-nooshin-ten-huwelijk-gevraagd-op-mauritius~aafda93b/"
 feature_image: "https://images1.persgroep.net/rcs/BBfDMr3cPd-A_2h9acN4m6Pv1jc/diocontent/128823779/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

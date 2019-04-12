@@ -2,9 +2,8 @@
 layout: post
 title: "Gerard Joling: ’Heel flauw, typisch Gordon’"
 date: Thu, 11 Apr 2019 19:31:35 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3433199/gerard-joling-heel-flauw-typisch-gordon"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9067cef0-5c88-11e9-9af6-0217670beecd.jpg"
 ---
 

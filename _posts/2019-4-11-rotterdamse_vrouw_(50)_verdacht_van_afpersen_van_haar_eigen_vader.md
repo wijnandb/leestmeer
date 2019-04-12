@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 17:47:53 GMT
 categories: 
 - zuid-holland 
 - rotterdam 
+externe_link: "https://www.ad.nl/rotterdam/rotterdamse-vrouw-50-verdacht-van-afpersen-van-haar-eigen-vader~a06146ad/"
 feature_image: "https://images1.persgroep.net/rcs/dfLOUj56cVPeRC7n1_cEcFsYhtA/diocontent/120334218/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

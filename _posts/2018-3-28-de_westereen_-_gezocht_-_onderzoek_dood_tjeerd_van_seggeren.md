@@ -2,9 +2,8 @@
 layout: post
 title: "De Westereen - Gezocht - Onderzoek dood Tjeerd van Seggeren"
 date: Wed, 28 Mar 2018 08:01:05 GMT
-categories: 
-- fryslan 
-- kollumerland_en_nieuwkruisland 
+category: fryslan
+externe_link: "https://www.politie.nl/gezocht-en-vermist/dossiers/2017/onderzoek-dood-tjeerd-van-seggeren.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/dossiers/2017/img-20180327-wa0000.jpg"
 ---
 

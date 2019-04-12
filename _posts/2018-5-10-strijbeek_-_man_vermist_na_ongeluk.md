@@ -5,6 +5,7 @@ date: Thu, 10 May 2018 07:27:00 GMT
 categories: 
 - noord-brabant 
 - alphen-chaam 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/10/08-man-vermist-na-ongeluk.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/mei/08-zw/09-05-2018-strijbeek-zoektocht-gewonde-man-in-bos.jpg"
 ---
 

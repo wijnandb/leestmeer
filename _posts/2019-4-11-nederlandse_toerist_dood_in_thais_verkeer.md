@@ -2,7 +2,7 @@
 layout: post
 title: "Nederlandse toerist dood in Thais verkeer"
 date: Thu, 11 Apr 2019 15:52:57 +0200
-category: buitenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3431662/nederlandse-toerist-dood-in-thais-verkeer"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f1bbed98-5c61-11e9-8459-02d1dbdc35d1.jpg"
 ---

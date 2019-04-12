@@ -5,6 +5,7 @@ date: Fri, 23 Nov 2018 13:21:00 GMT
 categories: 
 - zuid-holland 
 - brielle 
+externe_link: "https://www.politie.nl/nieuws/2018/november/23/07-briellenaar-34-bedreigt-hulpverleensters-met-mes.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/arrestatie-winkeldief.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Niek Roozen in Brugklas de musical"
 date: Wed, 10 Apr 2019 20:06:09 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3427049/niek-roozen-in-brugklas-de-musical"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/61989f46-5bbb-11e9-8459-02d1dbdc35d1.jpg"
 ---

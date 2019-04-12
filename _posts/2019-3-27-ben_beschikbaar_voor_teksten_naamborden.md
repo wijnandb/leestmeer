@@ -3,8 +3,8 @@ layout: post
 title: "Ben beschikbaar voor teksten naamborden"
 date: Wed, 27 Mar 2019 18:15:14 +0100
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3358210/ben-beschikbaar-voor-teksten-naamborden"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e2f45458-50b3-11e9-bc23-0218eaf05005.jpg"
 ---

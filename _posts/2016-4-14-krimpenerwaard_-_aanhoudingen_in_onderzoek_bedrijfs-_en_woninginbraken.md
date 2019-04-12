@@ -5,6 +5,7 @@ date: Thu, 14 Apr 2016 12:26:00 GMT
 categories: 
 - zuid-holland 
 - vlist 
+externe_link: "https://www.politie.nl/nieuws/2016/april/14/06-krimpenerwaard-aanhoudingen-in-onderzoek-bedrijfs--en-woninginbraken.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/inbreker-forceert-deur-met-koevoet.jpg"
 ---
 

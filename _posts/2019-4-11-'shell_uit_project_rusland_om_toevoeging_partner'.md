@@ -2,9 +2,8 @@
 layout: post
 title: "'Shell uit project Rusland om toevoeging partner'"
 date: Thu, 11 Apr 2019 21:20:26 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3433601/shell-uit-project-rusland-om-toevoeging-partner"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f9a0752e-5c8e-11e9-bdb3-0218eaf05005.jpg"
 ---
 

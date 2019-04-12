@@ -2,7 +2,9 @@
 layout: post
 title: "Chris Hemsworth kent einde Avengers: Endgame niet"
 date: Wed, 10 Apr 2019 19:43:01 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3426958/chris-hemsworth-kent-einde-avengers-endgame-niet"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/226a8b48-5bb8-11e9-b843-0218eaf05005.png"
 ---

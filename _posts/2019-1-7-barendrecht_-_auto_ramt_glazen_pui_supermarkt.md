@@ -5,6 +5,7 @@ date: Mon, 07 Jan 2019 10:47:00 GMT
 categories: 
 - zuid-holland 
 - barendrecht 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/7/07-auto-ramt-glazen-pui-supermarkt.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/detailopname-surveillancewagen.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Tue, 20 Nov 2018 14:42:00 GMT
 categories: 
 - noord-brabant 
 - laarbeek 
+externe_link: "https://www.politie.nl/nieuws/2018/november/20/09-familie-in-woning-overvallen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/december/09-ob/compositietekening-overvaller-beek-en-donk.jpg"
 ---
 

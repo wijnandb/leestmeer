@@ -5,6 +5,7 @@ date: Mon, 16 Apr 2018 12:59:00 GMT
 categories: 
 - zuid-holland 
 - hendrik-ido-ambacht 
+externe_link: "https://www.politie.nl/nieuws/2018/april/16/07-agenten-lopen-ontwrichte-kaak-en-blauw-oog-op.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/arrestant-staat-voor-politiebalie.jpg"
 ---
 

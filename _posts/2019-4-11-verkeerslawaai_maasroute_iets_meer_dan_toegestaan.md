@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 15:39:00 GMT
 categories: 
 - noord-brabant 
 - waalwijk 
+externe_link: "https://www.ad.nl/waalwijk/verkeerslawaai-maasroute-iets-meer-dan-toegestaan~aae97f0a/"
 feature_image: "https://images1.persgroep.net/rcs/rKHEvbCR9z0rXvAKW0rgdASUctw/diocontent/145319122/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "’Handlanger’ Assange gearresteerd in Ecuador"
 date: Fri, 12 Apr 2019 07:01:22 +0200
-category: buitenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3434297/handlanger-assange-gearresteerd-in-ecuador"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0a711ef4-5d01-11e9-a72a-0255c322e81b.jpg"
 ---

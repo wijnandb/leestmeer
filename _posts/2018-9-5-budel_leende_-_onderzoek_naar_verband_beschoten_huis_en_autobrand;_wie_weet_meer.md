@@ -4,7 +4,8 @@ title: "Budel/Leende - Onderzoek naar verband beschoten huis en autobrand; wie w
 date: Wed, 05 Sep 2018 08:56:00 GMT
 categories: 
 - noord-brabant 
-- cranendonck 
+- heeze-leende 
+externe_link: "https://www.politie.nl/nieuws/2018/september/5/09-onderzoek-naar-verband-beschoten-huis-en-autobrand-wie-weet-meer.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/detail-afzetlint.jpg"
 ---
 

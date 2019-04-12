@@ -2,9 +2,8 @@
 layout: post
 title: "ArcelorMittal moet wachten met overname Essar"
 date: Fri, 12 Apr 2019 08:46:59 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3434670/arcelor-mittal-moet-wachten-met-overname-essar"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f080e5b8-5cee-11e9-9af6-0217670beecd.jpg"
 ---
 

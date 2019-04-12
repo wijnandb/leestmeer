@@ -2,7 +2,7 @@
 layout: post
 title: "De uitzending van 8 april"
 date: Mon, 08 Apr 2019 13:46:21 +0200
-category: algemeen
+category: nieuws
 externe_link: "https://nos.nl/l/2279555"
 feature_image: "https://nos.nl/data/image/2019/04/08/542280/1008x567.jpg"
 ---

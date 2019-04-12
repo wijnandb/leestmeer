@@ -2,7 +2,9 @@
 layout: post
 title: "’Jennifer Lopez heeft superkracht’"
 date: Mon, 08 Apr 2019 23:19:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3414205/jennifer-lopez-heeft-superkracht"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d9f85840-5a45-11e9-a704-0255c322e81b.jpg"
 ---

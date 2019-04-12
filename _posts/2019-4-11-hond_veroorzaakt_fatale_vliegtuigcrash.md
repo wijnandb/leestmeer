@@ -2,7 +2,7 @@
 layout: post
 title: "Hond veroorzaakt fatale vliegtuigcrash"
 date: Thu, 11 Apr 2019 20:19:51 +0200
-category: buitenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3433373/hond-veroorzaakt-fatale-vliegtuigcrash"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6b0d5078-5c86-11e9-b144-0255c322e81b.jpg"
 ---

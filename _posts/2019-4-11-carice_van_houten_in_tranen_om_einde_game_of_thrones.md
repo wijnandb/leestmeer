@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 19:27:20 +0200
 categories: 
 - entertainment 
 - film 
+externe_link: "https://www.nu.nl/film/5838768/carice-van-houten-in-tranen-om-einde-game-of-thrones.html"
 feature_image: "https://media.nu.nl/m/an0xxqsa8jbk_sqr256.jpg/carice-van-houten-in-tranen-om-einde-game-of-thrones.jpg"
 ---
 

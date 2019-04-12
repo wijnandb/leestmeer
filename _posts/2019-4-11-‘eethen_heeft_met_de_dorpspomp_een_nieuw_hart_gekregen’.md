@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 19:09:45 GMT
 categories: 
 - noord-brabant 
 - waalwijk 
+externe_link: "https://www.ad.nl/waalwijk/eethen-heeft-met-de-dorpspomp-een-nieuw-hart-gekregen~a280a08b/"
 feature_image: "https://images3.persgroep.net/rcs/PKEnKBlu-wBGDNvEeA-ELDowKd4/diocontent/145329958/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

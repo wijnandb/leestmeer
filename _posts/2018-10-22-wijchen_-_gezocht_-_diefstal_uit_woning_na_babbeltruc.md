@@ -5,6 +5,7 @@ date: Mon, 22 Oct 2018 19:26:00 GMT
 categories: 
 - gelderland 
 - wijchen 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/oktober/02-oon/gld/diefstal-uit-woning-na-babbeltruc.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/oktober/02-on/2018270260-1.jpg"
 ---
 

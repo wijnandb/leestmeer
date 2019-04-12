@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Rapper Drake werkt aan nieuw album"
-date: Fri, 12 Apr 2019 07:22:06 +0200
+date: Fri, 12 Apr 2019 09:42:34 +0200
 categories: 
 - entertainment 
 - muziek 
+externe_link: "https://www.nu.nl/muziek/5839389/rapper-drake-werkt-aan-nieuw-album.html"
 feature_image: "https://media.nu.nl/m/ayqxz3qak4wi_sqr256.jpg/rapper-drake-werkt-aan-nieuw-album.jpg"
 ---
 

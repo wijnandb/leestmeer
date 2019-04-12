@@ -5,6 +5,7 @@ date: Sun, 17 Sep 2017 09:34:00 GMT
 categories: 
 - gelderland 
 - west_maas_en_waal 
+externe_link: "https://www.politie.nl/nieuws/2017/september/17/02-boven-leeuwen-gestolen-trekker-brandend-aangetroffen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/logo-brandweer.jpg"
 ---
 

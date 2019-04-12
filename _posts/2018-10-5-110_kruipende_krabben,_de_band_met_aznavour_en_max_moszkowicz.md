@@ -4,7 +4,6 @@ title: "#110: Kruipende krabben, de band met Aznavour en Max Moszkowicz"
 date: Sat, 06 Oct 2018 00:00:00 +0200
 category: podcast
 externe_link: "https://podcast.npo.nl/file/het-beste-uit-het-oog/2921/nporadio1_het-beste-uit-het-oog_20181006_110-kruipende-krabben-de-band-met-aznavour-en-max-moszkowicz.mp3"
-feature_image: "https://podcast.npo.nl/file/het-beste-uit-het-oog/2921/nporadio1_het-beste-uit-het-oog_20181006_110-kruipende-krabben-de-band-met-aznavour-en-max-moszkowicz.mp3"
 ---
 
 De fractievoorzitter van het Forum voor Democratie hield zich afzijdig bij de Algemene Politieke Beschouwingen. Waarom deed hij dat eigenlijk? Max van Weezel voelde Thierry Baudet aan de tand.

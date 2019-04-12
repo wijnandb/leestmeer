@@ -2,7 +2,9 @@
 layout: post
 title: "Son schiet Spurs langs City"
 date: Tue, 09 Apr 2019 22:55:12 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3421042/son-schiet-spurs-langs-city"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e9604d8a-5b0b-11e9-ba01-0255c322e81b.jpg"
 ---

@@ -4,7 +4,6 @@ title: "De Politie rolt criminele chat-app op en een opvouwbare smartphone"
 date: Thu, 08 Nov 2018 16:32:13 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4100/nporadio1_nosop3techpodcast_20181108_de-politie-rolt-criminele-chat-app-op-en-een-opvouwbare-smartphone.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4100/nporadio1_nosop3techpodcast_20181108_de-politie-rolt-criminele-chat-app-op-en-een-opvouwbare-smartphone.mp3"
 ---
 
 0:00 Het is de politie gelukt om te infiltreren in een chatdienst die door criminelen werd gebruikt. Zo konden agenten live meekijken met de gesprekken van criminelen.

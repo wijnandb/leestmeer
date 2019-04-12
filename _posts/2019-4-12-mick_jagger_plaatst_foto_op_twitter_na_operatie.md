@@ -2,9 +2,8 @@
 layout: post
 title: "Mick Jagger plaatst foto op Twitter na operatie"
 date: Fri, 12 Apr 2019 09:15:06 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3434798/mick-jagger-plaatst-foto-op-twitter-na-operatie"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b730ed40-5cf2-11e9-847b-0218eaf05005.jpg"
 ---
 

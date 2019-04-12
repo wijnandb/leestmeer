@@ -2,9 +2,8 @@
 layout: post
 title: "PagerDuty derde notering met miljardenstatus"
 date: Thu, 11 Apr 2019 18:37:16 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3432977/pager-duty-derde-notering-met-miljardenstatus"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2c312076-5c79-11e9-9a52-0218eaf05005.jpg"
 ---
 

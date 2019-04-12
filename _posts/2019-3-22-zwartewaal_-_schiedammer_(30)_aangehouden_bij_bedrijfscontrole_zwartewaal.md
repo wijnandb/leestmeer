@@ -5,6 +5,7 @@ date: Fri, 22 Mar 2019 08:23:00 GMT
 categories: 
 - zuid-holland 
 - brielle 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/22/07-schiedammer-30-aangehouden-bij-bedrijfscontrole-brielle.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/07-rt/brielle.jpg"
 ---
 

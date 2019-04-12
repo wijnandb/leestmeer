@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 09:00:00 GMT
 categories: 
 - zuid-holland 
 - rotterdam 
+externe_link: "https://www.ad.nl/rotterdam/flashmobs-in-de-stad-als-opwarmer-voor-het-circusstad-festival~ab082ddd/"
 feature_image: "https://images3.persgroep.net/rcs/QruKZvkl9cIJx784ZtB4GJR5OxE/diocontent/145300677/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

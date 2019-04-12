@@ -2,9 +2,8 @@
 layout: post
 title: "’Gemengde signalen op oliemarkt’"
 date: Thu, 11 Apr 2019 10:58:13 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3429128/gemengde-signalen-op-oliemarkt"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/20391e26-5c39-11e9-9da7-0255c322e81b.jpg"
 ---
 

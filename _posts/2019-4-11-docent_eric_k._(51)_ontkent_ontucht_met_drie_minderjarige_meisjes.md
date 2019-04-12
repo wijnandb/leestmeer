@@ -4,7 +4,8 @@ title: "Docent Eric K. (51) ontkent ontucht met drie minderjarige meisjes"
 date: Thu, 11 Apr 2019 15:00:00 GMT
 categories: 
 - zuid-holland 
-- gouda 
+- rotterdam 
+externe_link: "https://www.ad.nl/rotterdam/docent-eric-k-51-ontkent-ontucht-met-drie-minderjarige-meisjes~acaee585/"
 feature_image: "https://images4.persgroep.net/rcs/nZHGrD7XpmejP7T9SLDiLjXgccQ/diocontent/145317852/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

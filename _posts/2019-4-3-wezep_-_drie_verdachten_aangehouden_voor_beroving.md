@@ -2,9 +2,8 @@
 layout: post
 title: "Wezep - Drie verdachten aangehouden voor beroving"
 date: Wed, 03 Apr 2019 14:24:00 GMT
-categories: 
-- gelderland 
-- oldebroek 
+category: gelderland
+externe_link: "https://www.politie.nl/nieuws/2019/april/3/02-drie-verdachten-aangehouden-voor-beroving.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/man-wordt-geboeid-afgevoerd.jpg"
 ---
 

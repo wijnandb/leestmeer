@@ -5,6 +5,7 @@ date: Mon, 21 Jan 2019 09:09:00 GMT
 categories: 
 - gelderland 
 - nijkerk 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/21/05-man-ramt-politieauto-en-gaat-er-vandoor.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/december/05-am/drugstester.jpg"
 ---
 

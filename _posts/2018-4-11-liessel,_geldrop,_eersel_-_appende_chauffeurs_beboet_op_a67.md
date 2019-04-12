@@ -4,7 +4,8 @@ title: "Liessel, Geldrop, Eersel - Appende chauffeurs beboet op A67"
 date: Wed, 11 Apr 2018 11:22:00 GMT
 categories: 
 - noord-brabant 
-- deurne 
+- eersel 
+externe_link: "https://www.politie.nl/nieuws/2018/april/11/09-liessel-geldrop-eersel-appende-chauffeurs-beboet-op-a67.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/afleiding-in-het-verkeer.jpg"
 ---
 

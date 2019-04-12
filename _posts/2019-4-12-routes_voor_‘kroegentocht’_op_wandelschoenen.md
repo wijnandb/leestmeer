@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 08:41:00 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.ad.nl/nijmegen/routes-voor-kroegentocht-op-wandelschoenen~a4ad3689/"
 feature_image: "https://images1.persgroep.net/rcs/KbdbvEcVm-zXRgYeAeN_w_cIN8c/diocontent/104146604/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

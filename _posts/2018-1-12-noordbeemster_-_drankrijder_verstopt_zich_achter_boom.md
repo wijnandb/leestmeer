@@ -5,6 +5,7 @@ date: Fri, 12 Jan 2018 09:13:00 GMT
 categories: 
 - noord-holland 
 - beemster 
+externe_link: "https://www.politie.nl/nieuws/2018/januari/12/04-drankrijder-verstopt-zich-achter-boom.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/agent-loopt-met-diensthond-in-bosgebied.jpg"
 ---
 

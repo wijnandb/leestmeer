@@ -2,7 +2,9 @@
 layout: post
 title: "Live: aftellen naar Ajax - Juventus"
 date: Wed, 10 Apr 2019 19:04:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3423452/live-aftellen-naar-ajax-juventus"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/fcb77d5a-5bb4-11e9-b843-0218eaf05005.jpg"
 ---

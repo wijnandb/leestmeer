@@ -5,6 +5,7 @@ date: Tue, 06 Mar 2018 14:20:00 GMT
 categories: 
 - zuid-holland 
 - kaag_en_braassem 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/6/vanavond-in-opsporingsprogramma-team-west.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2016/augustus/06-dh/nieuw-logo-tw.jpg"
 ---
 

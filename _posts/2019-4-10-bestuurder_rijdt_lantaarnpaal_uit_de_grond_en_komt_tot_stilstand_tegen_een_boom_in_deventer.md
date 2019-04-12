@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 14:38:32 GMT
 categories: 
 - overijssel 
 - deventer 
+externe_link: "https://www.ad.nl/deventer/bestuurder-rijdt-lantaarnpaal-uit-de-grond-en-komt-tot-stilstand-tegen-een-boom-in-deventer~a05660da/"
 feature_image: "https://images3.persgroep.net/rcs/eKQlSoNw8JeBt1NFkMTpedaU4DE/diocontent/145245030/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

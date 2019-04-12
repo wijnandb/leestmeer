@@ -5,6 +5,7 @@ date: Tue, 15 Jan 2019 13:30:00 GMT
 categories: 
 - noord-brabant 
 - boxtel 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/15/09-aanhoudingen-voor-overval-boxtel.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/intake-en-service-en-meldkamer/bord-met-logo-politie.jpg"
 ---
 

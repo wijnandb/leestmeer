@@ -2,9 +2,8 @@
 layout: post
 title: "Seuntjens verlaat VVV met pijn in het hart: ‘Nog één keer een stap maken’"
 date: Thu, 11 Apr 2019 14:03:21 GMT
-categories: 
-- sport 
-- voetbal 
+category: sport
+externe_link: "https://www.ad.nl/nederlands-voetbal/seuntjens-verlaat-vvv-met-pijn-in-het-hart-nog-een-keer-een-stap-maken~a08277b3/"
 feature_image: "https://images4.persgroep.net/rcs/afH3YFl2M29sTPke06qh3fG6lNA/diocontent/144778143/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

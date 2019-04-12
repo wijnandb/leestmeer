@@ -2,7 +2,9 @@
 layout: post
 title: "’Ronaldo heeft een kop van goud’"
 date: Thu, 11 Apr 2019 07:37:51 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3428136/ronaldo-heeft-een-kop-van-goud"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/86a23490-5c25-11e9-8c2f-0217670beecd.jpg"
 ---

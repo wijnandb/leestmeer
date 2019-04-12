@@ -2,7 +2,9 @@
 layout: post
 title: "Uitgebreide statistieken Ajax - Juventus: 1-1"
 date: Wed, 10 Apr 2019 22:40:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3424296/uitgebreide-statistieken-ajax-juventus-1-1"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4079a282-5bd5-11e9-b843-0218eaf05005.jpg"
 ---

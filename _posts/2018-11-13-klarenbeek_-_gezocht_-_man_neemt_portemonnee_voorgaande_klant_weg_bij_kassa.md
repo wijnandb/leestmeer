@@ -5,6 +5,7 @@ date: Tue, 13 Nov 2018 13:01:00 GMT
 categories: 
 - gelderland 
 - voorst 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/november/02-oon/gld1/man-neemt-portemonnee-voorgaande-klant-weg-bij-kassa.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/november/02-on/2018295683-1.jpg"
 ---
 

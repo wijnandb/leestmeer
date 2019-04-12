@@ -2,7 +2,9 @@
 layout: post
 title: "Nasrdin Dchar wil met Iftar na shows verbroederen"
 date: Wed, 10 Apr 2019 09:48:12 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3422028/nasrdin-dchar-wil-met-iftar-na-shows-verbroederen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/97bd61c8-5b80-11e9-b689-0217670beecd.jpg"
 ---

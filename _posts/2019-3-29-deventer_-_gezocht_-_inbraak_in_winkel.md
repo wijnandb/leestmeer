@@ -2,9 +2,8 @@
 layout: post
 title: "Deventer - Gezocht - Inbraak in winkel"
 date: Fri, 29 Mar 2019 12:22:00 GMT
-categories: 
-- overijssel 
-- deventer 
+category: overijssel
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/02-inbraak-in-winkel.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/02-on/2018565378_foto-2.jpg"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Schoolplan tegen ziekmakend beeldscherm"
 date: Thu, 11 Apr 2019 06:00:42 GMT
-category: binnenland
+category: politiek
 externe_link: "https://www.ad.nl/binnenland/schoolplan-tegen-ziekmakend-beeldscherm~aedea261/"
 feature_image: "https://images1.persgroep.net/rcs/D9i-HGbJS2Z8FzbAc4Kk0LTWi0g/diocontent/102109658/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

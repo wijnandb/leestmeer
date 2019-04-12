@@ -5,6 +5,7 @@ date: Sun, 12 Feb 2017 19:17:00 GMT
 categories: 
 - zuid-holland 
 - hardinxveld-giessendam 
+externe_link: "https://www.politie.nl/nieuws/2017/februari/12/07-man-gewond-na-ruzie-hardinxveld-giessendam.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/ambulance.jpg"
 ---
 

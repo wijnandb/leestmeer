@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 09:33:00 GMT
 categories: 
 - flevoland 
 - lelystad 
+externe_link: "https://www.ad.nl/lelystad/een-uur-gratis-parkeren-kost-1-miljoen-euro-in-lelystad~a463d9aa/"
 feature_image: "https://images4.persgroep.net/rcs/wIJ7Pnxyq5kJurD4AWTPtFI6sCo/diocontent/108244283/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

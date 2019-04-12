@@ -2,7 +2,9 @@
 layout: post
 title: "Verstappen met vertrouwen in Honda en RB15 naar China: 'Problemen opgelost'"
 date: Thu, 11 Apr 2019 17:03:12 +0200
-category: sport
+categories: 
+- sport 
+- autosport 
 externe_link: "https://nos.nl/l/2279996"
 feature_image: "https://nos.nl/data/image/2019/04/11/542926/1008x567.jpg"
 ---

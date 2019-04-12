@@ -4,7 +4,6 @@ title: "#98: Hoe kijkt Van Aartsen terug en waarom kent niemand Lead Belly?"
 date: Sat, 14 Jul 2018 00:00:00 +0200
 category: podcast
 externe_link: "https://podcast.npo.nl/file/het-beste-uit-het-oog/2933/nporadio1_het-beste-uit-het-oog_20180714_98-hoe-kijkt-van-aartsen-terug-en-waarom-kent-niemand-lead-belly.mp3"
-feature_image: "https://podcast.npo.nl/file/het-beste-uit-het-oog/2933/nporadio1_het-beste-uit-het-oog_20180714_98-hoe-kijkt-van-aartsen-terug-en-waarom-kent-niemand-lead-belly.mp3"
 ---
 
 Oud-burgemeester Van Aartsen zegt over zijn tijd als waarnemend burgemeester van Amsterdam: "Het was spannend, uitdagend en moeilijk. Het is een woelige stad, er is altijd wel wat aan de hand."

@@ -2,9 +2,7 @@
 layout: post
 title: "Eerste niertransplantatie van ene hiv-patiënt naar een ander"
 date: Fri, 29 Mar 2019 04:04:41 GMT
-categories: 
-- overig 
-- wetenschap 
+category: wetenschap
 externe_link: "https://www.ad.nl/wetenschap/eerste-niertransplantatie-van-ene-hiv-patient-naar-een-ander~a05d081c/"
 feature_image: "https://images0.persgroep.net/rcs/1pDNi0ikLfoDt4NylaBuesiZNNg/diocontent/144364461/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

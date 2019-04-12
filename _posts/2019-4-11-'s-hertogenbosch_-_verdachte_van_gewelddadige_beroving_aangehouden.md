@@ -2,9 +2,8 @@
 layout: post
 title: "'s-Hertogenbosch - Verdachte van gewelddadige beroving aangehouden"
 date: Thu, 11 Apr 2019 10:11:00 GMT
-categories: 
-- noord-brabant 
-- den_bosch 
+category: noord-brabant
+externe_link: "https://www.politie.nl/nieuws/2019/april/11/09-verdachte-van-gewelddadige-beroving-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/stock-oost-brabant/aanhouding.jpg"
 ---
 

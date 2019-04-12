@@ -5,6 +5,7 @@ date: Mon, 20 Nov 2017 15:01:00 GMT
 categories: 
 - noord-brabant 
 - landerd 
+externe_link: "https://www.politie.nl/nieuws/2017/november/20/09-onderzoek-naar-mishandeling-en-misbruik-van-pony.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/november/09-ob/paardzeeland.jpg"
 ---
 

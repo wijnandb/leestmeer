@@ -2,7 +2,9 @@
 layout: post
 title: "Dennis Schouten dacht alleen maar aan ex"
 date: Mon, 08 Apr 2019 23:53:13 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3414328/dennis-schouten-dacht-alleen-maar-aan-ex"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/038f3628-5a51-11e9-8bc7-0217670beecd.jpg"
 ---

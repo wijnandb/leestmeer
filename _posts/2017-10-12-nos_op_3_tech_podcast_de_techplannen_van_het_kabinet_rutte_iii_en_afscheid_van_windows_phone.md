@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: De techplannen van het kabinet Rutte III en afsch
 date: Thu, 12 Oct 2017 18:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4159/nporadio1_nosop3techpodcast_20171012_nos-op-3-tech-podcast-de-techplannen-van-het-kabinet-rutte-iii-en-afscheid-van-windows-phone.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4159/nporadio1_nosop3techpodcast_20171012_nos-op-3-tech-podcast-de-techplannen-van-het-kabinet-rutte-iii-en-afscheid-van-windows-phone.mp3"
 ---
 
 0:00 Het kabinet Rutte III gaat bijna aan de slag. Wat staat er in het regeerakkoord op het gebied van tech en cybersecurity?

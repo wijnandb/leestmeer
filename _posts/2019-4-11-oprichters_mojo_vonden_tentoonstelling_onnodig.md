@@ -2,7 +2,9 @@
 layout: post
 title: "Oprichters MOJO vonden tentoonstelling onnodig"
 date: Thu, 11 Apr 2019 12:05:53 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3429681/oprichters-mojo-vonden-tentoonstelling-onnodig"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6463102c-5c41-11e9-a2cf-02d1dbdc35d1.jpg"
 ---

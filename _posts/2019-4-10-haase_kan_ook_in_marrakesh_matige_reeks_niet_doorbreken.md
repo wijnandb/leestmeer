@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 14:12:00 +0200
 categories: 
 - sport 
 - tennis 
+externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/qWn1nb6iUrw/2279837"
 feature_image: "https://nos.nl/data/image/2019/04/10/542664/1008x567.jpg"
 ---
 

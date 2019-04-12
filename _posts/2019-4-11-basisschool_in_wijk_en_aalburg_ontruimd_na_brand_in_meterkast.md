@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 12:40:01 GMT
 categories: 
 - noord-brabant 
 - waalwijk 
+externe_link: "https://www.ad.nl/waalwijk/basisschool-in-wijk-en-aalburg-ontruimd-na-brand-in-meterkast~ab9ca98c/"
 feature_image: "https://images1.persgroep.net/rcs/FuIzoQ2OPBtXYhhu9gEtzhvPa10/diocontent/145308786/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

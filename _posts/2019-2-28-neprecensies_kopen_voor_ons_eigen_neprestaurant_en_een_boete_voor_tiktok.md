@@ -4,7 +4,6 @@ title: "Neprecensies kopen voor ons eigen neprestaurant en een boete voor TikTok
 date: Thu, 28 Feb 2019 17:06:35 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4481/nporadio1_nosop3techpodcast_20190228_neprecensies-kopen-voor-ons-eigen-neprestaurant-en-een-miljoenenboete-voor-tiktok_YGC5RD.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4481/nporadio1_nosop3techpodcast_20190228_neprecensies-kopen-voor-ons-eigen-neprestaurant-en-een-miljoenenboete-voor-tiktok_YGC5RD.mp3"
 ---
 
 0:00 Veel mensen kijken voordat ze iets kopen of voordat ze een restaurant uitkiezen naar de recensies online. Maar die recensies zijn lang niet allemaal eerlijk, je kan zelfs recensies kopen. Om dit te onderzoeken begonnen we zelf een fictief restaurant, waar nog nooit iemand had gegeten, maar met toch alleen 5 sterren-recensies.

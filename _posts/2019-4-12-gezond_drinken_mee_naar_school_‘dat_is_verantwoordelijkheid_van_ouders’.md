@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 08:00:00 GMT
 categories: 
 - overijssel 
 - zwolle 
+externe_link: "https://www.ad.nl/zwolle/gezond-drinken-mee-naar-school-dat-is-verantwoordelijkheid-van-ouders~a8af92ec/"
 feature_image: "https://images2.persgroep.net/rcs/VH6gaGn6stkaDoeyEkv875Awopk/diocontent/145302486/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

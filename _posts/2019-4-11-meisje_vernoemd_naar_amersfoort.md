@@ -2,7 +2,7 @@
 layout: post
 title: "Meisje vernoemd naar Amersfoort"
 date: Thu, 11 Apr 2019 20:54:00 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3433484/meisje-vernoemd-naar-amersfoort"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/58322fc2-5c8c-11e9-84d4-02c309bc01c1.jpg"
 ---

@@ -5,6 +5,7 @@ date: Sun, 06 Jan 2019 07:24:00 GMT
 categories: 
 - gelderland 
 - harderwijk 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/6/02-harderwijk-autokraker-stapt-in-politieauto-na-telefoontje-van-alerte-buurtbewoner.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-bij-auto.jpg"
 ---
 

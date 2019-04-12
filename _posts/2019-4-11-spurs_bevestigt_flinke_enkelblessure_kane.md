@@ -2,7 +2,9 @@
 layout: post
 title: "Spurs bevestigt: flinke enkelblessure Kane"
 date: Thu, 11 Apr 2019 21:10:58 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3433543/spurs-bevestigt-flinke-enkelblessure-kane"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c51e5af6-5c8d-11e9-a27a-02d1dbdc35d1.jpg"
 ---

@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 18:00:22 GMT
 categories: 
 - noord-brabant 
 - breda 
+externe_link: "https://www.ad.nl/breda/bredase-scholieren-scoren-met-sesamreep-we-spraken-al-met-tony-s-chocolonely-en-disney~a36903ce/"
 feature_image: "https://images3.persgroep.net/rcs/jecSuMGNUWMStYyUPKwZedMNjeY/diocontent/145303986/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

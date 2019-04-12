@@ -5,6 +5,7 @@ date: Wed, 19 Sep 2018 14:12:00 GMT
 categories: 
 - zuid-holland 
 - sliedrecht 
+externe_link: "https://www.politie.nl/nieuws/2018/september/19/07-politie-pakt-twee-mannen-op-voor-diefstal-uit-bedieningskast.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-3.jpg"
 ---
 

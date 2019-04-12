@@ -5,6 +5,7 @@ date: Sun, 12 Feb 2017 09:04:00 GMT
 categories: 
 - noord-holland 
 - opmeer 
+externe_link: "https://www.politie.nl/nieuws/2017/februari/12/04-getuigenoproep-woningoverval.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/agente-bakent-gebied-af-met-afzetlint.jpg"
 ---
 

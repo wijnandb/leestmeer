@@ -5,6 +5,7 @@ date: Tue, 09 Apr 2019 23:56:00 +0200
 categories: 
 - entertainment 
 - royalty 
+externe_link: "https://www.telegraaf.nl/entertainment/3420897/charles-en-camilla-vieren-trouwdag-in-belfast"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/69becba4-5b12-11e9-847b-0218eaf05005.jpg"
 ---
 

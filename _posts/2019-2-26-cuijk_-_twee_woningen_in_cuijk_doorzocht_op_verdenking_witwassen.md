@@ -5,6 +5,7 @@ date: Tue, 26 Feb 2019 14:33:00 GMT
 categories: 
 - noord-brabant 
 - cuijk 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/26/09-twee-woningen-in-cuijk-doorzocht-op-verdenking-witwassen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/mei/06-dh/geld-witwassen.jpg"
 ---
 

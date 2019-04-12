@@ -2,9 +2,8 @@
 layout: post
 title: "Baas Wereldbank wil goede band met China"
 date: Thu, 11 Apr 2019 15:37:35 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3431532/baas-wereldbank-wil-goede-band-met-china"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f6f59c44-5c5e-11e9-9405-0218eaf05005.jpg"
 ---
 

@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Elzinga Wonen in Enschede heeft alles, behalve behang: ‘Mijn vader had er een hekel aan’"
-date: Fri, 12 Apr 2019 07:15:12 GMT
+date: Fri, 12 Apr 2019 07:15:00 GMT
 categories: 
 - overijssel 
 - enschede 
+externe_link: "https://www.ad.nl/enschede/elzinga-wonen-in-enschede-heeft-alles-behalve-behang-mijn-vader-had-er-een-hekel-aan~a70f4238/"
 feature_image: "https://images3.persgroep.net/rcs/IWCh-hWpm6RejEBSIubMTa4wST4/diocontent/142930015/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

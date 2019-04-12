@@ -2,9 +2,8 @@
 layout: post
 title: "’Nieuwe baas Wereldbank staat achter beleid’"
 date: Thu, 11 Apr 2019 09:35:05 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3428519/nieuwe-baas-wereldbank-staat-achter-beleid"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/54ea904e-5c2c-11e9-8d7a-0218eaf05005.jpg"
 ---
 

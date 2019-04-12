@@ -2,7 +2,9 @@
 layout: post
 title: "’Serena Williams verklapt geslacht Meghans baby’"
 date: Mon, 08 Apr 2019 20:58:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- royalty 
 externe_link: "https://www.telegraaf.nl/entertainment/3413821/serena-williams-verklapt-geslacht-meghans-baby"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ab21dc54-5a30-11e9-8851-02d2fb1aa1d7.jpg"
 ---

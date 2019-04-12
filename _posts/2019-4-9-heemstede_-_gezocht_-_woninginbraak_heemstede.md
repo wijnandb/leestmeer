@@ -2,9 +2,8 @@
 layout: post
 title: "Heemstede - Gezocht - Woninginbraak Heemstede"
 date: Tue, 09 Apr 2019 07:44:00 GMT
-categories: 
-- noord-holland 
-- heemstede 
+category: zuid-holland
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/06-dh/tw-09-04/06-woninginbraak-heemstede.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/april/06-dh/tw-09-04/190409_team_inbraak-heemstede-video.jpg"
 ---
 

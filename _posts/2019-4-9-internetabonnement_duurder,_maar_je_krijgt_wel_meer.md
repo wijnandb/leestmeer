@@ -2,7 +2,9 @@
 layout: post
 title: "Internetabonnement duurder, maar je krijgt wel meer"
 date: Tue, 09 Apr 2019 14:32:00 +0200
-category: financieel
+categories: 
+- financieel 
+- geld 
 externe_link: "https://www.telegraaf.nl/financieel/3411729/internetabonnement-duurder-maar-je-krijgt-wel-meer"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d8a1a160-5ae8-11e9-bdd3-02d2fb1aa1d7.jpg"
 ---

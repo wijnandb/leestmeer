@@ -5,6 +5,7 @@ date: Thu, 08 Mar 2018 14:40:00 GMT
 categories: 
 - zeeland 
 - noord-beveland 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/8/06-politie-ontdekt-drugslab-op-vakantiepark.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/drugs/opslag-ton-chemisch-afval.jpg"
 ---
 

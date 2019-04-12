@@ -2,7 +2,9 @@
 layout: post
 title: "Pelé is alweer terug naar São Paulo"
 date: Tue, 09 Apr 2019 12:51:00 GMT
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.ad.nl/buitenlands-voetbal/pele-is-alweer-terug-naar-sao-paulo~a1408742/"
 feature_image: "https://images3.persgroep.net/rcs/XRiptru--8Ojv6m-CR0jpLKcFSs/diocontent/145153257/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

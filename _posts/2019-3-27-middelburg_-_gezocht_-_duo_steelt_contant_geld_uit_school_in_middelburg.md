@@ -2,9 +2,8 @@
 layout: post
 title: "Middelburg - Gezocht - Duo steelt contant geld uit school in Middelburg"
 date: Wed, 27 Mar 2019 09:00:00 GMT
-categories: 
-- zeeland 
-- middelburg 
+category: zeeland
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/08-diefstal-middelburg.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/nieuws/2019/maart/08-zw/2019-03-26_diefstal-middeburg-2luik.jpg"
 ---
 

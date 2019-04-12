@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Een Instagram scheldfilter en waarom klinkt belle
 date: Thu, 15 Sep 2016 16:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4208/nporadio1_nosop3techpodcast_20160915_nos-op-3-tech-podcast-een-instagram-scheldfilter-en-waarom-klinkt-bellen-zo-ruk.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4208/nporadio1_nosop3techpodcast_20160915_nos-op-3-tech-podcast-een-instagram-scheldfilter-en-waarom-klinkt-bellen-zo-ruk.mp3"
 ---
 
 Word je wel eens uitgescholden op Instagram? Je kunt nu zelf opgeven welke scheldwoorden je niet meer wilt tegenkomen in reacties.

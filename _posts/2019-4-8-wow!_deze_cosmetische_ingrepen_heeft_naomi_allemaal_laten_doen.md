@@ -2,7 +2,7 @@
 layout: post
 title: "Wow! Deze cosmetische ingrepen heeft Naomi allemaal laten doen"
 date: Mon, 08 Apr 2019 22:40:00 +0200
-category: algemeen
+category: opmerkelijk
 externe_link: "https://www.telegraaf.nl/entertainment/3414073/wow-deze-cosmetische-ingrepen-heeft-naomi-allemaal-laten-doen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c9877644-5a40-11e9-9f98-0217670beecd.png"
 ---

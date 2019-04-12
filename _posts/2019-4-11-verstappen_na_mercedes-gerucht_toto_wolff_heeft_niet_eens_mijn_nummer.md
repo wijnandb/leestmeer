@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 13:23:46 GMT
 categories: 
 - sport 
 - autosport 
+externe_link: "https://www.ad.nl/formule-1/verstappen-na-mercedes-gerucht-toto-wolff-heeft-niet-eens-mijn-nummer~a218cf42/"
 feature_image: "https://images0.persgroep.net/rcs/jq8rMc-IubzwsgBhnwzYZXaHs-s/diocontent/145306268/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Mon, 07 Jan 2019 15:42:00 GMT
 categories: 
 - noord-brabant 
 - waalre 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/november/08-vermissing-van-de-32-jarige-henk-kris-heeren-uit-breda.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/november/09-ob/bb_181119/henk-kris-1.jpg"
 ---
 

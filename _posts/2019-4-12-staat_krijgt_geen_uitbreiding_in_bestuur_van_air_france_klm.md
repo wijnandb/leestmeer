@@ -2,9 +2,8 @@
 layout: post
 title: "Staat krijgt geen uitbreiding in bestuur van Air France KLM"
 date: Fri, 12 Apr 2019 09:21:00 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3434834/staat-krijgt-geen-uitbreiding-in-bestuur-van-air-france-klm"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/85b05c8c-5cf3-11e9-a131-0255c322e81b.jpg"
 ---
 

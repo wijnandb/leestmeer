@@ -4,7 +4,8 @@ title: "Vianen, Den Dolder, Hilversum, Nijkerk, Bussum - Meerdere overvallen mog
 date: Mon, 05 Nov 2018 11:18:00 GMT
 categories: 
 - utrecht 
-- vianen 
+- zeist 
+externe_link: "https://www.politie.nl/nieuws/2018/november/5/03-meerdere-overvallen-mogelijk-opgelost.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-van-een-verdachte-door-een-arrestatieteam.jpg"
 ---
 

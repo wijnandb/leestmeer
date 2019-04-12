@@ -4,7 +4,8 @@ title: "Schoonhoven / Delft / Den Haag / Leiden / Oegstgeest - Zware mishandelin
 date: Tue, 12 Mar 2019 09:04:00 GMT
 categories: 
 - zuid-holland 
-- den_haag 
+- schoonhoven 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/12/06-zware-mishandeling-bij-woninginbraak-schoonhoven-in-team-west.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/06-dh/12-03-stoepbord-schoonhoven1.jpg"
 ---
 

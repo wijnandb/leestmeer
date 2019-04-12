@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 15:14:08 GMT
 categories: 
 - overijssel 
 - enschede 
+externe_link: "https://www.ad.nl/enschede/attention-opbouw-paaskermis-in-enschede-volop-bezig~acc11d0d/"
 feature_image: "https://images2.persgroep.net/rcs/iDxqIXhO2pNJzeICwnN32MlFY6s/diocontent/145319706/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

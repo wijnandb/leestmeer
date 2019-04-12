@@ -2,7 +2,9 @@
 layout: post
 title: "De Jong drijft Juventus tot wanhoop"
 date: Thu, 11 Apr 2019 07:19:11 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3428105/de-jong-drijft-juventus-tot-wanhoop"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/572c3340-5c2b-11e9-84d4-02c309bc01c1.jpg"
 ---

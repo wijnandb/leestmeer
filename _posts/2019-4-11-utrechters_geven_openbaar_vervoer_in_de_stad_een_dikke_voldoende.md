@@ -2,9 +2,8 @@
 layout: post
 title: "Utrechters geven openbaar vervoer in de stad een dikke voldoende"
 date: Thu, 11 Apr 2019 18:16:25 GMT
-categories: 
-- utrecht 
-- utrecht 
+category: utrecht
+externe_link: "https://www.ad.nl/utrecht/utrechters-geven-openbaar-vervoer-in-de-stad-een-dikke-voldoende~a06af229/"
 feature_image: "https://images3.persgroep.net/rcs/XxCArVjf1Facp2fmBjg4PT7QhEk/diocontent/145316277/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

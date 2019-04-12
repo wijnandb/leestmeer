@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 11:04:00 GMT
 categories: 
 - zuid-holland 
 - zoetermeer 
+externe_link: "https://www.ad.nl/zoetermeer/zoetermeerder-heeft-te-weinig-geld-om-zijn-gestolen-merrie-terug-te-kopen~a062454f/"
 feature_image: "https://images3.persgroep.net/rcs/BstEqsn-wdHDp6M3KnJv96Dwmk8/diocontent/144221020/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

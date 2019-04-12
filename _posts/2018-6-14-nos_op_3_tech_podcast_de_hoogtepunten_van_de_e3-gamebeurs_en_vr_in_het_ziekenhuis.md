@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: De hoogtepunten van de E3-gamebeurs en VR in het 
 date: Thu, 14 Jun 2018 16:31:29 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4122/nporadio1_nosop3techpodcast_20180614_nos-op-3-tech-podcast-de-hoogtepunten-van-de-e3-gamebeurs-en-vr-in-het-ziekenhuis.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4122/nporadio1_nosop3techpodcast_20180614_nos-op-3-tech-podcast-de-hoogtepunten-van-de-e3-gamebeurs-en-vr-in-het-ziekenhuis.mp3"
 ---
 
 0:00 Deze week was de E3, de grootste gamebeurs te wereld, waar je de nieuwste en mooiste spellen van het komende jaar kon zien. Erik Nusselder van Gamer.nl heeft al het nieuws op de voet gevolgd. We bespreken de meest opvallende aankondigingen en trends.

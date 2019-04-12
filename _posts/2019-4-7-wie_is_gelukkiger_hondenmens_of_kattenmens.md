@@ -2,9 +2,9 @@
 layout: post
 title: "Wie is gelukkiger: hondenmens of kattenmens?"
 date: Sun, 07 Apr 2019 09:33:00 +0200
-category: buitenland
-externe_link: "https://www.telegraaf.nl/nieuws/3405768/wie-is-gelukkiger-hondenmens-of-kattenmens"
-feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7b0fc078-5907-11e9-9815-0218eaf05005.jpg"
+category: overig
+externe_link: "https://www.telegraaf.nl/vrij/3405768/wie-is-gelukkiger-hondenmens-of-kattenmens"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/08fbd6c6-5b95-11e9-8459-02d1dbdc35d1.jpg"
 ---
 
 <p class="intro">Een enquête die al meer dan vier decennia de barometer is van de Amerikaanse samenleving, stelde de hamvraag. Wie zijn er eigenlijk gelukkiger? Hondenmensen of kattenmensen? Voor het eerst was een reeks huisdierenvragen onderdeel van het onderzoek, dat ook politiek, cultuur en gedrag bestudeert. Dat geeft niet alleen inzicht in de huisdierenpopulatie, maar laat ook zien wat het hebben van een harige huisvriend doet met het geluksgevoel van hun baasjes.</p> <p>Dat blijkt uit de General Social Survey waarover The Washington Post bericht.</p><p>Uit het onderzoek blijkt dat er een behoorlijk verschil is tussen mensen die katten, honden of beide in huis hebben. Hondenbezitters zeggen ongeveer twee keer zo vaak gelukkig te zijn als katteneigenaren. Mensen die een hond én een kat hebben, zitten daar qua geluksgevoel ergens tussenin.</p><p>Geen viervoeter is ook fijn</p><p>Geen huisdier hebben, hoeft niet te betekenen dat je niet gelukkig kunt zijn, want hondenmensen zijn maar iets gelukkiger dan mensen zonder huisdieren. Mensen in kamp kat zijn daarentegen beduidend minder gelukkig dan huisdierloze mensen.</p><p>Percentage dat zegt erg gelukkig te zijn per type huisdier</p><p>Alleen hond: 36%

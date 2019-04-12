@@ -2,9 +2,8 @@
 layout: post
 title: "ACM begint glasvezelonderzoek"
 date: Fri, 12 Apr 2019 10:22:48 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3435219/acm-begint-glasvezelonderzoek"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/27e93336-5cfc-11e9-8fb5-02c309bc01c1.jpg"
 ---
 

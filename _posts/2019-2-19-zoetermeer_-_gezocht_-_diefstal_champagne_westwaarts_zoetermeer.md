@@ -5,6 +5,7 @@ date: Tue, 19 Feb 2019 07:39:00 GMT
 categories: 
 - zuid-holland 
 - zoetermeer 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/dh/tw-19-02/06-diefstal-champagne-ah-westwaarts-zoetermeer.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/06-dh/tw-19-02/190219_team_diefstal-champagne-blur.jpg"
 ---
 

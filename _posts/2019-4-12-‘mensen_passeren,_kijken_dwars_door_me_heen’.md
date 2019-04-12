@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 07:58:31 GMT
 categories: 
 - zuid-holland 
 - rotterdam 
+externe_link: "https://www.ad.nl/rotterdam/mensen-passeren-kijken-dwars-door-me-heen~ac820852/"
 feature_image: "https://images0.persgroep.net/rcs/kUxUk9-HZ39imQGIEjb9mh-ksEc/diocontent/143476861/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

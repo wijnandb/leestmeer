@@ -2,9 +2,7 @@
 layout: post
 title: "Miljoenensteun FC Twente: 'De analyse ontbreekt volledig'"
 date: Tue, 09 Apr 2019 20:37:09 +0200
-categories: 
-- sport 
-- voetbal 
+category: nieuws
 externe_link: "https://nos.nl/l/2279752"
 feature_image: "https://nos.nl/data/image/2019/04/09/542547/1008x567.jpg"
 ---

@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 12:50:00 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.ad.nl/nijmegen/nxp-over-spionage-asml-dat-is-schrikken-maar-we-zijn-niet-naief~a65c940a/"
 feature_image: "https://images4.persgroep.net/rcs/WSUEik9J6gSUUuF8WPErf0LZn1k/diocontent/145308849/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 14 Mar 2019 14:02:00 GMT
 categories: 
 - utrecht 
 - houten 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/14/03-jongens-bedreigd-in-houten-getuigen-gezocht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/wijkagent-praat-met-bewoners-op-straat.jpg"
 ---
 

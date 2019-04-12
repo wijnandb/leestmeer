@@ -2,7 +2,9 @@
 layout: post
 title: "Van Dijk: ’Dit is bijna perfect’"
 date: Tue, 09 Apr 2019 23:38:39 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3421232/van-dijk-dit-is-bijna-perfect"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/76fc8ed6-5b13-11e9-a00c-02c309bc01c1.jpg"
 ---

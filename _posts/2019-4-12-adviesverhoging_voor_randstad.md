@@ -2,9 +2,8 @@
 layout: post
 title: "Adviesverhoging voor Randstad"
 date: Fri, 12 Apr 2019 09:25:58 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3434871/adviesverhoging-voor-randstad"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/636bab94-5cf4-11e9-b172-02d1dbdc35d1.jpg"
 ---
 

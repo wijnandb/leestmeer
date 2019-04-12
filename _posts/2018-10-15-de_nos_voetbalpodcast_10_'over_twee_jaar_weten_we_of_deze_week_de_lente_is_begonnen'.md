@@ -6,7 +6,6 @@ categories:
 - sport 
 - voetbal 
 externe_link: "https://podcast.npo.nl/file/nos-voetbalpodcast/2419/nporadio1_nos-voetbalpodcast_20181015_voetbalpodcast-10-over-twee-jaar-weten-we-of-deze-week-de-lente-is-begonnen.mp3"
-feature_image: "https://podcast.npo.nl/file/nos-voetbalpodcast/2419/nporadio1_nos-voetbalpodcast_20181015_voetbalpodcast-10-over-twee-jaar-weten-we-of-deze-week-de-lente-is-begonnen.mp3"
 ---
 
 Deze week met Jeroen Stekelenburg, Jeroen Elshoff en Frank Snoeks over het Nederlands elftal.

@@ -4,7 +4,8 @@ title: "Kaatsheuvel/Tilburg - Zwaar beschadigde auto rijdt politie met vonkenreg
 date: Sat, 02 Mar 2019 07:53:00 GMT
 categories: 
 - noord-brabant 
-- loon_op_zand 
+- waalwijk 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/2/08-zwaar-beschadigde-auto-rijdt-politie-met-vonkenregen-voorbij.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/08-zw/auto.jpg"
 ---
 

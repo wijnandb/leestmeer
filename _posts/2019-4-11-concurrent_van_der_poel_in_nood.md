@@ -2,7 +2,9 @@
 layout: post
 title: "Concurrent Van der Poel in nood"
 date: Thu, 11 Apr 2019 11:30:36 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/3429416/concurrent-van-der-poel-in-nood"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/548985f6-5c54-11e9-a131-0255c322e81b.jpg"
 ---

@@ -2,9 +2,8 @@
 layout: post
 title: "'Overnamebod op Wessanen nog te laag'"
 date: Thu, 11 Apr 2019 09:17:16 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3428422/overnamebod-op-wessanen-nog-te-laag"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d6018cde-5c2f-11e9-9a52-0218eaf05005.jpg"
 ---
 

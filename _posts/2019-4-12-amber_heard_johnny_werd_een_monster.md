@@ -2,9 +2,8 @@
 layout: post
 title: "Amber Heard: Johnny werd een monster"
 date: Fri, 12 Apr 2019 10:27:52 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3435243/amber-heard-johnny-werd-een-monster"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ec9f011a-5cfc-11e9-847b-0218eaf05005.jpg"
 ---
 

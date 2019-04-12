@@ -5,6 +5,7 @@ date: Wed, 19 Dec 2018 12:18:00 GMT
 categories: 
 - noord-holland 
 - amstelveen 
+externe_link: "https://www.politie.nl/nieuws/2018/december/19/05-105-kilo-vuurwerk-gevonden-in-opslag-box.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/mijn-buurt/wijkprojecten/01--noord-nederland/politieauto-2.jpg"
 ---
 

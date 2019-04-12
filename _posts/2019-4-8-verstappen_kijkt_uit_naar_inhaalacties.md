@@ -2,7 +2,9 @@
 layout: post
 title: "Verstappen kijkt uit naar inhaalacties"
 date: Mon, 08 Apr 2019 13:44:00 +0200
-category: sport
+categories: 
+- sport 
+- autosport 
 externe_link: "https://www.telegraaf.nl/sport/3401154/verstappen-kijkt-uit-naar-inhaalacties"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/875b1772-5a17-11e9-a704-0255c322e81b.jpg"
 ---

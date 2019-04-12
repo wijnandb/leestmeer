@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 08:35:45 GMT
 categories: 
 - noord-brabant 
 - oss 
+externe_link: "https://www.ad.nl/oss/nieuwe-hart-van-schaijk-is-nu-klaar-dus-hoppa-feesten-maar~a43cba59/"
 feature_image: "https://images0.persgroep.net/rcs/ne99kSdxhwrypLmXx6SQU9AyWEk/diocontent/145225733/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

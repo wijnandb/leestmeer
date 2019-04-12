@@ -5,6 +5,7 @@ date: Mon, 02 Jul 2018 13:53:00 GMT
 categories: 
 - zuid-holland 
 - gorinchem 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/2/07-derde-verdachte-aangehouden-voor-overval-berkel-en-rodenrijs.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/juli/07-rt/a15crash.jpg"
 ---
 

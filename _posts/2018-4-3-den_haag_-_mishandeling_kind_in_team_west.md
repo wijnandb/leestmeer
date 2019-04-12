@@ -3,8 +3,9 @@ layout: post
 title: "Den Haag - Mishandeling kind in Team West"
 date: Tue, 03 Apr 2018 14:08:00 GMT
 categories: 
-- gelderland 
-- buren 
+- zuid-holland 
+- pijnacker-nootdorp 
+externe_link: "https://www.politie.nl/nieuws/2018/april/3/06-den-haag-mishandeling-kind-in-team-west.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/april/06-dh/dick-in-studio-met-watermerk.jpg"
 ---
 

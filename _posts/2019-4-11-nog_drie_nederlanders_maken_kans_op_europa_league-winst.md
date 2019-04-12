@@ -2,7 +2,9 @@
 layout: post
 title: "Nog drie Nederlanders maken kans op Europa League-winst"
 date: Thu, 11 Apr 2019 07:00:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3427842/nog-drie-nederlanders-maken-kans-op-europa-league-winst"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/53cc5956-5bdf-11e9-8854-0217670beecd.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Nederlandse Kop op wint Emmy Kids Award"
 date: Tue, 09 Apr 2019 23:13:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3421052/nederlandse-kop-op-wint-emmy-kids-award"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2dd2e134-5b0d-11e9-8d9b-02d1dbdc35d1.jpg"
 ---

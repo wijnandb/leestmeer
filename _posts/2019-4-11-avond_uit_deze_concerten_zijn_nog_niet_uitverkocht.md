@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 17:24:21 +0200
 categories: 
 - entertainment 
 - muziek 
+externe_link: "https://www.nu.nl/uit/5834547/avond-uit-deze-concerten-zijn-nog-niet-uitverkocht.html"
 feature_image: "https://media.nu.nl/m/rvgxwg9ajxbc_sqr256.jpg/avond-uit-deze-concerten-zijn-nog-niet-uitverkocht.jpg"
 ---
 

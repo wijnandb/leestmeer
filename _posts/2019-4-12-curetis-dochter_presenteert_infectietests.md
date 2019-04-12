@@ -2,9 +2,8 @@
 layout: post
 title: "Curetis-dochter presenteert infectietests"
 date: Fri, 12 Apr 2019 08:46:00 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3434671/curetis-dochter-presenteert-infectietests"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f2b664c0-5cee-11e9-9a52-0218eaf05005.jpg"
 ---
 

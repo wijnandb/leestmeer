@@ -5,6 +5,7 @@ date: Thu, 06 Sep 2018 15:45:00 GMT
 categories: 
 - gelderland 
 - voorst 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/september/02-oon/odl/diefstal-grote-hoeveelheid-opzetborsteltjes.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/september/02-on/2018306702-1.jpg"
 ---
 

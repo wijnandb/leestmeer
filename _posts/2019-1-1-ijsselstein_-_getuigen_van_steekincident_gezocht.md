@@ -5,6 +5,7 @@ date: Tue, 01 Jan 2019 11:58:00 GMT
 categories: 
 - utrecht 
 - ijsselstein 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/1/03-getuigen-van-steekincident-gezocht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/agent-met-vest-en-portofoon.jpg"
 ---
 

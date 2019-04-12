@@ -2,7 +2,7 @@
 layout: post
 title: "Jonge ’vrijwilligers’ naar platteland China"
 date: Fri, 12 Apr 2019 10:57:40 +0200
-category: buitenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3435519/jonge-vrijwilligers-naar-platteland-china"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/edc1635c-5d02-11e9-93c9-02c309bc01c1.jpg"
 ---

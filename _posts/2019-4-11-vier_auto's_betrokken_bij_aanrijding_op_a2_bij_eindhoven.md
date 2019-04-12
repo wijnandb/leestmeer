@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 08:10:00 GMT
 categories: 
 - noord-brabant 
 - eindhoven 
+externe_link: "https://www.ad.nl/eindhoven/vier-auto-s-betrokken-bij-aanrijding-op-a2-bij-eindhoven~a99513ec/"
 feature_image: "https://images1.persgroep.net/rcs/ZB22uauzj1Bukdf6x5SudNrSO8A/diocontent/145295976/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

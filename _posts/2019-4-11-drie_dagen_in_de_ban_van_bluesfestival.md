@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 06:02:45 GMT
 categories: 
 - zuid-holland 
 - zoetermeer 
+externe_link: "https://www.ad.nl/zoetermeer/drie-dagen-in-de-ban-van-bluesfestival~a213446f/"
 feature_image: "https://images3.persgroep.net/rcs/J-mOKujY0RCDI0m983cW-byJeO0/diocontent/66918920/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

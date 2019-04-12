@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Bibliotheek Helmond-Peel in zwaar weer"
-date: Fri, 12 Apr 2019 05:30:29 GMT
+date: Fri, 12 Apr 2019 05:30:00 GMT
 categories: 
 - noord-brabant 
 - helmond 
+externe_link: "https://www.ad.nl/helmond/bibliotheek-helmond-peel-in-zwaar-weer~a9247911/"
 feature_image: "https://images1.persgroep.net/rcs/Pwo8uzb6cJDuUlxI-a4hqUp0SmU/diocontent/135860909/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

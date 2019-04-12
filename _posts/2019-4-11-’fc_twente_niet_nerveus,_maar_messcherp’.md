@@ -2,7 +2,9 @@
 layout: post
 title: "’FC Twente niet nerveus, maar messcherp’"
 date: Fri, 12 Apr 2019 00:23:28 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3434195/fc-twente-niet-nerveus-maar-messcherp"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/afd13b6c-5ca8-11e9-9157-0255c322e81b.jpg"
 ---

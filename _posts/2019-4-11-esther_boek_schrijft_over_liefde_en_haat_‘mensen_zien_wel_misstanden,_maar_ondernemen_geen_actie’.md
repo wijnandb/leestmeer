@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 19:02:28 GMT
 categories: 
 - gelderland 
 - tiel 
+externe_link: "https://www.ad.nl/tiel/esther-boek-schrijft-over-liefde-en-haat-mensen-zien-wel-misstanden-maar-ondernemen-geen-actie~a7b232ad/"
 feature_image: "https://images0.persgroep.net/rcs/S-efUj_cQMIAgqhKe8dYu0N3kbs/diocontent/100175463/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

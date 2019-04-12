@@ -2,9 +2,8 @@
 layout: post
 title: "Export groeit 2 procent in februari"
 date: Fri, 12 Apr 2019 06:45:22 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3434285/export-groeit-2-procent-in-februari"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2caf31cc-5cde-11e9-ba01-0255c322e81b.jpg"
 ---
 

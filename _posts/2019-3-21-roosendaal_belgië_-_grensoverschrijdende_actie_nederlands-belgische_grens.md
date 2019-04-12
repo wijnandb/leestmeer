@@ -5,6 +5,7 @@ date: Thu, 21 Mar 2019 10:34:00 GMT
 categories: 
 - noord-brabant 
 - roosendaal 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/21/08-succesvolle-grensoverschrijdende-actie-nederlands-belgische-grens.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/verkeerscontrole-agent-kijkt-onder-motorkap.jpg"
 ---
 

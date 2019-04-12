@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 08:03:44 GMT
 categories: 
 - utrecht 
 - utrecht 
+externe_link: "https://www.ad.nl/utrecht/diakonessenhuis-praat-copd-patienten-bij-over-speciale-thuiszorg~a541bd72/"
 feature_image: "https://images1.persgroep.net/rcs/rGSah2eCCE6NuVzCj6wy1E_lYLE/diocontent/131971008/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

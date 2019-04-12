@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 09:00:00 GMT
 categories: 
 - noord-brabant 
 - tilburg 
+externe_link: "https://www.ad.nl/tilburg/de-zwarte-doos-rammelende-koffiekopjes-en-andere-herinneringen-film-over-stadskantoor-tilburg~a4bb4bc3/"
 feature_image: "https://images4.persgroep.net/rcs/PAlmLS2nrAGlxEhrINO_-vLt6Ok/diocontent/145224920/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -4,7 +4,8 @@ title: "Schaijk - Onderzoek naar dood Henk Baum in volle gang"
 date: Fri, 23 Mar 2018 13:51:00 GMT
 categories: 
 - noord-brabant 
-- bernheze 
+- landerd 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/23/09-onderzoek-naar-dood-henk-baum-in-volle-gang.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/busje-forensische-opsporing.jpg"
 ---
 

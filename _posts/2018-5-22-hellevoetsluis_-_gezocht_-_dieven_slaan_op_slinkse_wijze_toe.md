@@ -5,6 +5,7 @@ date: Tue, 22 May 2018 14:48:00 GMT
 categories: 
 - zuid-holland 
 - hellevoetsluis 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/mei/07-dieven-slaan-op-slinkse-wijze-toe.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/mei/07-rt/hellevoetautodief.jpg"
 ---
 

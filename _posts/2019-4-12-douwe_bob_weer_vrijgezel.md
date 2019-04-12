@@ -2,9 +2,8 @@
 layout: post
 title: "Douwe Bob weer vrijgezel"
 date: Fri, 12 Apr 2019 11:26:29 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3435762/douwe-bob-weer-vrijgezel"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/12f17ba6-5d05-11e9-bdd3-02d2fb1aa1d7.jpg"
 ---
 

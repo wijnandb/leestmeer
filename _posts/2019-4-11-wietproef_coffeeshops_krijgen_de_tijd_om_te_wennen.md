@@ -2,7 +2,7 @@
 layout: post
 title: "Wietproef: coffeeshops krijgen de tijd om te wennen"
 date: Thu, 11 Apr 2019 11:30:16 +0200
-category: nieuws
+category: politiek
 externe_link: "https://nos.nl/l/2279959"
 feature_image: "https://nos.nl/data/image/2018/06/06/477631/1008x567.jpg"
 ---

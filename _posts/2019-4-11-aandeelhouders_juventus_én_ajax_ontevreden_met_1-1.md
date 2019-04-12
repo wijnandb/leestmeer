@@ -3,8 +3,9 @@ layout: post
 title: "Aandeelhouders Juventus én Ajax ontevreden met 1-1"
 date: Thu, 11 Apr 2019 10:55:02 +0200
 categories: 
-- financieel 
-- koersen 
+- sport 
+- scoreboard 
+externe_link: "https://www.telegraaf.nl/financieel/3429065/aandeelhouders-juventus-en-ajax-ontevreden-met-1-1"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7e4acbec-5c37-11e9-b4ef-0217670beecd.jpg"
 ---
 

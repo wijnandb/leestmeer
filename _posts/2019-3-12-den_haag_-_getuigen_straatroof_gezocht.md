@@ -5,6 +5,7 @@ date: Tue, 12 Mar 2019 13:38:00 GMT
 categories: 
 - zuid-holland 
 - den_haag 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/12/06-den-haag---getuigen-straatroof-gezocht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/twee-motorrijders.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Mon, 30 Apr 2018 11:48:00 GMT
 categories: 
 - fryslan 
 - franekeradeel 
+externe_link: "https://www.politie.nl/nieuws/2018/april/30/01-politie-onderzoekt-vermissing-in-jachthaven.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/jas-met-opdruk-technische-recherche.jpg"
 ---
 

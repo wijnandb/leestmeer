@@ -5,6 +5,7 @@ date: Wed, 23 May 2018 09:19:00 GMT
 categories: 
 - gelderland 
 - westervoort 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/23/02-westervoort-vrouw-beroofd-van-fiets-politie-zoekt-getuigen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/telefoonscherm-met-0900-8844.jpg"
 ---
 

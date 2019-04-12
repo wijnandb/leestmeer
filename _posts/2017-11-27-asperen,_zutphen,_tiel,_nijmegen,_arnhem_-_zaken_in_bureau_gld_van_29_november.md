@@ -5,6 +5,7 @@ date: Mon, 27 Nov 2017 14:21:00 GMT
 categories: 
 - gelderland 
 - lingewaal 
+externe_link: "https://www.politie.nl/nieuws/2017/november/27/02-zaken-in-bureau-gld-van-29-november.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/onderwerpen/bureau-gld.jpg"
 ---
 

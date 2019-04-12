@@ -5,6 +5,7 @@ date: Mon, 17 Dec 2018 15:43:00 GMT
 categories: 
 - zuid-holland 
 - leiden 
+externe_link: "https://www.politie.nl/nieuws/2018/december/17/kijktip-mishandelde-agent-doet-verhaal-bij-rtl-late-night.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/december/00-km/damien.jpg"
 ---
 

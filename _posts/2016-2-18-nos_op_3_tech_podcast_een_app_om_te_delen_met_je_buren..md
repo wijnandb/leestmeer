@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: een app om te delen met je buren."
 date: Thu, 18 Feb 2016 16:46:09 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4239/nporadio1_nosop3techpodcast_20160218_nos-op-3-tech-podcast-een-app-om-te-delen-met-je-buren.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4239/nporadio1_nosop3techpodcast_20160218_nos-op-3-tech-podcast-een-app-om-te-delen-met-je-buren.mp3"
 ---
 
 De FBI heeft ruzie met Apple en de rest van Silicon Valley. NOS-techredacteur Nando Kasteleijn en tech-journalist Eveline Meijer praten je bij over de details.

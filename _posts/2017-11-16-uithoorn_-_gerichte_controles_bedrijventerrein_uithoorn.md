@@ -5,6 +5,7 @@ date: Thu, 16 Nov 2017 06:41:00 GMT
 categories: 
 - noord-holland 
 - uithoorn 
+externe_link: "https://www.politie.nl/nieuws/2017/november/16/05-controleactie-uithoorn.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/november/05-am/uithoorn-klein.jpg"
 ---
 

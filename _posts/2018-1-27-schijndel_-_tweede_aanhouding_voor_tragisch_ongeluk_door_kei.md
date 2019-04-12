@@ -5,6 +5,7 @@ date: Sat, 27 Jan 2018 08:46:00 GMT
 categories: 
 - noord-brabant 
 - schijndel 
+externe_link: "https://www.politie.nl/nieuws/2018/januari/27/09-tweede-aanhouding-voor-tragisch-ongeluk-door-kei.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/januari/09-ob/tijdijn2b.jpg"
 ---
 

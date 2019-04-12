@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 05:03:17 GMT
 categories: 
 - zuid-holland 
 - zoetermeer 
+externe_link: "https://www.ad.nl/zoetermeer/grootste-koopgekte-in-zoetermeer-is-voorbij~aa547cbf/"
 feature_image: "https://images0.persgroep.net/rcs/1gqpMMr7LKCE470ki_URUzPrqdk/diocontent/145108596/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

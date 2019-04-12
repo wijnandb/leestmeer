@@ -5,6 +5,7 @@ date: Wed, 14 Sep 2016 12:25:00 GMT
 categories: 
 - fryslan 
 - leeuwarderadeel 
+externe_link: "https://www.politie.nl/nieuws/2016/september/14/01-inmiddels-15-woninginbraken-opgelost-in-noord-nederland.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/woninginbraak.jpg"
 ---
 

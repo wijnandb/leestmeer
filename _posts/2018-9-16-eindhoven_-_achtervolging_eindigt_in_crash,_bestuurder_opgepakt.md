@@ -4,7 +4,8 @@ title: "Eindhoven - Achtervolging eindigt in crash, bestuurder opgepakt"
 date: Sun, 16 Sep 2018 09:48:00 GMT
 categories: 
 - noord-brabant 
-- eersel 
+- veldhoven 
+externe_link: "https://www.politie.nl/nieuws/2018/september/16/09-achtervolging-eindigt-in-crash-bestuurder-opgepakt.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/gezocht/verdachten/2017/januari/09-ob/pepperspray.jpg"
 ---
 

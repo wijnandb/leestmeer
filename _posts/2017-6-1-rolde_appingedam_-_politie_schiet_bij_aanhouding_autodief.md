@@ -5,6 +5,7 @@ date: Thu, 01 Jun 2017 10:36:00 GMT
 categories: 
 - drenthe 
 - aa_en_hunze 
+externe_link: "https://www.politie.nl/nieuws/2017/juni/1/01-politie-schiet-bij-aanhouding-autodief.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/detailopname-surveillancewagen.jpg"
 ---
 

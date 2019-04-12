@@ -2,7 +2,9 @@
 layout: post
 title: "Rail Away ontvangt Kroatische prijs"
 date: Tue, 09 Apr 2019 13:57:28 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3417235/rail-away-ontvangt-kroatische-prijs"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5b7071e6-5acd-11e9-b866-0218eaf05005.jpg"
 ---

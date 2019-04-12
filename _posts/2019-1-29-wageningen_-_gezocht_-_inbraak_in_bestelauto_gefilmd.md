@@ -5,6 +5,7 @@ date: Tue, 29 Jan 2019 13:27:00 GMT
 categories: 
 - gelderland 
 - wageningen 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/januari/02-oon/gld/inbraak-in-bestelauto-gefilmd.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/januari/02-on/2018544239-1.jpg"
 ---
 

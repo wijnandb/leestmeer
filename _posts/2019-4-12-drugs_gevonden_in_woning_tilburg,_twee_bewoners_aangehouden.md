@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 07:38:12 GMT
 categories: 
 - noord-brabant 
 - tilburg 
+externe_link: "https://www.ad.nl/tilburg/drugs-gevonden-in-woning-tilburg-twee-bewoners-aangehouden~a2fe6fa6/"
 feature_image: "https://images3.persgroep.net/rcs/Y8hm2Mn6qx9CKXqfhG3Ogduyy8A/diocontent/103926534/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 15:22:00 GMT
 categories: 
 - zuid-holland 
 - rotterdam 
+externe_link: "https://www.ad.nl/rotterdam/rotterdam-weert-doorgaand-autoverkeer-maximumsnelheid-30-km-per-uur-op-erasmusbrug~a3d7a7d5/"
 feature_image: "https://images4.persgroep.net/rcs/TIFANcBT-ohqbv_1DUZjcCHY670/diocontent/145319512/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

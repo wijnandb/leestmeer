@@ -3,8 +3,8 @@ layout: post
 title: "’Vreselijk dat de betrekkingen tussen Rusland en Nederland nu zo beroerd zijn’"
 date: Thu, 04 Apr 2019 08:30:00 +0200
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3392601/vreselijk-dat-de-betrekkingen-tussen-rusland-en-nederland-nu-zo-beroerd-zijn"
 ---
 

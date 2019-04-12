@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 13:48:00 GMT
 categories: 
 - noord-brabant 
 - boxtel 
+externe_link: "https://www.ad.nl/boxtel/automobilist-gewond-na-botsing-met-vrachtwagen-op-a2-richting-boxtel~a8336a88/"
 feature_image: "https://images0.persgroep.net/rcs/C1gWmCeF0Ye9aUULftXpFE7GkIc/diocontent/145241620/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

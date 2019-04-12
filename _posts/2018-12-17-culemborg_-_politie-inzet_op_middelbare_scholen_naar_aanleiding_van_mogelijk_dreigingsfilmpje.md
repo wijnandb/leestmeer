@@ -5,6 +5,7 @@ date: Mon, 17 Dec 2018 08:59:00 GMT
 categories: 
 - gelderland 
 - culemborg 
+externe_link: "https://www.politie.nl/nieuws/2018/december/17/02-culemborg-politie-inzet-op-middelbare-scholen-naar-aanleiding-van-mogelijk-dreigingsfilmpje.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/politie-embleem.jpg"
 ---
 

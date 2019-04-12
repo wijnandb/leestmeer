@@ -4,7 +4,8 @@ title: "Oisterwijk/Vught - Gezocht - Twee grove inbraken bij kledingwinkels Zoet
 date: Mon, 11 Mar 2019 16:00:00 GMT
 categories: 
 - noord-brabant 
-- oisterwijk 
+- vught 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/08-twee-grove-inbraken-bij-kledingwinkels-zoetelief-mode.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/09-ob/bb_190311/oisterwijk-3.jpg"
 ---
 

@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Gaan zelfrijdende auto's banen kosten en pesten i
 date: Thu, 01 Jun 2017 17:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4172/nporadio1_nosop3techpodcast_20170601_nos-op-3-tech-podcast-gaan-zelfrijdende-auto-s-banen-kosten-en-pesten-in-online-games.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4172/nporadio1_nosop3techpodcast_20170601_nos-op-3-tech-podcast-gaan-zelfrijdende-auto-s-banen-kosten-en-pesten-in-online-games.mp3"
 ---
 
 0:00 Zelfrijdende auto’s gaan een enorme vlucht nemen, verwacht onze gast Vivianne Bendermacher van Techionista.com. Maar wie worden nou echt de pioniers van de autotoekomst, en welke banen komen op de tocht te staan als de zelfrijdende auto doorbreekt?

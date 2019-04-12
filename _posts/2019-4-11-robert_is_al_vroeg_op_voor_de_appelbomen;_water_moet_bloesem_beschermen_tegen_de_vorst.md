@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 20:06:00 GMT
 categories: 
 - gelderland 
 - zaltbommel 
+externe_link: "https://www.ad.nl/zaltbommel/robert-is-al-vroeg-op-voor-de-appelbomen-water-moet-bloesem-beschermen-tegen-de-vorst~a24f3e1b/"
 feature_image: "https://images2.persgroep.net/rcs/jl_4KVO1YdGDZpBc3IozInBDuZo/diocontent/145306639/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

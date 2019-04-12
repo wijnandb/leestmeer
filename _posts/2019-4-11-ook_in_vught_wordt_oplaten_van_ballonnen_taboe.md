@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 21:30:00 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.ad.nl/den-bosch/ook-in-vught-wordt-oplaten-van-ballonnen-taboe~a02b1fd8/"
 feature_image: "https://images2.persgroep.net/rcs/WxJnnqzECDP51IaNTEUb-oeGPj0/diocontent/144896178/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

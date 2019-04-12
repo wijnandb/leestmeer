@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 09:05:45 GMT
 categories: 
 - noord-brabant 
 - roosendaal 
+externe_link: "https://www.ad.nl/roosendaal/hoe-de-kpj-heerle-moerstraten-zichzelf-al-90-jaar-redt~a45d757d/"
 feature_image: "https://images3.persgroep.net/rcs/XdIEd6eWhlmawosBPtWhGNKlPuI/diocontent/144367270/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

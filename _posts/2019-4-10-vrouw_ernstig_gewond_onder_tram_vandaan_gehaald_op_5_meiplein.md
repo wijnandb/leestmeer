@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 14:12:00 GMT
 categories: 
 - utrecht 
 - utrecht 
+externe_link: "https://www.ad.nl/utrecht/vrouw-ernstig-gewond-onder-tram-vandaan-gehaald-op-5-meiplein~a4b6507d/"
 feature_image: "https://images3.persgroep.net/rcs/qHaACmorpLHmNss8sf_t6nMdoZs/diocontent/145243310/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

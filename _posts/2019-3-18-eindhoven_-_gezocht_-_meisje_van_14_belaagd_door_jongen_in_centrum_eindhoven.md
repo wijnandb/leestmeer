@@ -5,6 +5,7 @@ date: Mon, 18 Mar 2019 16:41:00 GMT
 categories: 
 - noord-brabant 
 - eindhoven 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/09-meisje-belaagd-door-jongen-in-fietsenstalling-piazza-eindhoven.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/09-ob/bb_bvh2018152168_aanranding-ehv/eindhoven-meisje-belaagd-nabij-piazza.jpg"
 ---
 

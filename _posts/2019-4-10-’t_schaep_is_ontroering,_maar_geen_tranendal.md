@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "’t Schaep is ontroering, maar geen tranendal"
-date: Wed, 10 Apr 2019 05:01:06 GMT
+date: Wed, 10 Apr 2019 05:01:00 GMT
 categories: 
 - entertainment 
-- show 
+- theater 
 externe_link: "https://www.ad.nl/show/t-schaep-is-ontroering-maar-geen-tranendal~a2431470/"
 feature_image: "https://images4.persgroep.net/rcs/VclvFQwi_tCOQp2G1H90IJ6cfvg/diocontent/145196968/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

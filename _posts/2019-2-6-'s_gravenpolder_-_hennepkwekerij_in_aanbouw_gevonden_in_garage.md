@@ -5,6 +5,7 @@ date: Wed, 06 Feb 2019 14:20:00 GMT
 categories: 
 - zeeland 
 - borsele 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/6/08-hennepkwekerij-in-aanbouw-gevonden-in-garage.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/drugs/hennep-in-pot.jpg"
 ---
 

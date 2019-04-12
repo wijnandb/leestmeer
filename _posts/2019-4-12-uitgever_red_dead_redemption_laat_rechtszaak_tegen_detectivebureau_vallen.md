@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Uitgever Red Dead Redemption laat rechtszaak tegen detectivebureau vallen"
-date: Fri, 12 Apr 2019 08:13:22 +0200
+date: Fri, 12 Apr 2019 09:13:25 +0200
 categories: 
 - entertainment 
 - games 
+externe_link: "https://www.nu.nl/games/5839572/uitgever-red-dead-redemption-laat-rechtszaak-tegen-detectivebureau-vallen.html"
 feature_image: "https://media.nu.nl/m/k2bxhfyayz84_sqr256.jpg/uitgever-red-dead-redemption-laat-rechtszaak-tegen-detectivebureau-vallen.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 17:46:55 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.ad.nl/nijmegen/vandalen-bekladden-nieuwe-bagels-en-beans-in-nijmegen-rot-op-rijke-hipsters~a0e29ff4/"
 feature_image: "https://images3.persgroep.net/rcs/9TKfMykPJREmA-s17W6FYAW26cQ/diocontent/145328441/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

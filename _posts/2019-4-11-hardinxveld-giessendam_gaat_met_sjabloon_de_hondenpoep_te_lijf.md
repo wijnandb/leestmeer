@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 07:04:00 GMT
 categories: 
 - gelderland 
 - rivierenland 
+externe_link: "https://www.ad.nl/rivierenland/hardinxveld-giessendam-gaat-met-sjabloon-de-hondenpoep-te-lijf~a06f0d07/"
 feature_image: "https://images0.persgroep.net/rcs/b5kjnkcSus7p1PoltmxsPeu0CZE/diocontent/145245045/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

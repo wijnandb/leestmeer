@@ -2,9 +2,8 @@
 layout: post
 title: "Leeuwarden - Gezocht - Vermist"
 date: Thu, 17 Jan 2019 10:56:13 GMT
-categories: 
-- fryslan 
-- ferwerderdadiel 
+category: fryslan
+externe_link: "https://www.politie.nl/gezocht-en-vermist/dossiers/2019/01-leeuwarden-vermist/de-zaak.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/dossiers/2019/coldcases/01/sicco-jan-cuperus.jpg"
 ---
 

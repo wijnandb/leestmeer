@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 05:55:34 GMT
 categories: 
 - overijssel 
 - almelo 
+externe_link: "https://www.ad.nl/almelo/leerlingen-helpen-bij-verpleeghuis-in-almelo-dit-is-veel-leuker-dan-rekenen~aa636f80/"
 feature_image: "https://images1.persgroep.net/rcs/Xhs-Hls_7OM4dhZUT_4tYwamWdI/diocontent/144403450/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

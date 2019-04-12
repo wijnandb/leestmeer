@@ -5,6 +5,7 @@ date: Thu, 14 Dec 2017 13:54:00 GMT
 categories: 
 - zuid-holland 
 - hendrik-ido-ambacht 
+externe_link: "https://www.politie.nl/nieuws/2017/december/14/07-inbrekers-komen-niet-ver-met-gestolen-auto.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-bij-auto.jpg"
 ---
 

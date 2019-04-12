@@ -5,6 +5,7 @@ date: Sat, 17 Nov 2018 13:20:00 GMT
 categories: 
 - noord-brabant 
 - best 
+externe_link: "https://www.politie.nl/nieuws/2018/november/17/11-landelijk-opererende-auto-inbrekers-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stock-afbeeldingen/11-landelijke-eenheid/dak.jpg"
 ---
 

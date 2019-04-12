@@ -2,7 +2,7 @@
 layout: post
 title: "Webwinkel in museumstukken meteen leeggekocht"
 date: Thu, 11 Apr 2019 14:47:19 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3431106/webwinkel-in-museumstukken-meteen-leeggekocht"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f2ed4a2c-5c57-11e9-8459-02d1dbdc35d1.jpg"
 ---

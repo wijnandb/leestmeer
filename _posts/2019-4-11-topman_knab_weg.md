@@ -2,9 +2,8 @@
 layout: post
 title: "Topman Knab weg"
 date: Thu, 11 Apr 2019 18:15:55 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3432898/topman-knab-weg"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/52bf13c2-5c85-11e9-bdd3-02d2fb1aa1d7.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 21 Nov 2018 13:20:00 GMT
 categories: 
 - zuid-holland 
 - krimpen_aan_den_ijssel 
+externe_link: "https://www.politie.nl/nieuws/2018/november/21/07-opnieuw-ernstige-mishandeling-in-bureau-rijnmond.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/augustus/07-rt/br_logo_vierkant.jpg"
 ---
 

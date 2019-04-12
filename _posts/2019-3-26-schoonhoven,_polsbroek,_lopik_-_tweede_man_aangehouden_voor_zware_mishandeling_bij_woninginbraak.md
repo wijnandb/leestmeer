@@ -5,6 +5,7 @@ date: Tue, 26 Mar 2019 11:44:00 GMT
 categories: 
 - zuid-holland 
 - schoonhoven 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/26/tweede-man-aangehouden-voor-zware-mishandeling-bij-woninginbraak.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/stock-oost-brabant/aanhouding.jpg"
 ---
 

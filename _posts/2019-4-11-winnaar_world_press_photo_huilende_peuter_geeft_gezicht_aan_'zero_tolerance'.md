@@ -2,8 +2,8 @@
 layout: post
 title: "Winnaar World Press Photo: Huilende peuter geeft gezicht aan 'Zero Tolerance'"
 date: Thu, 11 Apr 2019 22:25:11 +0200
-category: nieuws
-externe_link: "https://nos.nl/l/2280045"
+category: buitenland
+externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/_8ewILpniSU/2280045"
 feature_image: "https://nos.nl/data/image/2019/04/11/543002/1008x567.jpg"
 ---
 
@@ -21,4 +21,4 @@ feature_image: "https://nos.nl/data/image/2019/04/11/543002/1008x567.jpg"
 <p>"Ik denk dat foto's die ons iets doen voelen, ons een verhaal in trekken. Ze leggen een verbinding tussen de kijker en de mensen die we fotograferen. En omdat ik ook een ouder ben, voelde ik het toen ook. En nu nog steeds."</p>
 <p>Moore zegt dat hij wist dat zijn foto belangrijk zou zijn. "Ik wist dat het een deel van het verhaal vertelde dat in die periode nog niet was verteld. Maar wat ik niet wist, was dat er zo'n ongelooflijk wereldwijde impact zou zijn. Wellicht heeft de foto de politiek veranderd."</p>
 <h2>Journalistiek belang</h2>
-<p>De World Press Photo wordt jaarlijks uitgereikt aan een fotograaf wiens "visuele creativiteit en vaardigheden een beeld hebben opgeleverd van een belangrijk evenement van groot journalistiek belang". Vorig jaar won de Venezolaanse fotograaf Ronaldo Schemidt van persbureau Agence France-Presse. Hij kreeg de prijs voor zijn foto van een gemaskerde demonstrant die brandend door de straten van Caracas rent.</p>
+<p>De World Press Photo wordt jaarlijks uitgereikt aan een fotograaf wiens "visuele creativiteit en vaardigheden een beeld hebben opgeleverd van een belangrijk evenement van groot journalistiek belang". Vorig jaar won de Venezolaanse fotograaf Ronaldo Schemidt van persbureau Agence France-Presse. Hij kreeg de prijs voor zijn foto van een gemaskerde demonstrant die brandend door de straten van Caracas rent.</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbuitenland/~4/_8ewILpniSU" height="1" width="1" alt=""/>

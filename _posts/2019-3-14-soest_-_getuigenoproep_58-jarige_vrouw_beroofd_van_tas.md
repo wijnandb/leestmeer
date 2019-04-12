@@ -5,6 +5,7 @@ date: Thu, 14 Mar 2019 08:32:00 GMT
 categories: 
 - utrecht 
 - soest 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/14/03-getuigenoproep-58-jarige-vrouw-beroofd-van-tas.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/politie-embleem.jpg"
 ---
 

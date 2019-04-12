@@ -5,6 +5,7 @@ date: Tue, 05 Mar 2019 17:54:00 GMT
 categories: 
 - gelderland 
 - montferland 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/02-oon/ov/gewapende-overval-op-welkoop-didam-kopie.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/02-on/2018372831-1.jpg"
 ---
 

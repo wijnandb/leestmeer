@@ -5,6 +5,7 @@ date: Wed, 31 Oct 2018 08:36:00 GMT
 categories: 
 - utrecht 
 - houten 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/oktober/03-tgoy-31-brand.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/brandweerauto.jpg"
 ---
 

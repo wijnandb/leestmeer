@@ -5,6 +5,7 @@ date: Wed, 09 Jan 2019 13:18:00 GMT
 categories: 
 - zuid-holland 
 - hendrik-ido-ambacht 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/9/11-flinke-boete-voor-valse-kentekenplaten.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/detailfoto-van-een-zwaailicht-bij-een-kas.jpg"
 ---
 

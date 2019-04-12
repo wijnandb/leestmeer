@@ -5,6 +5,7 @@ date: Fri, 05 Oct 2018 08:40:00 GMT
 categories: 
 - noord-holland 
 - huizen 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/oktober/03-huizen-03-overval.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/oktober/03-mn/huizen-03-overval.jpg"
 ---
 

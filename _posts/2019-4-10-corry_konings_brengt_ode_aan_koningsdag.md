@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 16:18:00 +0200
 categories: 
 - entertainment 
 - gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/3425693/corry-konings-brengt-ode-aan-koningsdag"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/95a1b942-5b9a-11e9-a2cf-02d1dbdc35d1.png"
 ---
 

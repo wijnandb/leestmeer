@@ -5,6 +5,7 @@ date: Fri, 22 Mar 2019 09:02:00 GMT
 categories: 
 - noord-brabant 
 - geldrop-mierlo 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/22/09-jeugdige-overvaller-meldt-zich-na-publicatie-beelden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/stock-oost-brabant/aanhouding.jpg"
 ---
 

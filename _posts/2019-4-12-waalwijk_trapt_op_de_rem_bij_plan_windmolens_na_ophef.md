@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 06:17:10 GMT
 categories: 
 - noord-brabant 
 - waalwijk 
+externe_link: "https://www.ad.nl/waalwijk/waalwijk-trapt-op-de-rem-bij-plan-windmolens-na-ophef~aba18c9f/"
 feature_image: "https://images2.persgroep.net/rcs/JkCUggM9IwykGOD2V_X2ornPP5U/diocontent/144760318/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

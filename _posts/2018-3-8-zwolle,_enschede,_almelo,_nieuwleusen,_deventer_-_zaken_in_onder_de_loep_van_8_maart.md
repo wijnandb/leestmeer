@@ -5,6 +5,7 @@ date: Thu, 08 Mar 2018 17:00:00 GMT
 categories: 
 - overijssel 
 - dalfsen 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/5/02-zaken-in-onder-de-loep-van-8-maart.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/onderwerpen/onder-de-loep.jpg"
 ---
 

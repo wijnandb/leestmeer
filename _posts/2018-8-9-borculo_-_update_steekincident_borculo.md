@@ -5,6 +5,7 @@ date: Thu, 09 Aug 2018 11:26:00 GMT
 categories: 
 - gelderland 
 - berkelland 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/9/02-borculo-update-steekincident.html"
 ---
 
 Een 26-jarige Poolse man is woensdagavond 8 augustus aangehouden. Hij wordt ervan verdacht een 29-jarige man, eveneens afkomstig uit Polen, te hebben verwond met een steekwapen. 

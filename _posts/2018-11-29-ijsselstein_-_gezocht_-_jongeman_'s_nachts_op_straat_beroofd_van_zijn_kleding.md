@@ -5,6 +5,7 @@ date: Thu, 29 Nov 2018 08:22:00 GMT
 categories: 
 - utrecht 
 - ijsselstein 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/november/03-ijsselstein-28-jongeman-s-nachts-op-straat-beroofd-van-zijn-kleding.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/november/03-mn/ijsselstein-28-straatroof.jpg"
 ---
 

@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Je hebt wel iets te verbergen en koopt Apple McLa
 date: Thu, 22 Sep 2016 16:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4207/nporadio1_nosop3techpodcast_20160922_nos-op-3-tech-podcast-je-hebt-wel-iets-te-verbergen-en-koopt-apple-mclaren.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4207/nporadio1_nosop3techpodcast_20160922_nos-op-3-tech-podcast-je-hebt-wel-iets-te-verbergen-en-koopt-apple-mclaren.mp3"
 ---
 
 Onze langste podcast ooit, en met een reden. We praten uitgebreid met Maurits Martijn en Dimitri Tokmetzis over hun nieuwe boek over privacy. Wist je bijvoorbeeld dat je bij alles wat je doet op internet in de gaten wordt gehouden door tientallen bedrijven? Ze weten álles over je en verkopen jouw gegevens aan de hoogste bieder. En het is nog veel enger dan je dacht.

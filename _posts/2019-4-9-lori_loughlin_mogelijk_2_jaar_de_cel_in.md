@@ -2,7 +2,9 @@
 layout: post
 title: "Lori Loughlin mogelijk 2 jaar de cel in"
 date: Tue, 09 Apr 2019 13:52:19 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3417158/lori-loughlin-mogelijk-2-jaar-de-cel-in"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/40a34950-5ace-11e9-ab99-0218eaf05005.jpg"
 ---

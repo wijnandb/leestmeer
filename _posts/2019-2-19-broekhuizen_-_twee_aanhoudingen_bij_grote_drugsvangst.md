@@ -5,6 +5,7 @@ date: Tue, 19 Feb 2019 15:46:00 GMT
 categories: 
 - zuid-holland 
 - gouda 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/19/10-twee-aanhoudingen-bij-grote-drugsvangst.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/februari/10-lg/xtc-pillen.jpg"
 ---
 

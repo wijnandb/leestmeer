@@ -2,7 +2,7 @@
 layout: post
 title: "Hoe warme piepers hebben geleid tot de vrijdagse persconferentie van de premier"
 date: Fri, 12 Apr 2019 06:09:26 +0200
-category: nieuws
+category: politiek
 externe_link: "https://nos.nl/l/2280065"
 feature_image: "https://nos.nl/data/image/2019/04/12/543028/1008x567.jpg"
 ---

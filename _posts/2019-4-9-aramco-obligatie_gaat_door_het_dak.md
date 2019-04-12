@@ -2,7 +2,7 @@
 layout: post
 title: "Aramco-obligatie gaat door het dak"
 date: Tue, 09 Apr 2019 16:59:00 +0200
-category: algemeen
+category: buitenland
 externe_link: "https://www.telegraaf.nl/financieel/3416977/aramco-obligatie-gaat-door-het-dak"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/927f5e1c-5ad8-11e9-9da7-0255c322e81b.jpg"
 ---

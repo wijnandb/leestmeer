@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Verstappen heeft 'weinig te klagen' na eerste vrije trainingen in China"
-date: Fri, 12 Apr 2019 10:46:23 +0200
+date: Fri, 12 Apr 2019 11:05:57 +0200
 category: sport
 externe_link: "https://www.nu.nl/formule-1/5839830/verstappen-heeft-weinig-te-klagen-na-eerste-vrije-trainingen-in-china.html"
 feature_image: "https://media.nu.nl/m/pk5x9fhazif8_sqr256.jpg/verstappen-heeft-weinig-te-klagen-na-eerste-vrije-trainingen-in-china.jpg"

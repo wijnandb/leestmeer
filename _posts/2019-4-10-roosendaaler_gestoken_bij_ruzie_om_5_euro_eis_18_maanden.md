@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 11:14:16 GMT
 categories: 
 - noord-brabant 
 - roosendaal 
+externe_link: "https://www.ad.nl/roosendaal/roosendaaler-gestoken-bij-ruzie-om-5-euro-eis-18-maanden~a3f4fefc/"
 feature_image: "https://images3.persgroep.net/rcs/s0PKGO0ZjMeiBxFUczBG2FoRua8/diocontent/108286572/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

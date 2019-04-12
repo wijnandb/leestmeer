@@ -3,8 +3,9 @@ layout: post
 title: "Den Haag - Overval juwelier Leidschendam vanavond in Team West"
 date: Tue, 05 Mar 2019 13:19:00 GMT
 categories: 
-- noord-holland 
-- bloemendaal 
+- zuid-holland 
+- wassenaar 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/5/06-overval-juwelier-leidschendam-vanavond-in-team-west.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/augustus/06-dh/esther-in-studio-met-watermerk.jpg"
 ---
 

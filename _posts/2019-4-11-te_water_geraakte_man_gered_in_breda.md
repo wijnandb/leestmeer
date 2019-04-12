@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 17:58:29 GMT
 categories: 
 - noord-brabant 
 - breda 
+externe_link: "https://www.ad.nl/breda/te-water-geraakte-man-gered-in-breda~ad4b3a80/"
 feature_image: "https://images1.persgroep.net/rcs/yNpq7R8h1BQyB8lCxDJyOwXpTo4/diocontent/145329293/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

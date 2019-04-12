@@ -2,7 +2,9 @@
 layout: post
 title: "Startershypotheek klimt boven kwart miljoen"
 date: Tue, 09 Apr 2019 09:44:24 +0200
-category: financieel
+categories: 
+- financieel 
+- geld 
 externe_link: "https://www.telegraaf.nl/financieel/3414905/startershypotheek-klimt-boven-kwart-miljoen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8f6ab9ae-5aa3-11e9-a54a-02c309bc01c1.jpg"
 ---

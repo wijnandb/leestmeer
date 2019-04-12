@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 04:49:49 GMT
 categories: 
 - zuid-holland 
 - gouda 
+externe_link: "https://www.ad.nl/gouda/einde-aan-extreme-huizenprijs-in-gouda~a69c2595/"
 feature_image: "https://images2.persgroep.net/rcs/2sv-Y_PhFBuRda5J5xY7i7Xx69A/diocontent/16483029/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

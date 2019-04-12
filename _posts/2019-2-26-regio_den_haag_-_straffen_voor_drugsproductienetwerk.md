@@ -4,7 +4,8 @@ title: "Regio Den Haag - Straffen voor drugsproductienetwerk"
 date: Tue, 26 Feb 2019 14:04:00 GMT
 categories: 
 - zuid-holland 
-- lansingerland 
+- westland 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/26/06-straffen-voor-drugsproductienetwerk.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/oktober/06-dh/anemoon-5.jpg"
 ---
 

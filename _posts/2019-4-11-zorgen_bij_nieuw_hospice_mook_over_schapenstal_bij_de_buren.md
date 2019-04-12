@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 05:13:24 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.ad.nl/nijmegen/zorgen-bij-nieuw-hospice-mook-over-schapenstal-bij-de-buren~a782f287/"
 feature_image: "https://images3.persgroep.net/rcs/_BRftkywZ5v2I7hMfLJ2kt82ll4/diocontent/145235114/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

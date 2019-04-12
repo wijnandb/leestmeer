@@ -5,6 +5,7 @@ date: Sat, 22 Sep 2018 08:16:00 GMT
 categories: 
 - noord-holland 
 - haarlemmerliede 
+externe_link: "https://www.politie.nl/nieuws/2018/september/22/04-levensgevaarlijk-rijgedrag-van-drankrijder.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/detailfoto-van-een-zwaailicht-bij-een-kas.jpg"
 ---
 

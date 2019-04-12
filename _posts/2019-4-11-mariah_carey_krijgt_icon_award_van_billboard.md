@@ -2,7 +2,9 @@
 layout: post
 title: "Mariah Carey krijgt Icon Award van Billboard"
 date: Thu, 11 Apr 2019 17:16:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3432665/mariah-carey-krijgt-icon-award-van-billboard"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/adb2b066-5c6e-11e9-bdd3-02d2fb1aa1d7.jpg"
 ---

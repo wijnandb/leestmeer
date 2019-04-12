@@ -2,7 +2,9 @@
 layout: post
 title: "Laatste GoT-scène Jon Snow was 'natte scheet'"
 date: Thu, 11 Apr 2019 23:37:45 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3434036/laatste-go-t-scene-jon-snow-was-natte-scheet"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1266d4c8-5ca2-11e9-ac91-02d2fb1aa1d7.jpg"
 ---

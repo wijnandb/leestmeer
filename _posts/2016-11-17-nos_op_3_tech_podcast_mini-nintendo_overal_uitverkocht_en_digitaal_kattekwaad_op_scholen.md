@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: mini-Nintendo overal uitverkocht en digitaal katt
 date: Thu, 17 Nov 2016 16:20:21 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4199/nporadio1_nosop3techpodcast_20161117_nos-op-3-tech-podcast-mini-nintendo-overal-uitverkocht-en-digitaal-kattekwaad-op-scholen.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4199/nporadio1_nosop3techpodcast_20161117_nos-op-3-tech-podcast-mini-nintendo-overal-uitverkocht-en-digitaal-kattekwaad-op-scholen.mp3"
 ---
 
 De schattige mini-Nintendo die vorige week uitkwam is helemaal nergens te krijgen. Hoe kan het dat Nintendo (alweer) zulke grote tekorten heeft?

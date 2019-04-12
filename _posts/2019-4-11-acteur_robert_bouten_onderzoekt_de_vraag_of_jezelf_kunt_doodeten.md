@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 11:31:00 GMT
 categories: 
 - entertainment 
 - eten 
+externe_link: "https://www.ad.nl/koken-en-eten/acteur-robert-bouten-onderzoekt-de-vraag-of-jezelf-kunt-doodeten~a833bab0/"
 feature_image: "https://images2.persgroep.net/rcs/R3micq6iaiJcO1INwagmmwXLKAg/diocontent/145225818/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

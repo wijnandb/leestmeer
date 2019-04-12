@@ -4,7 +4,7 @@ title: "Famke Louise boos op mensen die glas naar haar gooien"
 date: Thu, 11 Apr 2019 07:55:56 +0200
 category: jeugdjournaal
 externe_link: "http://feeds.nos.nl/~r/jeugdjournaal/~3/QOyNuwocJtQ/2279937"
-feature_image: "https://nos.nl/data/image/2019/04/11/542826/1008x567.jpg"
+feature_image: "https://nos.nl/data/image/2019/04/11/542965/1008x567.jpg"
 ---
 
 <p>Famke Louise krijgt tijdens optredens weleens vaker bier naar haar toe gegooid. Maar dit keer maakte iemand uit het publiek het wel heel bont: ze gooide een flesje van glas.</p>

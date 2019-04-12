@@ -5,6 +5,7 @@ date: Sun, 23 Dec 2018 18:56:00 GMT
 categories: 
 - zuid-holland 
 - nederlek 
+externe_link: "https://www.politie.nl/nieuws/2018/december/23/06-lekkerkerk-man-29-overleden-bij-zwaar-ongeval-op-n210.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/ambulance.jpg"
 ---
 

@@ -2,9 +2,8 @@
 layout: post
 title: "IJsselstein - Gezocht - Man raakt gewond door klap met bierflesje"
 date: Thu, 04 Apr 2019 06:33:00 GMT
-categories: 
-- utrecht 
-- ijsselstein 
+category: utrecht
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/03-man-gewond-geraakt-door-klap-met-bierflesje.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/april/03-mn/ijsselstein-3-mishandeling.jpg"
 ---
 

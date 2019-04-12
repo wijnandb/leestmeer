@@ -6,5 +6,4 @@ category: podcast
 externe_link: "https://podcast.npo.nl/file/met-het-oog-op-morgen/5123/nporadio1_met-het-oog-op-morgen_20190411_met-het-oog-op-morgen-11-04-2019_4IPBTX.mp3"
 ---
 
-Met vandaag: Tweede Kamer debat Albanese bendes | Staatsgreep Sudan | In memoriam Max van Weezel | 
-Presentatie: Lucella Carasso.
+Met vandaag: Tweede Kamer debat Albanese bendes | Staatsgreep Sudan | In memoriam Max van Weezel. Presentatie: Lucella Carasso.

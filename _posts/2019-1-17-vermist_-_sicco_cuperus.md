@@ -5,6 +5,7 @@ date: Thu, 17 Jan 2019 12:49:00 GMT
 categories: 
 - fryslan 
 - ferwerderdadiel 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/vermiste-volwassenen/2014/juni/sicco-cuperus.html"
 feature_image: "https://www.politie.nl/binaries/w98h130/content/gallery/politie/vermist/vermiste-volwassenen/2014/juni/sicco-cuperus.jpg"
 ---
 

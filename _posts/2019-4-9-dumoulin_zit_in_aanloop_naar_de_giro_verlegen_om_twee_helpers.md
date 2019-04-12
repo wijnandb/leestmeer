@@ -2,7 +2,9 @@
 layout: post
 title: "Dumoulin zit in aanloop naar de Giro verlegen om twee helpers"
 date: Tue, 09 Apr 2019 17:48:06 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2279712"
 feature_image: "https://nos.nl/data/image/2019/04/09/542490/1008x567.jpg"
 ---

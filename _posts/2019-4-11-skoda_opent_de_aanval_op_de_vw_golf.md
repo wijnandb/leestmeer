@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 09:45:00 GMT
 categories: 
 - entertainment 
 - auto 
+externe_link: "https://www.ad.nl/auto/skoda-opent-de-aanval-op-de-vw-golf~ab7f8745/"
 feature_image: "https://images0.persgroep.net/rcs/4tQqE4NM-lIXFRM2OPbgVVGAY-M/diocontent/145296622/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

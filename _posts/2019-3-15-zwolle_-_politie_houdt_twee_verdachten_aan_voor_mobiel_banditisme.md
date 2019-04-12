@@ -5,6 +5,7 @@ date: Fri, 15 Mar 2019 15:21:00 GMT
 categories: 
 - overijssel 
 - zwolle 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/15/02-politie-houdt-twee-verdachten-aan-voor-mobiel-banditisme.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-bij-auto.jpg"
 ---
 

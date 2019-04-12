@@ -5,6 +5,7 @@ date: Sun, 10 Jun 2018 07:32:00 GMT
 categories: 
 - noord-brabant 
 - valkenswaard 
+externe_link: "https://www.politie.nl/nieuws/2018/juni/10/09-verdachte-steekincident-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/detailopname-surveillancewagen.jpg"
 ---
 

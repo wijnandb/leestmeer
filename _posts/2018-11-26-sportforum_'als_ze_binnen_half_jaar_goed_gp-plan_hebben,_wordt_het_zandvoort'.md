@@ -6,7 +6,6 @@ categories:
 - sport 
 - podcast 
 externe_link: "https://podcast.npo.nl/file/nos-langs-de-lijn-sport-forum/3053/nporadio1_nos-langs-de-lijn-sport-forum_20181126_lang-de-lijn-sportforum-26-11-18.mp3"
-feature_image: "https://podcast.npo.nl/file/nos-langs-de-lijn-sport-forum/3053/nporadio1_nos-langs-de-lijn-sport-forum_20181126_lang-de-lijn-sportforum-26-11-18.mp3"
 ---
 
 Te gast zijn Arman Avsaroglu (NOS), Erik van Haren (Telegraaf) en Robèrt Misset (Volkskrant). Zij praten met presentatoren Robbert Meeder en Tijs van den Brink over onder andere Max Verstappen, Ajax en het Sportgala.

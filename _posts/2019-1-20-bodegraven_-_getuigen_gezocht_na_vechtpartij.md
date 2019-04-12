@@ -5,6 +5,7 @@ date: Sun, 20 Jan 2019 18:22:00 GMT
 categories: 
 - zuid-holland 
 - bodegraven-reeuwijk 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/20/06-getuigen-gezocht-na-vechtpartij.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/intake-en-service-en-meldkamer/agente-werkt-achter-computer.jpg"
 ---
 

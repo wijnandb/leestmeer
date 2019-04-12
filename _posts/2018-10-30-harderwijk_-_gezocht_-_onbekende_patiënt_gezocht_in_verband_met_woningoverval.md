@@ -5,6 +5,7 @@ date: Tue, 30 Oct 2018 09:36:00 GMT
 categories: 
 - gelderland 
 - harderwijk 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/oktober/02-onbekende-patient-gezocht-in-verband-met-woningoverval.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/oktober/02-on/harderwijk-kogel.jpg"
 ---
 

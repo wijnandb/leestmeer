@@ -4,7 +4,6 @@ title: "#104: hoe de plofkip verdween en kijkje in Chinese strafkampen"
 date: Sat, 25 Aug 2018 00:00:00 +0200
 category: podcast
 externe_link: "https://podcast.npo.nl/file/het-beste-uit-het-oog/2927/nporadio1_het-beste-uit-het-oog_20180825_104-hoe-de-plofkip-verdween-en-kijkje-in-chinese-strafkampen.mp3"
-feature_image: "https://podcast.npo.nl/file/het-beste-uit-het-oog/2927/nporadio1_het-beste-uit-het-oog_20180825_104-hoe-de-plofkip-verdween-en-kijkje-in-chinese-strafkampen.mp3"
 ---
 
 Alle Nederlandse supermarkten zijn van de plofkip afgestapt. Campagneleider Anne Hilhorst van Wakker Dier vertelt hoe haar organisatie de kip hielp een gezicht te krijgen. Maar de organisatie gaat door en richt de pijlen nu op fastfoodketens als McDonald's en KFC.

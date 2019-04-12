@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 13:46:57 +0200
 categories: 
 - sport 
 - voetbal 
+externe_link: "https://nos.nl/l/2279833"
 feature_image: "https://nos.nl/data/image/2018/09/25/502425/1008x567.jpg"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Maastricht - Groep van dertig personen springt uit vrachtauto op A2 en vlucht"
 date: Thu, 11 Apr 2019 09:41:00 GMT
-category: limburg
+category: nieuws
 externe_link: "https://www.politie.nl/nieuws/2019/april/11/10-groep-van-dertig-personen-springt-uit-vrachtauto-op-a2-en-vlucht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/agent-staat-op-snelweg.jpg"
 ---

@@ -2,9 +2,8 @@
 layout: post
 title: "Ex On The Beach-Shelly: Kevin is écht de vader van mijn kind"
 date: Thu, 11 Apr 2019 23:00:11 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3433866/ex-on-the-beach-shelly-kevin-is-echt-de-vader-van-mijn-kind"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/87aa39c8-5c9d-11e9-8459-02d1dbdc35d1.png"
 ---
 

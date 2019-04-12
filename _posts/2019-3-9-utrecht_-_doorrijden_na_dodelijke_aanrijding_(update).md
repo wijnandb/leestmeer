@@ -5,6 +5,7 @@ date: Sat, 09 Mar 2019 09:01:00 GMT
 categories: 
 - utrecht 
 - utrecht 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/9/03-doorrijden-na-dodelijke-aanrijding.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/detailfoto-van-een-zwaailicht-bij-een-kas.jpg"
 ---
 

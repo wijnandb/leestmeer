@@ -4,7 +4,8 @@ title: "Apeldoorn, Duiven, Renkum, Lochem, Winterswijk - Zaken in Bureau GLD van
 date: Wed, 18 Apr 2018 16:00:00 GMT
 categories: 
 - gelderland 
-- duiven 
+- winterswijk 
+externe_link: "https://www.politie.nl/nieuws/2018/april/17/02-zaken-in-bureau-gld-van-18-april.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/onderwerpen/bureau-gld.jpg"
 ---
 

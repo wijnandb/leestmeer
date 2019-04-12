@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Voorlopig geen meme-verbod en heel Nederland krij
 date: Thu, 05 Jul 2018 17:18:58 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4119/nporadio1_nosop3techpodcast_20180705_nos-op-3-tech-podcast-voorlopig-geen-meme-verbod-en-heel-nederland-krijgt-snel-internet.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4119/nporadio1_nosop3techpodcast_20180705_nos-op-3-tech-podcast-voorlopig-geen-meme-verbod-en-heel-nederland-krijgt-snel-internet.mp3"
 ---
 
 0:00 Er komt geen meme-verbod, althans voorlopig. Een nieuwe auteursrechtenwet is vandaag weggestemd in het Europees Parlement.

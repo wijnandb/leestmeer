@@ -2,7 +2,9 @@
 layout: post
 title: "Video: Vitesse-coach maakt na dansoptreden ook furore als ’rapper’"
 date: Wed, 10 Apr 2019 16:59:08 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3426246/video-vitesse-coach-maakt-na-dansoptreden-ook-furore-als-rapper"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6117fb98-5bac-11e9-ab1a-0218eaf05005.jpg"
 ---

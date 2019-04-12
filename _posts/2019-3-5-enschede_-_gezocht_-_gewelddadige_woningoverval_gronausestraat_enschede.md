@@ -5,6 +5,7 @@ date: Tue, 05 Mar 2019 18:21:00 GMT
 categories: 
 - overijssel 
 - enschede 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/02-oon/ov/gewelddadige-woningoverval-gronausestraat-enschede.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/stockfotos/algemeen/collegas-op-straat.jpg"
 ---
 

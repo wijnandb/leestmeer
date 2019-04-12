@@ -5,6 +5,7 @@ date: Sun, 29 Jul 2018 08:12:00 GMT
 categories: 
 - noord-brabant 
 - uden 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/29/09-bewoner-gewond-na-worsteling-met-insluiper.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/onderzoek-in-woning-naar-inbraak.jpg"
 ---
 

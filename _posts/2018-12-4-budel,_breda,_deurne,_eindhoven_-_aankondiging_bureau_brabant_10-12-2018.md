@@ -4,7 +4,8 @@ title: "Budel, Breda, Deurne, Eindhoven - Aankondiging Bureau Brabant 10-12-2018
 date: Tue, 04 Dec 2018 08:30:00 GMT
 categories: 
 - noord-brabant 
-- cranendonck 
+- deurne 
+externe_link: "https://www.politie.nl/nieuws/2018/december/4/aankondiging-bureau-brabant-10-12-2018.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/december/08-zw/fotobbvuurwerk.jpg"
 ---
 

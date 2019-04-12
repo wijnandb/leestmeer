@@ -2,7 +2,9 @@
 layout: post
 title: "Sterk Ajax dwingt gelijkspel af tegen Juventus"
 date: Wed, 10 Apr 2019 22:51:09 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://nos.nl/l/2279910"
 feature_image: "https://nos.nl/data/image/2019/04/10/542778/1008x567.jpg"
 ---

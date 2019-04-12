@@ -5,6 +5,7 @@ date: Mon, 12 Nov 2018 13:57:00 GMT
 categories: 
 - drenthe 
 - de-wolden 
+externe_link: "https://www.politie.nl/nieuws/2018/november/12/01-graafwerkzaamheden-leveren-geen-aanwijzingen-verdwijning-willeke-dost-op.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/busje-forensische-opsporing.jpg"
 ---
 

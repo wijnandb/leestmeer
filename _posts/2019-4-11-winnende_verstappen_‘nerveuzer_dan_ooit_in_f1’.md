@@ -4,7 +4,8 @@ title: "Winnende Verstappen: ‘Nerveuzer dan ooit in F1’"
 date: Thu, 11 Apr 2019 12:42:11 +0200
 categories: 
 - sport 
-- autosport 
+- scoreboard 
+externe_link: "https://www.telegraaf.nl/sport/3429973/winnende-verstappen-nerveuzer-dan-ooit-in-f1"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8f3a984c-5c46-11e9-9a52-0218eaf05005.jpg"
 ---
 

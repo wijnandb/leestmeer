@@ -5,6 +5,7 @@ date: Wed, 07 Feb 2018 13:26:00 GMT
 categories: 
 - zuid-holland 
 - westvoorne 
+externe_link: "https://www.politie.nl/nieuws/2018/februari/7/getuigen-brand-oostvoorne-gezocht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/logo-op-uniformjas.jpg"
 ---
 

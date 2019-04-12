@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 08:55:53 GMT
 categories: 
 - noord-brabant 
 - oosterhout 
+externe_link: "https://www.ad.nl/oosterhout/gemeente-drimmelen-kan-weinig-doen-aan-te-harde-muziek-in-cafes~a2da2e36/"
 feature_image: "https://images3.persgroep.net/rcs/f8TkUErva6ROTDysJgtxwfdIgaQ/diocontent/108235670/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

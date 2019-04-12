@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Luistert Facebook stiekem met je mee en #OnderDeD
 date: Thu, 15 Mar 2018 15:54:19 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4136/nporadio1_nosop3techpodcast_20180315_nos-op-3-tech-podcast-luistert-facebook-stiekem-met-je-mee-en-onderdeduim.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4136/nporadio1_nosop3techpodcast_20180315_nos-op-3-tech-podcast-luistert-facebook-stiekem-met-je-mee-en-onderdeduim.mp3"
 ---
 
 0:00 Dikke kans dat je deze podcast luistert op je telefoon, en dat je ondertussen ook nog andere dingen aan het doen bent. Waarom vinden we het zo moeilijk om onze telefoon weg te leggen?

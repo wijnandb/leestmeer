@@ -2,7 +2,9 @@
 layout: post
 title: "Dumoulin mist nog een knecht in Giro"
 date: Tue, 09 Apr 2019 17:12:05 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/3419327/dumoulin-mist-nog-een-knecht-in-giro"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/880f2ce4-5ada-11e9-bda1-02d2fb1aa1d7.jpg"
 ---

@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 15:06:00 GMT
 categories: 
 - overig 
 - wonen 
+externe_link: "https://www.ad.nl/wonen/vaak-genoeg-en-slim-schoonmaken-doe-de-wc-klep-dicht-als-je-doorspoelt~a6867db3/"
 feature_image: "https://images0.persgroep.net/rcs/j984PhyiY4tuUGLkpb8fskmqn0o/diocontent/145232598/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

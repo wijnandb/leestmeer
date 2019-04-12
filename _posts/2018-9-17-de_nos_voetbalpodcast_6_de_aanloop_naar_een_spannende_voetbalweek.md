@@ -6,7 +6,6 @@ categories:
 - sport 
 - voetbal 
 externe_link: "https://podcast.npo.nl/file/nos-voetbalpodcast/2160/nporadio1_nos-voetbalpodcast_20180917_de-nos-voetbalpodcast-6-de-aanloop-naar-een-spannende-voetbalweek.mp3"
-feature_image: "https://podcast.npo.nl/file/nos-voetbalpodcast/2160/nporadio1_nos-voetbalpodcast_20180917_de-nos-voetbalpodcast-6-de-aanloop-naar-een-spannende-voetbalweek.mp3"
 ---
 
 NOS-voetbalverslaggevers Arno Vermeulen, Jeroen Elshoff, Frank Snoeks en Frank Wielaard bespreken de actuele voetbalzaken. 

@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 08:28:42 GMT
 categories: 
 - sport 
 - andere_sporten 
+externe_link: "https://www.ad.nl/andere-sporten/rico-verhoeven-30-jaar-fenomeen-binnen-en-buiten-de-ring~abdf507a/"
 feature_image: "https://images1.persgroep.net/rcs/0PiwNiFviLltv47EiiyMCbr1ndA/diocontent/138698328/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

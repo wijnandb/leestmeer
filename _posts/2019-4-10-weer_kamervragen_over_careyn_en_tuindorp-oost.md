@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 18:37:00 GMT
 categories: 
 - utrecht 
 - utrecht 
+externe_link: "https://www.ad.nl/utrecht/weer-kamervragen-over-careyn-en-tuindorp-oost~a8d2dc18/"
 feature_image: "https://images1.persgroep.net/rcs/Asp14ls80MBR2B10BLLjchMupLs/diocontent/145259817/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Tophacker cel in voor afpersen pornokijkers"
 date: Tue, 09 Apr 2019 17:33:01 +0200
-category: algemeen
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/3419475/tophacker-cel-in-voor-afpersen-pornokijkers"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6dfb51fa-5ae6-11e9-ac91-02d2fb1aa1d7.jpg"
 ---

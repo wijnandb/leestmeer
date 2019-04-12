@@ -2,7 +2,9 @@
 layout: post
 title: "’Prequel Grease in de maak’"
 date: Tue, 09 Apr 2019 22:44:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3420772/prequel-grease-in-de-maak"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c5fcae54-5b08-11e9-b4ef-0217670beecd.jpg"
 ---

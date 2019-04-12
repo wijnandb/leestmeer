@@ -5,6 +5,7 @@ date: Mon, 12 Mar 2018 15:37:00 GMT
 categories: 
 - noord-brabant 
 - schijndel 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/maart/09-overval-winkel-schijndel.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/maart/09-ob/bb_180312/schijndel-2a.jpg"
 ---
 

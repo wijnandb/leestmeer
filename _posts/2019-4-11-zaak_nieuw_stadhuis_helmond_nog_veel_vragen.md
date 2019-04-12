@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 04:30:00 GMT
 categories: 
 - noord-brabant 
 - helmond 
+externe_link: "https://www.ad.nl/helmond/zaak-nieuw-stadhuis-helmond-nog-veel-vragen~a9c1bcee/"
 feature_image: "https://images1.persgroep.net/rcs/NrmQvUvrfgT1GA3J_D9ESWSCfXM/diocontent/73769415/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

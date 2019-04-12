@@ -2,9 +2,8 @@
 layout: post
 title: "’Groenten verdwijnen’"
 date: Fri, 12 Apr 2019 07:38:00 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3434190/groenten-verdwijnen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e4c67c2a-5ca7-11e9-bdd3-02d2fb1aa1d7.jpg"
 ---
 

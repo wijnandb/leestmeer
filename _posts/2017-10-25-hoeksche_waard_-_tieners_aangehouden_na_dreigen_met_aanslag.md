@@ -5,6 +5,7 @@ date: Wed, 25 Oct 2017 15:23:00 GMT
 categories: 
 - zuid-holland 
 - cromstrijen 
+externe_link: "https://www.politie.nl/nieuws/2017/oktober/25/07-tieners-aangehouden-na-dreigen-met-aanslag.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

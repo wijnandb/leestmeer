@@ -5,6 +5,7 @@ date: Wed, 19 Dec 2018 07:54:00 GMT
 categories: 
 - gelderland 
 - maasdriel 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/december/02-oon/gld/fiets-gestolen-in-kerkdriel.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/december/02-on/2018368255-1.jpg"
 ---
 

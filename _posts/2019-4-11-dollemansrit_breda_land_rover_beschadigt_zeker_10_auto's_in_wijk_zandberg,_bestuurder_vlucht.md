@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 09:16:00 GMT
 categories: 
 - noord-brabant 
 - breda 
+externe_link: "https://www.ad.nl/breda/dollemansrit-breda-land-rover-beschadigt-zeker-10-auto-s-in-wijk-zandberg-bestuurder-vlucht~af58f8e5/"
 feature_image: "https://images0.persgroep.net/rcs/FsfPlxBzljey-kk-6Ldo-OBHvaQ/diocontent/145296982/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

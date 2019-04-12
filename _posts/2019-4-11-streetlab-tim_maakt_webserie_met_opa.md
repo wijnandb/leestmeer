@@ -2,9 +2,8 @@
 layout: post
 title: "Streetlab-Tim maakt webserie met opa"
 date: Thu, 11 Apr 2019 13:15:41 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3430211/streetlab-tim-maakt-webserie-met-opa"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/77e16f4e-5c4c-11e9-bdd3-02d2fb1aa1d7.jpg"
 ---
 

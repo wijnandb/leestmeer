@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 06:58:00 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.ad.nl/den-bosch/kwijlen-bij-peperdure-bolides-met-nieuwe-showroom-keert-autotron-rosmalen-terug-naar-zijn-roots~a5918ad9/"
 feature_image: "https://images4.persgroep.net/rcs/fB08qdul0QKZevGwVfEPm-3wVfQ/diocontent/145325985/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

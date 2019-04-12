@@ -5,6 +5,7 @@ date: Mon, 04 Feb 2019 12:03:00 GMT
 categories: 
 - zeeland 
 - hulst 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/4/08-drugs-hulst.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/februari/08-zw/2019-02-04_dealen-hulst-2.jpg"
 ---
 

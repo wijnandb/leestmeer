@@ -4,7 +4,8 @@ title: "Oisterwijk / Goirle / Baarle-Nassau - Verkeerscontroles in teken van teg
 date: Wed, 27 Mar 2019 11:53:00 GMT
 categories: 
 - noord-brabant 
-- baarle-nassau 
+- oisterwijk 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/27/08-verkeerscontroles-in-teken-van-tegengaan-ondermijning-en-mobiel-banditisme.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/surveillancemotor-met-zwaailicht-en-stopbord.jpg"
 ---
 

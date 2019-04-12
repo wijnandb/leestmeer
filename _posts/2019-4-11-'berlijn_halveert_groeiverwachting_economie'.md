@@ -2,9 +2,8 @@
 layout: post
 title: "'Berlijn halveert groeiverwachting economie'"
 date: Thu, 11 Apr 2019 20:19:06 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3433375/berlijn-halveert-groeiverwachting-economie"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/97fee6a0-5c86-11e9-8459-02d1dbdc35d1.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Tue, 10 Oct 2017 12:49:00 GMT
 categories: 
 - gelderland 
 - epe 
+externe_link: "https://www.politie.nl/nieuws/2017/oktober/10/02-epe-onderzoek-naar-branden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/oktober/02-on/brand-epe.jpg"
 ---
 

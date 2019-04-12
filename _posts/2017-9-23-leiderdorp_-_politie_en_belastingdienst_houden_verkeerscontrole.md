@@ -5,6 +5,7 @@ date: Sat, 23 Sep 2017 11:30:00 GMT
 categories: 
 - zuid-holland 
 - leiderdorp 
+externe_link: "https://www.politie.nl/nieuws/2017/september/23/06-leiderdorp-politie-en-belastingdienst-houden-verkeerscontrole.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/bij-een-verkeerscontrole.jpg"
 ---
 

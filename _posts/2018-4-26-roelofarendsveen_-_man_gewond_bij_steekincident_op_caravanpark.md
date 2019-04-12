@@ -5,6 +5,7 @@ date: Thu, 26 Apr 2018 12:22:00 GMT
 categories: 
 - zuid-holland 
 - kaag_en_braassem 
+externe_link: "https://www.politie.nl/nieuws/2018/april/26/06-man-gewond-bij-steekincident-op-caravanpark.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/afzetlint-gebruikt-bij-een-afzetting-van-een-pd.jpg"
 ---
 

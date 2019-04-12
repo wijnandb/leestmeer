@@ -2,9 +2,8 @@
 layout: post
 title: "Oost-Brabant - Bijna 550 overtreders in actieweek controle smartphonegebruik"
 date: Fri, 05 Apr 2019 14:44:00 GMT
-categories: 
-- noord-brabant 
-- den_bosch 
+category: limburg
+externe_link: "https://www.politie.nl/nieuws/2019/april/5/09-bijna-550-overtreders-in-actieweek-controle-smartphonegebruik.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/april/09-ob/resultaten-touringcar-controles.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Schoofs naar tweede ronde op gravel in Bogotá"
 date: Tue, 09 Apr 2019 20:53:48 GMT
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.ad.nl/tennis/schoofs-naar-tweede-ronde-op-gravel-in-bogota~a6a5f1af/"
 feature_image: "https://images2.persgroep.net/rcs/mrwS2YfagDFHExYGDcuBTlUow_E/diocontent/125508888/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

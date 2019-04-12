@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Uber belooft beterschap en de film die je kan rui
 date: Thu, 23 Mar 2017 16:30:00 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4181/nporadio1_nosop3techpodcast_20170323_nos-op-3-tech-podcast-uber-belooft-beterschap-en-de-film-die-je-kan-ruiken.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4181/nporadio1_nosop3techpodcast_20170323_nos-op-3-tech-podcast-uber-belooft-beterschap-en-de-film-die-je-kan-ruiken.mp3"
 ---
 
 0:00: Taxibedrijf Uber ligt onder vuur vanwege hun bedrijfscultuur. Deze week kwam het bedrijf met plannen om de werksfeer te verbeteren, maar gaat het helpen?

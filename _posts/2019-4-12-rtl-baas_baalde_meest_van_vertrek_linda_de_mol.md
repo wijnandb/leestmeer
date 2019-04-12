@@ -2,9 +2,8 @@
 layout: post
 title: "RTL-baas baalde meest van vertrek Linda de Mol"
 date: Fri, 12 Apr 2019 09:38:50 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3434918/rtl-baas-baalde-meest-van-vertrek-linda-de-mol"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/12867626-5cf6-11e9-abce-02c309bc01c1.jpg"
 ---
 

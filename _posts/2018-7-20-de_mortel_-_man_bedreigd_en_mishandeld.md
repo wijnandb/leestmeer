@@ -5,6 +5,7 @@ date: Fri, 20 Jul 2018 15:28:00 GMT
 categories: 
 - noord-brabant 
 - gemert-bakel 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/20/09-man-bedreigd-en-mishandeld.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/intake-en-service-en-meldkamer/bord-met-logo-politie.jpg"
 ---
 

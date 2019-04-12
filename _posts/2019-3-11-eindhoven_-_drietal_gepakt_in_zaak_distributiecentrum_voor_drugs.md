@@ -5,6 +5,7 @@ date: Mon, 11 Mar 2019 13:37:00 GMT
 categories: 
 - noord-brabant 
 - nuenen,_gerwen_en_nederwetten 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/11/09-drietal-gepakt-in-zaak-distributiecentrum-voor-drugs.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/09-ob/20190311-dl-vuurwapens-eindhoven.jpg"
 ---
 

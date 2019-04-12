@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 07:53:00 GMT
 categories: 
 - zuid-holland 
 - rotterdam 
+externe_link: "https://www.ad.nl/rotterdam/daling-co2-uitstoot-in-rotterdamse-haven~ae1130e9/"
 feature_image: "https://images2.persgroep.net/rcs/yIADGbg94w-bsvK26PcJ_9ql4-I/diocontent/145365992/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

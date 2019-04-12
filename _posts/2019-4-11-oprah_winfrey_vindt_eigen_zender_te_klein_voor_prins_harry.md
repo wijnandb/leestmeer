@@ -2,7 +2,9 @@
 layout: post
 title: "Oprah Winfrey vindt eigen zender te klein voor prins Harry"
 date: Thu, 11 Apr 2019 21:45:58 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3433677/oprah-winfrey-vindt-eigen-zender-te-klein-voor-prins-harry"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7a5d6232-5c92-11e9-b689-0217670beecd.jpg"
 ---

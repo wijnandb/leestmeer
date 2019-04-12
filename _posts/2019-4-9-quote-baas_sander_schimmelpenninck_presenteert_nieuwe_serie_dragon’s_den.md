@@ -3,7 +3,7 @@ layout: post
 title: "Quote-baas Sander Schimmelpenninck presenteert nieuwe serie Dragon’s Den"
 date: Tue, 09 Apr 2019 15:32:00 GMT
 categories: 
-- overig 
+- entertainment 
 - televisie 
 externe_link: "https://www.ad.nl/show/quote-baas-sander-schimmelpenninck-presenteert-nieuwe-serie-dragon-s-den~a1603912/"
 feature_image: "https://images1.persgroep.net/rcs/rTzyyOLa1BQ7zyx7dv_eqSEEFxA/diocontent/144741726/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"

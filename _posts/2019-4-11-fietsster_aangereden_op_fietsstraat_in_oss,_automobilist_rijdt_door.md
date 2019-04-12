@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 16:56:00 GMT
 categories: 
 - noord-brabant 
 - oss 
+externe_link: "https://www.ad.nl/oss/fietsster-aangereden-op-fietsstraat-in-oss-automobilist-rijdt-door~a2a344de/"
 feature_image: "https://images1.persgroep.net/rcs/zwPZxJfojxA321RzCGgTB6oLfqc/diocontent/145325859/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Mon, 21 Jan 2019 13:43:00 GMT
 categories: 
 - zuid-holland 
 - lansingerland 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/21/07-opnieuw-verdachte-aangehouden-voor-vergismoord-rob-zweekhorst.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/gezocht/verdachten/2014/januari/07-rotterdam/rob-zweekhorst.jpg"
 ---
 

@@ -2,9 +2,8 @@
 layout: post
 title: "Beau blijft ’dicht bij zichzelf’ voor talkshow"
 date: Fri, 12 Apr 2019 07:48:00 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3434444/beau-blijft-dicht-bij-zichzelf-voor-talkshow"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e477275c-5ce7-11e9-8c2f-0217670beecd.jpg"
 ---
 

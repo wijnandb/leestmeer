@@ -4,7 +4,8 @@ title: "Helmond e.o. - Vijfde verdachte opgepakt voor overvallen omgeving Helmon
 date: Wed, 20 Mar 2019 12:11:00 GMT
 categories: 
 - noord-brabant 
-- helmond 
+- valkenswaard 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/20/09-vijfde-verdachte-opgepakt-voor-overvallen-omgeving-helmond.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/09-ob/visual-overvallen-helmond.jpg"
 ---
 

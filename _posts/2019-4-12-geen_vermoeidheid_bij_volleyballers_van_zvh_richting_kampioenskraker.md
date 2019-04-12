@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 08:20:00 GMT
 categories: 
 - zuid-holland 
 - gouda 
+externe_link: "https://www.ad.nl/gouda/geen-vermoeidheid-bij-volleyballers-van-zvh-richting-kampioenskraker~ac2e0981/"
 feature_image: "https://images0.persgroep.net/rcs/22f5q5O9Yem86Boy0OkFZN2QuNE/diocontent/145313063/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

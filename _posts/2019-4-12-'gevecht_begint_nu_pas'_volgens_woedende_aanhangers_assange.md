@@ -2,8 +2,8 @@
 layout: post
 title: "'Gevecht begint nu pas' volgens woedende aanhangers Assange"
 date: Fri, 12 Apr 2019 07:37:51 +0200
-category: nieuws
-externe_link: "https://nos.nl/l/2280072"
+category: buitenland
+externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/5fuiSG_foVw/2280072"
 feature_image: "https://nos.nl/data/image/2019/04/12/543041/1008x567.jpg"
 ---
 
@@ -18,4 +18,4 @@ feature_image: "https://nos.nl/data/image/2019/04/12/543041/1008x567.jpg"
 <p>De aanhangers maken zich grote zorgen over de eventuele uitlevering aan de VS en vinden het dan ook een schande als Groot-Brittannië Assange zou overdragen aan de Amerikanen. De leus 'There is only one decision no extradition' wordt bij de rechtbank dan ook meermaals gebezigd.</p>
 <p>De advocaat van Assange, Jennifer Robinson, is de enige die de groep activisten stil kan krijgen. In haar verklaring op de stoep van de rechtbank zegt ze dat Assanges arrestatie een groot gevaar is voor journalisten en media in Europa en de rest van de wereld. "Er wordt hier een precedent gezet. Dit betekent dat elke journalist uitgeleverd kan worden aan de Verenigde Staten voor het publiceren van waarheden over de VS."</p>
 <p>Clara is dan ook ontzettend strijdbaar. "We staan hier onze longen uit ons lijf te schreeuwen, want het echte gevecht begint nu pas", zegt ze. "In de rechtszaal zal bewezen worden dat hij niets fout heeft gedaan en gewoon gebruik heeft gemaakt van zijn vrijheid van meningsuiting. Hij is de belangrijkste voorvechter van de vrije pers in de wereld. En dan zal hij hopelijk op een dag een vrij man zijn."</p>
-<p>Assange verbleef zeven jaar in de ambassade van Ecuador in Londen. Zo zag zijn leven er daar uit:</p>
+<p>Assange verbleef zeven jaar in de ambassade van Ecuador in Londen. Zo zag zijn leven er daar uit:</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbuitenland/~4/5fuiSG_foVw" height="1" width="1" alt=""/>

@@ -5,6 +5,7 @@ date: Fri, 26 Oct 2018 18:17:00 GMT
 categories: 
 - noord-brabant 
 - bladel 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/26/09-illegaal-tentenkamp-in-bossen-ontruimd.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/oktober/09-ob/20181026-bladel.jpg"
 ---
 

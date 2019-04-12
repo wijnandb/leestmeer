@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 14:30:00 GMT
 categories: 
 - zuid-holland 
 - alphen 
+externe_link: "https://www.ad.nl/alphen/werkstraffen-na-geweld-in-bar-amsterdam-in-alphen~a57845d8/"
 feature_image: "https://images2.persgroep.net/rcs/bv_CJsOtzoWaNfoZl03Mkn3ND48/diocontent/145185419/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

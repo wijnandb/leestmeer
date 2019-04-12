@@ -2,7 +2,9 @@
 layout: post
 title: "Caroline Tensen wil nog zeker tien jaar door op tv"
 date: Tue, 09 Apr 2019 09:43:10 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3414899/caroline-tensen-wil-nog-zeker-tien-jaar-door-op-tv"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/077a9cdc-5aa6-11e9-967e-0217670beecd.jpg"
 ---

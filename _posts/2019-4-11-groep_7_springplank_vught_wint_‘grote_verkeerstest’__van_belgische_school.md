@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 10:53:00 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.ad.nl/den-bosch/groep-7-springplank-vught-wint-grote-verkeerstest-van-belgische-school~af28b015/"
 feature_image: "https://images0.persgroep.net/rcs/GZTiWjFuzST7SqhlJiESWdngO28/diocontent/145303058/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

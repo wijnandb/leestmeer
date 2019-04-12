@@ -5,6 +5,7 @@ date: Wed, 16 Jan 2019 15:07:00 GMT
 categories: 
 - zuid-holland 
 - dordrecht 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/16/een-snelheidsbekeuring-per-drie-minuten-op-merwedestraat-dordrecht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/agent-spreekt-automobilist-bij-verkeerscontrole.jpg"
 ---
 

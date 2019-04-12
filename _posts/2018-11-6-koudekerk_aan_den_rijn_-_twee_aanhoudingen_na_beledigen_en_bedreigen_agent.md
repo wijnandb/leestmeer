@@ -5,6 +5,7 @@ date: Tue, 06 Nov 2018 06:26:00 GMT
 categories: 
 - zuid-holland 
 - rijnwoude 
+externe_link: "https://www.politie.nl/nieuws/2018/november/6/06-koudekerk-aan-den-rijn-melding-burenruzie-mondt-uit-in-belediging-en-bedreiging.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/holster-van-motoragent.jpg"
 ---
 

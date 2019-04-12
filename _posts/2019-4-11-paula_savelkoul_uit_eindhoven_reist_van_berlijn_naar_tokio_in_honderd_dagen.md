@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Paula Savelkoul uit Eindhoven reist van Berlijn naar Tokio in honderd dagen"
-date: Thu, 11 Apr 2019 07:52:45 GMT
+date: Thu, 11 Apr 2019 07:52:00 GMT
 categories: 
 - noord-brabant 
 - eindhoven 
+externe_link: "https://www.ad.nl/eindhoven/paula-savelkoul-uit-eindhoven-reist-van-berlijn-naar-tokio-in-honderd-dagen~a176c0dc/"
 feature_image: "https://images0.persgroep.net/rcs/Kl7Djr3G8f0w13lX-uiMpq7l9zM/diocontent/144902476/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

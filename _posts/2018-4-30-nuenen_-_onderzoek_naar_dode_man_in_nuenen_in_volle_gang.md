@@ -5,6 +5,7 @@ date: Mon, 30 Apr 2018 13:10:00 GMT
 categories: 
 - noord-brabant 
 - nuenen,_gerwen_en_nederwetten 
+externe_link: "https://www.politie.nl/nieuws/2018/april/30/09-onderzoek-naar-dode-man-in-nuenen-in-volle-gang.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/jas-met-opdruk-technische-recherche.jpg"
 ---
 

@@ -6,7 +6,6 @@ categories:
 - sport 
 - voetbal 
 externe_link: "https://podcast.npo.nl/file/nos-voetbalpodcast/3400/nporadio1_nos-voetbalpodcast_20181224_nos-voetbalpodcast-21-psv-ers-mogen-met-hun-borst-vooruit.mp3"
-feature_image: "https://podcast.npo.nl/file/nos-voetbalpodcast/3400/nporadio1_nos-voetbalpodcast_20181224_nos-voetbalpodcast-21-psv-ers-mogen-met-hun-borst-vooruit.mp3"
 ---
 
 Deze week met Jan Roelfs, Andy Houtkamp, Arman Avsaroglu en Jeroen Grueter. De NOS-commentatoren kijken terug op het afgelopen eredivisieweekend.

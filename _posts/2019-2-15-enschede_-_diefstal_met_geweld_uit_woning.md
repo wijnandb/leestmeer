@@ -5,6 +5,7 @@ date: Fri, 15 Feb 2019 12:05:00 GMT
 categories: 
 - overijssel 
 - enschede 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/15/02-diefstal-met-geweld-uit-woning.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/onderzoek-in-woning-naar-inbraak.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 19:53:59 GMT
 categories: 
 - noord-brabant 
 - oosterhout 
+externe_link: "https://www.ad.nl/oosterhout/publiek-gaat-met-pak-van-mijn-hart-op-pad-in-oosterhout~a5793bf1/"
 feature_image: "https://images0.persgroep.net/rcs/WNsYKgVy5H7WBa8I0s95YRHwvQ4/diocontent/145331469/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

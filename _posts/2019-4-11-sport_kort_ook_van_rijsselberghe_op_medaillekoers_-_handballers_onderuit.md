@@ -2,7 +2,9 @@
 layout: post
 title: "Sport Kort: Ook Van Rijsselberghe op medaillekoers - Handballers onderuit"
 date: Thu, 11 Apr 2019 21:25:00 +0200
-category: sport
+categories: 
+- sport 
+- scoreboard 
 externe_link: "https://www.telegraaf.nl/sport/3428840/sport-kort-ook-van-rijsselberghe-op-medaillekoers-handballers-onderuit"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d6ab06e6-5c8f-11e9-b343-02c309bc01c1.JPG"
 ---

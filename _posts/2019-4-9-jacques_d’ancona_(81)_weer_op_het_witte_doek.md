@@ -2,7 +2,9 @@
 layout: post
 title: "Jacques d’Ancona (81) weer op het witte doek"
 date: Tue, 09 Apr 2019 11:38:29 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3416283/jacques-d-ancona-81-weer-op-het-witte-doek"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9f2fdf78-5ac5-11e9-97c7-02d2fb1aa1d7.jpg"
 ---

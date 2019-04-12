@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 14:21:00 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.ad.nl/den-bosch/katholieke-journaliste-mariska-orban-oogst-opnieuw-hoon-nu-van-de-lbht-gemeenschap~a26ec4c9/"
 feature_image: "https://images0.persgroep.net/rcs/tbSHnlvbMvsJ6g_VDgzaeivEA64/diocontent/145242019/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

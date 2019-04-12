@@ -5,6 +5,7 @@ date: Wed, 15 Aug 2018 06:56:00 GMT
 categories: 
 - drenthe 
 - assen 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/15/01---criminele-geldlijn-opgerold.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/augustus/01-nn/assen-witwassen/assen2.jpg"
 ---
 

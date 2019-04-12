@@ -5,6 +5,7 @@ date: Mon, 13 Nov 2017 14:00:00 GMT
 categories: 
 - gelderland 
 - elburg 
+externe_link: "https://www.politie.nl/nieuws/2017/november/13/02-zaken-in-bureau-gld-van-15-november.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/onderwerpen/bureau-gld.jpg"
 ---
 

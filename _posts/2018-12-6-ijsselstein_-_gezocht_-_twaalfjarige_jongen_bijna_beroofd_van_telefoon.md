@@ -5,6 +5,7 @@ date: Thu, 06 Dec 2018 11:05:00 GMT
 categories: 
 - utrecht 
 - ijsselstein 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/december/03-ijsselstein-05-straatroof.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/november/03-mn/ijsselstein-28-straatroof.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Veltman: ’Ik kreeg leuke berichtjes’"
 date: Thu, 11 Apr 2019 00:07:54 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3427762/veltman-ik-kreeg-leuke-berichtjes"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1d55aae2-5be1-11e9-bda1-02d2fb1aa1d7.jpg"
 ---

@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 06:24:29 GMT
 categories: 
 - noord-brabant 
 - tilburg 
+externe_link: "https://www.ad.nl/tilburg/the-beast-sorteert-800-000-pakketjes-per-dag~a8102f3d/"
 feature_image: "https://images4.persgroep.net/rcs/YrmNHn3rfC0rV7z4kjDc1M5PPj0/diocontent/145329453/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

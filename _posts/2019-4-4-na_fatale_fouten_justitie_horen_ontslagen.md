@@ -3,8 +3,8 @@ layout: post
 title: "Na fatale fouten justitie horen ontslagen"
 date: Thu, 04 Apr 2019 20:24:51 +0200
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3397319/na-fatale-fouten-justitie-horen-ontslagen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0c207b00-5761-11e9-9fc0-0217670beecd.jpg"
 ---

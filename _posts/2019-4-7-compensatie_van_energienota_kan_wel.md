@@ -3,8 +3,8 @@ layout: post
 title: "Compensatie van energienota kan wel"
 date: Sun, 07 Apr 2019 23:05:00 +0200
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3408763/compensatie-van-energienota-kan-wel"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/36697d80-59b9-11e9-967e-0217670beecd.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Nieuwe Assepoester-film met Camila Cabello"
 date: Wed, 10 Apr 2019 10:17:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3422121/nieuwe-assepoester-film-met-camila-cabello"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ad95fdba-5b72-11e9-bdb3-0218eaf05005.jpg"
 ---

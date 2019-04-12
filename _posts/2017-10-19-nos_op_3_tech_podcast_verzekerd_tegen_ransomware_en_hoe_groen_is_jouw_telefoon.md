@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Verzekerd tegen ransomware en hoe groen is jouw t
 date: Thu, 19 Oct 2017 18:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4158/nporadio1_nosop3techpodcast_20171019_nos-op-3-tech-podcast-verzekerd-tegen-ransomware-en-hoe-groen-is-jouw-telefoon.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4158/nporadio1_nosop3techpodcast_20171019_nos-op-3-tech-podcast-verzekerd-tegen-ransomware-en-hoe-groen-is-jouw-telefoon.mp3"
 ---
 
 0:00 Ons online leven zit vol gevaren als virussen, phishing, ransomware en noem maar op. En als je daardoor getroffen wordt kan dat je een hoop geld kosten. Daarom komt een grote verzekeraar nu met een 'cyberpolis' voor consumenten.

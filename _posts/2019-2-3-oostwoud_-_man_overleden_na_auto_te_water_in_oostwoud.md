@@ -4,7 +4,8 @@ title: "Oostwoud - Man overleden na auto te water in Oostwoud"
 date: Sun, 03 Feb 2019 08:07:00 GMT
 categories: 
 - noord-holland 
-- hollands_kroon 
+- medemblik 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/3/04-man-overleden-na-auto-te-water-in-oostwoud.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/detailfoto-van-een-zwaailicht-bij-een-kas.jpg"
 ---
 

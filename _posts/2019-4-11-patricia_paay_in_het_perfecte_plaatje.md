@@ -2,7 +2,9 @@
 layout: post
 title: "Patricia Paay in Het Perfecte Plaatje"
 date: Thu, 11 Apr 2019 21:16:05 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3433588/patricia-paay-in-het-perfecte-plaatje"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4a91e8a6-5c8e-11e9-bbde-0217670beecd.jpg"
 ---

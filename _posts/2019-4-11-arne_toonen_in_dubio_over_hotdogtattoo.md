@@ -2,9 +2,8 @@
 layout: post
 title: "Arne Toonen in dubio over hotdogtattoo"
 date: Thu, 11 Apr 2019 08:41:55 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3428245/arne-toonen-in-dubio-over-hotdogtattoo"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e224a76e-5c28-11e9-b343-02c309bc01c1.jpg"
 ---
 

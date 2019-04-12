@@ -5,6 +5,7 @@ date: Tue, 26 Feb 2019 12:16:00 GMT
 categories: 
 - utrecht 
 - nieuwegein 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/03-cold-case-moord-doodslag-richard-houtveen.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/03-mn/coldcase-richard-houtveen.jpg"
 ---
 

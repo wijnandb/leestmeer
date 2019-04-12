@@ -5,6 +5,7 @@ date: Fri, 03 Nov 2017 16:00:00 GMT
 categories: 
 - noord-brabant 
 - veghel 
+externe_link: "https://www.politie.nl/nieuws/2017/november/3/09-dna-hit-leidt-naar-verdachte-overval.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/fo-in-woning.jpg"
 ---
 

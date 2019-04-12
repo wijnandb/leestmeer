@@ -5,6 +5,7 @@ date: Sun, 31 Dec 2017 09:06:00 GMT
 categories: 
 - noord-brabant 
 - son_en_breugel 
+externe_link: "https://www.politie.nl/nieuws/2017/december/31/09-politie-zoekt-getuigen-overval.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/detailopname-surveillancewagen.jpg"
 ---
 

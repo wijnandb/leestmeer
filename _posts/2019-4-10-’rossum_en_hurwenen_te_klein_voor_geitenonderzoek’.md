@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 09:35:00 GMT
 categories: 
 - gelderland 
 - zaltbommel 
+externe_link: "https://www.ad.nl/zaltbommel/rossum-en-hurwenen-te-klein-voor-geitenonderzoek~a6b35283/"
 feature_image: "https://images1.persgroep.net/rcs/aJRGeLgdUsfwid9Z0aLZt7_nLoA/diocontent/127213124/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

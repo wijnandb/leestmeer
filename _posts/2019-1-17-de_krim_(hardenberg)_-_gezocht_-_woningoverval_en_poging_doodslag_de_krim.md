@@ -5,6 +5,7 @@ date: Thu, 17 Jan 2019 08:30:00 GMT
 categories: 
 - overijssel 
 - hardenberg 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/januari/02-oon/ov/woningoverval-en-poging-doodslag-de-krim.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/nieuws/2019/januari/02-on/overval-de-krim.jpg"
 ---
 

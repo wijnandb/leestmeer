@@ -2,9 +2,8 @@
 layout: post
 title: "Famke Louise krijgt bierflesje naar hoofd gesmeten"
 date: Wed, 10 Apr 2019 21:48:34 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3427326/famke-louise-krijgt-bierflesje-naar-hoofd-gesmeten"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9493c284-5bcc-11e9-ac91-02d2fb1aa1d7.jpg"
 ---
 

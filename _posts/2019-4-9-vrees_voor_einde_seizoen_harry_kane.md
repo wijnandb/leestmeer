@@ -2,7 +2,9 @@
 layout: post
 title: "Vrees voor einde seizoen Harry Kane"
 date: Wed, 10 Apr 2019 00:09:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3420876/vrees-voor-einde-seizoen-harry-kane"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2d58c712-5b14-11e9-8d0e-02d1dbdc35d1.jpg"
 ---

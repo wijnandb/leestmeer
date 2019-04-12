@@ -5,6 +5,7 @@ date: Tue, 12 Mar 2019 15:22:00 GMT
 categories: 
 - gelderland 
 - oost_gelre 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/02-oon/gld/diefstal-vier-kettingzagen-groenbedrijf.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/02-on/2019030668-1.jpg"
 ---
 

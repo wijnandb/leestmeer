@@ -5,6 +5,7 @@ date: Tue, 26 Mar 2019 08:39:00 GMT
 categories: 
 - noord-holland 
 - amsterdam 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/26/05-getuigenoproep-aanrijding-nieuwe-hemweg.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/mensen-staan-voor-afzetlint.jpg"
 ---
 

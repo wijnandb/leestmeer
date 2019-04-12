@@ -3,8 +3,9 @@ layout: post
 title: "Moergestel, Eindhoven, Nieuwegein, Arnhem - Gezocht - Diefstal pinpas en landelijke pinfraude"
 date: Mon, 18 Feb 2019 10:32:00 GMT
 categories: 
-- gelderland 
-- arnhem 
+- utrecht 
+- nieuwegein 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/08-diefstal-pinpas-en-landelijke-pinfraude.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/09-ob/bb_190218/moergestel-8.jpg"
 ---
 

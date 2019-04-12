@@ -5,6 +5,7 @@ date: Fri, 25 May 2018 13:28:00 GMT
 categories: 
 - gelderland 
 - heumen 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/25/02-nederasselt-onderzoek-naar-saunabeelden-afgerond.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/detailopname-surveillancewagen.jpg"
 ---
 

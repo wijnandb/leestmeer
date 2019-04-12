@@ -2,7 +2,9 @@
 layout: post
 title: "Foto huilende peuter is World Press Photo van het jaar"
 date: Thu, 11 Apr 2019 20:41:00 GMT
-category: binnenland
+categories: 
+- entertainment 
+- show 
 externe_link: "https://www.ad.nl/cultuur/foto-huilende-peuter-is-world-press-photo-van-het-jaar~ad67dc45/"
 feature_image: "https://images3.persgroep.net/rcs/4IYHGboKmK4FhWg-eTDVPJOk7N8/diocontent/145338307/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

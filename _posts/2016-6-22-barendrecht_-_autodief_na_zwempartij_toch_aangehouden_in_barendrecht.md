@@ -5,6 +5,7 @@ date: Wed, 22 Jun 2016 12:43:00 GMT
 categories: 
 - zuid-holland 
 - korendijk 
+externe_link: "https://www.politie.nl/nieuws/2016/juni/22/07-autodief-na-zwempartij-toch-aangehouden-in-barendrecht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2016/juni/07-rm/foto-a29.jpg"
 ---
 

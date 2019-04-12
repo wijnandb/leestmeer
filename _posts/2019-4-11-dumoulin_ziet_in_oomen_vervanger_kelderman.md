@@ -2,7 +2,9 @@
 layout: post
 title: "Dumoulin ziet in Oomen vervanger Kelderman"
 date: Thu, 11 Apr 2019 22:33:12 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/3433801/dumoulin-ziet-in-oomen-vervanger-kelderman"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/104a59ac-5c99-11e9-9157-0255c322e81b.jpg"
 ---

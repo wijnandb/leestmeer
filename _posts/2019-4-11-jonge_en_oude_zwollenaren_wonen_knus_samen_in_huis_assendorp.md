@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 12:55:00 GMT
 categories: 
 - overijssel 
 - zwolle 
+externe_link: "https://www.ad.nl/zwolle/jonge-en-oude-zwollenaren-wonen-knus-samen-in-huis-assendorp~ae655684/"
 feature_image: "https://images4.persgroep.net/rcs/AoSYn83HSAB5jpbGMoBV_MHx16A/diocontent/145307754/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

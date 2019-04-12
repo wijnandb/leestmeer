@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 14:25:18 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.ad.nl/den-bosch/eens-een-aziaat-straks-de-creatieve-markt-en-maakplaats-boel-bazaar-eigenlijk-verhuren-we-vierkante-meters~ab19e303/"
 feature_image: "https://images0.persgroep.net/rcs/vWG-ZWHU5YRa1OYmFs7tO3rCqgQ/diocontent/145315159/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

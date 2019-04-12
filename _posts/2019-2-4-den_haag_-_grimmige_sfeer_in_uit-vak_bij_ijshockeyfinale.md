@@ -5,6 +5,7 @@ date: Mon, 04 Feb 2019 14:34:00 GMT
 categories: 
 - zuid-holland 
 - midden-delfland 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/4/06-den-haag-grimmige-sfeer-in-uit-vak-bij-ijshockeyfinale.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/februari/06-dh/hijshandschoen.jpg"
 ---
 

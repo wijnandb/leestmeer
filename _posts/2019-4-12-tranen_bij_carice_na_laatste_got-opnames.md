@@ -2,9 +2,8 @@
 layout: post
 title: "Tranen bij Carice na laatste GoT-opnames"
 date: Fri, 12 Apr 2019 08:14:30 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3434518/tranen-bij-carice-na-laatste-go-t-opnames"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/406a37e6-5cea-11e9-a131-0255c322e81b.jpg"
 ---
 

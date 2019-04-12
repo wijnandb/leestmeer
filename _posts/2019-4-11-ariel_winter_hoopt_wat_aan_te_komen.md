@@ -2,9 +2,8 @@
 layout: post
 title: "Ariel Winter hoopt wat aan te komen"
 date: Thu, 11 Apr 2019 09:32:20 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3428509/ariel-winter-hoopt-wat-aan-te-komen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f0edd024-5c2b-11e9-9da7-0255c322e81b.jpg"
 ---
 

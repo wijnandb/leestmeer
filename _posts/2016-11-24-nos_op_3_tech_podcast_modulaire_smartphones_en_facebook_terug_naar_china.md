@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Modulaire smartphones en Facebook terug naar Chin
 date: Thu, 24 Nov 2016 15:30:00 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4198/nporadio1_nosop3techpodcast_20161124_nos-op-3-tech-podcast-modulaire-smartphones-en-facebook-terug-naar-china.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4198/nporadio1_nosop3techpodcast_20161124_nos-op-3-tech-podcast-modulaire-smartphones-en-facebook-terug-naar-china.mp3"
 ---
 
 Google werkte eraan, Fairphone is ermee bezig en ook Lenovo wil ze aan de man brengen: modulaire smartphones. Zitten mensen daar wel te wachten?

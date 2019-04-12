@@ -5,6 +5,7 @@ date: Tue, 20 Feb 2018 10:00:00 GMT
 categories: 
 - gelderland 
 - buren 
+externe_link: "https://www.politie.nl/nieuws/2018/februari/20/02-lienden-%E2%80%93-politie-boekt-eerste-resultaat-in-onderzoek-woningoverval-2017.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

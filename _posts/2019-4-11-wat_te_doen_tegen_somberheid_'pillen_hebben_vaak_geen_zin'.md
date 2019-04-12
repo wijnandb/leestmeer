@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 08:00:29 +0200
 categories: 
 - overig 
 - gezondheid 
+externe_link: "https://www.nu.nl/gezondheid/5816358/wat-te-doen-tegen-somberheid-pillen-hebben-vaak-geen-zin.html"
 feature_image: "https://media.nu.nl/m/u2mxq7navax4_sqr256.jpg/wat-te-doen-tegen-somberheid-pillen-hebben-vaak-geen-zin.jpg"
 ---
 

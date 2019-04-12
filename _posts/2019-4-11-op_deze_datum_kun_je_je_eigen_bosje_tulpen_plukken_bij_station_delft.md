@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 16:55:12 GMT
 categories: 
 - zuid-holland 
 - delft 
+externe_link: "https://www.ad.nl/delft/op-deze-datum-kun-je-je-eigen-bosje-tulpen-plukken-bij-station-delft~a2f0ad19/"
 feature_image: "https://images0.persgroep.net/rcs/FLjNsEsME4JAQE61I1tGtUTUKxI/diocontent/145111371/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 13:03:00 GMT
 categories: 
 - zuid-holland 
 - delft 
+externe_link: "https://www.ad.nl/delft/handen-uit-de-mouwen-voor-kwarteltuin~ac122fcb/"
 feature_image: "https://images1.persgroep.net/rcs/go5FYb3LSOsIIQy-QFu-c84z4qw/diocontent/129694160/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 09:38:22 +0200
 categories: 
 - financieel 
 - economie 
+externe_link: "https://nos.nl/l/2279799"
 feature_image: "https://nos.nl/data/image/2018/11/08/511604/1008x567.jpg"
 ---
 

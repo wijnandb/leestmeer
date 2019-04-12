@@ -5,6 +5,7 @@ date: Fri, 29 Dec 2017 11:38:00 GMT
 categories: 
 - noord-brabant 
 - valkenswaard 
+externe_link: "https://www.politie.nl/nieuws/2017/december/29/09-getuigen-gezocht-na-aantreffen-zelfgemaakt-explosief.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/december/09-ob/20171229-valkenswaard-explosief.jpg"
 ---
 

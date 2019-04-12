@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 08:03:00 GMT
 categories: 
 - gelderland 
 - rivierenland 
+externe_link: "https://www.ad.nl/rivierenland/tim-hofman-geeft-leerlingen-in-gorinchem-tips-om-examenvrees-tegen-te-gaan~a274a7ec/"
 feature_image: "https://images3.persgroep.net/rcs/KIwpobBP0pVXOQ-Z5KWbNE2THfs/diocontent/145312757/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

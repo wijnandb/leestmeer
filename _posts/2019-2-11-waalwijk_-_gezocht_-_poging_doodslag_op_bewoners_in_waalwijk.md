@@ -5,6 +5,7 @@ date: Mon, 11 Feb 2019 16:37:00 GMT
 categories: 
 - noord-brabant 
 - waalwijk 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/januari/08-poging-doodslag-op-bewoners-in-waalwijk.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/09-ob/bb_190211/z4-waalwijk-04.jpg"
 ---
 

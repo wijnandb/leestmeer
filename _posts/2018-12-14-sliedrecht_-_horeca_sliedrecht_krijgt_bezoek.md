@@ -5,6 +5,7 @@ date: Fri, 14 Dec 2018 15:41:00 GMT
 categories: 
 - zuid-holland 
 - sliedrecht 
+externe_link: "https://www.politie.nl/nieuws/2018/december/14/07-horeca-sliedrecht-krijgt-bezoek.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/december/07-rt/sliedrecht1.jpg"
 ---
 

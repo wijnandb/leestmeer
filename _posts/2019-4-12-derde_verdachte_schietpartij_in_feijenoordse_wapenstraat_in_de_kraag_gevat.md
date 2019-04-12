@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 08:54:00 GMT
 categories: 
 - zuid-holland 
 - rotterdam 
+externe_link: "https://www.ad.nl/rotterdam/derde-verdachte-schietpartij-in-feijenoordse-wapenstraat-in-de-kraag-gevat~a72ed28c/"
 feature_image: "https://images4.persgroep.net/rcs/lBvX9Doxn3hXXfQwZnbluyawtKA/diocontent/145371617/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

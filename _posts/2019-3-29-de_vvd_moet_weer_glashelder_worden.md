@@ -3,8 +3,8 @@ layout: post
 title: "De VVD moet weer glashelder worden"
 date: Fri, 29 Mar 2019 18:10:50 +0100
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3368855/de-vvd-moet-weer-glashelder-worden"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f79a0e40-5246-11e9-97c7-02d2fb1aa1d7.jpg"
 ---

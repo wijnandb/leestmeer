@@ -5,6 +5,7 @@ date: Wed, 13 Feb 2019 12:26:00 GMT
 categories: 
 - flevoland 
 - almere 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/13/03-aanhouding-voor-woningoverval-in-almere.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-3.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 09 May 2018 14:57:00 GMT
 categories: 
 - overijssel 
 - ommen 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/9/02-oost-nederland-op-vijf-plaatsen-dumpafval-aangetroffen-in-oost-nederland.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/drugs/opslag-ton-chemisch-afval.jpg"
 ---
 

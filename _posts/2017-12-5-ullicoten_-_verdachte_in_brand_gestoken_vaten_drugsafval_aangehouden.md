@@ -5,6 +5,7 @@ date: Tue, 05 Dec 2017 10:58:00 GMT
 categories: 
 - noord-brabant 
 - baarle-nassau 
+externe_link: "https://www.politie.nl/nieuws/2017/december/5/08-verdachte-in-brand-gestoken-vaten-drugsafval-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/drugs/opslag-ton-chemisch-afval.jpg"
 ---
 

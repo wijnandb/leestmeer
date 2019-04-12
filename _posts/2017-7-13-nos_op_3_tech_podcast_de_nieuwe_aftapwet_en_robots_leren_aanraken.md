@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: De nieuwe aftapwet en robots leren aanraken"
 date: Thu, 13 Jul 2017 17:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4166/nporadio1_nosop3techpodcast_20170713_nos-op-3-tech-podcast-de-nieuwe-aftapwet-en-robots-leren-aanraken.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4166/nporadio1_nosop3techpodcast_20170713_nos-op-3-tech-podcast-de-nieuwe-aftapwet-en-robots-leren-aanraken.mp3"
 ---
 
 0:00 De nieuwe aftapwet is aangenomen door de Eerste Kamer. Wij vertellen je wat dat voor jou betekent.

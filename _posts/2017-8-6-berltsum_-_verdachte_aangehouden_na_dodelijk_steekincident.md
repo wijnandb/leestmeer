@@ -5,6 +5,7 @@ date: Sun, 06 Aug 2017 07:44:00 GMT
 categories: 
 - fryslan 
 - menameradiel 
+externe_link: "https://www.politie.nl/nieuws/2017/augustus/6/01-verdachte-aangehouden-na-dodelijk-steekincident.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/medewerkers-nfi-bij-plaats-delict-liquidatie.jpg"
 ---
 

@@ -4,7 +4,8 @@ title: "Nieuw-Lekkerland, Alblasserdam - Getuige presenteert politie verdachten 
 date: Mon, 23 Apr 2018 14:42:00 GMT
 categories: 
 - zuid-holland 
-- alblasserdam 
+- molenwaard 
+externe_link: "https://www.politie.nl/nieuws/2018/april/23/07-getuige-presenteert-politie-verdachten-op-presenteerblaadje.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

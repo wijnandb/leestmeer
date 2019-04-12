@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 06:27:58 GMT
 categories: 
 - noord-brabant 
 - breda 
+externe_link: "https://www.ad.nl/breda/onderzoeksinstituut-voeg-scholen-in-kern-zundert-samen~aca1c6cd/"
 feature_image: "https://images0.persgroep.net/rcs/cxfrnelAc1wJmC2xOU6kv_YzXqU/diocontent/115622046/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

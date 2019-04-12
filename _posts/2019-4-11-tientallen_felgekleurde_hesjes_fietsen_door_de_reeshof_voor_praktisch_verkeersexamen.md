@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 13:24:32 GMT
 categories: 
 - noord-brabant 
 - tilburg 
+externe_link: "https://www.ad.nl/tilburg/tientallen-felgekleurde-hesjes-fietsen-door-de-reeshof-voor-praktisch-verkeersexamen~a1b78c29/"
 feature_image: "https://images4.persgroep.net/rcs/reobMgG0m3VoD7gbHJIkLRWAVEc/diocontent/145296317/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

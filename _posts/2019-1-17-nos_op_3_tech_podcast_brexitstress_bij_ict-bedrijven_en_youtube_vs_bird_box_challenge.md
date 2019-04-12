@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Brexitstress bij ict-bedrijven en Youtube vs Bird
 date: Thu, 17 Jan 2019 17:14:27 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4091/nporadio1_nosop3techpodcast_20190117_nos-op-3-tech-podcast-brexitstress-bij-ict-bedrijven-en-youtube-vs-bird-box-challenge.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4091/nporadio1_nosop3techpodcast_20190117_nos-op-3-tech-podcast-brexitstress-bij-ict-bedrijven-en-youtube-vs-bird-box-challenge.mp3"
 ---
 
 0:00 De brexit komt steeds dichterbij, en Nederlandse ict bedrijven worden daar steeds zenuwachtiger van.

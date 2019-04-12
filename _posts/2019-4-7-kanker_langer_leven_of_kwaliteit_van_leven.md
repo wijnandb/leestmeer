@@ -2,7 +2,7 @@
 layout: post
 title: "Kanker: langer leven of kwaliteit van leven?"
 date: Sun, 07 Apr 2019 16:17:29 +0200
-category: algemeen
+category: nieuws
 externe_link: "https://nos.nl/l/2279425"
 feature_image: "https://nos.nl/data/image/2019/04/07/542083/1008x567.jpg"
 ---

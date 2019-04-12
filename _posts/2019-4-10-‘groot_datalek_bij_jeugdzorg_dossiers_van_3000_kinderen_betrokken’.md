@@ -2,9 +2,8 @@
 layout: post
 title: "‘Groot datalek bij Jeugdzorg: dossiers van 3000 kinderen betrokken’"
 date: Wed, 10 Apr 2019 14:12:00 GMT
-categories: 
-- utrecht 
-- amersfoort 
+category: tech
+externe_link: "https://www.ad.nl/binnenland/groot-datalek-bij-jeugdzorg-dossiers-van-3000-kinderen-betrokken~a4bd9770e/"
 feature_image: "https://images0.persgroep.net/rcs/uV6J0B9IaqJ2z9JPvUe2esBhEhk/diocontent/141552222/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

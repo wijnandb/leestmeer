@@ -2,7 +2,9 @@
 layout: post
 title: "Toptalent Félix goud waard voor Benfica, Valencia op rozen"
 date: Thu, 11 Apr 2019 23:03:40 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://nos.nl/l/2280053"
 feature_image: "https://nos.nl/data/image/2019/04/11/543003/1008x567.jpg"
 ---

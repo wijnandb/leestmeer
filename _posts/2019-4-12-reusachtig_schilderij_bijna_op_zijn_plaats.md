@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 05:09:20 GMT
 categories: 
 - utrecht 
 - woerden 
+externe_link: "https://www.ad.nl/woerden/reusachtig-schilderij-bijna-op-zijn-plaats~acb56ba1/"
 feature_image: "https://images3.persgroep.net/rcs/KbPSaRtu0GCmeWa814aRy3Plv5Y/diocontent/145297708/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

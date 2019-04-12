@@ -5,6 +5,7 @@ date: Wed, 07 Jun 2017 12:58:00 GMT
 categories: 
 - drenthe 
 - meppel 
+externe_link: "https://www.politie.nl/nieuws/2017/juni/7/01-twee-aanhoudingen-in-straatroof-met-geweld.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2015/april/05-am/poster_actie_tegen_straatroof.jpg"
 ---
 

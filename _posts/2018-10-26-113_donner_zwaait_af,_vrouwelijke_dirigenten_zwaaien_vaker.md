@@ -4,7 +4,6 @@ title: "#113: Donner zwaait af, vrouwelijke dirigenten zwaaien vaker"
 date: Sat, 27 Oct 2018 00:00:00 +0200
 category: podcast
 externe_link: "https://podcast.npo.nl/file/het-beste-uit-het-oog/2918/nporadio1_het-beste-uit-het-oog_20181027_113-donner-zwaait-af-vrouwelijke-dirigenten-zwaaien-vaker.mp3"
-feature_image: "https://podcast.npo.nl/file/het-beste-uit-het-oog/2918/nporadio1_het-beste-uit-het-oog_20181027_113-donner-zwaait-af-vrouwelijke-dirigenten-zwaaien-vaker.mp3"
 ---
 
 In Zuid-Afrika is grote ophef over een rechtszaak die live wordt uitgezonden op televisie. Een bekende tv-dominee staat terecht voor verkrachting. Zijn slachtoffers hadden hem nodig, omdat de dominee ook invloed heeft bij het populaire tv-programma Idols.

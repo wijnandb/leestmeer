@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 16:58:13 GMT
 categories: 
 - noord-brabant 
 - helmond 
+externe_link: "https://www.ad.nl/helmond/hack-elkerliek-in-helmond-e-mail-volstrekt-ongeschikt-voor-versturen-patientengegevens~a1cb1351/"
 feature_image: "https://images2.persgroep.net/rcs/EydjViAg442Qu1iwckBfCqcnKkA/diocontent/145315665/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

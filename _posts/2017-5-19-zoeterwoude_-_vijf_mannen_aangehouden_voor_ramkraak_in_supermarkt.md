@@ -5,6 +5,7 @@ date: Fri, 19 May 2017 10:04:00 GMT
 categories: 
 - zuid-holland 
 - zoeterwoude 
+externe_link: "https://www.politie.nl/nieuws/2017/mei/19/06-zoeterwoude-vijf-mannen-aangehouden-voor-ramkraak-in-supermarkt.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-door-agenten-op-straat.jpg"
 ---
 

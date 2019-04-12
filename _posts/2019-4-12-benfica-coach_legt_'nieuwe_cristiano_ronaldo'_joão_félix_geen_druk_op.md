@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Benfica-coach legt 'nieuwe Cristiano Ronaldo' João Félix geen druk op"
-date: Fri, 12 Apr 2019 08:53:44 +0200
+date: Fri, 12 Apr 2019 09:19:47 +0200
 category: sport
 externe_link: "https://www.nu.nl/voetbal/5839626/benfica-coach-legt-nieuwe-cristiano-ronaldo-joao-felix-geen-druk-op.html"
 feature_image: "https://media.nu.nl/m/vrsx0cla4bj8_sqr256.jpg/benfica-coach-legt-nieuwe-cristiano-ronaldo-joao-felix-geen-druk-op.jpg"

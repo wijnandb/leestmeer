@@ -2,7 +2,9 @@
 layout: post
 title: "Merol sluit jaar af met show in Paradiso"
 date: Tue, 09 Apr 2019 13:42:35 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3417031/merol-sluit-jaar-af-met-show-in-paradiso"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9fbd6a18-5abc-11e9-a3a7-02d1dbdc35d1.jpg"
 ---

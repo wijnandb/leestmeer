@@ -5,6 +5,7 @@ date: Mon, 01 May 2017 11:00:00 GMT
 categories: 
 - zuid-holland 
 - binnenmaas 
+externe_link: "https://www.politie.nl/nieuws/2017/mei/1/07-verdachte-s-gravendeel-vast-na-klopjacht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2015/december/04-nh/heli-le-vooraanzicht.jpg"
 ---
 

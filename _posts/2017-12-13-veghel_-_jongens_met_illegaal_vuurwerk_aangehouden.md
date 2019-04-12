@@ -5,6 +5,7 @@ date: Wed, 13 Dec 2017 14:28:00 GMT
 categories: 
 - noord-brabant 
 - veghel 
+externe_link: "https://www.politie.nl/nieuws/2017/december/13/09-jongens-met-illegaal-vuurwerk-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

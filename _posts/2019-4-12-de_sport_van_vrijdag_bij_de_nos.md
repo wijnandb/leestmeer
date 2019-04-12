@@ -2,7 +2,9 @@
 layout: post
 title: "De sport van vrijdag bij de NOS"
 date: Fri, 12 Apr 2019 06:01:01 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://nos.nl/l/2280063"
 feature_image: "https://nos.nl/data/image/2019/04/12/543022/1008x567.jpg"
 ---

@@ -2,9 +2,8 @@
 layout: post
 title: "Almere - Gezocht - Fastfoodrestaurant overvallen"
 date: Fri, 29 Mar 2019 07:04:00 GMT
-categories: 
-- flevoland 
-- almere 
+category: flevoland
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/03-restaurant-overvallen.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/03-mn/almere-28-kfc.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Sun, 07 Apr 2019 17:58:00 GMT
 categories: 
 - zuid-holland 
 - rotterdam 
+externe_link: "https://www.politie.nl/nieuws/2019/april/7/vijf-aanhoudingen-na-melding-vuurwapens.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/april/07-rt/c5d523dc-0ed8-44fd-b4a0-2a2340650401.jpeg"
 ---
 

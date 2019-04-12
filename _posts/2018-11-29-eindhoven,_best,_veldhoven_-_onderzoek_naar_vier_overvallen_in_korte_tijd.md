@@ -4,7 +4,8 @@ title: "Eindhoven, Best, Veldhoven - Onderzoek naar vier overvallen in korte tij
 date: Thu, 29 Nov 2018 10:35:00 GMT
 categories: 
 - noord-brabant 
-- best 
+- veldhoven 
+externe_link: "https://www.politie.nl/nieuws/2018/november/29/09-onderzoek-naar-vier-overvallen-in-korte-tijd.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/jas-met-opdruk-technische-recherche.jpg"
 ---
 

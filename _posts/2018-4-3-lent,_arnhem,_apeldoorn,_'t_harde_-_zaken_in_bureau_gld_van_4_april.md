@@ -5,6 +5,7 @@ date: Tue, 03 Apr 2018 09:19:00 GMT
 categories: 
 - gelderland 
 - elburg 
+externe_link: "https://www.politie.nl/nieuws/2018/april/3/02-zaken-in-bureau-gld-van-4-april.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/onderwerpen/bureau-gld.jpg"
 ---
 

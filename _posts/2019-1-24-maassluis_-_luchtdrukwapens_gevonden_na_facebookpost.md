@@ -5,6 +5,7 @@ date: Thu, 24 Jan 2019 08:37:00 GMT
 categories: 
 - zuid-holland 
 - maassluis 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/24/07-luchtdrukwapens-gevonden-na-facebookpost.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/januari/07-rt/f-190123-gevonden-nepwapen-maassluis-groot.jpg"
 ---
 

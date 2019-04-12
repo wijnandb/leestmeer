@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 06:22:00 GMT
 categories: 
 - overijssel 
 - hengelo 
+externe_link: "https://www.ad.nl/hengelo/op-zoek-naar-het-verhaal-achter-de-klacht-met-sportzorgmasseur-jorina-uit-hengelo~a38440b4/"
 feature_image: "https://images0.persgroep.net/rcs/SJOD9OIBLwo07FCVd8bik3kIG90/diocontent/145174905/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

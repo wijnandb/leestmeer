@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Betalen met je ring en een nieuwe Europese privac
 date: Thu, 22 Jun 2017 17:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4169/nporadio1_nosop3techpodcast_20170622_nos-op-3-tech-podcast-betalen-met-je-ring-en-een-nieuwe-europese-privacywet.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4169/nporadio1_nosop3techpodcast_20170622_nos-op-3-tech-podcast-betalen-met-je-ring-en-een-nieuwe-europese-privacywet.mp3"
 ---
 
 0:00 Bedrijven kunnen vanaf volgend jaar flinke boetes krijgen als ze slordig omgaan met data van gebruikers, maar het blijkt dat veel bedrijven nog helemaal niet klaar zijn voor deze nieuwe regels.

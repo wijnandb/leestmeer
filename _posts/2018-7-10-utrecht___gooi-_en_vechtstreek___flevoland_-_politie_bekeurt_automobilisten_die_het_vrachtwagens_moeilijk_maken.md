@@ -5,6 +5,7 @@ date: Tue, 10 Jul 2018 16:23:00 GMT
 categories: 
 - flevoland 
 - lelystad 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/10/03-mdn-politie-bekeurt-automobilisten-die-het-vrachtwagens-moeilijk-maken.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/motoragent-rijdt-naast-auto-op-snelweg.jpg"
 ---
 

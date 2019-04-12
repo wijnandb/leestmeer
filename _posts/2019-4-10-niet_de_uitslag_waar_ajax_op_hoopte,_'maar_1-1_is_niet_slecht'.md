@@ -2,7 +2,9 @@
 layout: post
 title: "Niet de uitslag waar Ajax op hoopte, 'maar 1-1 is niet slecht'"
 date: Thu, 11 Apr 2019 00:19:07 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://nos.nl/l/2279921"
 feature_image: "https://nos.nl/data/image/2019/04/11/542836/1008x567.jpg"
 ---

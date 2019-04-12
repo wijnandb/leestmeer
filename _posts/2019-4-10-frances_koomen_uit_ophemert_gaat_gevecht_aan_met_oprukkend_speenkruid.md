@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 11:01:00 GMT
 categories: 
 - gelderland 
 - zaltbommel 
+externe_link: "https://www.ad.nl/zaltbommel/frances-koomen-uit-ophemert-gaat-gevecht-aan-met-oprukkend-speenkruid~a78c5e4e/"
 feature_image: "https://images0.persgroep.net/rcs/AVVNsiT-e9p8ob6yiX9FBIFUVsI/diocontent/145107103/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

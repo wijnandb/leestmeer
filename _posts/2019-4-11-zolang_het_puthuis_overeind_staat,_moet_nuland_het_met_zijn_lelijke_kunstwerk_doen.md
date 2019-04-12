@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 07:02:00 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.ad.nl/den-bosch/zolang-het-puthuis-overeind-staat-moet-nuland-het-met-zijn-lelijke-kunstwerk-doen~aee5c678/"
 feature_image: "https://images1.persgroep.net/rcs/X5gse6563njWbcaugNmWgqbqkX0/diocontent/144774928/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

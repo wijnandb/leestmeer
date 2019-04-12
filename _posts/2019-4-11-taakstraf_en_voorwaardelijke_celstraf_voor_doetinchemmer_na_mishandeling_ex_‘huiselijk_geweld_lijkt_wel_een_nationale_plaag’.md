@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 13:00:38 GMT
 categories: 
 - gelderland 
 - doetinchem 
+externe_link: "https://www.ad.nl/doetinchem/taakstraf-en-voorwaardelijke-celstraf-voor-doetinchemmer-na-mishandeling-ex-huiselijk-geweld-lijkt-wel-een-nationale-plaag~ae6b2c18/"
 feature_image: "https://images1.persgroep.net/rcs/ZPtVVumOdcChrEe_MQBXlc-AMwo/diocontent/103693037/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

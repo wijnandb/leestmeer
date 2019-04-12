@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 15:20:52 +0200
 categories: 
 - entertainment 
 - games 
+externe_link: "https://www.nu.nl/games/5836365/playstation-gebruikers-kunnen-vanaf-donderdag-namen-aanpassen.html"
 feature_image: "https://media.nu.nl/m/0m0x33kam3p2_sqr256.jpg/playstation-gebruikers-kunnen-vanaf-donderdag-namen-aanpassen.jpg"
 ---
 

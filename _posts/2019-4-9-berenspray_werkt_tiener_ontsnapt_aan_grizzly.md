@@ -2,7 +2,7 @@
 layout: post
 title: "Berenspray werkt: tiener ontsnapt aan grizzly"
 date: Tue, 09 Apr 2019 15:17:52 +0200
-category: algemeen
+category: opmerkelijk
 externe_link: "https://www.telegraaf.nl/nieuws/3418205/berenspray-werkt-tiener-ontsnapt-aan-grizzly"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ef237d98-5ae6-11e9-8fc6-02d2fb1aa1d7.jpg"
 ---

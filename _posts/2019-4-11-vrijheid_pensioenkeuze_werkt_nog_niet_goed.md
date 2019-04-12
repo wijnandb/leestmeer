@@ -2,9 +2,8 @@
 layout: post
 title: "Vrijheid pensioenkeuze werkt nog niet goed"
 date: Thu, 11 Apr 2019 13:26:51 +0200
-categories: 
-- financieel 
-- geld 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3430320/vrijheid-pensioenkeuze-werkt-nog-niet-goed"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/da511e4c-5c59-11e9-a131-0255c322e81b.jpg"
 ---
 

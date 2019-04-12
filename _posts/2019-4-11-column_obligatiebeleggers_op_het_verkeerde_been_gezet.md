@@ -2,9 +2,8 @@
 layout: post
 title: "Column: Obligatiebeleggers op het verkeerde been gezet?"
 date: Thu, 11 Apr 2019 14:28:59 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3430975/column-obligatiebeleggers-op-het-verkeerde-been-gezet"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/61e109bc-5c55-11e9-8d0e-02d1dbdc35d1.jpg"
 ---
 

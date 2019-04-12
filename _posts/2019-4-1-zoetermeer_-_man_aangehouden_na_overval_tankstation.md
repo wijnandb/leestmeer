@@ -5,6 +5,7 @@ date: Mon, 01 Apr 2019 14:25:00 GMT
 categories: 
 - zuid-holland 
 - zoetermeer 
+externe_link: "https://www.politie.nl/nieuws/2019/april/1/06-zoetermeer---man-aangehouden-na-overval-tankstation.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/politie-embleem.jpg"
 ---
 

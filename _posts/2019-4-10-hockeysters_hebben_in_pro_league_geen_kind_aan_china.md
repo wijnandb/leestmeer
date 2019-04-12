@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 18:29:00 GMT
 categories: 
 - sport 
 - andere_sporten 
+externe_link: "https://www.ad.nl/andere-sporten/hockeysters-hebben-in-pro-league-geen-kind-aan-china~a246edd1/"
 feature_image: "https://images4.persgroep.net/rcs/rLot6YmBZnhRYzTQde69K9XlBz8/diocontent/145256620/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

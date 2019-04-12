@@ -5,6 +5,7 @@ date: Tue, 05 Mar 2019 10:50:00 GMT
 categories: 
 - utrecht 
 - veenendaal 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/5/getuigen-gezocht-ongeval-rondweg-veenendaal.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/zijkant-politieauto-met-logo.jpg"
 ---
 

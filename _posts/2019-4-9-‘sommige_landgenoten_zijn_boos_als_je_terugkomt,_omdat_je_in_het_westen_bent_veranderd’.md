@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "‘Sommige landgenoten zijn boos als je terugkomt, omdat je in het westen bent veranderd’"
+title: "‘Sommige landgenoten zijn boos als je terugkomt, omdat je in het Westen bent veranderd’"
 date: Tue, 09 Apr 2019 18:06:00 GMT
 categories: 
 - overig 

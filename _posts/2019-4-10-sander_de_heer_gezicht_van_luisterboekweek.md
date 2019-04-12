@@ -2,7 +2,9 @@
 layout: post
 title: "Sander de Heer gezicht van luisterboekweek"
 date: Wed, 10 Apr 2019 11:52:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3423256/sander-de-heer-gezicht-van-luisterboekweek"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4a26596a-5b7b-11e9-9cd4-0217670beecd.jpg"
 ---

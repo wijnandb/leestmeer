@@ -5,6 +5,7 @@ date: Sun, 28 Aug 2016 09:19:00 GMT
 categories: 
 - utrecht 
 - eemnes 
+externe_link: "https://www.politie.nl/nieuws/2016/augustus/28/03-baarn-vluchtende-automobilist-rijdt-tegen-boom.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/politieman-en-ambulancebroeder.jpg"
 ---
 

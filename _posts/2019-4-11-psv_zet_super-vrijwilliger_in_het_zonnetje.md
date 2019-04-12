@@ -2,7 +2,9 @@
 layout: post
 title: "PSV zet super-vrijwilliger in het zonnetje"
 date: Thu, 11 Apr 2019 19:25:12 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3433158/psv-zet-super-vrijwilliger-in-het-zonnetje"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/81ecaef2-5c80-11e9-a27a-02d1dbdc35d1.jpg"
 ---

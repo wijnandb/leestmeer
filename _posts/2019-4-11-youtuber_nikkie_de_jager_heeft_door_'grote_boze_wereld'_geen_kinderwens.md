@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 14:18:26 +0200
 categories: 
 - entertainment 
 - achterklap 
+externe_link: "https://www.nu.nl/achterklap/5837559/youtuber-nikkie-de-jager-heeft-door-grote-boze-wereld-geen-kinderwens.html"
 feature_image: "https://media.nu.nl/m/e6kxgbwak6wb_sqr256.jpg/youtuber-nikkie-de-jager-heeft-door-grote-boze-wereld-geen-kinderwens.jpg"
 ---
 

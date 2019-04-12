@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 20:32:39 GMT
 categories: 
 - noord-brabant 
 - eindhoven 
+externe_link: "https://www.ad.nl/eindhoven/eindhoven-moet-vuurwerkverbod-niet-aan-wijkbewoners-overlaten~ac23ac74/"
 feature_image: "https://images4.persgroep.net/rcs/Q4D2HX2CMLYE3oM6e8zllZnQe1I/diocontent/116841559/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

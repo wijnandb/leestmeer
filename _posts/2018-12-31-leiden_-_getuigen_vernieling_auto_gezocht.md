@@ -5,6 +5,7 @@ date: Mon, 31 Dec 2018 15:01:00 GMT
 categories: 
 - zuid-holland 
 - leiden 
+externe_link: "https://www.politie.nl/nieuws/2018/december/31/06-getuigen-gezocht-van-vernieling-auto.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/politie-embleem.jpg"
 ---
 

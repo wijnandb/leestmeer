@@ -5,6 +5,7 @@ date: Thu, 15 Nov 2018 11:57:00 GMT
 categories: 
 - noord-brabant 
 - waalre 
+externe_link: "https://www.politie.nl/nieuws/2018/november/15/08-uitzending-bureau-brabant-maandag-19-november.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/november/08-zw/compilatie-draaidag-14-nov-2018-002.jpg"
 ---
 

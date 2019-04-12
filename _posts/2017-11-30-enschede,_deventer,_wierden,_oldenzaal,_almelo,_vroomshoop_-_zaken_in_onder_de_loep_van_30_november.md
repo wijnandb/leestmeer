@@ -5,6 +5,7 @@ date: Thu, 30 Nov 2017 09:19:00 GMT
 categories: 
 - overijssel 
 - wierden 
+externe_link: "https://www.politie.nl/nieuws/2017/november/28/02-zaken-in-onder-de-loep-van-30-november.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/onderwerpen/onder-de-loep.jpg"
 ---
 

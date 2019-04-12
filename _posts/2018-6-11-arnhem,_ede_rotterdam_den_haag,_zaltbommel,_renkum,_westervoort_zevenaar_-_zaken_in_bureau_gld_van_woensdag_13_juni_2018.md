@@ -4,7 +4,8 @@ title: "Arnhem, Ede/Rotterdam/Den Haag, Zaltbommel, Renkum, Westervoort/Zevenaar
 date: Mon, 11 Jun 2018 11:53:00 GMT
 categories: 
 - gelderland 
-- westervoort 
+- zaltbommel 
+externe_link: "https://www.politie.nl/nieuws/2018/juni/11/zaken-in-bureau-gld-van-woe-13-juni-2018.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/mijn-buurt/regionale-opsporingsprogrammas/logo-of-beeldmerk/logobureaugld.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Fors minder pensioen voor vrouwen"
 date: Tue, 09 Apr 2019 00:01:00 +0200
-category: financieel
+categories: 
+- financieel 
+- geld 
 externe_link: "https://www.telegraaf.nl/financieel/3414186/fors-minder-pensioen-voor-vrouwen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5195c052-5a43-11e9-b7ab-02d1dbdc35d1.jpg"
 ---

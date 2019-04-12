@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bij mij kan Madonna niet meer van haar voetstuk vallen, maar een ouwe schnabbelartiest vind ik haar wel"
-date: Tue, 09 Apr 2019 09:29:35 GMT
+date: Tue, 09 Apr 2019 09:29:00 GMT
 categories: 
 - overig 
 - mensen 

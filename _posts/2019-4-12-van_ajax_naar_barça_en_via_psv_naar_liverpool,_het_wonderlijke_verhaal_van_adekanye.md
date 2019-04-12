@@ -2,7 +2,9 @@
 layout: post
 title: "Van Ajax naar Barça en via PSV naar Liverpool, het wonderlijke verhaal van Adekanye"
 date: Fri, 12 Apr 2019 06:01:38 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://nos.nl/l/2280064"
 feature_image: "https://nos.nl/data/image/2019/04/12/543023/1008x567.jpg"
 ---
@@ -30,7 +32,6 @@ feature_image: "https://nos.nl/data/image/2019/04/12/543023/1008x567.jpg"
 <h2>Liverpool</h2>
 <p>Hij verkast uiteindelijk naar Engeland, waar hij gaat spelen voor Liverpool. De verwachtingen zijn hooggespannen en Adekanye tekent voor vier jaar, een contractduur waar veel vertrouwen uit spreekt. Maar ook bij deze Europese topclub loopt het anders dan hij had gehoopt.</p>
 <p>Een ander Nederlands talent van Liverpool, Ki-Jana Hoever, traint ondanks zijn jongere leeftijd - hij is pas zeventien jaar - vaker mee met het eerste elftal en maakte zelfs op zestienjarige leeftijd al zijn debuut. Adekanye is inmiddels twintig en wacht nog steeds.</p>
-<p>Klik hieronder op de link voor een uitgebreid artikel met en over Hoever, zijn mentale uitdagingen en zijn band met rolmodel Virgil van Dijk. </p>
 <p>"Ik zat er dichtbij aan het begin van het seizoen", vertelt de tweebenige buitenspeler. Hij rekent er in de voorbereiding zelfs op dat hij met het eerste mee mag op een oefentrip naar Amerika. Maar nee, Adekanye moet mee met Jong Liverpool naar Hongarije.</p>
 <p>"Dat was balen, maar al vrij snel ben ik weer hard aan de slag gegaan en mocht ik een paar keer meetrainen met het eerste." Toch krijgt de Nigeriaan met een Nederlands paspoort niet het gevoel dat hij helemaal serieus genomen wordt door trainer Jürgen Klopp en zijn staf.</p>
 <h2>Plan</h2>

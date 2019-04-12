@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Nepaccounts op Instagram en een film over cyberpe
 date: Thu, 21 Sep 2017 18:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4162/nporadio1_nosop3techpodcast_20170921_nos-op-3-tech-podcast-nepaccounts-op-instagram-en-een-film-over-cyberpesten.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4162/nporadio1_nosop3techpodcast_20170921_nos-op-3-tech-podcast-nepaccounts-op-instagram-en-een-film-over-cyberpesten.mp3"
 ---
 
 0:00 De collega's van Mashup doken in de schimmige wereld achter Instagram modellen. Er zijn veel mensen die geld (proberen te) verdienen als social influencer, maar niet iedereen heeft zin om jaren te werken om publiek op te bouwen. Er blijken verschillende manieren te zijn om snel 'populair' te worden.

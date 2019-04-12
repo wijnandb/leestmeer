@@ -5,6 +5,7 @@ date: Tue, 28 Aug 2018 11:47:00 GMT
 categories: 
 - zuid-holland 
 - zwijndrecht 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/28/jerrycans-gevaarlijke-stoffen-gevonden-twee-aanhoudingen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/drugs/vaten-gbl-in-laadruimte-vrachtauto.jpg"
 ---
 

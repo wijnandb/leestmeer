@@ -2,7 +2,9 @@
 layout: post
 title: "Kittel: Ik ga door een moeilijke tijd heen"
 date: Thu, 11 Apr 2019 22:52:00 GMT
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.ad.nl/wielrennen/kittel-ik-ga-door-een-moeilijke-tijd-heen~a80298cd/"
 feature_image: "https://images2.persgroep.net/rcs/KwHnzvGJZCWh6uzGrIgNfxJAFZ0/diocontent/143285661/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

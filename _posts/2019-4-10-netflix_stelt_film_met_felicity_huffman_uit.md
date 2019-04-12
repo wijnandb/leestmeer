@@ -2,7 +2,9 @@
 layout: post
 title: "Netflix stelt film met Felicity Huffman uit"
 date: Wed, 10 Apr 2019 08:22:01 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3421629/netflix-stelt-film-met-felicity-huffman-uit"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/08241c42-5b7f-11e9-8d7a-0218eaf05005.jpg"
 ---

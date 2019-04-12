@@ -5,6 +5,7 @@ date: Wed, 10 Oct 2018 13:37:00 GMT
 categories: 
 - noord-holland 
 - enkhuizen 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/10/04-twee-aanhoudingen-na-onderzoek-witwassen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/oktober/04-nh/aanhoudingen-in-witwas-onderzoek.jpg"
 ---
 

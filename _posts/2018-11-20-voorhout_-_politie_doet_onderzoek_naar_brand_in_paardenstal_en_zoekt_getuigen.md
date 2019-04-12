@@ -5,6 +5,7 @@ date: Tue, 20 Nov 2018 10:14:00 GMT
 categories: 
 - zuid-holland 
 - katwijk 
+externe_link: "https://www.politie.nl/nieuws/2018/november/20/06-voorhout-politie-doet-onderzoek-naar-brand-in-paardenstal-en-zoekt-getuigen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/zijkant-politieauto-met-logo.jpg"
 ---
 

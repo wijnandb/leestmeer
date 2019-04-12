@@ -5,6 +5,7 @@ date: Sat, 26 Jan 2019 09:22:00 GMT
 categories: 
 - zuid-holland 
 - alblasserdam 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/26/07-twee-inbrekers-bedrijfsinbraak-op-heterdaad-betrapt.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/logo-op-uniformjas.jpg"
 ---
 

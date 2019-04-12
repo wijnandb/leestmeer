@@ -4,7 +4,6 @@ title: "Hoe voordelig is Black Friday en #tagged de serie"
 date: Thu, 22 Nov 2018 16:52:47 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4098/nporadio1_nosop3techpodcast_20181122_hoe-voordelig-is-black-friday-en-tagged-de-serie.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4098/nporadio1_nosop3techpodcast_20181122_hoe-voordelig-is-black-friday-en-tagged-de-serie.mp3"
 ---
 
 0:00 De Tweede Kamer is bang dat Chinese spionnen stiekem mee kunnen kijken in het communicatiesysteem van politie en andere hulpdiensten.

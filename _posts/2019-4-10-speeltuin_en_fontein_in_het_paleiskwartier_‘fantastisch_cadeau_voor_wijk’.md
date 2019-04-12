@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 15:00:50 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.ad.nl/den-bosch/speeltuin-en-fontein-in-het-paleiskwartier-fantastisch-cadeau-voor-wijk~a6905dd4/"
 feature_image: "https://images1.persgroep.net/rcs/b7P9paGRlJbb5jPm9OrzgMaP77g/diocontent/145246245/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Tue, 19 Feb 2019 10:34:00 GMT
 categories: 
 - zuid-holland 
 - zuidplas 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/19/06-ernstige-zedenzaak-nieuwerkerk-aan-den-ijssel-in-team-west-en-opsporing-verzocht.html"
 ---
 
 De zedenrecherche vraagt dinsdag 19 februari in de opsporingsprogramma’s Team West en Opsporing Verzocht met uitgebreide reconstructies aandacht voor een ernstig zedendelict in de omgeving van de golfbaan Hitland in Nieuwerkerk aan den IJssel. In aanloop naar de uitzending zijn vandaag stoepborden geplaatst in deze omgeving om aandacht te vragen voor deze zaak.

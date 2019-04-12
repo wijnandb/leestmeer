@@ -2,7 +2,9 @@
 layout: post
 title: "Tim Haars en Susan Visser lezen Amsterdamned voor"
 date: Thu, 11 Apr 2019 22:36:15 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3433828/tim-haars-en-susan-visser-lezen-amsterdamned-voor"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8763f106-5c99-11e9-96f7-02d2fb1aa1d7.jpg"
 ---

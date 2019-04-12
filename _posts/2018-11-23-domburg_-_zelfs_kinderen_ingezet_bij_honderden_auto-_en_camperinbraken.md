@@ -3,8 +3,9 @@ layout: post
 title: "Domburg - Zelfs kinderen ingezet bij honderden auto- en camperinbraken"
 date: Fri, 23 Nov 2018 09:30:00 GMT
 categories: 
-- zeeland 
-- veere 
+- zuid-holland 
+- goeree-overflakkee 
+externe_link: "https://www.politie.nl/nieuws/2018/november/23/08-onderzoek-domburg.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/november/08-zw/logo-week-tegen-kindermishandeling.jpg"
 ---
 

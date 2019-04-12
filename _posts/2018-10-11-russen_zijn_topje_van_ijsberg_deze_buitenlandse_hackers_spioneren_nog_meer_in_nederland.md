@@ -4,7 +4,6 @@ title: "Russen zijn topje van ijsberg: deze buitenlandse hackers spioneren nog m
 date: Thu, 11 Oct 2018 17:30:42 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4105/nporadio1_nosop3techpodcast_20181011_russen-zijn-topje-van-ijsberg-deze-buitenlandse-hackers-spioneren-nog-meer-in-nederland.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4105/nporadio1_nosop3techpodcast_20181011_russen-zijn-topje-van-ijsberg-deze-buitenlandse-hackers-spioneren-nog-meer-in-nederland.mp3"
 ---
 
 0:00 De Russen zijn het topje van ijsberg: welke buitenlandse hackers spioneren nog meer in Nederland? Dat vertellen Jornt van der Wiel van beveiligingsbedrijf Kaspersky en NOS-techredacteur Joost Schellevis.

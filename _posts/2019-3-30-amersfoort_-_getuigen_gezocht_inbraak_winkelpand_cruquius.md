@@ -5,6 +5,7 @@ date: Sat, 30 Mar 2019 08:51:00 GMT
 categories: 
 - utrecht 
 - amersfoort 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/30/03-getuigen-gezocht-inbraak-winkelpand-cruquius.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/detailopname-surveillancewagen.jpg"
 ---
 

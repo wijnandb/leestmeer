@@ -5,6 +5,7 @@ date: Wed, 16 Jan 2019 11:03:00 GMT
 categories: 
 - gelderland 
 - doetinchem 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/november/02-oon/fb/man-steelt-harde-schijven-doetinchem.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/november/02-on/2018473445-1.jpg"
 ---
 

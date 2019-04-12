@@ -2,7 +2,9 @@
 layout: post
 title: "LA vernoemt kruising naar neergeschoten Nipsey Hussle"
 date: Wed, 10 Apr 2019 09:34:54 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3421963/la-vernoemt-kruising-naar-neergeschoten-nipsey-hussle"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/40935e70-5b80-11e9-8c76-02d1dbdc35d1.jpg"
 ---

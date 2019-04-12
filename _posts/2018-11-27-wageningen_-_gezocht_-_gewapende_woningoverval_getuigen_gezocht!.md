@@ -5,6 +5,7 @@ date: Tue, 27 Nov 2018 08:24:00 GMT
 categories: 
 - gelderland 
 - wageningen 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/september/02-oon/gld/gewapende-woningoverval.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/september/02-on/2018417914-1.jpg"
 ---
 

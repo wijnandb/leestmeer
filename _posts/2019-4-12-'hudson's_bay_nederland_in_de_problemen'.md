@@ -2,9 +2,11 @@
 layout: post
 title: "'Hudson's Bay Nederland in de problemen'"
 date: Fri, 12 Apr 2019 11:03:17 +0200
-category: nieuws
+categories: 
+- financieel 
+- economie 
 externe_link: "https://nos.nl/l/2280105"
-feature_image: "https://nos.nl/data/image/2019/01/16/525107/1008x567.jpg"
+feature_image: "https://nos.nl/data/image/2019/04/12/543087/1008x567.jpg"
 ---
 
 <p>Volgens een Duits zakenblad gaat het slecht bij Hudson's Bay Nederland. Het blad WirtschaftsWoche schrijft dat in interne documenten van moederbedrijf Karstadt staat dat "een sluiting of faillissement later dit jaar de economisch zinvolste oplossing is."</p>

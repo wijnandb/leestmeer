@@ -2,7 +2,9 @@
 layout: post
 title: "Jos Verstappen: ’Toto Wolff belt nooit’"
 date: Mon, 08 Apr 2019 19:55:56 +0200
-category: sport
+categories: 
+- sport 
+- autosport 
 externe_link: "https://www.telegraaf.nl/sport/3413679/jos-verstappen-toto-wolff-belt-nooit"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/51f01f36-5a3c-11e9-8254-02d2fb1aa1d7.jpg"
 ---

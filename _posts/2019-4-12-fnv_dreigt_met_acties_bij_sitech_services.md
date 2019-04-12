@@ -2,9 +2,8 @@
 layout: post
 title: "FNV dreigt met acties bij Sitech Services"
 date: Fri, 12 Apr 2019 10:13:39 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3435161/fnv-dreigt-met-acties-bij-sitech-services"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e0d87160-5cfa-11e9-8c76-02d1dbdc35d1.jpg"
 ---
 

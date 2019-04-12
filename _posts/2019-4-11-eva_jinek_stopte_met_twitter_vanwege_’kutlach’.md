@@ -2,9 +2,8 @@
 layout: post
 title: "Eva Jinek stopte met Twitter vanwege ’kutlach’"
 date: Thu, 11 Apr 2019 23:59:31 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3434117/eva-jinek-stopte-met-twitter-vanwege-kutlach"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1cd417b0-5ca5-11e9-b673-0255c322e81b.jpg"
 ---
 

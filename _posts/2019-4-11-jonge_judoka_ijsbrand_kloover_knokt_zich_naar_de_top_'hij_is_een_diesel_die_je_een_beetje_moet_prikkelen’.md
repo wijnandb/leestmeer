@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 05:29:00 GMT
 categories: 
 - noord-brabant 
 - tilburg 
+externe_link: "https://www.ad.nl/tilburg/jonge-judoka-ijsbrand-kloover-knokt-zich-naar-de-top-hij-is-een-diesel-die-je-een-beetje-moet-prikkelen~a0bdb034/"
 feature_image: "https://images3.persgroep.net/rcs/5Mp-QzHOnXfA6IevM094_GfjDlc/diocontent/145182893/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

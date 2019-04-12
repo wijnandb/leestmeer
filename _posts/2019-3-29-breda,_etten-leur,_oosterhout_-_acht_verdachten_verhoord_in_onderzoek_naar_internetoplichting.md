@@ -5,6 +5,7 @@ date: Fri, 29 Mar 2019 14:04:00 GMT
 categories: 
 - noord-brabant 
 - breda 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/29/08-acht-verdachten-verhoord-in-onderzoek-naar-internetoplichting.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/cybercrime/cybercrime-online-winkelen.jpg"
 ---
 

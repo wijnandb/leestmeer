@@ -5,6 +5,7 @@ date: Fri, 06 Jan 2017 15:39:00 GMT
 categories: 
 - noord-brabant 
 - maasdonk 
+externe_link: "https://www.politie.nl/nieuws/2017/januari/6/09-man-omgekomen-bij-aanrijding-tussen-trein-en-auto.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/trein-sprinter.jpg"
 ---
 

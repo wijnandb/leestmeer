@@ -2,9 +2,8 @@
 layout: post
 title: "De zeven leukste activiteiten van dit weekend in Utrecht"
 date: Fri, 12 Apr 2019 09:30:53 GMT
-categories: 
-- utrecht 
-- utrecht 
+category: utrecht
+externe_link: "https://www.ad.nl/utrecht/de-zeven-leukste-activiteiten-van-dit-weekend-in-utrecht~af614be2/"
 feature_image: "https://images3.persgroep.net/rcs/5DmUjYiYng6JomMf2SPFRUvheKo/diocontent/145300094/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

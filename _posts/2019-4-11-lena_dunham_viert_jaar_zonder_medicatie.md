@@ -2,9 +2,8 @@
 layout: post
 title: "Lena Dunham viert jaar zonder medicatie"
 date: Thu, 11 Apr 2019 10:11:25 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3428739/lena-dunham-viert-jaar-zonder-medicatie"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6b4208b8-5c31-11e9-8d9b-02d1dbdc35d1.jpg"
 ---
 

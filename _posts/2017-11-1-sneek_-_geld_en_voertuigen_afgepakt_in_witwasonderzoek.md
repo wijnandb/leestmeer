@@ -5,6 +5,7 @@ date: Wed, 01 Nov 2017 10:01:00 GMT
 categories: 
 - fryslan 
 - súdwest-fryslân 
+externe_link: "https://www.politie.nl/nieuws/2017/november/1/01-geld-en-voertuigen-afgepakt-in-witwasonderzoek.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/november/01-nn/geldibn.jpg"
 ---
 

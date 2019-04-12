@@ -5,6 +5,7 @@ date: Tue, 29 Aug 2017 17:35:00 GMT
 categories: 
 - zuid-holland 
 - westvoorne 
+externe_link: "https://www.politie.nl/nieuws/2017/augustus/29/07-politie-zoekt-tweede-verdachte-dood-caroline-van-toledo.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/gezocht/dossiers/2015/07-rotterdam/caroline-van-toledo.jpg"
 ---
 

@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Waar blijft die glasvezel nou en een social media
 date: Thu, 04 May 2017 17:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4175/nporadio1_nosop3techpodcast_20170504_nos-op-3-tech-podcast-waar-blijft-die-glasvezel-nou-en-een-social-media-nachtmerriescenario.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4175/nporadio1_nosop3techpodcast_20170504_nos-op-3-tech-podcast-waar-blijft-die-glasvezel-nou-en-een-social-media-nachtmerriescenario.mp3"
 ---
 
 0:00 Glasvezel is de grote belofte voor supersnel internet, maar toch gaat de opkomst ervan in Nederland niet zo snel, hoe komt dat?

@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 14:22:16 +0200
 categories: 
 - entertainment 
 - opmerkelijk 
+externe_link: "https://www.nu.nl/opmerkelijk/5836284/vier-levende-bijen-aangetroffen-in-oog-van-taiwanese-vrouw.html"
 feature_image: "https://media.nu.nl/m/wofxaprae5o7_sqr256.jpg/vier-levende-bijen-aangetroffen-in-oog-van-taiwanese-vrouw.jpg"
 ---
 

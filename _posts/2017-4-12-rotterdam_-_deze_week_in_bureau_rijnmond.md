@@ -5,6 +5,7 @@ date: Wed, 12 Apr 2017 11:37:00 GMT
 categories: 
 - zuid-holland 
 - zederik 
+externe_link: "https://www.politie.nl/nieuws/2017/april/12/07-deze-week-in-bureau-rijnmond.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/maar/07-rotterdam/br.jpg"
 ---
 

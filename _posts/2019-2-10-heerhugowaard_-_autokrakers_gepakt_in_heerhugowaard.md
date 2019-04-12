@@ -5,6 +5,7 @@ date: Sun, 10 Feb 2019 10:41:00 GMT
 categories: 
 - noord-holland 
 - heerhugowaard 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/10/04-autokrakers-gepakt-in-heerhugowaard.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

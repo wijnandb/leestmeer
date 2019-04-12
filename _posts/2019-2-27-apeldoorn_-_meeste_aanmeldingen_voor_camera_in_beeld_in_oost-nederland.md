@@ -5,6 +5,7 @@ date: Wed, 27 Feb 2019 15:03:00 GMT
 categories: 
 - gelderland 
 - apeldoorn 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/27/02-meeste-aanmeldingen-voor-camera-in-beeld-in-oost-nederland.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/februari/02-on/hebben-wij-uw-camera-al-in-beeld.jpg"
 ---
 

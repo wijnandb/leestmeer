@@ -4,7 +4,8 @@ title: "Melissant - Politie zoekt getuigen van aanrijding met verkeersregelaar"
 date: Tue, 04 Dec 2018 09:43:00 GMT
 categories: 
 - zuid-holland 
-- dirksland 
+- goeree-overflakkee 
+externe_link: "https://www.politie.nl/nieuws/2018/december/4/07-politie-zoekt-getuigen-van-aanrijding-met-verkeersregelaar.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/detailfoto-van-een-zwaailicht-bij-een-kas.jpg"
 ---
 

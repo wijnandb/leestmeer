@@ -4,7 +4,6 @@ title: "#134 Wie is Baudet, biografie Churchill en voorlichting voor jongens"
 date: Sat, 23 Mar 2019 14:31:31 +0100
 category: podcast
 externe_link: "https://podcast.npo.nl/file/het-beste-uit-het-oog/4849/nporadio1_het-beste-uit-het-oog_20190323_134-wie-is-baudet-biografie-churchill-en-voorlichting-voor-jongens_D5UYX8.mp3"
-feature_image: "https://podcast.npo.nl/file/het-beste-uit-het-oog/4849/nporadio1_het-beste-uit-het-oog_20190323_134-wie-is-baudet-biografie-churchill-en-voorlichting-voor-jongens_D5UYX8.mp3"
 ---
 
 Hoe belangrijk is het voor de Dienst Speciale Interventie, die de klopjacht opende op Gökman T na de aanslag in Utrecht, om te weten wat het motief van de dader is? Politiewetenschapper Jaap Timmer vertelt erover.

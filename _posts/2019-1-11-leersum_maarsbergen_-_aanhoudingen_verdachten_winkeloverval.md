@@ -5,6 +5,7 @@ date: Fri, 11 Jan 2019 08:10:00 GMT
 categories: 
 - utrecht 
 - utrechtse_heuvelrug 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/11/03-leersum-aanhoudingen-verdachten-winkeloverval.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

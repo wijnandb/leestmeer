@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 15:10:26 GMT
 categories: 
 - entertainment 
 - cultuur 
+externe_link: "https://www.volkskrant.nl/nieuws-achtergrond/nu-in-de-voorverkoop-onversneden-r-b-van-khalid-en-zwarte-gatenrock-van-muse~b0a3b3e4/"
 feature_image: "https://images3.persgroep.net/rcs/zW52qd5dia3hJ0THNmZRnYwKMu8/diocontent/145119998/_focus/0.482421875/0.2697947214076246/_fill/320/320?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.85"
 ---
 

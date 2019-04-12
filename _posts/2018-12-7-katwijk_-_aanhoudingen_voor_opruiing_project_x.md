@@ -3,8 +3,9 @@ layout: post
 title: "Katwijk - Aanhoudingen voor opruiing Project X"
 date: Fri, 07 Dec 2018 20:05:00 GMT
 categories: 
-- noord-brabant 
-- cuijk 
+- zuid-holland 
+- bergambacht 
+externe_link: "https://www.politie.nl/nieuws/2018/december/7/09-aanhoudingen-voor-opruiing-project-x.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/cybercrime/digitaal-onderzoek-door-rechercheur-en-agent.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Mon, 25 Mar 2019 16:35:00 GMT
 categories: 
 - noord-holland 
 - amsterdam 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/25/05-aanhouding-na-antiracisme-demonstratie-amsterdam.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/politie-embleem.jpg"
 ---
 

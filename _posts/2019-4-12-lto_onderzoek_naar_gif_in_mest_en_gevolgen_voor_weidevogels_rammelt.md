@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 04:00:53 GMT
 categories: 
 - overijssel 
 - zwolle 
+externe_link: "https://www.ad.nl/zwolle/lto-onderzoek-naar-gif-in-mest-en-gevolgen-voor-weidevogels-rammelt~a86ff69b/"
 feature_image: "https://images1.persgroep.net/rcs/pQU8cc5tf8ra8e0AayzRZtXOmz4/diocontent/144995111/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

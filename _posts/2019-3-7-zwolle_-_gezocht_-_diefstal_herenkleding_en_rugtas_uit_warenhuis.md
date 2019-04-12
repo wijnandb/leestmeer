@@ -5,6 +5,7 @@ date: Thu, 07 Mar 2019 09:29:00 GMT
 categories: 
 - overijssel 
 - zwolle 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/02-oon/odl/diefstal-herenkleding-en-rugtas-warenhuis.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/02-on/2018392916-1.jpg"
 ---
 

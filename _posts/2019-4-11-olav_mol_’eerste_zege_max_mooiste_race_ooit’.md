@@ -4,7 +4,8 @@ title: "Olav Mol: ’Eerste zege Max mooiste race ooit’"
 date: Thu, 11 Apr 2019 10:09:07 +0200
 categories: 
 - sport 
-- autosport 
+- scoreboard 
+externe_link: "https://www.telegraaf.nl/sport/3428720/olav-mol-eerste-zege-max-mooiste-race-ooit"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0826dfaa-5c32-11e9-847b-0218eaf05005.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 17 Oct 2018 11:57:00 GMT
 categories: 
 - zuid-holland 
 - sliedrecht 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/17/verdachte-autodiefstal-ook-verdacht-van-diefstal-bij-juwelier-sliedrecht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

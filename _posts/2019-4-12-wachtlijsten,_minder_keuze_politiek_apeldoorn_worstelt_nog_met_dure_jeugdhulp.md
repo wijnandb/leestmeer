@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 04:01:23 GMT
 categories: 
 - gelderland 
 - apeldoorn 
+externe_link: "https://www.ad.nl/apeldoorn/wachtlijsten-minder-keuze-politiek-apeldoorn-worstelt-nog-met-dure-jeugdhulp~aba49160/"
 feature_image: "https://images1.persgroep.net/rcs/NdIqSSW02jnAoFWcYR61Y7YEkOk/diocontent/143009145/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

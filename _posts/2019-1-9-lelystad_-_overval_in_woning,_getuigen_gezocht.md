@@ -5,6 +5,7 @@ date: Wed, 09 Jan 2019 10:50:00 GMT
 categories: 
 - flevoland 
 - lelystad 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/9/03-overval-in-woning-getuigen-gezocht-lelystad.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/agent-praat-in-portofoon.jpg"
 ---
 

@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Seksisme bij maker van League of Legends en ander
 date: Thu, 16 Aug 2018 16:34:21 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4113/nporadio1_nosop3techpodcast_20180816_nos-op-3-tech-podcast-seksisme-bij-maker-van-league-of-legends-en-andere-gamebedrijven.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4113/nporadio1_nosop3techpodcast_20180816_nos-op-3-tech-podcast-seksisme-bij-maker-van-league-of-legends-en-andere-gamebedrijven.mp3"
 ---
 
 0:00 Volgens een recente publicatie heerst er een giftige, seksistische sfeer bij Riot Games, het bedrijf achter League of Legends. Vrouwen worden niet serieus genomen door collega's, worden gepasseerd voor promoties en soms gewoon weggepest. Dit probleem speelt op veel meer plekken in de game-industrie. Bij gameontwikkelaar Juliëtte van der Laarse begonnen de rotopmerkingen al tijdens de opleiding.

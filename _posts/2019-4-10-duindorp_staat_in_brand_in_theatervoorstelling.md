@@ -4,7 +4,8 @@ title: "Duindorp staat in brand in theatervoorstelling"
 date: Wed, 10 Apr 2019 13:44:00 GMT
 categories: 
 - zuid-holland 
-- delft 
+- zoetermeer 
+externe_link: "https://www.ad.nl/den-haag/duindorp-staat-in-brand-in-theatervoorstelling~aa2eb6ce/"
 feature_image: "https://images2.persgroep.net/rcs/9ec63_uPup2SUySN5CqdtuS62mk/diocontent/145158345/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

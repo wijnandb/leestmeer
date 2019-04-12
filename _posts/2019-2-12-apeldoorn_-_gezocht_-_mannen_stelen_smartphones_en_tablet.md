@@ -5,6 +5,7 @@ date: Tue, 12 Feb 2019 12:11:00 GMT
 categories: 
 - gelderland 
 - apeldoorn 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/gld/mannen-stelen-smartphones-en-tablet.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/02-on/2018518420-1.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Sat, 29 Sep 2018 09:02:00 GMT
 categories: 
 - noord-brabant 
 - best 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/dossiers/2017/09-best-dennis-struijk-in-auto-doodgeschoten/de-zaak.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/dossiers/2017/tgo-wagner/20170906-foto-dennis-struijk-in-overleg-met-de-familie.jpg"
 ---
 

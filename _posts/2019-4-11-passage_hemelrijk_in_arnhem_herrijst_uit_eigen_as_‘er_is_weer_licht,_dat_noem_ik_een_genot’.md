@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 04:53:00 GMT
 categories: 
 - gelderland 
 - arnhem 
+externe_link: "https://www.ad.nl/arnhem/passage-hemelrijk-in-arnhem-herrijst-uit-eigen-as-er-is-weer-licht-dat-noem-ik-een-genot~aee2ce36/"
 feature_image: "https://images1.persgroep.net/rcs/1M7LuNEVjMr69DW_DcSoX9t2dog/diocontent/145243660/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

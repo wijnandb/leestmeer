@@ -2,7 +2,9 @@
 layout: post
 title: "Tina Turner-musical in november op Broadway"
 date: Thu, 11 Apr 2019 22:05:20 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3433745/tina-turner-musical-in-november-op-broadway"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/30253b92-5c95-11e9-847b-0218eaf05005.jpg"
 ---

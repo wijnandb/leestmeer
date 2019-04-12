@@ -4,7 +4,6 @@ title: "Wat de hack?! Alles over de mislukte Russische cyberoperatie in Nederlan
 date: Thu, 04 Oct 2018 17:14:11 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4106/nporadio1_nosop3techpodcast_20181004_wat-de-hack-alles-over-de-mislukte-russische-cyberoperatie-in-nederland.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4106/nporadio1_nosop3techpodcast_20181004_wat-de-hack-alles-over-de-mislukte-russische-cyberoperatie-in-nederland.mp3"
 ---
 
 00:00 Nederland onderschepte een grote cyberoperatie van de GROe, de Russische inlichtingendienst. NOS-techredacteur Joost Schellevis vertelt wat we tot nu toe weten. En zoekt antwoord op de vraag: waarom was hun plan zo knullig?

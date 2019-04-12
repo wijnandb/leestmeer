@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 17:41:30 +0200
 categories: 
 - entertainment 
 - gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/3426454/operatie-marc-de-hond-geslaagd"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/398fb71a-5bb0-11e9-a27a-02d1dbdc35d1.png"
 ---
 

@@ -5,6 +5,7 @@ date: Tue, 19 Jun 2018 11:49:00 GMT
 categories: 
 - gelderland 
 - epe 
+externe_link: "https://www.politie.nl/nieuws/2018/juni/19/02-epe-deventer-politie-ontdekt-hennepkwekerij-na-tip-verdachte-situatie.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

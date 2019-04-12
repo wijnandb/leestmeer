@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 04:22:38 GMT
 categories: 
 - zuid-holland 
 - alphen 
+externe_link: "https://www.ad.nl/alphen/interieur-van-kwekershuis-in-boskoop-klopt-weer~a265cc78/"
 feature_image: "https://images2.persgroep.net/rcs/B3fZPewkjnL2Snk1KkPGq8w4TIU/diocontent/144773969/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

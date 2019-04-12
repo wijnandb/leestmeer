@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 14:17:00 GMT
 categories: 
 - entertainment 
 - eten 
+externe_link: "https://www.ad.nl/koken-en-eten/hoogvliet-roept-carpaccio-terug-om-poepbacterie~a45f55e0/"
 feature_image: "https://images4.persgroep.net/rcs/rz2oEmWSDT30tQ2NyzlA-53jK3I/diocontent/145312239/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

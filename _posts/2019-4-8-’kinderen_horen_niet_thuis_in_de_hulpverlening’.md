@@ -3,8 +3,8 @@ layout: post
 title: "’Kinderen horen niet thuis in de hulpverlening’"
 date: Mon, 08 Apr 2019 08:00:00 +0200
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/vrouw/3400873/kinderen-horen-niet-thuis-in-de-hulpverlening"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7c81a9b6-57a5-11e9-b472-02d1dbdc35d1.jpg"
 ---

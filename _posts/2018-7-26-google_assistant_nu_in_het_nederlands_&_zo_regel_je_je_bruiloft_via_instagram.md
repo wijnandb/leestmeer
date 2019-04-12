@@ -4,7 +4,6 @@ title: "Google Assistant nu in het Nederlands & zo regel je je bruiloft via Inst
 date: Thu, 26 Jul 2018 16:56:21 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4116/nporadio1_nosop3techpodcast_20180726_google-assistant-nu-in-het-nederlands-zo-regel-je-je-bruiloft-via-instagram.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4116/nporadio1_nosop3techpodcast_20180726_google-assistant-nu-in-het-nederlands-zo-regel-je-je-bruiloft-via-instagram.mp3"
 ---
 
 Heet van de naald. Google Assistent is in het Nederlands gelanceerd. Hoe handig is dit? Ik test én maak de balans op over de spraakassistenten met NOS-techredacteur Joost Schellevis.

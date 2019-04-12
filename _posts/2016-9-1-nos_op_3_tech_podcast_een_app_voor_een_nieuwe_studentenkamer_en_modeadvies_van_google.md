@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Een app voor een nieuwe studentenkamer en modeadv
 date: Thu, 01 Sep 2016 16:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4210/nporadio1_nosop3techpodcast_20160901_nos-op-3-tech-podcast-een-app-voor-een-nieuwe-studentenkamer-en-modeadvies-van-google.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4210/nporadio1_nosop3techpodcast_20160901_nos-op-3-tech-podcast-een-app-voor-een-nieuwe-studentenkamer-en-modeadvies-van-google.mp3"
 ---
 
 Een bomvolle show deze week. Met de app RoomEasy kun je op een nieuwe manier naar een kamer of huisgenoot zoeken, namelijk door net als bij Tinder te liken en te disliken. Maar hoe voorkom je dat het zoeken van een kamer een vleeskeuring wordt?

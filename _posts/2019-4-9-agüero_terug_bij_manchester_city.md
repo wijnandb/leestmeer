@@ -2,7 +2,9 @@
 layout: post
 title: "Agüero terug bij Manchester City"
 date: Tue, 09 Apr 2019 20:40:46 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3420409/aguero-terug-bij-manchester-city"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/dbb30c90-5af7-11e9-9da7-0255c322e81b.jpg"
 ---

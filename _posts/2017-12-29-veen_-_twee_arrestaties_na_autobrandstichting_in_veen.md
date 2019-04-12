@@ -5,6 +5,7 @@ date: Fri, 29 Dec 2017 09:23:00 GMT
 categories: 
 - noord-brabant 
 - aalburg 
+externe_link: "https://www.politie.nl/nieuws/2017/december/29/08-twee-arrestaties-na-autobrandstichting-in-veen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-3.jpg"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Deze oud-ambtenaar onderhandelde met de verpakkingslobby maar prikt nu afval"
 date: Tue, 09 Apr 2019 20:56:52 +0200
-category: algemeen
+category: nieuws
 externe_link: "https://nos.nl/l/2279757"
 feature_image: "https://nos.nl/data/image/2019/04/09/542553/1008x567.jpg"
 ---

@@ -2,9 +2,8 @@
 layout: post
 title: "Louis van Gaal komt alweer met biografie"
 date: Thu, 11 Apr 2019 12:11:00 GMT
-categories: 
-- entertainment 
-- show 
+category: sport
+externe_link: "https://www.ad.nl/show/louis-van-gaal-komt-alweer-met-biografie~ac300c3c/"
 feature_image: "https://images0.persgroep.net/rcs/9GCVdwSbDo0JUPujqGsWCUc3T8g/diocontent/136854785/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

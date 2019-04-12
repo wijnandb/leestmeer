@@ -2,7 +2,9 @@
 layout: post
 title: "Vlemmix en Paay begraven strijdbijl"
 date: Tue, 09 Apr 2019 20:13:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3420277/vlemmix-en-paay-begraven-strijdbijl"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9618a036-5af3-11e9-9635-02c309bc01c1.jpg"
 ---

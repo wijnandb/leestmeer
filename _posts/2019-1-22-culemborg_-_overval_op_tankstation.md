@@ -5,6 +5,7 @@ date: Tue, 22 Jan 2019 07:43:00 GMT
 categories: 
 - gelderland 
 - culemborg 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/22/02-overval-tankstation-culemborg.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/mensen-staan-voor-afzetlint.jpg"
 ---
 

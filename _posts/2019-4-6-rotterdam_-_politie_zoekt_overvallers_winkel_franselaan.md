@@ -5,6 +5,7 @@ date: Sat, 06 Apr 2019 09:57:00 GMT
 categories: 
 - zuid-holland 
 - rotterdam 
+externe_link: "https://www.politie.nl/nieuws/2019/april/6/07-politie-zoekt-overvallers-winkel-franselaan.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/politielogo-gevel.jpg"
 ---
 

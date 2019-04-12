@@ -5,6 +5,7 @@ date: Tue, 12 Dec 2017 13:45:00 GMT
 categories: 
 - noord-brabant 
 - valkenswaard 
+externe_link: "https://www.politie.nl/nieuws/2017/december/7/09-politie-eenheid-oost-brabant-test-ook-met-bodycams.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/mei/05-am/bodycam-aanzetten.jpg"
 ---
 

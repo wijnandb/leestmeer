@@ -5,6 +5,7 @@ date: Tue, 18 Dec 2018 10:18:00 GMT
 categories: 
 - flevoland 
 - noordoostpolder 
+externe_link: "https://www.politie.nl/nieuws/2018/december/18/achtervolging-spookrijder-a6.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/mijn-buurt/wijkprojecten/01--noord-nederland/politieauto-nacht.jpg"
 ---
 

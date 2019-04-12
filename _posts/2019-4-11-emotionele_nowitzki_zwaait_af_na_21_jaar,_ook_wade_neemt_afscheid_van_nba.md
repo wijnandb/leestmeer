@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 06:36:15 GMT
 categories: 
 - sport 
 - andere_sporten 
+externe_link: "https://www.ad.nl/andere-sporten/emotionele-nowitzki-zwaait-af-na-21-jaar-ook-wade-neemt-afscheid-van-nba~aa7b4c57/"
 feature_image: "https://images3.persgroep.net/rcs/NprLNmLXOq6KDDPF3l19uDW4oAw/diocontent/145282621/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "’Juventus-spelers keken vreemd en strak uit hun ogen’"
 date: Tue, 09 Apr 2019 21:48:47 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3420714/juventus-spelers-keken-vreemd-en-strak-uit-hun-ogen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9f0844fa-5b00-11e9-bbde-0217670beecd.jpg"
 ---

@@ -5,6 +5,7 @@ date: Tue, 04 Sep 2018 12:19:00 GMT
 categories: 
 - gelderland 
 - renkum 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/september/02-oon/gld/diefstal-koperen-beelden.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/september/02-on/2018223935-1.jpg"
 ---
 

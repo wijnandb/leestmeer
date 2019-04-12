@@ -2,8 +2,8 @@
 layout: post
 title: "Euthanasie en de impact van een strafrechtelijk onderzoek"
 date: Thu, 11 Apr 2019 22:40:37 +0200
-category: nieuws
-externe_link: "https://nos.nl/l/2280049"
+category: binnenland
+externe_link: "http://feeds.nos.nl/~r/nosnieuwsbinnenland/~3/oNMz_AvX1ss/2280049"
 feature_image: "https://nos.nl/data/image/2017/09/28/420420/1008x567.jpg"
 ---
 
@@ -18,4 +18,4 @@ feature_image: "https://nos.nl/data/image/2017/09/28/420420/1008x567.jpg"
 <p>In een recente peiling van de artsenfederatie KNMG onder 1500 artsen gaf 15 procent aan dat zij iets terughoudender zijn geworden ten opzichte van euthanasie. Daarbij spelen de straf- en tuchtrechtzaken slechts een marginale rol (5 procent). "Belangrijker is de emotionele belasting en de druk die artsen vanuit patiënten en hun familie voelen, vooral bij patiënten met complexe problematiek", aldus KNMG.</p>
 <p>De federatie maakt zich zorgen over deze druk en vindt juiste informatievoorziening aan burgers over euthanasie en andere beslissingen rond het levenseinde daarom van essentieel belang.</p>
 <p>Vorig jaar, zestien jaar nadat de euthanasiewet van kracht werd, besloot het Openbaar Ministerie voor het eerst om een strafrechtelijk onderzoek in te stellen. Op dit moment is in één zaak (uit 2016) besloten een arts voor de rechter brengen. Dat gebeurt aanstaande augustus. Het gaat om een arts die een wilsonbekwame dementerende vrouw hielp te sterven.</p>
-<p>Kijk hieronder naar een reconstructie van de zaak die voor de rechter wordt gebracht.</p>
+<p>Kijk hieronder naar een reconstructie van de zaak die voor de rechter wordt gebracht.</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbinnenland/~4/oNMz_AvX1ss" height="1" width="1" alt=""/>

@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 13:10:00 GMT
 categories: 
 - noord-brabant 
 - oss 
+externe_link: "https://www.ad.nl/oss/oijense-dorpsplein-wordt-eindelijk-fraaier-groener-en-veiliger~aa3efa77/"
 feature_image: "https://images2.persgroep.net/rcs/V5vLo-ld9_ywQsd5_DVPWcUYlXA/diocontent/145229335/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

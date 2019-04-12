@@ -5,6 +5,7 @@ date: Fri, 20 Oct 2017 10:01:00 GMT
 categories: 
 - gelderland 
 - west_maas_en_waal 
+externe_link: "https://www.politie.nl/nieuws/2017/oktober/20/02-altforst-politie-onderzoekt-reeks-vernielingen-aan-gewassen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/milieu-inspectie.jpg"
 ---
 

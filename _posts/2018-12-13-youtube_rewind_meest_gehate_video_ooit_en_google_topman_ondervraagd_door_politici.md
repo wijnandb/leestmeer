@@ -4,7 +4,6 @@ title: "Youtube Rewind meest gehate video ooit en Google topman ondervraagd door
 date: Thu, 13 Dec 2018 16:59:51 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4095/nporadio1_nosop3techpodcast_20181213_youtube-rewind-meest-gehate-video-ooit-en-google-topman-ondervraagd-door-politici.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4095/nporadio1_nosop3techpodcast_20181213_youtube-rewind-meest-gehate-video-ooit-en-google-topman-ondervraagd-door-politici.mp3"
 ---
 
 0:00 De nieuwe Europese privacywet is een half jaar van kracht, en sindsdien heeft de privacywaakhond bijna tienduizend klachten binnengekregen over bedrijven die zich niet aan de regels houden.

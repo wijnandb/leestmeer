@@ -2,9 +2,8 @@
 layout: post
 title: "The Situation in gevangenis met Fyre-baas"
 date: Thu, 11 Apr 2019 07:42:00 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3428144/the-situation-in-gevangenis-met-fyre-baas"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f6a57aa2-5c36-11e9-92e5-02d2fb1aa1d7.jpg"
 ---
 

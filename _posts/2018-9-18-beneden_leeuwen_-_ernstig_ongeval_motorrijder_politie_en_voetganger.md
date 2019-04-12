@@ -5,6 +5,7 @@ date: Tue, 18 Sep 2018 10:00:00 GMT
 categories: 
 - gelderland 
 - west_maas_en_waal 
+externe_link: "https://www.politie.nl/nieuws/2018/september/16/02-beneden-leeuwen-ernstig-ongeval-motorrijder.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/ambulance.jpg"
 ---
 

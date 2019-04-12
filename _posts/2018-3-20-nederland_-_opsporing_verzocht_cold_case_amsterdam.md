@@ -5,6 +5,7 @@ date: Tue, 20 Mar 2018 19:25:00 GMT
 categories: 
 - gelderland 
 - heumen 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/20/opsporing-verzocht-20-maart-2018.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/gezocht/opsporing-verzocht/algemeen-beeld/nieuw-deco/belpanel-nieuw-decor.jpg"
 ---
 

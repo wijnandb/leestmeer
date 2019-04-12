@@ -3,7 +3,7 @@ layout: post
 title: "Nieuw seizoen The Hills in juni op tv"
 date: Mon, 08 Apr 2019 16:52:11 GMT
 categories: 
-- overig 
+- entertainment 
 - televisie 
 externe_link: "https://www.ad.nl/show/nieuw-seizoen-the-hills-in-juni-op-tv~af07a2e1/"
 feature_image: "https://images3.persgroep.net/rcs/zyZ_ONG0m3MUJpzwTQvqEGoE1mg/diocontent/145123202/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"

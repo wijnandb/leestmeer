@@ -2,7 +2,9 @@
 layout: post
 title: "Grote Nederlandse aandeelhouders willen dat Shell minder CO2 uitstoot"
 date: Thu, 11 Apr 2019 22:23:06 +0200
-category: nieuws
+categories: 
+- financieel 
+- economie 
 externe_link: "https://nos.nl/l/2280044"
 feature_image: "https://nos.nl/data/image/2018/05/21/474389/1008x567.jpg"
 ---

@@ -5,6 +5,7 @@ date: Tue, 12 Mar 2019 08:29:00 GMT
 categories: 
 - noord-holland 
 - heerhugowaard 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/12/04-man-overleden-na-verkeersongeluk.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/agent-met-vest-en-portofoon.jpg"
 ---
 

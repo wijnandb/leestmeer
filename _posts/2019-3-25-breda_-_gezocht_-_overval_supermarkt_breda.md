@@ -5,6 +5,7 @@ date: Mon, 25 Mar 2019 18:04:00 GMT
 categories: 
 - noord-brabant 
 - breda 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/08-overval-supermarkt-breda.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/09-ob/bb_190325/breda-1.jpg"
 ---
 

@@ -6,7 +6,6 @@ categories:
 - sport 
 - voetbal 
 externe_link: "https://podcast.npo.nl/file/nos-voetbalpodcast/2598/nporadio1_nos-voetbalpodcast_20181029_de-nos-voetbalpodcast-12.mp3"
-feature_image: "https://podcast.npo.nl/file/nos-voetbalpodcast/2598/nporadio1_nos-voetbalpodcast_20181029_de-nos-voetbalpodcast-12.mp3"
 ---
 
 Deze week met Arno Vermeulen, Frank Snoeks, Jan Roelfs en Arman Avsaroglu. De voetbalmannen van de NOS kijken terug op een klassieker wat eigenlijk geen klassieker meer was.

@@ -4,7 +4,8 @@ title: "Stieltjeskanaal - Anonieme brieven en deskundigen in team onderzoek ‘k
 date: Thu, 26 Jul 2018 03:45:00 GMT
 categories: 
 - drenthe 
-- coevorden 
+- emmen 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/25/01-anonieme-brieven-en-deskundigen-in-team-onderzoek-%E2%80%98kofferbakmoord%E2%80%99.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/fo-serie-1.jpg"
 ---
 

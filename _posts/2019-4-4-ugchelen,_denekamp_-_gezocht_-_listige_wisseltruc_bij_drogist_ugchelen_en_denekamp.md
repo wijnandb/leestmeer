@@ -2,9 +2,8 @@
 layout: post
 title: "Ugchelen, Denekamp - Gezocht - Listige wisseltruc bij drogist Ugchelen en Denekamp"
 date: Thu, 04 Apr 2019 08:22:00 GMT
-categories: 
-- gelderland 
-- apeldoorn 
+category: overijssel
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/02-oon/odl/listige-wisseltruc-bij-drogist.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/april/02-on/2018555400-1.jpg"
 ---
 

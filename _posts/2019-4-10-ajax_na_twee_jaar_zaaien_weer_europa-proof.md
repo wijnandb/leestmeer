@@ -2,7 +2,9 @@
 layout: post
 title: "Ajax na twee jaar zaaien weer Europa-proof"
 date: Wed, 10 Apr 2019 06:45:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3421239/ajax-na-twee-jaar-zaaien-weer-europa-proof"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/72cc56e8-5b13-11e9-af69-0255c322e81b.jpg"
 ---

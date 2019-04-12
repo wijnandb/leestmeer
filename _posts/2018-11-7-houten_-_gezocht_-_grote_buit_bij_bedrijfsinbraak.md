@@ -5,6 +5,7 @@ date: Wed, 07 Nov 2018 15:11:00 GMT
 categories: 
 - utrecht 
 - houten 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/november/03-houten-7-inbraak.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/november/03-mn/houten-7-inbraak.jpg"
 ---
 

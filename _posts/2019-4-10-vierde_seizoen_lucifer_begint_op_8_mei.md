@@ -2,7 +2,9 @@
 layout: post
 title: "Vierde seizoen Lucifer begint op 8 mei"
 date: Wed, 10 Apr 2019 17:21:47 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3426377/vierde-seizoen-lucifer-begint-op-8-mei"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7da2f5e0-5ba4-11e9-b4ef-0217670beecd.jpg"
 ---

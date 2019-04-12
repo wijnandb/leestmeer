@@ -4,7 +4,8 @@ title: "Rotterdam - Van vakantiehuisje naar politiecel voor wapenbezit"
 date: Tue, 07 Aug 2018 13:20:00 GMT
 categories: 
 - zuid-holland 
-- barendrecht 
+- hellevoetsluis 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/7/07-van-vakantiehuisje-naar-politiecel-voor-wapenbezit.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/ingesloten-arrestant-in-observatiecel-cel-zonder-dikke-deur.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 15:34:40 GMT
 categories: 
 - noord-brabant 
 - tilburg 
+externe_link: "https://www.ad.nl/tilburg/leerlingen-cleijn-hasselt-ontwerpen-eerste-buurtschuur-in-tilburg~afc1b6e7/"
 feature_image: "https://images2.persgroep.net/rcs/pTjZZQqHvBnTbHZEb2GsVV2Bx3Y/diocontent/145237888/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Een op de vier jongeren heeft een chronische aandoening"
 date: Mon, 08 Apr 2019 16:45:48 +0200
-category: algemeen
+category: nieuws
 externe_link: "https://nos.nl/l/2279572"
 feature_image: "https://nos.nl/data/image/2019/04/08/542308/1008x567.jpg"
 ---

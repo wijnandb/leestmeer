@@ -2,9 +2,8 @@
 layout: post
 title: "Meer fraudemeldingen door verzekeraars"
 date: Thu, 11 Apr 2019 10:07:44 +0200
-categories: 
-- financieel 
-- geld 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3428712/meer-fraudemeldingen-door-verzekeraars"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e2eeb434-5c30-11e9-a131-0255c322e81b.jpg"
 ---
 

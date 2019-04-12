@@ -2,7 +2,7 @@
 layout: post
 title: "‘Rugbyers met bezemsteel’ zoeken erkenning"
 date: Thu, 11 Apr 2019 15:00:00 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3431216/rugbyers-met-bezemsteel-zoeken-erkenning"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/aa491ab0-5c59-11e9-92e5-02d2fb1aa1d7.jpg"
 ---

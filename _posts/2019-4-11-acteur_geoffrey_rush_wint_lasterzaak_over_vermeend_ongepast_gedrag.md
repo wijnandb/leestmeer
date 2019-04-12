@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 12:15:45 +0200
 categories: 
 - entertainment 
 - achterklap 
+externe_link: "https://www.nu.nl/metoo/5837667/acteur-geoffrey-rush-wint-lasterzaak-over-vermeend-ongepast-gedrag.html"
 feature_image: "https://media.nu.nl/m/ipfxkrnaq9ee_sqr256.jpg/acteur-geoffrey-rush-wint-lasterzaak-over-vermeend-ongepast-gedrag.jpg"
 ---
 

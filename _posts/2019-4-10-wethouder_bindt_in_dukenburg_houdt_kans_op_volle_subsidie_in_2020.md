@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 21:18:00 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.ad.nl/nijmegen/wethouder-bindt-in-dukenburg-houdt-kans-op-volle-subsidie-in-2020~a5939c5d/"
 feature_image: "https://images3.persgroep.net/rcs/-RUlJzWl5SLjqTFPmMUG-dfbJjU/diocontent/106799784/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

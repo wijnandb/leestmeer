@@ -5,6 +5,7 @@ date: Wed, 05 Dec 2018 11:11:22 GMT
 categories: 
 - fryslan 
 - ferwerderdadiel 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/dossiers/2019/ferwerd-simone-gewurgd/de-zaak.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/dossiers/2019/coldcases/01/simone-de-laat-week-50.jpg"
 ---
 

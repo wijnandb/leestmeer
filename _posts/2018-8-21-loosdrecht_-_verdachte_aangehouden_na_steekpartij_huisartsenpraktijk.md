@@ -5,6 +5,7 @@ date: Tue, 21 Aug 2018 17:23:00 GMT
 categories: 
 - noord-holland 
 - wijdemeren 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/21/03-verdachte-aangehouden-na-steekpartij-huisartsenpraktijk.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/mouw-nieuwe-uniform-politie.jpg"
 ---
 

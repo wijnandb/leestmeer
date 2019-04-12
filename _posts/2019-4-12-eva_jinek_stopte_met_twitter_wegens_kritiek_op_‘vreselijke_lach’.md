@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 06:01:00 GMT
 categories: 
 - entertainment 
 - show 
+externe_link: "https://www.ad.nl/show/eva-jinek-stopte-met-twitter-wegens-kritiek-op-vreselijke-lach~aeee67896/"
 feature_image: "https://images3.persgroep.net/rcs/whIfAG6dd7QCyBpb9wx6omsmYSA/diocontent/129192849/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

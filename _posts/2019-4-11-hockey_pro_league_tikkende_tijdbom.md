@@ -2,7 +2,9 @@
 layout: post
 title: "Hockey Pro League tikkende tijdbom"
 date: Thu, 11 Apr 2019 09:47:31 +0200
-category: sport
+categories: 
+- sport 
+- scoreboard 
 externe_link: "https://www.telegraaf.nl/sport/3428572/hockey-pro-league-tikkende-tijdbom"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0fa4feaa-5c2e-11e9-a72a-0255c322e81b.jpg"
 ---

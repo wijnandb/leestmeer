@@ -4,7 +4,8 @@ title: "Vijfde Mees Kees-film met kerst in de bioscopen"
 date: Thu, 11 Apr 2019 15:17:00 GMT
 categories: 
 - entertainment 
-- film 
+- show 
+externe_link: "https://www.ad.nl/show/vijfde-mees-kees-film-met-kerst-in-de-bioscopen~a2f440c4/"
 feature_image: "https://images4.persgroep.net/rcs/ezLBhtl11yWo-yluGz_1772kbaM/diocontent/145374665/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

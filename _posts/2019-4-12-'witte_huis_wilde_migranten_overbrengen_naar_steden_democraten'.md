@@ -2,8 +2,8 @@
 layout: post
 title: "'Witte Huis wilde migranten overbrengen naar steden Democraten'"
 date: Fri, 12 Apr 2019 10:44:57 +0200
-category: nieuws
-externe_link: "https://nos.nl/l/2280103"
+category: buitenland
+externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/hW7LRmYwxaE/2280103"
 feature_image: "https://nos.nl/data/image/2019/04/12/543080/1008x567.jpg"
 ---
 
@@ -15,4 +15,4 @@ feature_image: "https://nos.nl/data/image/2019/04/12/543080/1008x567.jpg"
 <p>In februari probeerde het Witte Huis het nog een keer, toen Trump en de Democraten een ruzie uitvochten over de financiering van de muur die op de grens met Mexico moet komen. Dit keer wees de ICE het voorstel af omdat het onbehoorlijk zou zijn.</p>
 <h2>Verworpen</h2>
 <p>De krant baseert zich op e-mails en anonieme bronnen in het ministerie van Binnenlandse Veiligheid. Het Witte Huis heeft nog niet gereageerd. Een medewerker van het ministerie van Binnenlandse Veiligheid zei tegen persbureau Reuters dat "het voorstel is geopperd en verworpen, zonder verdere discussie". Een medewerker van het Witte Huis zei hetzelfde tegen The Washington Post.</p>
-<p>Een woordvoerder van Pelosi spreekt van een "cynisch en wreed" plan. "Mensen, onder wie kinderen, als pionnen inzetten om angst te verspreiden en immigranten te demoniseren, is verachtelijk en crimineel", zei ze.</p>
+<p>Een woordvoerder van Pelosi spreekt van een "cynisch en wreed" plan. "Mensen, onder wie kinderen, als pionnen inzetten om angst te verspreiden en immigranten te demoniseren, is verachtelijk en crimineel", zei ze.</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbuitenland/~4/hW7LRmYwxaE" height="1" width="1" alt=""/>

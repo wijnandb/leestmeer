@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 12:01:34 GMT
 categories: 
 - zuid-holland 
 - alphen 
+externe_link: "https://www.ad.nl/alphen/jubileum-alphense-roeiers-alsnog-gevierd~ac5c9a43/"
 feature_image: "https://images4.persgroep.net/rcs/m6NT2PSvhm7Q_tbXlDrQgTMbHao/diocontent/145174216/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

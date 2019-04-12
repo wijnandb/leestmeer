@@ -5,6 +5,7 @@ date: Sat, 21 Apr 2018 10:00:00 GMT
 categories: 
 - noord-brabant 
 - nuenen,_gerwen_en_nederwetten 
+externe_link: "https://www.politie.nl/nieuws/2018/april/21/09-overval-winkel.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/detail-afzetlint.jpg"
 ---
 

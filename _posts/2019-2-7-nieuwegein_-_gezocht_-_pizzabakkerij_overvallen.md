@@ -5,6 +5,7 @@ date: Thu, 07 Feb 2019 09:46:00 GMT
 categories: 
 - utrecht 
 - nieuwegein 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/03-nieuwegein-6-pizzabakkerij-overvallen.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/03-mn/nieuwegein-6-overval.jpg"
 ---
 

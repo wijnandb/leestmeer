@@ -2,9 +2,8 @@
 layout: post
 title: "Beurs: AEX werkt openingsverlies weg"
 date: Fri, 12 Apr 2019 11:04:00 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3434803/beurs-aex-werkt-openingsverlies-weg"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d8018e5c-5d02-11e9-950a-02c309bc01c1.jpg"
 ---
 

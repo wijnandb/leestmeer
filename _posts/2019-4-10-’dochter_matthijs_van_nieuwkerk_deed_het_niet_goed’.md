@@ -2,7 +2,9 @@
 layout: post
 title: "’Dochter Matthijs van Nieuwkerk deed het niet goed’"
 date: Wed, 10 Apr 2019 15:33:55 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3425272/dochter-matthijs-van-nieuwkerk-deed-het-niet-goed"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4c54f894-5b95-11e9-8459-02d1dbdc35d1.jpg"
 ---

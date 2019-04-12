@@ -2,9 +2,8 @@
 layout: post
 title: "Dronten - Gezocht - Drugsafval gedumpt"
 date: Fri, 08 Mar 2019 09:33:00 GMT
-categories: 
-- flevoland 
-- dronten 
+category: flevoland
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/03-drugsdumpingen.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/03-mn/flevo-7-afval.jpg"
 ---
 

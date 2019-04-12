@@ -2,7 +2,9 @@
 layout: post
 title: "Nederlanders in Europa League alle drie op bank"
 date: Thu, 11 Apr 2019 20:29:19 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3433389/nederlanders-in-europa-league-alle-drie-op-bank"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/baa8b93c-5c87-11e9-9405-0218eaf05005.jpg"
 ---

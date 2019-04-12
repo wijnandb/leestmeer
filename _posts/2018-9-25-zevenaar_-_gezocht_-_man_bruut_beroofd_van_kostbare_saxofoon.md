@@ -5,6 +5,7 @@ date: Tue, 25 Sep 2018 11:33:00 GMT
 categories: 
 - gelderland 
 - zevenaar 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/september/02-oon/gld/man-bruut-beroofd-van-saxofoon.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/september/02-on/2018426101-1.jpg"
 ---
 

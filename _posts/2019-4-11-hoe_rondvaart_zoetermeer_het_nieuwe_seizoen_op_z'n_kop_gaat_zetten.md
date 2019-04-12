@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 10:57:10 GMT
 categories: 
 - zuid-holland 
 - zoetermeer 
+externe_link: "https://www.ad.nl/zoetermeer/hoe-rondvaart-zoetermeer-het-nieuwe-seizoen-op-z-n-kop-gaat-zetten~aed14cfd/"
 feature_image: "https://images1.persgroep.net/rcs/oVk5Uo_6aSicqDj8jt-zHafSvZ8/diocontent/127413663/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -3,8 +3,8 @@ layout: post
 title: "Puinhoop"
 date: Sat, 30 Mar 2019 05:30:00 +0100
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3369692/puinhoop"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/52fe5e06-5276-11e9-8bc7-0217670beecd.png"
 ---

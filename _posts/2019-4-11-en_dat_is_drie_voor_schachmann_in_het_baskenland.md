@@ -2,7 +2,9 @@
 layout: post
 title: "En dat is drie voor Schachmann in het Baskenland"
 date: Thu, 11 Apr 2019 17:49:35 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2280004"
 feature_image: "https://nos.nl/data/image/2019/04/11/542920/1008x567.jpg"
 ---

@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 05:00:00 GMT
 categories: 
 - noord-brabant 
 - breda 
+externe_link: "https://www.ad.nl/breda/breda-schrijft-meer-boetes-uit-dan-ooit~aeab6c9d/"
 feature_image: "https://images1.persgroep.net/rcs/au9ITMQi6A7WCg2yfYrpkG3zXgg/diocontent/128813643/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

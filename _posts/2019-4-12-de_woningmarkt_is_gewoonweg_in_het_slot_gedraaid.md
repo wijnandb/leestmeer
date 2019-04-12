@@ -2,9 +2,8 @@
 layout: post
 title: "De woningmarkt is gewoonweg in het slot gedraaid"
 date: Fri, 12 Apr 2019 05:30:00 +0200
-categories: 
-- entertainment 
-- opinie 
+category: nieuws
+externe_link: "https://www.telegraaf.nl/financieel/3433991/de-woningmarkt-is-gewoonweg-in-het-slot-gedraaid"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/13e01dec-5cec-11e9-9a52-0218eaf05005.jpg"
 ---
 

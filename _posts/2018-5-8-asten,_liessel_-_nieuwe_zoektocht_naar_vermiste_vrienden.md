@@ -4,7 +4,8 @@ title: "Asten, Liessel - Nieuwe zoektocht naar vermiste vrienden"
 date: Tue, 08 May 2018 13:15:00 GMT
 categories: 
 - noord-brabant 
-- asten 
+- deurne 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/8/09-nieuwe-zoektocht-naar-vermiste-vrienden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/maart/09-ob/pietenhans.jpg"
 ---
 

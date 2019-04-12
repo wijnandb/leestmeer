@@ -2,7 +2,9 @@
 layout: post
 title: "Johan Derksen ’na lang zeuren’ naar huis"
 date: Tue, 09 Apr 2019 19:38:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3420033/johan-derksen-na-lang-zeuren-naar-huis"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6a7368f8-5aee-11e9-847b-0218eaf05005.jpg"
 ---

@@ -4,7 +4,8 @@ title: "Hoogeveen - Man zwaar gewond na steekincident"
 date: Wed, 11 Oct 2017 07:47:00 GMT
 categories: 
 - drenthe 
-- hoogeveen 
+- meppel 
+externe_link: "https://www.politie.nl/nieuws/2017/oktober/11/01---man-zwaar-gewond-na-steekincident.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/agent-loopt-door-sprintertrein.jpg"
 ---
 

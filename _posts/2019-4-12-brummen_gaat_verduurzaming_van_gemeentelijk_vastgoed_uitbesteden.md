@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 04:00:59 GMT
 categories: 
 - gelderland 
 - zutphen 
+externe_link: "https://www.ad.nl/zutphen/brummen-gaat-verduurzaming-van-gemeentelijk-vastgoed-uitbesteden~a9817b13/"
 feature_image: "https://images1.persgroep.net/rcs/kjtAp5cOoyW3939yjxYVcgrA_HY/diocontent/126598392/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

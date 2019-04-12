@@ -3,8 +3,8 @@ layout: post
 title: "Vervuilend Fiat-Chrysler drukt uitstoot dankzij slimme constructie met Tesla"
 date: Sun, 07 Apr 2019 17:13:00 GMT
 categories: 
-- financieel 
-- economie 
+- entertainment 
+- auto 
 externe_link: "https://www.ad.nl/auto/vervuilend-fiat-chrysler-drukt-uitstoot-dankzij-slimme-constructie-met-tesla~a62074a5/"
 feature_image: "https://images4.persgroep.net/rcs/AOiZwClJNtPl6q_1_xsFWZnYL2M/diocontent/144862918/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

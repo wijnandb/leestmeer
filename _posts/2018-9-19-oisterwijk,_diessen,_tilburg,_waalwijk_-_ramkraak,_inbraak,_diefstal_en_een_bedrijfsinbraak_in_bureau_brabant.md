@@ -5,6 +5,7 @@ date: Wed, 19 Sep 2018 11:50:00 GMT
 categories: 
 - noord-brabant 
 - hilvarenbeek 
+externe_link: "https://www.politie.nl/nieuws/2018/september/19/08-ramkraak-inbraak-diefstal-en-een-bedrijfsinbraak-in-bureau-brabant.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/september/08-zw/bb-oisterwijk.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Formule 1 in de ban van jubileumrace"
 date: Tue, 09 Apr 2019 08:38:15 +0200
-category: sport
+categories: 
+- sport 
+- autosport 
 externe_link: "https://www.telegraaf.nl/sport/3414676/formule-1-in-de-ban-van-jubileumrace"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ad3ed918-5aaa-11e9-8a3a-02d1dbdc35d1.jpg"
 ---

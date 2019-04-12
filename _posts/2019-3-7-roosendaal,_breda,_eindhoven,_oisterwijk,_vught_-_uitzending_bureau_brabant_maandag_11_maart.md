@@ -4,7 +4,8 @@ title: "Roosendaal, Breda, Eindhoven, Oisterwijk, Vught - Uitzending Bureau Brab
 date: Thu, 07 Mar 2019 13:13:00 GMT
 categories: 
 - noord-brabant 
-- oisterwijk 
+- vught 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/7/uitzending-bureau-brabant-maandag-11-maart.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/08-zw/zoetelief.jpg"
 ---
 

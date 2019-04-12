@@ -5,6 +5,7 @@ date: Thu, 30 Nov 2017 13:33:00 GMT
 categories: 
 - noord-brabant 
 - someren 
+externe_link: "https://www.politie.nl/nieuws/2017/november/30/09-uitzending-bureau-brabant-maandag-4-december.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/november/09-ob/foto-reco-overval-geldrop.jpg"
 ---
 

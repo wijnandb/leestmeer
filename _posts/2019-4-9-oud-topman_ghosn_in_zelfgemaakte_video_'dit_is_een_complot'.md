@@ -2,8 +2,10 @@
 layout: post
 title: "Oud-topman Ghosn in zelfgemaakte video: 'Dit is een complot'"
 date: Tue, 09 Apr 2019 11:30:23 +0200
-category: buitenland
-externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/z0tR3xbnjzA/2279661"
+categories: 
+- financieel 
+- economie 
+externe_link: "https://nos.nl/l/2279661"
 feature_image: "https://nos.nl/data/image/2019/04/09/542412/1008x567.jpg"
 ---
 
@@ -17,4 +19,4 @@ feature_image: "https://nos.nl/data/image/2019/04/09/542412/1008x567.jpg"
 <p>"Mijn grootste hoop is dat ik een eerlijk proces krijg, zodat ik van alle aanklachten kan worden vrijgesproken."</p>
 <h2>Nissan: wangedrag Ghosn oorzaak</h2>
 <p>Nissan laat in een reactie op de video weten dat enkel het "wangedrag" van Ghosn de oorzaak is van wat er nu gaande is.</p>
-<p>Het autobedrijf onderstreept verder dat Ghosn unaniem is ontslagen: "Het interne onderzoek van Nissan heeft substantiële bewijzen opgeleverd van onethisch gedrag".</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbuitenland/~4/z0tR3xbnjzA" height="1" width="1" alt=""/>
+<p>Het autobedrijf onderstreept verder dat Ghosn unaniem is ontslagen: "Het interne onderzoek van Nissan heeft substantiële bewijzen opgeleverd van onethisch gedrag".</p>

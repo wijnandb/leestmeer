@@ -2,9 +2,8 @@
 layout: post
 title: "Gezocht - Van wie zijn deze sieraden?"
 date: Thu, 04 Apr 2019 07:09:00 GMT
-categories: 
-- utrecht 
-- amersfoort 
+category: utrecht
+externe_link: "https://www.politie.nl/gezocht-en-vermist/eigenaar-gezocht/2019/april/03-van-wie-zijn-deze-sieraden.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/gestolen-gevonden/2019/april/03-mn/amersfoort-3-sieraden4.jpg"
 ---
 

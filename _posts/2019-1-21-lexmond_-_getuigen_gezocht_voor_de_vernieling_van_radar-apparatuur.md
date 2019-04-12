@@ -3,8 +3,9 @@ layout: post
 title: "Lexmond - Getuigen gezocht voor de vernieling van radar-apparatuur"
 date: Mon, 21 Jan 2019 15:42:00 GMT
 categories: 
-- utrecht 
-- vianen 
+- zuid-holland 
+- zederik 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/21/getuigen-gezocht-voor-de-vernieling-van-radar-apparatuur.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/januari/03-mn/wegkantradar.jpg"
 ---
 

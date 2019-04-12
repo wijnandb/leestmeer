@@ -2,7 +2,7 @@
 layout: post
 title: "Soedanese protesten houden aan"
 date: Fri, 12 Apr 2019 11:07:45 +0200
-category: buitenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3435623/soedanese-protesten-houden-aan"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8a1f0462-5d02-11e9-b4ef-0217670beecd.jpg"
 ---

@@ -4,7 +4,8 @@ title: "Westervoort, Zutphen, Arnhem, Apeldoorn, Wageningen, Lobith - Zaken in B
 date: Mon, 12 Mar 2018 09:37:00 GMT
 categories: 
 - gelderland 
-- rijnwaarden 
+- westervoort 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/12/02-zaken-in-bureau-gld-van-14-maart.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/onderwerpen/bureau-gld.jpg"
 ---
 

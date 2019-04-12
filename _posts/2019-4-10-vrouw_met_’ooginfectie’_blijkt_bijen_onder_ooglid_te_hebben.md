@@ -2,7 +2,7 @@
 layout: post
 title: "Vrouw met ’ooginfectie’ blijkt bijen onder ooglid te hebben"
 date: Wed, 10 Apr 2019 10:55:16 +0200
-category: buitenland
+category: opmerkelijk
 externe_link: "https://www.telegraaf.nl/nieuws/3422458/vrouw-met-ooginfectie-blijkt-bijen-onder-ooglid-te-hebben"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6115460c-5b6e-11e9-ab5f-0218eaf05005.jpg"
 ---

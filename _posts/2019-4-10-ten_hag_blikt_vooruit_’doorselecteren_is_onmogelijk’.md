@@ -2,7 +2,9 @@
 layout: post
 title: "Ten Hag blikt vooruit: ’Doorselecteren is onmogelijk’"
 date: Wed, 10 Apr 2019 08:56:23 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3421780/ten-hag-blikt-vooruit-doorselecteren-is-onmogelijk"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c0a3fe44-5b5d-11e9-8997-02d2fb1aa1d7.jpg"
 ---

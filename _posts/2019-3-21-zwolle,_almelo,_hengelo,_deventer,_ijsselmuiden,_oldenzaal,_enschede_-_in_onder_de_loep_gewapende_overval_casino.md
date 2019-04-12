@@ -4,7 +4,8 @@ title: "Zwolle, Almelo, Hengelo, Deventer, Ijsselmuiden, Oldenzaal, Enschede - I
 date: Thu, 21 Mar 2019 14:34:00 GMT
 categories: 
 - overijssel 
-- almelo 
+- zwolle 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/21/02-in-onder-de-loep-21-maart-2019.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/onderwerpen/onder-de-loep.jpg"
 ---
 

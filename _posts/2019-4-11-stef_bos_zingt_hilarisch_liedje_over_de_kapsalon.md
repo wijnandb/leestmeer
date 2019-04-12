@@ -4,7 +4,8 @@ title: "Stef Bos zingt hilarisch liedje over de kapsalon"
 date: Thu, 11 Apr 2019 17:19:00 GMT
 categories: 
 - entertainment 
-- muziek 
+- show 
+externe_link: "https://www.ad.nl/rotterdam/stef-bos-zingt-hilarisch-liedje-over-de-kapsalon~a3c15c76/"
 feature_image: "https://images2.persgroep.net/rcs/2juRvO47tfxrYaOJsoT__MAs4yo/diocontent/145324817/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

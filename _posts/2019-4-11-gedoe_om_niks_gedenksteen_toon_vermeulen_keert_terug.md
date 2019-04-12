@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 11:30:14 GMT
 categories: 
 - noord-brabant 
 - etten-leur 
+externe_link: "https://www.ad.nl/etten-leur/gedoe-om-niks-gedenksteen-toon-vermeulen-keert-terug~ae18f980/"
 feature_image: "https://images4.persgroep.net/rcs/hCMe8r8MXft1HflAjfhjmJ4Knxs/diocontent/145304314/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 18:42:09 +0200
 categories: 
 - entertainment 
 - royalty 
+externe_link: "https://www.telegraaf.nl/entertainment/3426721/lil-kleine-deelt-rolexen-uit-aan-gastartiesten"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f2a48dda-5baf-11e9-9da7-0255c322e81b.png"
 ---
 

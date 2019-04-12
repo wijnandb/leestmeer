@@ -5,6 +5,7 @@ date: Wed, 14 Nov 2018 13:39:00 GMT
 categories: 
 - overijssel 
 - kampen 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/november/02-oon/gld/oplichting-via-marktplaats.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/november/02-on/2018230787-1.jpg"
 ---
 

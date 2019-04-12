@@ -2,9 +2,8 @@
 layout: post
 title: "Dit vindt Barbie van het babynieuws van ex Rolf Tangel"
 date: Thu, 11 Apr 2019 20:10:02 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3433343/dit-vindt-barbie-van-het-babynieuws-van-ex-rolf-tangel"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/74d8473c-5c88-11e9-bdb3-0218eaf05005.png"
 ---
 

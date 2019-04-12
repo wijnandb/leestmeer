@@ -4,7 +4,6 @@ title: "Dit gaat artikel 13 betekenen voor het internet"
 date: Thu, 28 Mar 2019 16:56:01 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4916/nporadio1_nosop3techpodcast_20190328_dit-gaat-artikel-13-betekenen-voor-het-internet_94CYF8.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4916/nporadio1_nosop3techpodcast_20190328_dit-gaat-artikel-13-betekenen-voor-het-internet_94CYF8.mp3"
 ---
 
 0:00 Na lang onderhandelen heeft het Europees Parlement ingestemd met de nieuwe auteursrechtenwet, inclusief het op internet zo gehate artikel 13. Gaat dit artikel het internet zoals we het kennen veranderen? Komt er een uploadfilter dat alles tegenhoudt?

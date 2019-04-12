@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 06:12:00 GMT
 categories: 
 - overijssel 
 - enschede 
+externe_link: "https://www.ad.nl/enschede/enschedeers-willen-biertje-broodje-en-flexwerk-in-een-eyecatcher~a538c5da/"
 feature_image: "https://images4.persgroep.net/rcs/VWJ-4r0zUArMC3tsYbc8zdT_L7c/diocontent/145110712/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

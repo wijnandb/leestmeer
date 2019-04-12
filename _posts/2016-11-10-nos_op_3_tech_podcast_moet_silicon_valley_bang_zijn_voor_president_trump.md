@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Moet Silicon Valley bang zijn voor president Trum
 date: Thu, 10 Nov 2016 16:28:30 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4200/nporadio1_nosop3techpodcast_20161110_nos-op-3-tech-podcast-moet-silicon-valley-bang-zijn-voor-president-trump.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4200/nporadio1_nosop3techpodcast_20161110_nos-op-3-tech-podcast-moet-silicon-valley-bang-zijn-voor-president-trump.mp3"
 ---
 
 Silicon Valley is er niet erg gerust op nu Donald Trump president van Amerika gaat worden. Hoe groot is zijn invloed op techbedrijven en onze privacy?

@@ -3,8 +3,8 @@ layout: post
 title: "Ontspoord"
 date: Sat, 06 Apr 2019 05:30:00 +0200
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3403168/ontspoord"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c74e879e-57db-11e9-a56a-02c309bc01c1.png"
 ---

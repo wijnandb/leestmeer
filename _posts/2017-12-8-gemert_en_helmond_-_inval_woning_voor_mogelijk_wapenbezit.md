@@ -5,6 +5,7 @@ date: Fri, 08 Dec 2017 15:22:00 GMT
 categories: 
 - noord-brabant 
 - gemert-bakel 
+externe_link: "https://www.politie.nl/nieuws/2017/december/8/09-inval-woning-voor-mogelijk-wapenbezit.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/at-bikers-me/arrestatieteam-at.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 05:30:00 +0200
 categories: 
 - financieel 
 - geld 
+externe_link: "https://www.telegraaf.nl/financieel/3427664/pijn-in-portemonnee"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/14ea80b0-5c1f-11e9-b6df-02d2fb1aa1d7.jpg"
 ---
 

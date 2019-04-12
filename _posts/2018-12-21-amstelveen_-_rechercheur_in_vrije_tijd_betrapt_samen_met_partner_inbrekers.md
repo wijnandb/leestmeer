@@ -5,6 +5,7 @@ date: Fri, 21 Dec 2018 13:15:00 GMT
 categories: 
 - noord-holland 
 - amstelveen 
+externe_link: "https://www.politie.nl/nieuws/2018/december/21/05-rechercheur-in-vrije-tijd-betrapt-samen-met-partner-inbrekers.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/gezocht/verdachten/2011/maart/110315speurhond.jpg"
 ---
 

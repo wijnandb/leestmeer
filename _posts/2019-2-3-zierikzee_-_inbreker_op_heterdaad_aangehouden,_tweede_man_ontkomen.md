@@ -5,6 +5,7 @@ date: Sun, 03 Feb 2019 08:26:00 GMT
 categories: 
 - zeeland 
 - schouwen-duiveland 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/3/08-inbreker-op-heterdaad-aangehouden-tweede-man-ontkomen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/agent-naast-auto-van-bovenaf-gezien.jpg"
 ---
 

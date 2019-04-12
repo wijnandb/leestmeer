@@ -5,6 +5,7 @@ date: Mon, 28 Jan 2019 10:32:00 GMT
 categories: 
 - zuid-holland 
 - nederlek 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/28/06-krimpen-aan-de-lek-man-probeert-te-frauderen-met-spaarzegels-supermarkt.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/motoragent-met-motor.jpg"
 ---
 

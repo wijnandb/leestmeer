@@ -5,6 +5,7 @@ date: Mon, 25 Jun 2018 13:55:00 GMT
 categories: 
 - noord-brabant 
 - deurne 
+externe_link: "https://www.politie.nl/nieuws/2018/juni/25/09-witwasonderzoek-na-vondst-enorm-geldbedrag-in-woning-overvallen-echtpaar.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/geld.jpg"
 ---
 

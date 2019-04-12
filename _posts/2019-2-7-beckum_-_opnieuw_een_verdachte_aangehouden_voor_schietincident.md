@@ -5,6 +5,7 @@ date: Thu, 07 Feb 2019 15:02:00 GMT
 categories: 
 - overijssel 
 - hengelo 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/7/02-opnieuw-een-verdachte-aangehouden-voor-schietincident.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-3.jpg"
 ---
 

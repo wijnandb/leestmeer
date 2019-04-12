@@ -2,9 +2,8 @@
 layout: post
 title: "Schoten langs begrafenisstoet Nipsey Hussle"
 date: Fri, 12 Apr 2019 11:09:00 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3435734/schoten-langs-begrafenisstoet-nipsey-hussle"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/068aecfe-5d04-11e9-9af6-0217670beecd.jpg"
 ---
 

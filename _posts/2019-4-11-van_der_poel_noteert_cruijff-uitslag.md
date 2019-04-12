@@ -2,7 +2,9 @@
 layout: post
 title: "Van der Poel noteert Cruijff-uitslag"
 date: Thu, 11 Apr 2019 11:27:08 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/3429387/van-der-poel-noteert-cruijff-uitslag"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/fc13f14e-5c3b-11e9-b689-0217670beecd.jpg"
 ---

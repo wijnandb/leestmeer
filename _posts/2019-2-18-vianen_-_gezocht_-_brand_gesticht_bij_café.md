@@ -5,6 +5,7 @@ date: Mon, 18 Feb 2019 11:58:00 GMT
 categories: 
 - utrecht 
 - vianen 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/03-vianen---brand-gesticht-bij-cafe.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/03-mn/vianen-brand.jpg"
 ---
 

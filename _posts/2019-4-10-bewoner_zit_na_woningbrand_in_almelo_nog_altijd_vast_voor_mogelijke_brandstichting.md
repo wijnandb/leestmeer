@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 12:59:51 GMT
 categories: 
 - overijssel 
 - almelo 
+externe_link: "https://www.ad.nl/almelo/bewoner-zit-na-woningbrand-in-almelo-nog-altijd-vast-voor-mogelijke-brandstichting~a6dc4afc/"
 feature_image: "https://images2.persgroep.net/rcs/StlB3GOPWtfsbhHeVvb4iMQoKJ8/diocontent/144902381/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

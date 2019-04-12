@@ -2,7 +2,9 @@
 layout: post
 title: "Wiegman presenteert WK-selectie Oranje Leeuwinnen"
 date: Wed, 10 Apr 2019 13:43:37 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3424053/wiegman-presenteert-wk-selectie-oranje-leeuwinnen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b988354e-5b8a-11e9-9a52-0218eaf05005.jpg"
 ---

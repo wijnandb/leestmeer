@@ -2,8 +2,10 @@
 layout: post
 title: "Rutte: zo kan de Europese Unie verder"
 date: Thu, 11 Apr 2019 04:34:07 +0200
-category: binnenland
-externe_link: "http://feeds.nos.nl/~r/nosnieuwsbinnenland/~3/6tRBu2Ktors/2279925"
+categories: 
+- financieel 
+- economie 
+externe_link: "https://nos.nl/l/2279925"
 feature_image: "https://nos.nl/data/image/2019/04/11/542810/1008x567.jpg"
 ---
 
@@ -19,4 +21,4 @@ feature_image: "https://nos.nl/data/image/2019/04/11/542810/1008x567.jpg"
 <p>Premier May maakte de overeenkomst in Brussel bekend:</p>
 <h2>Botsing Juncker-Macron</h2>
 <p>De vergadering, die dus lang duurde, was volgens Rutte intensief maar vriendschappelijk. Volgens andere berichten was er wel sprake van wrevel tussen met name de voorzitter van de Europese Commissie Juncker en de Franse president Macron. Macron verzette zich hevig tegen langer uitstel, wat hem op een stevige reprimande van Juncker kwam te staan.</p>
-<p>Uiteindelijk is de Franse president toch akkoord gegaan, omdat de Britten de verzekering hebben gegeven de 27 achterblijvende EU-landen niet te dwarsbomen. "We gaan ook de komende tijd alvast meer vergaderen zonder de Britten", aldus Rutte. "De EU moet verder."</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbinnenland/~4/6tRBu2Ktors" height="1" width="1" alt=""/>
+<p>Uiteindelijk is de Franse president toch akkoord gegaan, omdat de Britten de verzekering hebben gegeven de 27 achterblijvende EU-landen niet te dwarsbomen. "We gaan ook de komende tijd alvast meer vergaderen zonder de Britten", aldus Rutte. "De EU moet verder."</p>

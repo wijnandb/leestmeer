@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 18:00:00 GMT
 categories: 
 - noord-brabant 
 - helmond 
+externe_link: "https://www.ad.nl/helmond/geen-vliegende-doorstart-voor-kinderboerderij-de-veldhoeve-in-helmond~afa1c5b2/"
 feature_image: "https://images3.persgroep.net/rcs/AYZfnYxuVTKvKqCm98D08pZ_06M/diocontent/145237158/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

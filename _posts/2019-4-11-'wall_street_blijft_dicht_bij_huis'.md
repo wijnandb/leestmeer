@@ -2,9 +2,8 @@
 layout: post
 title: "'Wall Street blijft dicht bij huis'"
 date: Thu, 11 Apr 2019 14:46:13 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3431109/wall-street-blijft-dicht-bij-huis"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/126f7f28-5c58-11e9-8fb5-02c309bc01c1.jpg"
 ---
 

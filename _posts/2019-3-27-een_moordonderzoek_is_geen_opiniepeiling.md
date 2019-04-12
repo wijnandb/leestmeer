@@ -3,8 +3,8 @@ layout: post
 title: "Een moordonderzoek is geen opiniepeiling"
 date: Wed, 27 Mar 2019 17:18:10 +0100
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3357858/een-moordonderzoek-is-geen-opiniepeiling"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a7ca32d8-50b5-11e9-8a46-02c309bc01c1.jpg"
 ---

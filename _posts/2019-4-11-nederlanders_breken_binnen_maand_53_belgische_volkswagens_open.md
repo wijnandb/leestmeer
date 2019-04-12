@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 18:00:22 GMT
 categories: 
 - entertainment 
 - auto 
+externe_link: "https://www.ad.nl/auto/nederlanders-breken-binnen-maand-53-belgische-volkswagens-open~a69b2b9e/"
 feature_image: "https://images0.persgroep.net/rcs/P0rkzrtQfJuUJrZM4zJuG3rkseI/diocontent/145324589/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

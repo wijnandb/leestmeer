@@ -5,6 +5,7 @@ date: Wed, 19 Dec 2018 08:26:00 GMT
 categories: 
 - gelderland 
 - nijkerk 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/december/02-oon/gld/tweemaal-kleding-gestolen-door-zelfde-man.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/december/02-on/2018535706-1.jpg"
 ---
 

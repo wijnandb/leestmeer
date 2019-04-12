@@ -5,6 +5,7 @@ date: Thu, 10 Aug 2017 11:07:00 GMT
 categories: 
 - overijssel 
 - hof_van_twente 
+externe_link: "https://www.politie.nl/nieuws/2017/augustus/8/02-zaken-in-onder-de-loep-van-10-augustus.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/onderwerpen/onder-de-loep.jpg"
 ---
 

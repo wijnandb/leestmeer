@@ -2,7 +2,9 @@
 layout: post
 title: "Extra kaarten voor concerten André Rieu"
 date: Fri, 12 Apr 2019 10:35:05 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3435280/extra-kaarten-voor-concerten-andre-rieu"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e7584300-5cfd-11e9-b343-02c309bc01c1.jpg"
 ---

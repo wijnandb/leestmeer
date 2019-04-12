@@ -5,6 +5,7 @@ date: Tue, 22 Jan 2019 15:30:00 GMT
 categories: 
 - zuid-holland 
 - zuidplas 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/januari/06-dh/tw-22-01/overval-drogist-moordrecht.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/januari/06-dh/tw-22-01/190122_team_overval-kruidvat-moordrecht-2.jpg"
 ---
 

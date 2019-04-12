@@ -3,8 +3,9 @@ layout: post
 title: "Zeewolde - Lichaam van Anne Faber aangetroffen"
 date: Thu, 12 Oct 2017 15:56:00 GMT
 categories: 
-- flevoland 
-- zeewolde 
+- utrecht 
+- zeist 
+externe_link: "https://www.politie.nl/nieuws/2017/oktober/12/03-lichaam-van-anne-faber-aangetroffen-zeewolde.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/vermist/vermiste-volwassenen/2017/september/anne-faber.jpg"
 ---
 

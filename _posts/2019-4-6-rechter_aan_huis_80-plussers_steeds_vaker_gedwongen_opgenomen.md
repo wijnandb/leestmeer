@@ -2,7 +2,7 @@
 layout: post
 title: "Rechter aan huis: 80-plussers steeds vaker gedwongen opgenomen"
 date: Sat, 06 Apr 2019 18:39:50 +0200
-category: algemeen
+category: nieuws
 externe_link: "https://nos.nl/l/2279304"
 feature_image: "https://nos.nl/data/image/2019/02/14/531102/1008x567.jpg"
 ---

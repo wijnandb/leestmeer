@@ -5,6 +5,7 @@ date: Fri, 04 Aug 2017 07:50:00 GMT
 categories: 
 - fryslan 
 - opsterland 
+externe_link: "https://www.politie.nl/nieuws/2017/augustus/4/01-2-inbrekers-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/bewaker-in-cellenblok.jpg"
 ---
 

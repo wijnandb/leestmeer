@@ -3,7 +3,7 @@ layout: post
 title: "Omroep MAX zet mensen met beginnende dementie aan het werk"
 date: Tue, 09 Apr 2019 14:57:00 GMT
 categories: 
-- overig 
+- entertainment 
 - televisie 
 externe_link: "https://www.ad.nl/show/omroep-max-zet-mensen-met-beginnende-dementie-aan-het-werk~a28294fc/"
 feature_image: "https://images4.persgroep.net/rcs/9wA4_GNKhw5uDI5hvmP04GGmy9A/diocontent/115629361/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"

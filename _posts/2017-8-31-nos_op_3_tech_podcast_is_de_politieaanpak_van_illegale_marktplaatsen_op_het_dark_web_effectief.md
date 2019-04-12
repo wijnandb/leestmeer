@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Is de politieaanpak van illegale marktplaatsen op
 date: Thu, 31 Aug 2017 18:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4165/nporadio1_nosop3techpodcast_20170831_nos-op-3-tech-podcast-is-de-politieaanpak-van-illegale-marktplaatsen-op-het-dark-web-effectief.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4165/nporadio1_nosop3techpodcast_20170831_nos-op-3-tech-podcast-is-de-politieaanpak-van-illegale-marktplaatsen-op-het-dark-web-effectief.mp3"
 ---
 
 0:00 Anderhalve maand geleden maakte de politie bekend dat ze samen met de FBI twee zwarte markten op het dark web hadden opgerold en allerlei gegevens van gebruikers hebben verzameld. Wat is er sindsdien gebeurd op het dark web, en is dit een succesvolle aanpak?

@@ -5,6 +5,7 @@ date: Tue, 11 Dec 2018 08:51:00 GMT
 categories: 
 - gelderland 
 - ermelo 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/december/02-oon/gld/helpen-met-pinnen-blijkt-wisseltruc-gestolen-pasjes.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/december/02-on/2018337021-1.jpg"
 ---
 

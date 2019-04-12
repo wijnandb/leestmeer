@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 16:51:48 GMT
 categories: 
 - zuid-holland 
 - delft 
+externe_link: "https://www.ad.nl/delft/hoe-zag-delft-er-uit-tijdens-de-tweede-wereldoorlog~a00308a2/"
 feature_image: "https://images2.persgroep.net/rcs/K0efxQbYSHhwUgU2_Aoj51XwjS4/diocontent/53998867/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

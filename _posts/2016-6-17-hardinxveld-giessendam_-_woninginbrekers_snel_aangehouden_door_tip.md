@@ -5,6 +5,7 @@ date: Fri, 17 Jun 2016 10:50:00 GMT
 categories: 
 - zuid-holland 
 - hardinxveld-giessendam 
+externe_link: "https://www.politie.nl/nieuws/2016/juni/17/07-woninginbrekers-snel-aangehouden-door-tip.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-3.jpg"
 ---
 

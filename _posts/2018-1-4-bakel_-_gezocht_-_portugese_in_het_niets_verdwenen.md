@@ -5,6 +5,7 @@ date: Thu, 04 Jan 2018 13:39:00 GMT
 categories: 
 - noord-brabant 
 - gemert-bakel 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/dossiers/2018/09-portugese-in-het-niets-verdwenen/portugese-in-het-niets-verdwenen.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/dossiers/2017/coldcasekalender-fotos/09-ob/rosabakel.jpg"
 ---
 

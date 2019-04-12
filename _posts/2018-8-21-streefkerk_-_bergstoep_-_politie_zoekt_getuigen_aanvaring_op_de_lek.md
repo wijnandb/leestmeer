@@ -5,6 +5,7 @@ date: Tue, 21 Aug 2018 14:09:00 GMT
 categories: 
 - zuid-holland 
 - molenwaard 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/21/07-politie-zoekt-getuigen-aanvaring-op-de-lek.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/augustus/07-rt/funtube.jpg"
 ---
 

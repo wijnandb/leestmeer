@@ -2,7 +2,7 @@
 layout: post
 title: "Vermist - Ruben Oehlen"
 date: Fri, 22 Mar 2019 16:19:00 GMT
-category: politieberichten
+category: limburg
 externe_link: "https://www.politie.nl/gezocht-en-vermist/vermiste-volwassenen/2019/maart/ruben-oehlen.html"
 ---
 

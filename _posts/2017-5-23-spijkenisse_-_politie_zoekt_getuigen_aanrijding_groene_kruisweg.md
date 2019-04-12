@@ -5,6 +5,7 @@ date: Tue, 23 May 2017 09:39:00 GMT
 categories: 
 - zuid-holland 
 - westvoorne 
+externe_link: "https://www.politie.nl/nieuws/2017/mei/23/07-politie-zoekt-getuigen-aanrijding-groene-kruisweg.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/ambulance.jpg"
 ---
 

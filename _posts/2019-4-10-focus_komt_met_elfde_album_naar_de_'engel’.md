@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 19:00:12 GMT
 categories: 
 - noord-brabant 
 - oss 
+externe_link: "https://www.ad.nl/oss/focus-komt-met-elfde-album-naar-de-engel~a1cf57d0/"
 feature_image: "https://images0.persgroep.net/rcs/Ac08Z4cLeQFeiM6s1wG9wgawpec/diocontent/145229694/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Sat, 12 May 2018 07:19:00 GMT
 categories: 
 - utrecht 
 - houten 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/12/03-houten-oproep-getuigen-beschieting-bedrijfspand.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/noodhulp-auto.jpg"
 ---
 

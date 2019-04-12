@@ -5,6 +5,7 @@ date: Tue, 09 Jan 2018 15:26:00 GMT
 categories: 
 - noord-brabant 
 - waalre 
+externe_link: "https://www.politie.nl/nieuws/2018/januari/9/09-arrestaties-na-vermeende-gijzeling.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/dienstwapen-in-holster-agent.jpg"
 ---
 

@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Nieuwe Google gadgets en de toekomst van radio"
 date: Thu, 05 Oct 2017 18:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4160/nporadio1_nosop3techpodcast_20171005_nos-op-3-tech-podcast-nieuwe-google-gadgets-en-de-toekomst-van-radio.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4160/nporadio1_nosop3techpodcast_20171005_nos-op-3-tech-podcast-nieuwe-google-gadgets-en-de-toekomst-van-radio.mp3"
 ---
 
 0:00 Google kennen we natuurlijk van hun slimme online-diensten, maar het bedrijf brengt ook steeds fysieke producten op de markt. Deze week presenteerde ze een hoop nieuwe gadgets, waaronder een telefoon en oordopjes die live gesprekken kunnen vertalen.

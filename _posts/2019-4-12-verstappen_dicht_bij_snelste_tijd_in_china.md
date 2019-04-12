@@ -4,7 +4,8 @@ title: "Verstappen dicht bij snelste tijd in China"
 date: Fri, 12 Apr 2019 09:35:03 +0200
 categories: 
 - sport 
-- autosport 
+- scoreboard 
+externe_link: "https://www.telegraaf.nl/sport/3434906/verstappen-dicht-bij-snelste-tijd-in-china"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/60cfa996-5cfc-11e9-a00c-02c309bc01c1.jpg"
 ---
 

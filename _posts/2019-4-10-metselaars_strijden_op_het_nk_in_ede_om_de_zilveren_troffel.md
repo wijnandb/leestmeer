@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 17:04:53 GMT
 categories: 
 - gelderland 
 - ede 
+externe_link: "https://www.ad.nl/ede/metselaars-strijden-op-het-nk-in-ede-om-de-zilveren-troffel~a5bc6a1e/"
 feature_image: "https://images3.persgroep.net/rcs/cQXD7yqAAXWIJgdqhuI94s1ttlQ/diocontent/145236572/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

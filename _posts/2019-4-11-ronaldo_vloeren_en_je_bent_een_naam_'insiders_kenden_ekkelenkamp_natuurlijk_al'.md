@@ -2,7 +2,9 @@
 layout: post
 title: "Ronaldo vloeren en je bent een naam: 'Insiders kenden Ekkelenkamp natuurlijk al'"
 date: Thu, 11 Apr 2019 13:48:55 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://nos.nl/l/2279976"
 feature_image: "https://nos.nl/data/image/2019/04/11/542880/1008x567.jpg"
 ---
@@ -25,4 +27,4 @@ feature_image: "https://nos.nl/data/image/2019/04/11/542880/1008x567.jpg"
 <p>Ekkelenkamp, in 2013 overgenomen van Almere City, had zich helemaal onsterfelijk kunnen maken door de winnende goal te maken. Hij draaide weg bij zijn tegenstander en haalde uit met rechts. Juve-keeper Wojciech Szczesny keerde de inzet. "Plotseling wist ik me vrij te spelen en kreeg ik een kans. Ik zag die bal er al in gaan, maar helaas was de doelman er nog", aldus Ekkelenkamp.</p>
 <p>Het contrast met vijf dagen eerder was bijzonder groot. Op vrijdag 5 april, de dag waarop hij zijn 19de verjaardag vierde, was de in Zeist geboren Ekkelenkamp met Jong Ajax nog te gast in het Lavans Stadion, de thuisbasis van Helmond Sport.</p>
 <p>Dit seizoen kwam Ekkelenkamp eenmaal in actie in de competitie, tegen NAC, nadat hij vorig jaar - op 19 april 2018 - tegen VVV al zijn debuut had mogen maken in de hoofdmacht van Ajax. In die wedstrijden was beide keren geen hoofdrol voor hem weggelegd.</p>
-<p>Maar dat Ekkelenkamp geen kleurloze speler, is na woensdagavond wel duidelijk. Vraag het Ronaldo maar.</p>
+<p>Maar dat Ekkelenkamp geen kleurloze speler is, is na woensdagavond wel duidelijk. Vraag het Ronaldo maar.</p>

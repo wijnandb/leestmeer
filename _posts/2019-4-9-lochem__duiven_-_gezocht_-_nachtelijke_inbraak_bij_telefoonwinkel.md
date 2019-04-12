@@ -2,9 +2,8 @@
 layout: post
 title: "Lochem/ Duiven - Gezocht - Nachtelijke inbraak bij telefoonwinkel"
 date: Tue, 09 Apr 2019 12:33:00 GMT
-categories: 
-- gelderland 
-- duiven 
+category: gelderland
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/02-oon/gld/nachtelijke-inbraak-bij-telefoonwinkel.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/april/02-on/2019037735-1.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 12:51:05 +0200
 categories: 
 - sport 
 - darts 
+externe_link: "https://www.telegraaf.nl/sport/3423459/van-barneveld-krijgt-een-uitnodiging-voor-world-series"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9540bb5a-5baa-11e9-847b-0218eaf05005.jpg"
 ---
 

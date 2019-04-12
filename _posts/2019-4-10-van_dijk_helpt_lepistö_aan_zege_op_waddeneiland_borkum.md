@@ -2,7 +2,9 @@
 layout: post
 title: "Van Dijk helpt Lepistö aan zege op waddeneiland Borkum"
 date: Wed, 10 Apr 2019 16:21:07 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2279861"
 feature_image: "https://nos.nl/data/image/2019/04/10/542714/1008x567.jpg"
 ---

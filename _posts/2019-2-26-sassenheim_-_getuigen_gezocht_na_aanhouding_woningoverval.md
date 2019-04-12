@@ -3,8 +3,9 @@ layout: post
 title: "Sassenheim - Getuigen gezocht na aanhouding woningoverval"
 date: Tue, 26 Feb 2019 11:30:00 GMT
 categories: 
-- gelderland 
-- apeldoorn 
+- zuid-holland 
+- teylingen 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/26/06-sassenheim---man-aangehouden-na-woningoverval-politie-zoekt-getuigen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/noodhulp-auto.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Beau wil geen tafel in Late Night 3.0"
 date: Mon, 08 Apr 2019 20:15:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3413633/beau-wil-geen-tafel-in-late-night-3-0"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/84f40156-5a2b-11e9-9b5b-02c309bc01c1.jpg"
 ---

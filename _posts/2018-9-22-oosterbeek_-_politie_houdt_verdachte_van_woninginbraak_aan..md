@@ -5,6 +5,7 @@ date: Sat, 22 Sep 2018 08:47:00 GMT
 categories: 
 - gelderland 
 - renkum 
+externe_link: "https://www.politie.nl/nieuws/2018/september/22/02-oosterbeek-aanhouding-inbreker.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

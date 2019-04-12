@@ -5,6 +5,7 @@ date: Sun, 27 Jan 2019 11:08:00 GMT
 categories: 
 - noord-holland 
 - hollands_kroon 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/27/04-meisje-door-automobilist-in-arm-gestoken.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/politie-embleem.jpg"
 ---
 

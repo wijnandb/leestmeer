@@ -5,6 +5,7 @@ date: Fri, 18 May 2018 14:04:00 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/18/09-scooterrijder-gewond-na-botsing-met-politieauto.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/mei/09-ob/ongelukvught1.jpg"
 ---
 

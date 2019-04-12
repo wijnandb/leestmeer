@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 19:47:00 GMT
 categories: 
 - financieel 
 - economie 
+externe_link: "https://www.volkskrant.nl/nieuws-achtergrond/grote-voetbalclubs-hebben-gemeenten-in-een-wurggreep-want-too-big-to-fail~b8e402f0/"
 feature_image: "https://images1.persgroep.net/rcs/8Jae9_LHJnfhzb5P2UBv9kLFS_8/diocontent/145264564/_focus/0.5/0.5/_fill/320/320?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.85"
 ---
 

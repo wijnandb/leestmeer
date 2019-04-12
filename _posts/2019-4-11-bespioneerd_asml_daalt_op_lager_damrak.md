@@ -2,7 +2,9 @@
 layout: post
 title: "Bespioneerd ASML daalt op lager Damrak"
 date: Thu, 11 Apr 2019 07:49:00 GMT
-category: binnenland
+categories: 
+- financieel 
+- economie 
 externe_link: "https://www.ad.nl/economie/bespioneerd-asml-daalt-op-lager-damrak~a27b27c6/"
 feature_image: "https://images1.persgroep.net/rcs/3sLFRMCj7qqJuFzyygEDzxMFuNk/diocontent/143397765/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

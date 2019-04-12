@@ -5,6 +5,7 @@ date: Tue, 12 Jun 2018 12:57:00 GMT
 categories: 
 - noord-brabant 
 - boxmeer 
+externe_link: "https://www.politie.nl/nieuws/2018/juni/12/09-uitzending-bureau-brabant-maandag-18-juni.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/gezocht/verdachten/2018/juni/09-ob/20180618_bb/20180613-standupper-oc-tilburg.jpg"
 ---
 

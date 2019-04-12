@@ -4,7 +4,8 @@ title: "Eenheid Rotterdam - Oud en Nieuw: een feest met twee gezichten"
 date: Tue, 01 Jan 2019 11:28:00 GMT
 categories: 
 - zuid-holland 
-- brielle 
+- gorinchem 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/1/07-oud-en-nieuw-in-eenheid-rotterdam-weer-achter-de-rug.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/december/07-rt/oud-en-nieuw-2018-2019-rotterdam.jpg"
 ---
 

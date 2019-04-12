@@ -4,7 +4,8 @@ title: "Hellevoetsluis - Eenzame kerst voor vuurwerkhandelaren"
 date: Fri, 22 Dec 2017 14:43:00 GMT
 categories: 
 - zuid-holland 
-- hellevoetsluis 
+- westvoorne 
+externe_link: "https://www.politie.nl/nieuws/2017/december/22/07-eenzame-kerst-voor-vuurwerkhandelaren.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/december/07-rt/vuurwerk-8.jpg"
 ---
 

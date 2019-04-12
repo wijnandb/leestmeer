@@ -5,6 +5,7 @@ date: Mon, 22 Oct 2018 08:54:00 GMT
 categories: 
 - noord-brabant 
 - woensdrecht 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/22/08-uitzending-bureau-brabant-maandag-29-oktober.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/oktober/08-zw/bb1.jpg"
 ---
 

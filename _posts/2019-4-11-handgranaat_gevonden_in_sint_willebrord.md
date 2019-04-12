@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 10:04:20 GMT
 categories: 
 - noord-brabant 
 - roosendaal 
+externe_link: "https://www.ad.nl/roosendaal/handgranaat-gevonden-in-sint-willebrord~a5098283/"
 feature_image: "https://images1.persgroep.net/rcs/KWY7ke86b5ekBpdXXdznlnDjmJA/diocontent/145300140/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

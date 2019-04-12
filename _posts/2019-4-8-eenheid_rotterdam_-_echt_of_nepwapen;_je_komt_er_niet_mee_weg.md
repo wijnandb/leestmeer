@@ -4,7 +4,8 @@ title: "Eenheid Rotterdam - Echt of nepwapen; je komt er niet mee weg"
 date: Mon, 08 Apr 2019 14:08:00 GMT
 categories: 
 - zuid-holland 
-- hendrik-ido-ambacht 
+- rotterdam 
+externe_link: "https://www.politie.nl/nieuws/2019/april/8/07-echt-of-nepwapen-je-komt-er-niet-mee-weg.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/april/07-rt/vuurwapen-hillegersberg.jpg"
 ---
 

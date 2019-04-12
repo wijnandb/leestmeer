@@ -5,6 +5,7 @@ date: Fri, 08 Sep 2017 13:32:00 GMT
 categories: 
 - zuid-holland 
 - albrandswaard 
+externe_link: "https://www.politie.nl/nieuws/2017/september/8/07-groep-jongeren-aangehouden-na-gewelddadige-overval-albrandswaard.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/afzetlint.jpg"
 ---
 

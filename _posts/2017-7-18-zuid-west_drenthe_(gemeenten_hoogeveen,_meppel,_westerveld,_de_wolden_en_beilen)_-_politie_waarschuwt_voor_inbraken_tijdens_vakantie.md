@@ -4,7 +4,8 @@ title: "Zuid-West Drenthe (gemeenten Hoogeveen, Meppel, Westerveld, De Wolden en
 date: Tue, 18 Jul 2017 09:47:00 GMT
 categories: 
 - drenthe 
-- meppel 
+- westerveld 
+externe_link: "https://www.politie.nl/nieuws/2017/juli/18/01-politie-waarschuwt-voor-inbraken-tijdens-vakantie.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/controle-woninginbraak.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 17 Aug 2017 09:00:00 GMT
 categories: 
 - overijssel 
 - wierden 
+externe_link: "https://www.politie.nl/nieuws/2017/augustus/17/02-zutphen-raalte-warnsveld-wierden-man-aangehouden-voor-overval.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

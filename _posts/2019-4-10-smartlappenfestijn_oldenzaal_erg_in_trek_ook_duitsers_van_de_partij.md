@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 08:37:42 GMT
 categories: 
 - overijssel 
 - oldenzaal 
+externe_link: "https://www.ad.nl/oldenzaal/smartlappenfestijn-oldenzaal-erg-in-trek-ook-duitsers-van-de-partij~a93249d3/"
 feature_image: "https://images2.persgroep.net/rcs/Rf-FvGhGzNCG03zKk-cN3r1olEg/diocontent/145178672/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

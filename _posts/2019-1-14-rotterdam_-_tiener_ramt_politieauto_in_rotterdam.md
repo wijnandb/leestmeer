@@ -5,6 +5,7 @@ date: Mon, 14 Jan 2019 13:50:00 GMT
 categories: 
 - zuid-holland 
 - albrandswaard 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/14/07-tiener-ramt-politieauto-in-rotterdam.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/januari/07-rt/auto-ramt-politieauto.jpg"
 ---
 

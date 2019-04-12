@@ -5,6 +5,7 @@ date: Thu, 04 Apr 2019 11:17:00 GMT
 categories: 
 - zuid-holland 
 - rotterdam 
+externe_link: "https://www.politie.nl/nieuws/2019/april/4/07-vuurwapen-van-straat-dankzij-cameratoezicht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

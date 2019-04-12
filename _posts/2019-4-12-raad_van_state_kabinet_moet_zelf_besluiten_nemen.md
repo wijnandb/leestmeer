@@ -2,7 +2,7 @@
 layout: post
 title: "Raad van State: kabinet moet zelf besluiten nemen"
 date: Fri, 12 Apr 2019 08:00:00 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3429761/raad-van-state-kabinet-moet-zelf-besluiten-nemen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/30ff9c1c-5ca2-11e9-a4e2-02d1dbdc35d1.jpg"
 ---

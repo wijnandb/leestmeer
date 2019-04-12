@@ -2,7 +2,7 @@
 layout: post
 title: "Hoe zit het met de kopstukken van de aanslag op De Telegraaf?"
 date: Mon, 08 Apr 2019 21:40:02 +0200
-category: algemeen
+category: nieuws
 externe_link: "https://nos.nl/l/2279608"
 feature_image: "https://nos.nl/data/image/2018/06/30/483469/1008x567.jpg"
 ---

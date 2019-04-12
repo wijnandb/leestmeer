@@ -5,6 +5,7 @@ date: Wed, 06 Feb 2019 12:43:00 GMT
 categories: 
 - zuid-holland 
 - spijkenisse 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/6/07-mms-overvaller-vast-voor-verschillende-zaken.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

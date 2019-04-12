@@ -5,6 +5,7 @@ date: Tue, 27 Nov 2018 09:50:00 GMT
 categories: 
 - gelderland 
 - ermelo 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/november/02-oon/gld1/meerdere-auto-inbraken-op-terrein-autobedrijf.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/november/02-on/2018450354-1.jpg"
 ---
 

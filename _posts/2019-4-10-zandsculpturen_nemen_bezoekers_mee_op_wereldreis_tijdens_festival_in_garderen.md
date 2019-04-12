@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 16:43:00 GMT
 categories: 
 - gelderland 
 - apeldoorn 
+externe_link: "https://www.ad.nl/apeldoorn/zandsculpturen-nemen-bezoekers-mee-op-wereldreis-tijdens-festival-in-garderen~abc2179c/"
 feature_image: "https://images1.persgroep.net/rcs/iE7nJpi4kglwDEbvV-0NmWpKtLg/diocontent/145245117/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

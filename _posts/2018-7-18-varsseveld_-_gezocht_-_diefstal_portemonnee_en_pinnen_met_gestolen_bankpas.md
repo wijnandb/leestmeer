@@ -5,6 +5,7 @@ date: Wed, 18 Jul 2018 16:00:00 GMT
 categories: 
 - gelderland 
 - oude_ijsselstreek 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/juli/02-oon/gld/diefstal-portemonnee-en-pinnen-met-gestolen-bankpas.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/juli/02-on/2018247904-1.jpg"
 ---
 

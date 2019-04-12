@@ -3,8 +3,8 @@ layout: post
 title: "1 Aprilgrap valt steeds vroeger"
 date: Tue, 26 Mar 2019 18:16:00 +0100
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/nieuws/3352131/1-aprilgrap-valt-steeds-vroeger"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5eaf9cac-4feb-11e9-8ca3-02c309bc01c1.jpg"
 ---

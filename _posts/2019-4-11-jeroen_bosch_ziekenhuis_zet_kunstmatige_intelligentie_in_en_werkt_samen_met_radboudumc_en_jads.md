@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 10:24:00 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.ad.nl/den-bosch/jeroen-bosch-ziekenhuis-zet-kunstmatige-intelligentie-in-en-werkt-samen-met-radboudumc-en-jads~ac74b27d/"
 feature_image: "https://images2.persgroep.net/rcs/Eq2C6516fzuxDOnlEGVf-opJa-o/diocontent/139193603/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Ajax-supporters houden ’Entrada’ voor ambtswoning Halsema"
 date: Thu, 11 Apr 2019 19:14:53 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3433120/ajax-supporters-houden-entrada-voor-ambtswoning-halsema"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bea62046-5c88-11e9-ba01-0255c322e81b.jpg"
 ---

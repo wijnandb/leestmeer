@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 17:20:00 GMT
 categories: 
 - zuid-holland 
 - dordrecht 
+externe_link: "https://www.ad.nl/dordrecht/ooggetuigen-havenbrand-een-klap-daarna-doken-twee-mannen-in-paniek-van-de-boot-het-water-in~va114003e9/"
 feature_image: "https://images0.persgroep.net/rcs/dfxjtVLLlKzli8T--k-27MTg9Ok/diocontent/145326723/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

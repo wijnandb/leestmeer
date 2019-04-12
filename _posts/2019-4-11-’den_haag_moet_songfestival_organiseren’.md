@@ -2,7 +2,7 @@
 layout: post
 title: "’Den Haag moet Songfestival organiseren’"
 date: Thu, 11 Apr 2019 16:09:40 +0200
-category: entertainment
+category: nieuws
 externe_link: "https://www.telegraaf.nl/entertainment/3432075/den-haag-moet-songfestival-organiseren"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/75a64418-5c63-11e9-bdb3-0218eaf05005.jpg"
 ---

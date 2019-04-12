@@ -2,9 +2,8 @@
 layout: post
 title: "Utrechtse boekenkast-muurschildering scoort ook in buitenland: ‘We kunnen niet wachten tot hij meer maakt’"
 date: Fri, 12 Apr 2019 06:01:46 GMT
-categories: 
-- utrecht 
-- utrecht 
+category: utrecht
+externe_link: "https://www.ad.nl/utrecht/utrechtse-boekenkast-muurschildering-scoort-ook-in-buitenland-we-kunnen-niet-wachten-tot-hij-meer-maakt~a9f2cfed/"
 feature_image: "https://images3.persgroep.net/rcs/QTOVRf7znXaUNEuw0thivkln2cc/diocontent/144230443/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

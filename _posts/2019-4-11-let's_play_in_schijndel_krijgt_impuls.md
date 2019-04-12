@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 09:06:11 GMT
 categories: 
 - noord-brabant 
 - boxtel 
+externe_link: "https://www.ad.nl/boxtel/let-s-play-in-schijndel-krijgt-impuls~a15ea5d3/"
 feature_image: "https://images3.persgroep.net/rcs/7iIQqBSX7FMhW3EfEAov6-6zQmE/diocontent/133465723/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

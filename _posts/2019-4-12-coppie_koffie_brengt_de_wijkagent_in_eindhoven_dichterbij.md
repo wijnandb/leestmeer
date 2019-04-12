@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 09:19:39 GMT
 categories: 
 - noord-brabant 
 - eindhoven 
+externe_link: "https://www.ad.nl/eindhoven/coppie-koffie-brengt-de-wijkagent-in-eindhoven-dichterbij~aa631097/"
 feature_image: "https://images1.persgroep.net/rcs/U7mPxv1Wifz2duHJfNyg32ezbrk/diocontent/145314041/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

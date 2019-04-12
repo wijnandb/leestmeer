@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 19:22:07 GMT
 categories: 
 - gelderland 
 - arnhem 
+externe_link: "https://www.ad.nl/arnhem/arnhemmers-gaan-tijdens-de-dis-met-elkaar-in-gesprek-over-oorlogsherinneringen~a5f7456f6/"
 feature_image: "https://images1.persgroep.net/rcs/RAeI8ROhIjeti3409l2NPANT4d8/diocontent/145332797/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

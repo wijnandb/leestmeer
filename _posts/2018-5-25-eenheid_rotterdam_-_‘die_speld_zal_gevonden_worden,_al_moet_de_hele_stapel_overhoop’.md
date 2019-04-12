@@ -5,6 +5,7 @@ date: Fri, 25 May 2018 11:07:00 GMT
 categories: 
 - zuid-holland 
 - leerdam 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/25/07-%E2%80%98die-speld-zal-gevonden-worden-al-moet-de-hele-stapel-overhoop%E2%80%99.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/mei/07-rt/collegas-bezig-met-onderzoek.jpg"
 ---
 

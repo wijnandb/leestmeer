@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 12:13:03 +0200
 categories: 
 - entertainment 
 - gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/3423184/single-bauer-ontploft-na-toegeven-plagiaat"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a3f1e686-5b9d-11e9-b172-02d1dbdc35d1.jpg"
 ---
 

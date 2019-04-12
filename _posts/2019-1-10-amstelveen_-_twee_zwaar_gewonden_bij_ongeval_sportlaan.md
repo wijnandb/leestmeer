@@ -5,6 +5,7 @@ date: Thu, 10 Jan 2019 12:48:00 GMT
 categories: 
 - noord-holland 
 - amstelveen 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/10/05-twee-zwaar-gewonden-bij-ongeval-sportlaan.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/fotos-maken-vanuit-heli.jpg"
 ---
 

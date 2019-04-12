@@ -5,6 +5,7 @@ date: Wed, 07 Nov 2018 22:23:00 GMT
 categories: 
 - noord-brabant 
 - oirschot 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/november/09-diefstal-fietscomputers.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/november/09-ob/2018130042/2018130042-foto-verdachte-.jpg"
 ---
 

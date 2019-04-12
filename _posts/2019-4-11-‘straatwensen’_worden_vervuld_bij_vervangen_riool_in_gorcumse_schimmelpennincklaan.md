@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 04:01:00 GMT
 categories: 
 - gelderland 
 - rivierenland 
+externe_link: "https://www.ad.nl/rivierenland/straatwensen-worden-vervuld-bij-vervangen-riool-in-gorcumse-schimmelpennincklaan~a9771e79/"
 feature_image: "https://images3.persgroep.net/rcs/Si0x4TGMhdIAQr3E0Lz_bj7HLVk/diocontent/63957711/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

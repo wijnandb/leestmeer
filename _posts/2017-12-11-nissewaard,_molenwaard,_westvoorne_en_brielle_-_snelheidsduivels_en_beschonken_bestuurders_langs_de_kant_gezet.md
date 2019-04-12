@@ -4,7 +4,8 @@ title: "Nissewaard, Molenwaard, Westvoorne en Brielle - Snelheidsduivels en besc
 date: Mon, 11 Dec 2017 12:57:00 GMT
 categories: 
 - zuid-holland 
-- bernisse 
+- westvoorne 
+externe_link: "https://www.politie.nl/nieuws/2017/december/11/07-snelheidsduivels-en-beschonken-bestuurders-langs-de-kant-gezet.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/bij-een-verkeerscontrole.jpg"
 ---
 

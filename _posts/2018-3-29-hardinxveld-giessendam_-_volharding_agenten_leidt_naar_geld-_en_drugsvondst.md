@@ -5,6 +5,7 @@ date: Thu, 29 Mar 2018 20:23:00 GMT
 categories: 
 - zuid-holland 
 - hardinxveld-giessendam 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/29/07-volharding-agenten-leidt-naar-geld--en-drugsvondst.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/maart/07-rt/geld.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Fri, 14 Sep 2018 09:16:00 GMT
 categories: 
 - noord-brabant 
 - son_en_breugel 
+externe_link: "https://www.politie.nl/nieuws/2018/september/14/09-beelden-liquidatie-dennis-struijk-in-opsporingsprogramma%E2%80%99s.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/gezocht/dossiers/2017/tgo-wagner/20170906-foto-dennis-struijk-in-overleg-met-de-familie.jpg"
 ---
 

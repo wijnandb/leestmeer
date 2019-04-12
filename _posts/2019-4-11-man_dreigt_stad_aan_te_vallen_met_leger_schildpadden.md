@@ -2,7 +2,7 @@
 layout: post
 title: "Man dreigt stad aan te vallen met leger schildpadden"
 date: Thu, 11 Apr 2019 21:10:42 +0200
-category: buitenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3433541/man-dreigt-stad-aan-te-vallen-met-leger-schildpadden"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bd564c68-5c90-11e9-8997-02d2fb1aa1d7.jpg"
 ---

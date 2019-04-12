@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 17:43:00 GMT
 categories: 
 - sport 
 - andere_sporten 
+externe_link: "https://www.ad.nl/andere-sporten/epke-zonderland-als-tweede-door-naar-ek-finale~a0bfde0f/"
 feature_image: "https://images3.persgroep.net/rcs/uqPDzQZxKPvddO-op3MOgF0IyVE/diocontent/142298862/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

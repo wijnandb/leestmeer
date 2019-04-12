@@ -2,7 +2,7 @@
 layout: post
 title: "Belgisch vliegtuig moet bij Soedan omkeren"
 date: Thu, 11 Apr 2019 18:03:51 +0200
-category: buitenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3432840/belgisch-vliegtuig-moet-bij-soedan-omkeren"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6dd9144e-5c73-11e9-a00c-02c309bc01c1.jpg"
 ---

@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 07:35:54 +0200
 categories: 
 - entertainment 
 - film 
+externe_link: "https://www.nu.nl/uit/5832576/deze-films-draaien-vanaf-deze-week-in-de-bioscoop.html"
 feature_image: "https://media.nu.nl/m/zikxy75ai40n_sqr256.jpg/deze-films-draaien-vanaf-deze-week-in-de-bioscoop.jpg"
 ---
 

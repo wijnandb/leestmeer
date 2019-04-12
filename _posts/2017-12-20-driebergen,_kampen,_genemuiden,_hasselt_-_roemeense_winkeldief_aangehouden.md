@@ -5,6 +5,7 @@ date: Wed, 20 Dec 2017 14:14:00 GMT
 categories: 
 - overijssel 
 - zwartewaterland 
+externe_link: "https://www.politie.nl/nieuws/2017/december/20/11-roemeense-winkeldief-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stock-afbeeldingen/11-landelijke-eenheid/img-20171218-wa0006.jpg"
 ---
 

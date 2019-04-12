@@ -5,6 +5,7 @@ date: Mon, 25 Feb 2019 14:50:00 GMT
 categories: 
 - noord-brabant 
 - helmond 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/09-man-steelt-tas-uit-helmondse-lunchroom.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/09-ob/bb_190225/helmond-3.jpg"
 ---
 

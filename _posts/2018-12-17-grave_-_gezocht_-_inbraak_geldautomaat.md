@@ -5,6 +5,7 @@ date: Mon, 17 Dec 2018 14:35:00 GMT
 categories: 
 - noord-brabant 
 - grave 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/december/09-inbraak-geldautomaat.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/december/09-ob/bb_20181217/grave-01.jpg"
 ---
 

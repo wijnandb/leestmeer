@@ -2,7 +2,9 @@
 layout: post
 title: "Nederlandse producer op 1 in Billboard 100"
 date: Wed, 10 Apr 2019 11:29:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3423043/nederlandse-producer-op-1-in-billboard-100"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ee6f96e0-5b7a-11e9-b6df-02d2fb1aa1d7.jpg"
 ---

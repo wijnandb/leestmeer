@@ -5,6 +5,7 @@ date: Fri, 01 Sep 2017 16:36:00 GMT
 categories: 
 - zuid-holland 
 - albrandswaard 
+externe_link: "https://www.politie.nl/nieuws/2017/september/1/07-politie-houdt-man-aan-voor-bedreiging.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

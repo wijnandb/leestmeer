@@ -5,6 +5,7 @@ date: Sat, 19 May 2018 20:48:00 GMT
 categories: 
 - zuid-holland 
 - alblasserdam 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/19/alblasserdammer-43-loopt-botbreuken-in-gezicht-op-tijdens-stapnacht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/nachtdienst-agent-in-dienstauto.jpg"
 ---
 

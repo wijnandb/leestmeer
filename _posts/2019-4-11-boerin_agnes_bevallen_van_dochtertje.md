@@ -2,9 +2,8 @@
 layout: post
 title: "Boerin Agnes bevallen van dochtertje"
 date: Thu, 11 Apr 2019 18:11:50 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3432886/boerin-agnes-bevallen-van-dochtertje"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8d6b113a-5c74-11e9-847b-0218eaf05005.png"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 12:30:00 GMT
 categories: 
 - zuid-holland 
 - rotterdam 
+externe_link: "https://www.ad.nl/rotterdam/smullen-van-nostalgische-kiekjes-in-kleurrijk-boek-over-100-jaar-spido~aa6ae02c/"
 feature_image: "https://images3.persgroep.net/rcs/hALfwVrnZCotypcN2JNDU9eYHeE/diocontent/145235441/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

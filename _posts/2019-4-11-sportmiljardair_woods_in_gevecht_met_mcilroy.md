@@ -2,7 +2,9 @@
 layout: post
 title: "Sportmiljardair Woods in gevecht met McIlroy"
 date: Thu, 11 Apr 2019 10:34:00 +0200
-category: sport
+categories: 
+- sport 
+- scoreboard 
 externe_link: "https://www.telegraaf.nl/sport/3426605/sportmiljardair-woods-in-gevecht-met-mc-ilroy"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/004ad8ba-5c35-11e9-a131-0255c322e81b.jpg"
 ---

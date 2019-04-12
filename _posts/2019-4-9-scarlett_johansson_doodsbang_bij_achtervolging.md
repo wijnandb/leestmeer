@@ -2,7 +2,9 @@
 layout: post
 title: "Scarlett Johansson doodsbang bij achtervolging"
 date: Tue, 09 Apr 2019 14:13:52 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3417383/scarlett-johansson-doodsbang-bij-achtervolging"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c4a59262-5ace-11e9-8459-02d1dbdc35d1.jpg"
 ---

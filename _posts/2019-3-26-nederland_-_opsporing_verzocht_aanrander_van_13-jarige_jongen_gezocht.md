@@ -2,9 +2,8 @@
 layout: post
 title: "Nederland - Opsporing Verzocht: aanrander van 13-jarige jongen gezocht"
 date: Tue, 26 Mar 2019 19:15:00 GMT
-categories: 
-- flevoland 
-- almere 
+category: flevoland
+externe_link: "https://www.politie.nl/nieuws/2019/maart/26/opsporing-verzocht-26-maart-2019.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-verzocht/nieuwe-decor-anniko-3.jpg"
 ---
 

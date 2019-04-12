@@ -5,6 +5,7 @@ date: Wed, 14 Jun 2017 13:48:00 GMT
 categories: 
 - gelderland 
 - west_maas_en_waal 
+externe_link: "https://www.politie.nl/nieuws/2017/juni/14/11-aanhoudingen-voor-illegaal-inzamelen-kleding.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stock-afbeeldingen/11-landelijke-eenheid/bestelbusmetkleding.jpg"
 ---
 

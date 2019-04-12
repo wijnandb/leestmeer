@@ -5,6 +5,7 @@ date: Wed, 09 Jan 2019 19:13:00 GMT
 categories: 
 - overijssel 
 - rijssen-holten 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/9/02-bestuurder-bestelbus-omgekomen-bij-aanrijding-met-vrachtwagen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/agent-en-ambulance-bij-ongeval-op-snelweg1.jpg"
 ---
 

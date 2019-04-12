@@ -5,6 +5,7 @@ date: Thu, 05 Jul 2018 06:45:00 GMT
 categories: 
 - utrecht 
 - bunnik 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/april/03-bunnik-18-wisseltruc.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/april/03-mn/bunnik-18-wisseltruc.jpg"
 ---
 

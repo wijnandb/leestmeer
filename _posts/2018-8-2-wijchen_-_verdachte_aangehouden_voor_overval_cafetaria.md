@@ -5,6 +5,7 @@ date: Thu, 02 Aug 2018 12:35:00 GMT
 categories: 
 - gelderland 
 - wijchen 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/2/02-wijchen-%E2%80%93-verdachte-aangehouden-voor-overval-cafetaria-wijchen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stock-afbeeldingen/algemeen/ingesloten-op-politiebureau-3.jpg"
 ---
 

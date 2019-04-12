@@ -5,6 +5,7 @@ date: Fri, 15 Jun 2018 08:25:00 GMT
 categories: 
 - noord-brabant 
 - haaren 
+externe_link: "https://www.politie.nl/nieuws/2018/juni/15/09-enorm-geldbedrag-gevonden-bij-inval-om-hennepkwekerij.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/juni/09-ob/geld.jpg"
 ---
 

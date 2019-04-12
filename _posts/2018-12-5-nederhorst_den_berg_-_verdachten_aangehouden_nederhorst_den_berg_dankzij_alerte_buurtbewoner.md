@@ -5,6 +5,7 @@ date: Wed, 05 Dec 2018 11:43:00 GMT
 categories: 
 - noord-holland 
 - wijdemeren 
+externe_link: "https://www.politie.nl/nieuws/2018/december/5/03-verdachten-aangehouden-nederhorst-den-berg-dankzij-alerte-buurtbewoner.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/inbreker-forceert-deur-met-koevoet.jpg"
 ---
 

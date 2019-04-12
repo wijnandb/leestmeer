@@ -5,6 +5,7 @@ date: Thu, 30 Aug 2018 09:52:00 GMT
 categories: 
 - noord-brabant 
 - goirle 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/29/09-uitzending-bureau-brabant-maandag-03-september.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/gezocht/verdachten/2018/augustus/09-ob/bureaubrabant/cam2a_46_45_iets-in-hand.jpg"
 ---
 

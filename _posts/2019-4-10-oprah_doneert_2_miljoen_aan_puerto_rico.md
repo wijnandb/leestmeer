@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 13:11:00 +0200
 categories: 
 - entertainment 
 - gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/3423578/oprah-doneert-2-miljoen-aan-puerto-rico"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/04532e7c-5b80-11e9-ac91-02d2fb1aa1d7.jpg"
 ---
 

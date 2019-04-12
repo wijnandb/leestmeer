@@ -2,9 +2,8 @@
 layout: post
 title: "Kamerleden willen bescherming tegen Chinese spionage"
 date: Thu, 11 Apr 2019 09:32:55 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3428511/kamerleden-willen-bescherming-tegen-chinese-spionage"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9064659e-5c38-11e9-8fb5-02c309bc01c1.jpg"
 ---
 

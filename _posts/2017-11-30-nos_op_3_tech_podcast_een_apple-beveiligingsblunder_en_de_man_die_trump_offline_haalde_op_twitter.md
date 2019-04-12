@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Een Apple-beveiligingsblunder en de man die Trump
 date: Thu, 30 Nov 2017 14:40:49 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4152/nporadio1_nosop3techpodcast_20171130_nos-op-3-tech-podcast-een-apple-beveiligingsblunder-en-de-man-die-trump-offline-haalde-op-twitter.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4152/nporadio1_nosop3techpodcast_20171130_nos-op-3-tech-podcast-een-apple-beveiligingsblunder-en-de-man-die-trump-offline-haalde-op-twitter.mp3"
 ---
 
 01:05 Nadat vorige week de grote schoonmaak begon, heeft Youtube inmiddels 150.000 ongepaste 'kinderfilmpjes' verwijderd.

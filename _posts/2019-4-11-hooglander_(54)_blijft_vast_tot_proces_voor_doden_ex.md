@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 14:44:00 GMT
 categories: 
 - utrecht 
 - amersfoort 
+externe_link: "https://www.ad.nl/amersfoort/hooglander-54-blijft-vast-tot-proces-voor-doden-ex~adab0e42/"
 feature_image: "https://images2.persgroep.net/rcs/o9YKRvSR9-W7WA2UXeswdPjt2Vc/diocontent/138042777/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

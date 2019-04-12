@@ -4,7 +4,8 @@ title: "Leidschendam - Overval op supermarkt  Leidschendam in Team West"
 date: Tue, 26 Mar 2019 13:37:00 GMT
 categories: 
 - zuid-holland 
-- alphen_aan_den_rijn 
+- rijswijk 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/26/overval-op-supermarkt-leidschendam-in-team-west.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/06-dh/tw-dirk.jpg"
 ---
 

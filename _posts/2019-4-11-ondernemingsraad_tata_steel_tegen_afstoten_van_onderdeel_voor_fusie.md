@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 19:44:27 +0200
 categories: 
 - financieel 
 - economie 
+externe_link: "https://www.nu.nl/economie/5838873/ondernemingsraad-tata-steel-tegen-afstoten-van-onderdeel-voor-fusie.html"
 feature_image: "https://media.nu.nl/m/9fixa5uap697_sqr256.jpg/ondernemingsraad-tata-steel-tegen-afstoten-van-onderdeel-voor-fusie.jpg"
 ---
 

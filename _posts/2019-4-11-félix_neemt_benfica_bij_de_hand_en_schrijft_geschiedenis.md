@@ -2,7 +2,9 @@
 layout: post
 title: "Félix neemt Benfica bij de hand en schrijft geschiedenis"
 date: Thu, 11 Apr 2019 22:55:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3433865/felix-neemt-benfica-bij-de-hand-en-schrijft-geschiedenis"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/33255be8-5c9e-11e9-abce-02c309bc01c1.jpg"
 ---

@@ -5,6 +5,7 @@ date: Fri, 23 Feb 2018 11:02:00 GMT
 categories: 
 - gelderland 
 - hattem 
+externe_link: "https://www.politie.nl/nieuws/2018/februari/20/02-hattem-onderzoek-naar-dode-vrouw-in-huis.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/afzetlint-gebruikt-bij-een-afzetting-van-een-pd.jpg"
 ---
 

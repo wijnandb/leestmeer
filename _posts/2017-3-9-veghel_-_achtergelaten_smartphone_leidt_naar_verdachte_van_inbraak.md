@@ -5,6 +5,7 @@ date: Thu, 09 Mar 2017 09:35:00 GMT
 categories: 
 - noord-brabant 
 - veghel 
+externe_link: "https://www.politie.nl/nieuws/2017/maart/9/09-achtergelaten-smartphone-leidt-naar-verdachte-van-inbraak.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/gezocht/verdachten/2011/april/mobiele-telefoon.jpg"
 ---
 

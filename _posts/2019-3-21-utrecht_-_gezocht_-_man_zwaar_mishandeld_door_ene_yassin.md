@@ -5,6 +5,7 @@ date: Thu, 21 Mar 2019 09:26:00 GMT
 categories: 
 - utrecht 
 - utrecht 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/03-man-uit-zeist-zwaar-mishandeld-door-ene-yassin.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/03-mn/utrecht-20-mishandeling-1a.jpg"
 ---
 

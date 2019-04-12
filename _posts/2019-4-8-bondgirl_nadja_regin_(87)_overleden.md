@@ -2,7 +2,9 @@
 layout: post
 title: "Bondgirl Nadja Regin (87) overleden"
 date: Mon, 08 Apr 2019 15:58:09 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3412501/bondgirl-nadja-regin-87-overleden"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/57321a66-5a06-11e9-9187-0217670beecd.jpg"
 ---

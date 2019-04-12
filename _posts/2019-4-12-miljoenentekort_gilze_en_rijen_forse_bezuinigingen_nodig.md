@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 05:00:00 GMT
 categories: 
 - noord-brabant 
 - oosterhout 
+externe_link: "https://www.ad.nl/oosterhout/miljoenentekort-gilze-en-rijen-forse-bezuinigingen-nodig~a882699a/"
 feature_image: "https://images3.persgroep.net/rcs/uKaX81tJtlFwAv7Wc7EGf60caNQ/diocontent/143893464/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

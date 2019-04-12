@@ -4,7 +4,8 @@ title: "Breda, Nuenen, Wernhout - Overval, diefstallen en zware mishandeling in 
 date: Wed, 20 Mar 2019 12:35:00 GMT
 categories: 
 - noord-brabant 
-- nuenen,_gerwen_en_nederwetten 
+- zundert 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/20/08-overval-diefstallen-en-zware-mishandeling-in-bureau-brabant.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/08-zw/heksenwiel-an.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Fri, 22 Feb 2019 14:30:00 GMT
 categories: 
 - zuid-holland 
 - westland 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/22/06-den-haag---vijf-voortvluchtigen-aangehouden-door-eva-team.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/voertuig-langs-weg.jpg"
 ---
 

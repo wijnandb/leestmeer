@@ -2,7 +2,7 @@
 layout: post
 title: "Nieuwe literatuurprijs voor non-fictie (50.000 euro)"
 date: Fri, 12 Apr 2019 08:36:15 +0200
-category: nieuws
+category: cultuur
 externe_link: "https://nos.nl/l/2280079"
 feature_image: "https://nos.nl/data/image/2019/04/12/543058/1008x567.jpg"
 ---

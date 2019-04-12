@@ -2,7 +2,9 @@
 layout: post
 title: "’Ajacied Veltman fitter dan vedette Ronaldo’"
 date: Wed, 10 Apr 2019 07:46:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3419917/ajacied-veltman-fitter-dan-vedette-ronaldo"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/001534b2-5b54-11e9-966f-0217670beecd.jpg"
 ---

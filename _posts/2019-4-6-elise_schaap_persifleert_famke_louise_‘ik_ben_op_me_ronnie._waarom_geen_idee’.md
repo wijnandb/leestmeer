@@ -3,7 +3,7 @@ layout: post
 title: "Elise Schaap persifleert Famke Louise: ‘Ik ben op me Ronnie. Waarom geen idee’"
 date: Sat, 06 Apr 2019 11:39:00 GMT
 categories: 
-- overig 
+- entertainment 
 - televisie 
 externe_link: "https://www.ad.nl/show/elise-schaap-persifleert-famke-louise-ik-ben-op-me-ronnie-waarom-geen-idee~a54b0a20/"
 feature_image: "https://images2.persgroep.net/rcs/iV8H1zeJI289NJrM7FY2Gz_kO3U/diocontent/143806290/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"

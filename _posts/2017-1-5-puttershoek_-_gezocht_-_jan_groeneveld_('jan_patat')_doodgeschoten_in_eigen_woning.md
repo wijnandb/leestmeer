@@ -5,6 +5,7 @@ date: Thu, 05 Jan 2017 14:30:00 GMT
 categories: 
 - zuid-holland 
 - binnenmaas 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/dossiers/2017/07-puttershoek-jan-patat/07-jan-patat.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/dossiers/2017/coldcasekalender-fotos/07-rotterdam/jan-groeneveld.jpg"
 ---
 

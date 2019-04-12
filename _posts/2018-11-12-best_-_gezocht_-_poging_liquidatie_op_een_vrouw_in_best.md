@@ -5,6 +5,7 @@ date: Mon, 12 Nov 2018 14:04:00 GMT
 categories: 
 - noord-brabant 
 - best 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/november/09-poging-liquidatie-op-een-vrouw-in-best.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/november/09-ob/bb_181112/best-07.jpg"
 ---
 

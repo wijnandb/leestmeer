@@ -2,9 +2,8 @@
 layout: post
 title: "Britse royals kijken met angst en beven naar ’Diana’"
 date: Thu, 11 Apr 2019 12:51:12 +0200
-categories: 
-- entertainment 
-- royalty 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3430029/britse-royals-kijken-met-angst-en-beven-naar-diana"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/fcfbc008-5c4c-11e9-b673-0255c322e81b.jpg"
 ---
 

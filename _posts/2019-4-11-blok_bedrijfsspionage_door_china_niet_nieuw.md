@@ -2,9 +2,8 @@
 layout: post
 title: "Blok: bedrijfsspionage door China niet nieuw"
 date: Thu, 11 Apr 2019 14:32:58 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3431003/blok-bedrijfsspionage-door-china-niet-nieuw"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f00c3b30-5c55-11e9-a00c-02c309bc01c1.jpg"
 ---
 

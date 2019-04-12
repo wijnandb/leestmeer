@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 04:00:00 GMT
 categories: 
 - overijssel 
 - zwolle 
+externe_link: "https://www.ad.nl/zwolle/steeds-drukker-op-de-a28-in-overijssel-en-gelderland-maar-met-de-files-valt-het-mee~a60eb02c/"
 feature_image: "https://images2.persgroep.net/rcs/XhoSWNBIdtRkTOaf4LngBZyULfM/diocontent/113914369/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

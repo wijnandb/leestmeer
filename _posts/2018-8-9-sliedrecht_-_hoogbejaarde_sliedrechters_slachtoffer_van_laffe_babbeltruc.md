@@ -5,6 +5,7 @@ date: Thu, 09 Aug 2018 12:19:00 GMT
 categories: 
 - zuid-holland 
 - sliedrecht 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/9/07-hoogbejaarde-sliedrechters-slachtoffer-van-laffe-babbeltruc.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/augustus/07-rt/andre-liggend.2jpg.jpg"
 ---
 

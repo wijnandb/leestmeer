@@ -5,6 +5,7 @@ date: Sat, 22 Dec 2018 10:34:00 GMT
 categories: 
 - zuid-holland 
 - gouda 
+externe_link: "https://www.politie.nl/nieuws/2018/december/22/06-gouda-aanhouding-na-straatroof.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/in-dienst-in-de-dienstauto.jpg"
 ---
 

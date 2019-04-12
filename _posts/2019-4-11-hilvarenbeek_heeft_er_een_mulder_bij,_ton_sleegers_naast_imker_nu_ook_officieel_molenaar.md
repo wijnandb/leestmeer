@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 11:57:00 GMT
 categories: 
 - noord-brabant 
 - tilburg 
+externe_link: "https://www.ad.nl/tilburg/hilvarenbeek-heeft-er-een-mulder-bij-ton-sleegers-naast-imker-nu-ook-officieel-molenaar~ab0e9c40/"
 feature_image: "https://images0.persgroep.net/rcs/N5ABCvrWp2Kcag7zvgePw4q5x4o/diocontent/145305672/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

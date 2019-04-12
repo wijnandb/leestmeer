@@ -5,6 +5,7 @@ date: Tue, 27 Nov 2018 12:40:00 GMT
 categories: 
 - utrecht 
 - eemnes 
+externe_link: "https://www.politie.nl/nieuws/2018/november/27/03-plakband-op-sloten-in-eemnes.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/inbreker-forceert-deur-met-koevoet.jpg"
 ---
 

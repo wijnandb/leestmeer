@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 15:01:00 GMT
 categories: 
 - gelderland 
 - rivierenland 
+externe_link: "https://www.ad.nl/rivierenland/tulner-gaat-in-eigen-lexmond-voor-eerherstel~ad943af6/"
 feature_image: "https://images0.persgroep.net/rcs/K-873BU9hk0cD3AtwNaZRMbDU0k/diocontent/121710681/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

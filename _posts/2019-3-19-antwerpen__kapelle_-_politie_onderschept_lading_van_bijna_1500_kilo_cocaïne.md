@@ -5,6 +5,7 @@ date: Tue, 19 Mar 2019 15:41:00 GMT
 categories: 
 - zeeland 
 - kapelle 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/19/08-politie-onderschept-lading-van-bijna-1500-kilo-cocaine.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/08-zw/coke-antwerpen.jpg"
 ---
 

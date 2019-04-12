@@ -2,9 +2,8 @@
 layout: post
 title: "Schiedam - Gezocht - Bumperklever schiet op medeweggebruiker A20"
 date: Tue, 02 Apr 2019 18:35:00 GMT
-categories: 
-- zuid-holland 
-- schiedam 
+category: zuid-holland
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/07-bumperklever-schiet-op-medeweggebruiker-a20.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/nieuws/2019/april/07-rt/afrit-schiedam.jpg"
 ---
 

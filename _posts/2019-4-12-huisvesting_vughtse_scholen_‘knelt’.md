@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 05:01:00 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.ad.nl/den-bosch/huisvesting-vughtse-scholen-knelt~ab1ffbae/"
 feature_image: "https://images0.persgroep.net/rcs/mPQCPrC9rt2ILZex3khy8Cjaf_0/diocontent/127384795/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

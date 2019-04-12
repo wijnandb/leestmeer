@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 10:27:48 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.ad.nl/nijmegen/sterrenkundige-heino-falcke-vertelt-in-nijmegen-over-het-zwarte-gat~a8802368/"
 feature_image: "https://images3.persgroep.net/rcs/dClKTF03VD5sgDtyyjgK0DfP3EY/diocontent/145242377/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

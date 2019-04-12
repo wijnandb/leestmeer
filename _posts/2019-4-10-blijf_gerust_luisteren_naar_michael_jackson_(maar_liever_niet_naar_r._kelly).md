@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 16:15:00 GMT
 categories: 
 - entertainment 
 - opinie 
+externe_link: "https://www.volkskrant.nl/nieuws-achtergrond/blijf-gerust-luisteren-naar-michael-jackson~bf337881/"
 feature_image: "https://images1.persgroep.net/rcs/0EKEohRlC9hyiwf_J_cTVHP86Os/diocontent/145249861/_focus/0.5573770491803278/0.208984375/_fill/320/320?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.85"
 ---
 

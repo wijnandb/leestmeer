@@ -2,7 +2,7 @@
 layout: post
 title: "Ondanks jaren inspanning is het plastic monster niet te temmen"
 date: Tue, 09 Apr 2019 12:22:09 +0200
-category: algemeen
+category: nieuws
 externe_link: "https://nos.nl/l/2279667"
 feature_image: "https://nos.nl/data/image/2019/04/09/542417/1008x567.jpg"
 ---

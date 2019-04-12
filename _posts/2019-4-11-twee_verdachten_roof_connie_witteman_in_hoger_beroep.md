@@ -2,9 +2,8 @@
 layout: post
 title: "Twee verdachten roof Connie Witteman in hoger beroep"
 date: Thu, 11 Apr 2019 18:27:09 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3432945/twee-verdachten-roof-connie-witteman-in-hoger-beroep"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/fc10d780-5c76-11e9-b144-0255c322e81b.png"
 ---
 

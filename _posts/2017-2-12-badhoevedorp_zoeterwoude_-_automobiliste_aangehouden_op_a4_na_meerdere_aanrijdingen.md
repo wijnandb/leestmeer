@@ -5,6 +5,7 @@ date: Sun, 12 Feb 2017 14:18:00 GMT
 categories: 
 - zuid-holland 
 - zoeterwoude 
+externe_link: "https://www.politie.nl/nieuws/2017/februari/12/04-automobiliste-aangehouden-na-achtervolging.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/logo-politie-op-dienstauto.jpg"
 ---
 

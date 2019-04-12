@@ -2,9 +2,8 @@
 layout: post
 title: "Vermist - Saloua Chemlal"
 date: Mon, 01 Apr 2019 11:18:00 GMT
-categories: 
-- fryslan 
-- leeuwarden 
+category: fryslan
+externe_link: "https://www.politie.nl/gezocht-en-vermist/vermiste-kinderen/2019/april/saloua-chemlal.html"
 feature_image: "https://www.politie.nl/binaries/w98h130/content/gallery/politie/vermist/vermiste-kinderen/2019/april/saloua_chemlal.jpg"
 ---
 

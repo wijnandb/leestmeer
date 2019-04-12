@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 16:01:45 GMT
 categories: 
 - overijssel 
 - deventer 
+externe_link: "https://www.ad.nl/deventer/deventenaar-10-weken-cel-in-na-dronkemansrit-in-rotterdam~a33da8a1/"
 feature_image: "https://images2.persgroep.net/rcs/ir-47RKGSjDheaX2SdLCMBN4Ytk/diocontent/141522783/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Charles en Camilla vieren ivoren bruiloft"
 date: Tue, 09 Apr 2019 12:49:02 +0200
-category: entertainment
+categories: 
+- entertainment 
+- royalty 
 externe_link: "https://www.telegraaf.nl/entertainment/3416706/charles-en-camilla-vieren-ivoren-bruiloft"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a201f3d8-5acc-11e9-87a7-0217670beecd.jpg"
 ---

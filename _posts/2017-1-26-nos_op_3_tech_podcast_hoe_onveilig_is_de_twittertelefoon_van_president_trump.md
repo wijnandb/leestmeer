@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Hoe onveilig is de twittertelefoon van president 
 date: Thu, 26 Jan 2017 16:30:00 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4189/nporadio1_nosop3techpodcast_20170126_nos-op-3-tech-podcast-hoe-onveilig-is-de-twittertelefoon-van-president-trump.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4189/nporadio1_nosop3techpodcast_20170126_nos-op-3-tech-podcast-hoe-onveilig-is-de-twittertelefoon-van-president-trump.mp3"
 ---
 
 Donald Trump houdt van Twitteren. Alleen doet hij dat twitteren nog altijd met zijn ?eigen telefoon, in plaats van met een extra beveiligde smartphone. En dat is gevaarlijk.

@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 15:14:00 +0200
 categories: 
 - entertainment 
 - gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/3425121/roy-donders-mist-oma-iedere-dag"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/81468084-5b92-11e9-9405-0218eaf05005.jpg"
 ---
 

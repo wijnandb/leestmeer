@@ -5,6 +5,7 @@ date: Fri, 15 Mar 2019 12:25:00 GMT
 categories: 
 - noord-holland 
 - amsterdam 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/15/05-bentley-gestolen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/05-am/bentley.jpg"
 ---
 

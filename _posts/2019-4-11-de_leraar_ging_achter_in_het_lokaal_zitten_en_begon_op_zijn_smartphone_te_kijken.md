@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 05:28:27 GMT
 categories: 
 - utrecht 
 - amersfoort 
+externe_link: "https://www.ad.nl/amersfoort/de-leraar-ging-achter-in-het-lokaal-zitten-en-begon-op-zijn-smartphone-te-kijken~a65749f9/"
 feature_image: "https://images4.persgroep.net/rcs/oPt58lD-BQ8TljNYsQat4cl5qRA/diocontent/127093407/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

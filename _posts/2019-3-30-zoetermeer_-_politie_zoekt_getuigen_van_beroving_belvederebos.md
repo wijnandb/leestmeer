@@ -5,6 +5,7 @@ date: Sat, 30 Mar 2019 13:46:00 GMT
 categories: 
 - zuid-holland 
 - zoetermeer 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/30/06-zoetermeer-politie-zoekt-getuigen-van-beroving-belvederebos.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/voertuig-langs-weg.jpg"
 ---
 

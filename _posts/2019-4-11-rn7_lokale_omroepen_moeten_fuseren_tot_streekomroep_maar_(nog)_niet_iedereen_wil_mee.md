@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 08:30:31 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.ad.nl/nijmegen/rn7-lokale-omroepen-moeten-fuseren-tot-streekomroep-maar-nog-niet-iedereen-wil-mee~abfd506e/"
 feature_image: "https://images4.persgroep.net/rcs/N2AogVOWufLt4tBuYXYYIbN7-T8/diocontent/145161185/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

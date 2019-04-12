@@ -4,7 +4,8 @@ title: "Heemstede - Politie zoekt getuigen straatroof"
 date: Fri, 10 Aug 2018 06:52:00 GMT
 categories: 
 - noord-holland 
-- bloemendaal 
+- heemstede 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/10/04-politie-zoekt-getuigen-straatroof.html"
 ---
 
 Een 16-jarige jongen uit Haarlems is donderdagavond het slachtoffer geworden van een straatroof. Dit gebeurde nabij het station Heemstede-Aerdenhout. 

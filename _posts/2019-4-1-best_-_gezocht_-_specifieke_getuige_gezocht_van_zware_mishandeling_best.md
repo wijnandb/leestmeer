@@ -5,6 +5,7 @@ date: Mon, 01 Apr 2019 10:13:00 GMT
 categories: 
 - noord-brabant 
 - best 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/09-specifieke-getuige-gezocht-van-zware-mishandeling-best.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/april/09-ob/bb_190401/burb-afl-28-uitz-01-04-2019video-mixdown28.jpg"
 ---
 

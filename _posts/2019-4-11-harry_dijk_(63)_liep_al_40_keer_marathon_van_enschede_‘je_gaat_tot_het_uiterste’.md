@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 07:03:00 GMT
 categories: 
 - overijssel 
 - enschede 
+externe_link: "https://www.ad.nl/enschede/harry-dijk-63-liep-al-40-keer-marathon-van-enschede-je-gaat-tot-het-uiterste~a5c7806c/"
 feature_image: "https://images4.persgroep.net/rcs/rfgEdfpMOf1mPTnUiskWDyZVYdQ/diocontent/144918214/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

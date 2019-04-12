@@ -5,6 +5,7 @@ date: Thu, 05 Jul 2018 08:49:00 GMT
 categories: 
 - utrecht 
 - houten 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/juli/03-houten-4-ruzie.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/juli/03-mn/houiten-4-verkeersruzie.jpg"
 ---
 

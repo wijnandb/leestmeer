@@ -5,6 +5,7 @@ date: Fri, 09 Nov 2018 10:01:00 GMT
 categories: 
 - gelderland 
 - duiven 
+externe_link: "https://www.politie.nl/nieuws/2018/november/9/02-duiven-politie-houdt-verdachte-zware-mishandeling-aan.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

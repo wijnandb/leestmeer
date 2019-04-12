@@ -5,6 +5,7 @@ date: Fri, 06 Jul 2018 09:14:00 GMT
 categories: 
 - noord-brabant 
 - uden 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/6/09-kermisattractie-in-brand-gestoken-getuigen-gezocht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/juli/09-ob/kermisuden.jpg"
 ---
 

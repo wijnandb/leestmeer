@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 14:15:25 GMT
 categories: 
 - noord-brabant 
 - eindhoven 
+externe_link: "https://www.ad.nl/eindhoven/brabant-water-filters-voor-drinkwater-zijn-overbodig~a5a04e76/"
 feature_image: "https://images0.persgroep.net/rcs/hKQGqWDBkaeJCfUKhUsImG5iL70/diocontent/142096107/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

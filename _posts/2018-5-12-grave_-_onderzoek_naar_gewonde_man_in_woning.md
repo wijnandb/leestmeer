@@ -5,6 +5,7 @@ date: Sat, 12 May 2018 12:00:00 GMT
 categories: 
 - noord-brabant 
 - grave 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/12/09-onderzoek-naar-gewonde-man-in-woning.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/busje-forensische-opsporing.jpg"
 ---
 

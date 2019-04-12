@@ -5,6 +5,7 @@ date: Tue, 06 Nov 2018 08:48:00 GMT
 categories: 
 - overijssel 
 - kampen 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/juni/02-oon/odl/brandstichting-kringloopwinkel.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/juni/02-on/2018229758-1.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Tue, 29 Jan 2019 16:08:00 GMT
 categories: 
 - zuid-holland 
 - zoetermeer 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/januari/06-dh/tw-29-01/06-winkeldiefstal-kruidvat-zoetermeer.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/januari/06-dh/tw-29-01/reserve-190129_team_diefstal-kruidvat-2.jpg"
 ---
 

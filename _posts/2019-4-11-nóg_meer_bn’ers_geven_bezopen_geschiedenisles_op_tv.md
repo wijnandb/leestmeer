@@ -2,7 +2,9 @@
 layout: post
 title: "Nóg meer bn’ers geven bezopen geschiedenisles op tv"
 date: Thu, 11 Apr 2019 14:30:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3430695/nog-meer-bn-ers-geven-bezopen-geschiedenisles-op-tv"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/91a39b72-5c5c-11e9-bda1-02d2fb1aa1d7.jpg"
 ---

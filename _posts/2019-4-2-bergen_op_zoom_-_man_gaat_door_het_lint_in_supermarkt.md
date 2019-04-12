@@ -5,6 +5,7 @@ date: Tue, 02 Apr 2019 08:12:00 GMT
 categories: 
 - noord-brabant 
 - bergen_op_zoom 
+externe_link: "https://www.politie.nl/nieuws/2019/april/2/08-man-gaat-door-het-lint-in-supermarkt.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-door-agenten-op-straat.jpg"
 ---
 

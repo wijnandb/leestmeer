@@ -2,7 +2,9 @@
 layout: post
 title: "Haase sneuvelt in tweede ronde Marrakech"
 date: Wed, 10 Apr 2019 15:17:02 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/3425150/haase-sneuvelt-in-tweede-ronde-marrakech"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/edb2a0f4-5b92-11e9-b673-0255c322e81b.jpg"
 ---

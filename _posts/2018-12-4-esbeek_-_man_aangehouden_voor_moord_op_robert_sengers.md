@@ -5,6 +5,7 @@ date: Tue, 04 Dec 2018 11:31:00 GMT
 categories: 
 - noord-brabant 
 - hilvarenbeek 
+externe_link: "https://www.politie.nl/nieuws/2018/december/4/08-man-aangehouden-voor-moord-op-robert-sengers.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/man-wordt-geboeid-afgevoerd.jpg"
 ---
 

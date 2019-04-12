@@ -4,7 +4,8 @@ title: "Den Haag - Politie treft bij controle genoeg vuurwerk om gevel weg te bl
 date: Fri, 30 Nov 2018 12:56:00 GMT
 categories: 
 - zuid-holland 
-- katwijk 
+- teylingen 
+externe_link: "https://www.politie.nl/nieuws/2018/november/30/06-den-haag-politie-treft-bij-controle-genoeg-vuurwerk-om-gevel-weg-te-blazen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/november/06-dh/1543570700426.jpg"
 ---
 

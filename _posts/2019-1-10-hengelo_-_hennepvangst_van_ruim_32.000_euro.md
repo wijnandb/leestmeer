@@ -5,6 +5,7 @@ date: Thu, 10 Jan 2019 09:42:00 GMT
 categories: 
 - overijssel 
 - hengelo 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/10/02-hennepvangst-van-ruim-32.000-euro.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/drugs/agent-heeft-hennepplant-in-handen.jpg"
 ---
 

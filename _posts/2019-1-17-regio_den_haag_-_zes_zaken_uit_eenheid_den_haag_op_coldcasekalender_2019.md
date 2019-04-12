@@ -4,7 +4,8 @@ title: "Regio Den Haag - Zes zaken uit Eenheid Den Haag op coldcasekalender 2019
 date: Thu, 17 Jan 2019 09:38:00 GMT
 categories: 
 - zuid-holland 
-- oegstgeest 
+- wassenaar 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/17/06-zes-zaken-uit-eenheid-den-haag-op-coldcasekalender-2019.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/januari/00-km/coldcase0.jpg"
 ---
 

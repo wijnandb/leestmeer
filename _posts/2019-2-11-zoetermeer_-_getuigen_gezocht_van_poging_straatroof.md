@@ -5,6 +5,7 @@ date: Mon, 11 Feb 2019 13:14:00 GMT
 categories: 
 - zuid-holland 
 - zoetermeer 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/11/06-zoetermeer---getuigen-gezocht-van-poging-straatroof.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/politiemotor-geparkeerd.jpg"
 ---
 

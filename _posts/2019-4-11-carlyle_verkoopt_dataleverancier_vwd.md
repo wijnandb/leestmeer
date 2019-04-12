@@ -2,9 +2,8 @@
 layout: post
 title: "Carlyle verkoopt dataleverancier VWD"
 date: Thu, 11 Apr 2019 20:43:36 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3433445/carlyle-verkoopt-dataleverancier-vwd"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/474eb74a-5c8a-11e9-8c76-02d1dbdc35d1.jpg"
 ---
 

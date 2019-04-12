@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 12:34:00 GMT
 categories: 
 - entertainment 
 - auto 
+externe_link: "https://www.ad.nl/auto/verkeerslicht-springt-alleen-op-rood-voor-snelheidsduivels~aef71d06/"
 feature_image: "https://images0.persgroep.net/rcs/ZHswGKt8ap5v2hREbiaE3_XF_Nk/diocontent/133320958/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

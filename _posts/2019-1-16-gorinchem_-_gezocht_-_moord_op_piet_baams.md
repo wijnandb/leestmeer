@@ -5,6 +5,7 @@ date: Wed, 16 Jan 2019 21:24:00 GMT
 categories: 
 - zuid-holland 
 - gorinchem 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/dossiers/2019/07-gorinchem-piet-baams/07-moord-op-piet-baams.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/dossiers/2019/coldcases/07/piet-baams.jpg"
 ---
 

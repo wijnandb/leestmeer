@@ -5,6 +5,7 @@ date: Sat, 25 Aug 2018 19:49:00 GMT
 categories: 
 - utrecht 
 - zeist 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/25/03-getuigen-gezocht-van-frontale-aanrijding-op-de-soestdijkerwerg-n234.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/detailfoto-van-een-zwaailicht-bij-een-kas.jpg"
 ---
 

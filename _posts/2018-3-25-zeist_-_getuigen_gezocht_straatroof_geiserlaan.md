@@ -5,6 +5,7 @@ date: Sun, 25 Mar 2018 20:04:00 GMT
 categories: 
 - utrecht 
 - zeist 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/25/getuigen-gezocht-straatroof-geiserlaan.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/mouw-nieuwe-uniform-politie.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 31 Oct 2018 14:29:00 GMT
 categories: 
 - utrecht 
 - stichtse_vecht 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/31/03-onderzoek-naar-brandend-voertuig-met-mogelijk-drugsafval.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/nachtelijke-inzet-politie-en-brandweer.jpg"
 ---
 

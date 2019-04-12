@@ -2,7 +2,9 @@
 layout: post
 title: "Icederby Thialf met 1,8 miljoen prijzengeld"
 date: Wed, 10 Apr 2019 20:54:58 +0200
-category: sport
+categories: 
+- sport 
+- scoreboard 
 externe_link: "https://www.telegraaf.nl/sport/3427236/icederby-thialf-met-1-8-miljoen-prijzengeld"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3151ba96-5bc2-11e9-b6df-02d2fb1aa1d7.jpg"
 ---

@@ -2,9 +2,8 @@
 layout: post
 title: "Eindhoven - Gezocht - Beelden daders gewapende overval McDonald's in Bureau Brabant"
 date: Mon, 08 Apr 2019 13:19:00 GMT
-categories: 
-- noord-brabant 
-- eindhoven 
+category: noord-brabant
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/09-gewapende-overval-mcdonalds-eindhoven.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/april/09-ob/bb_190408/eindhoven-01.jpg"
 ---
 

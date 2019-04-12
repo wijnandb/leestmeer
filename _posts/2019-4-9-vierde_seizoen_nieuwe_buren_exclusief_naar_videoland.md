@@ -2,7 +2,9 @@
 layout: post
 title: "Vierde seizoen Nieuwe Buren exclusief naar Videoland"
 date: Tue, 09 Apr 2019 22:22:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3420506/vierde-seizoen-nieuwe-buren-exclusief-naar-videoland"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4e51342c-5b05-11e9-ba01-0255c322e81b.jpg"
 ---

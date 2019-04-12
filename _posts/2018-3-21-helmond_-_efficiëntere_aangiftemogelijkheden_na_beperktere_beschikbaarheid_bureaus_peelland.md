@@ -4,7 +4,8 @@ title: "Helmond - Efficiëntere aangiftemogelijkheden na beperktere beschikbaarh
 date: Wed, 21 Mar 2018 13:50:00 GMT
 categories: 
 - noord-brabant 
-- asten 
+- someren 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/21/09-efficientere-aangiftemogelijkheden-na-sluiting-bureaus-peelland.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/mijn-buurt/bureaus/09-oost-brabant/bureaus/helmond_tcm27-289324.jpg"
 ---
 

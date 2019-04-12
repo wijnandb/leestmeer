@@ -5,6 +5,7 @@ date: Wed, 09 May 2018 14:08:00 GMT
 categories: 
 - overijssel 
 - hof_van_twente 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/9/02-hof-van-twente-%E2%80%93-dierenpolitie-neemt-47-verwaarloosde-honden-in-beslag.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/mei/02-on/honden-hofvantwente.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "AVROTROS produceert serie met Michael C. Hall"
 date: Thu, 11 Apr 2019 21:06:51 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3433528/avrotros-produceert-serie-met-michael-c-hall"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/12d6bce4-5c8d-11e9-8d7a-0218eaf05005.png"
 ---

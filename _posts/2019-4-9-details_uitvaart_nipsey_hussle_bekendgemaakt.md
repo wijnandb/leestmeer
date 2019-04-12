@@ -4,7 +4,7 @@ title: "Details uitvaart Nipsey Hussle bekendgemaakt"
 date: Tue, 09 Apr 2019 08:32:00 GMT
 categories: 
 - entertainment 
-- show 
+- muziek 
 externe_link: "https://www.ad.nl/show/details-uitvaart-nipsey-hussle-bekendgemaakt~a5222176/"
 feature_image: "https://images2.persgroep.net/rcs/3cektL46F8WDvIBPWhx1vZQOwQ8/diocontent/145076561/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

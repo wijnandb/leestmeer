@@ -2,7 +2,7 @@
 layout: post
 title: "Oproep: deel uw familierecept!"
 date: Thu, 11 Apr 2019 11:50:00 +0200
-category: binnenland
+category: overig
 externe_link: "https://www.telegraaf.nl/nieuws/3400458/oproep-deel-uw-familierecept"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/36a1dc88-5c3f-11e9-abce-02c309bc01c1.jpg"
 ---

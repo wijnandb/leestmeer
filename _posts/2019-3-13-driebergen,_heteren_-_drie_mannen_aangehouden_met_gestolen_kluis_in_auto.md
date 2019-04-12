@@ -5,6 +5,7 @@ date: Wed, 13 Mar 2019 12:48:00 GMT
 categories: 
 - gelderland 
 - overbetuwe 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/13/11-drie-mannen-aangehouden-met-gestolen-kluis-in-auto.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stock-afbeeldingen/11-landelijke-eenheid/kluis.jpg"
 ---
 

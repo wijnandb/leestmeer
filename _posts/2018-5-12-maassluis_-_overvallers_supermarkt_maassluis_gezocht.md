@@ -5,6 +5,7 @@ date: Sat, 12 May 2018 12:38:00 GMT
 categories: 
 - zuid-holland 
 - maassluis 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/12/07-overvallers-supermarkt-maassluis-gezocht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/controle-op-woninginbraak.jpg"
 ---
 

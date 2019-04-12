@@ -2,9 +2,8 @@
 layout: post
 title: "Beurs: AEX levert winst bij slot in"
 date: Thu, 11 Apr 2019 17:48:00 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3428387/beurs-aex-levert-winst-bij-slot-in"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b90bf5b6-5c74-11e9-8fc6-02d2fb1aa1d7.jpg"
 ---
 

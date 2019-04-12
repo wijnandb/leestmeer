@@ -2,7 +2,9 @@
 layout: post
 title: "Heerenveen zet Olde Riekerink per direct op straat"
 date: Wed, 10 Apr 2019 14:54:14 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3424911/heerenveen-zet-olde-riekerink-per-direct-op-straat"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9a4059ec-5b93-11e9-b144-0255c322e81b.jpg"
 ---

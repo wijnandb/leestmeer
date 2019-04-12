@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 13:30:00 GMT
 categories: 
 - financieel 
 - economie 
+externe_link: "https://www.ad.nl/ad-werkt/de-baas-van-dit-bedrijf-kreeg-een-bonus-van-850-miljoen-euro-en-gaf-het-allemaal-weg~a5a2543d/"
 feature_image: "https://images1.persgroep.net/rcs/Hpfls9dDdjiade3l20AMVGn3FRo/diocontent/127832977/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

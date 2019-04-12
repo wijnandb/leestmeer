@@ -2,9 +2,8 @@
 layout: post
 title: "Wall Street zakt licht in het rood"
 date: Thu, 11 Apr 2019 19:33:41 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3433210/wall-street-zakt-licht-in-het-rood"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4dfc5de0-5c80-11e9-8fb5-02c309bc01c1.jpg"
 ---
 

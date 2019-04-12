@@ -5,6 +5,7 @@ date: Sat, 30 Mar 2019 15:16:00 GMT
 categories: 
 - noord-holland 
 - hilversum 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/30/03-getuigen-gezocht-ongeval-kamerlingh-omnesweg-hilversum.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/politielogo-gevel.jpg"
 ---
 

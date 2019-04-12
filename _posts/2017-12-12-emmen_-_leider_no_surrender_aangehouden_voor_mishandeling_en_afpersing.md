@@ -5,6 +5,7 @@ date: Tue, 12 Dec 2017 06:20:00 GMT
 categories: 
 - fryslan 
 - súdwest-fryslân 
+externe_link: "https://www.politie.nl/nieuws/2017/december/12/01-leider-no-surrender-aangehouden-voor-mishandeling-en-afpersing.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-door-agenten-op-straat.jpg"
 ---
 

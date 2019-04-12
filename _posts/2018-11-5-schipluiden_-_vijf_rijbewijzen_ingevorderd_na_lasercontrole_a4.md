@@ -5,6 +5,7 @@ date: Mon, 05 Nov 2018 11:57:00 GMT
 categories: 
 - zuid-holland 
 - midden-delfland 
+externe_link: "https://www.politie.nl/nieuws/2018/november/5/06---vijf-rijbewijzen-ingevorderd-na-lasercontrole-a4.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/lasercontrole-snelheid-auto.jpg"
 ---
 

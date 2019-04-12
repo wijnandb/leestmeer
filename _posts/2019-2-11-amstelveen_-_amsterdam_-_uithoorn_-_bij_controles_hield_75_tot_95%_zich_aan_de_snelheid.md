@@ -4,7 +4,8 @@ title: "Amstelveen - Amsterdam - Uithoorn - Bij controles hield 75 tot 95% zich 
 date: Mon, 11 Feb 2019 09:02:00 GMT
 categories: 
 - noord-holland 
-- amstelveen 
+- uithoorn 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/11/05-snelheidscontroles-afgelopen-weekend.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/oktober/05-am/50-kinderen-rechthoek.jpg"
 ---
 

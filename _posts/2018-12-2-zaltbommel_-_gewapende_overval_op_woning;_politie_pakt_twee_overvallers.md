@@ -5,6 +5,7 @@ date: Sun, 02 Dec 2018 09:30:00 GMT
 categories: 
 - gelderland 
 - zaltbommel 
+externe_link: "https://www.politie.nl/nieuws/2018/december/2/02-zaltbommel-gewapende-overval-op-woning-politie-pakt-twee-overvallers.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/nw-operationeel-uniform-4.jpg"
 ---
 

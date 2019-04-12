@@ -2,9 +2,8 @@
 layout: post
 title: "NPEX-notering voor Ecovat"
 date: Fri, 12 Apr 2019 08:41:02 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3434668/npex-notering-voor-ecovat"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/19e2aadc-5cee-11e9-8d0e-02d1dbdc35d1.jpg"
 ---
 

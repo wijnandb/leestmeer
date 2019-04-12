@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 08:07:00 GMT
 categories: 
 - sport 
 - autosport 
+externe_link: "https://www.ad.nl/formule-1/verstappen-heeft-weinig-te-klagen-we-zitten-er-dichter-op~aab11c35/"
 feature_image: "https://images3.persgroep.net/rcs/VfXg0cDyCPl5bKG-Z4bUJoclVDU/diocontent/145369594/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

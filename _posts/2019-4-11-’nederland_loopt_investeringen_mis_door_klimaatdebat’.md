@@ -2,7 +2,7 @@
 layout: post
 title: "’Nederland loopt investeringen mis door klimaatdebat’"
 date: Thu, 11 Apr 2019 18:29:37 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3432953/nederland-loopt-investeringen-mis-door-klimaatdebat"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8791f0cc-5c78-11e9-ab1a-0218eaf05005.png"
 ---

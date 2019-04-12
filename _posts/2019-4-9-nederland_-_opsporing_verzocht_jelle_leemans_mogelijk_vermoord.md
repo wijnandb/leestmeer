@@ -2,9 +2,8 @@
 layout: post
 title: "Nederland - Opsporing Verzocht: Jelle Leemans mogelijk vermoord"
 date: Tue, 09 Apr 2019 18:15:00 GMT
-categories: 
-- flevoland 
-- almere 
+category: utrecht
+externe_link: "https://www.politie.nl/nieuws/2019/april/9/opsporing-verzocht-9-april-2019.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-verzocht/belpanel-nieuw-decor.jpg"
 ---
 

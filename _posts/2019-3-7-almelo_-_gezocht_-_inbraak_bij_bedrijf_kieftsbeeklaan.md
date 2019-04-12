@@ -5,6 +5,7 @@ date: Thu, 07 Mar 2019 09:07:00 GMT
 categories: 
 - overijssel 
 - almelo 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/02-oon/odl/inbraak-bij-bedrijf-kieftsbeeklaan.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/02-on/2018238728-1b.jpg"
 ---
 

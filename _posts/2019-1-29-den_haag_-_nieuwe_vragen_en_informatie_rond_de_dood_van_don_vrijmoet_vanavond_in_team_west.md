@@ -5,6 +5,7 @@ date: Tue, 29 Jan 2019 09:49:00 GMT
 categories: 
 - zuid-holland 
 - zoetermeer 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/29/06-nieuwe-vragen-en-informatie-rond-de-dood-van-don-vrijmoet-in-team-west.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/gezocht/verdachten/2018/november/06-dh/20-11/181120_team_overleden-man-den-haag-1.jpg"
 ---
 

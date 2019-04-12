@@ -5,6 +5,7 @@ date: Wed, 03 Oct 2018 15:16:00 GMT
 categories: 
 - gelderland 
 - wageningen 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/oktober/02-oon/gld/overval-op-17-jarige-fietsster.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/oktober/02-on/2018426223-1.jpg"
 ---
 

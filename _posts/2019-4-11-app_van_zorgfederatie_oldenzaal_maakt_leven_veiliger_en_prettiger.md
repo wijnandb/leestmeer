@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 07:39:00 GMT
 categories: 
 - overijssel 
 - oldenzaal 
+externe_link: "https://www.ad.nl/oldenzaal/app-van-zorgfederatie-oldenzaal-maakt-leven-veiliger-en-prettiger~ae8ca5bf/"
 feature_image: "https://images1.persgroep.net/rcs/IVXoZVhs_kKwInlpdSCi2mPI7fc/diocontent/144900510/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

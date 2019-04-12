@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 06:00:49 GMT
 categories: 
 - noord-brabant 
 - breda 
+externe_link: "https://www.ad.nl/breda/debat-hoge-vucht-aantal-jongerenwerkers-schrikbarend-laag~a0b889e4/"
 feature_image: "https://images3.persgroep.net/rcs/yAH7X045sDhkT3Z8X4nNIkASJsE/diocontent/144916965/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

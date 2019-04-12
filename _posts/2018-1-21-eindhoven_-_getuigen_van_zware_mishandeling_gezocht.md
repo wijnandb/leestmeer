@@ -5,6 +5,7 @@ date: Sun, 21 Jan 2018 11:09:00 GMT
 categories: 
 - zuid-holland 
 - bernisse 
+externe_link: "https://www.politie.nl/nieuws/2018/januari/21/09-getuigen-van-zware-mishandeling-gezocht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/agenten-tijdens-horecadienst.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Tue, 07 Mar 2017 15:00:00 GMT
 categories: 
 - zuid-holland 
 - giessenlanden 
+externe_link: "https://www.politie.nl/nieuws/2017/maart/7/07-verdachte-aangehouden-voor-schietincident-in-noordeloos.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/arrestant-in-een-ophoudkamer.jpg"
 ---
 

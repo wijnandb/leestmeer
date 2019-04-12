@@ -5,6 +5,7 @@ date: Mon, 24 Dec 2018 14:29:00 GMT
 categories: 
 - noord-brabant 
 - veldhoven 
+externe_link: "https://www.politie.nl/nieuws/2018/december/24/09-stropers-duo-loopt-in-de-val.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/december/09-ob/000-stropen-groot.jpg"
 ---
 

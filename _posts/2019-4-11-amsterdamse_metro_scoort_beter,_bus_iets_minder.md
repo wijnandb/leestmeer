@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 16:26:00 GMT
 categories: 
 - noord-holland 
 - amsterdam 
+externe_link: "https://www.ad.nl/amsterdam/amsterdamse-metro-scoort-beter-bus-iets-minder~a32d7b5a/"
 feature_image: "https://images0.persgroep.net/rcs/Fsz0k3_O-UPFJHNpgxvctXglYvE/diocontent/145324316/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 31 Aug 2017 08:27:00 GMT
 categories: 
 - drenthe 
 - aa_en_hunze 
+externe_link: "https://www.politie.nl/nieuws/2017/augustus/31/01-vermiste-student-terecht-na-zoekactie.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/piloot-in-een-helikopter.jpg"
 ---
 

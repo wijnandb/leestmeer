@@ -5,6 +5,7 @@ date: Tue, 24 Apr 2018 07:25:00 GMT
 categories: 
 - noord-holland 
 - aalsmeer 
+externe_link: "https://www.politie.nl/nieuws/2018/april/24/05-europese-snelheidscontrole-afgesloten.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/april/05-am/radarapparatuur.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 18:16:16 +0200
 categories: 
 - financieel 
 - economie 
+externe_link: "https://www.nu.nl/ondernemen/5838699/shell-wil-kamer-na-ophef-toch-te-woord-staan-over-belastingaangifte.html"
 feature_image: "https://media.nu.nl/m/ccnxxaca1i8r_sqr256.jpg/shell-wil-kamer-na-ophef-toch-te-woord-staan-over-belastingaangifte.jpg"
 ---
 

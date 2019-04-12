@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 14:58:29 GMT
 categories: 
 - noord-brabant 
 - waalwijk 
+externe_link: "https://www.ad.nl/waalwijk/muziekcentrum-de-mads-houdt-benefietconcert-voor-stamcelonderzoek~a5293b1f/"
 feature_image: "https://images0.persgroep.net/rcs/wYpoCGSqHybkVvyPl8vTW8Bq1lo/diocontent/100544048/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Fri, 28 Sep 2018 08:17:00 GMT
 categories: 
 - zuid-holland 
 - hillegom 
+externe_link: "https://www.politie.nl/nieuws/2018/september/28/04-inbrekers-op-heterdaad-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/juni/04-nh/img_20180708_160636.jpg"
 ---
 

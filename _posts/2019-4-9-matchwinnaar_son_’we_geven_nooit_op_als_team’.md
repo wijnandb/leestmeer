@@ -2,7 +2,9 @@
 layout: post
 title: "Matchwinnaar Son: ’We geven nooit op als team’"
 date: Tue, 09 Apr 2019 23:49:32 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3421252/matchwinnaar-son-we-geven-nooit-op-als-team"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/03d23c4a-5b12-11e9-a00c-02c309bc01c1.jpg"
 ---

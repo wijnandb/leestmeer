@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 10:50:00 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.ad.nl/den-bosch/straatbeeld-ontluikende-jonge-liefde-je-hebt-mooie-ogen~a6b8824c/"
 feature_image: "https://images0.persgroep.net/rcs/6Min8BQyqnrLSyg2lCn20g1aCWk/diocontent/145232377/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

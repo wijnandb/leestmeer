@@ -5,6 +5,7 @@ date: Fri, 01 Feb 2019 09:41:00 GMT
 categories: 
 - overijssel 
 - hardenberg 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/02-diefstal-dure-gitaren.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/02-on/2018549241-dfst-gitaren-1.jpg"
 ---
 

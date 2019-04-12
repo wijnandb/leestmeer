@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 16:57:12 GMT
 categories: 
 - zuid-holland 
 - westland 
+externe_link: "https://www.ad.nl/westland/docenten-en-leerlingen-isw-sweelincklaan-halen-11-045-euro-op-voor-avavieren~a32f83567/"
 feature_image: "https://images1.persgroep.net/rcs/BttrbcBDS0TBqLM7aIbHw_gzQjI/diocontent/145298814/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

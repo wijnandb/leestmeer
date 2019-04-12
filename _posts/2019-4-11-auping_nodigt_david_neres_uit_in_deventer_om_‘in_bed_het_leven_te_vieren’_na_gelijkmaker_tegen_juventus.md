@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 09:52:54 GMT
 categories: 
 - overijssel 
 - deventer 
+externe_link: "https://www.ad.nl/deventer/auping-nodigt-david-neres-uit-in-deventer-om-in-bed-het-leven-te-vieren-na-gelijkmaker-tegen-juventus~a955ae5e/"
 feature_image: "https://images0.persgroep.net/rcs/CPpGkZ3mB-QgPuuqzBtinsQjQrA/diocontent/145264804/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

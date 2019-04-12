@@ -5,6 +5,7 @@ date: Tue, 27 Nov 2018 10:04:00 GMT
 categories: 
 - gelderland 
 - berkelland 
+externe_link: "https://www.politie.nl/nieuws/2018/november/27/02-neede-politie-rolt-forse-hennepkwekerij-op.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/november/02-on/20181126_105837a.jpg"
 ---
 

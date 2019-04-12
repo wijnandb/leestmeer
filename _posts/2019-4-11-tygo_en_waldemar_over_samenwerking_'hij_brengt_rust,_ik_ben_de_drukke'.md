@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 17:42:58 +0200
 categories: 
 - entertainment 
 - film 
+externe_link: "https://www.nu.nl/film/5835960/tygo-en-waldemar-over-samenwerking-hij-brengt-rust-ik-ben-de-drukke.html"
 feature_image: "https://media.nu.nl/m/yt8xpnlavo9e_sqr256.jpg/tygo-en-waldemar-over-samenwerking-hij-brengt-rust-ik-ben-de-drukke.jpg"
 ---
 

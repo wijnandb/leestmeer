@@ -2,9 +2,8 @@
 layout: post
 title: "Dordrecht - Half miljoen sigaretten gevonden"
 date: Thu, 11 Apr 2019 12:37:00 GMT
-categories: 
-- zuid-holland 
-- dordrecht 
+category: nieuws
+externe_link: "https://www.politie.nl/nieuws/2019/april/11/07-half-miljoen-sigaretten-gevonden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/april/07-rt/f-190411-sigaretten-dordrecht.jpg"
 ---
 

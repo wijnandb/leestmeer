@@ -6,7 +6,6 @@ categories:
 - sport 
 - voetbal 
 externe_link: "https://podcast.npo.nl/file/nos-voetbalpodcast/2975/nporadio1_nos-voetbalpodcast_20181119_nos-voetbalpodcast-15-koeman-is-nu-de-wonderdokter-het-is-te-hopen-dat-het-medicijn-lang-werkt.mp3"
-feature_image: "https://podcast.npo.nl/file/nos-voetbalpodcast/2975/nporadio1_nos-voetbalpodcast_20181119_nos-voetbalpodcast-15-koeman-is-nu-de-wonderdokter-het-is-te-hopen-dat-het-medicijn-lang-werkt.mp3"
 ---
 
 Deze week met Arno Vermeulen, Jeroen Elshoff , Jeroen Grueter en Jeroen Stekelenburg. Ze bespreken natuurlijk de geweldige overwinning van Oranje op wereldkampioen Frankrijk. Verder hebben ze het over het instapmoment van bondscoach Ronald Koeman, de kansen van Oranje straks tijdens de EK-kwalificatie, de Nations League brengt het jochie in de spelers naar boven.en er wordt vooruitgekeken naar de wedstrijd tegen Duitsland.

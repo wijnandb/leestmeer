@@ -5,6 +5,7 @@ date: Thu, 04 Oct 2018 14:04:00 GMT
 categories: 
 - zuid-holland 
 - papendrecht 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/4/07-onderzoeksresultaten-familiedrama-papendrecht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/september/00-km/20180922_papendrecht.jpg"
 ---
 

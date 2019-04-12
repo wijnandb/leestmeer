@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 17:09:00 GMT
 categories: 
 - gelderland 
 - arnhem 
+externe_link: "https://www.ad.nl/arnhem/marcouch-sluit-bar-41-na-steekpartij-en-wil-vergunning-eigenaar-intrekken~aea85e13/"
 feature_image: "https://images0.persgroep.net/rcs/v6vOqgl_FU5-47-emHCoEyJb_40/diocontent/145327534/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

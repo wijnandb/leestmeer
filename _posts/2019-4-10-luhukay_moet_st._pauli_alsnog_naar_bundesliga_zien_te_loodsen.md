@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 08:56:00 GMT
 categories: 
 - sport 
 - voetbal 
+externe_link: "https://www.ad.nl/buitenlands-voetbal/luhukay-moet-st-pauli-alsnog-naar-bundesliga-zien-te-loodsen~ab5bbf00/"
 feature_image: "https://images0.persgroep.net/rcs/udCp9ZJ3DANSndSGTIej7kpyQGU/diocontent/119029332/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

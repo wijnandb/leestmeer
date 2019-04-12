@@ -5,6 +5,7 @@ date: Wed, 12 Dec 2018 12:08:00 GMT
 categories: 
 - zuid-holland 
 - midden-delfland 
+externe_link: "https://www.politie.nl/nieuws/2018/december/12/06-den-hoorn-inbreker-den-hoorn-op-heterdaad-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/zijkant-politieauto-met-logo.jpg"
 ---
 

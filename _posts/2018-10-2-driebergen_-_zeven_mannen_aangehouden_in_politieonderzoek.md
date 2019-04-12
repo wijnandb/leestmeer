@@ -5,6 +5,7 @@ date: Tue, 02 Oct 2018 11:38:00 GMT
 categories: 
 - utrecht 
 - vianen 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/2/zeven-mannen-aangehouden-in-politieoonderzoek.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/augustus/05-am/aanhouding-28-08.jpg"
 ---
 

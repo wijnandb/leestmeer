@@ -5,6 +5,7 @@ date: Tue, 24 Apr 2018 10:43:00 GMT
 categories: 
 - flevoland 
 - zeewolde 
+externe_link: "https://www.politie.nl/nieuws/2018/april/24/politie-controleert-25-april-extra-op-afleiding-in-het-verkeer.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/afleiding-in-het-verkeer.jpg"
 ---
 

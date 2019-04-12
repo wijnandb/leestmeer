@@ -4,7 +4,8 @@ title: "Raalte - In Onder de Loep: Brute overval tankstation"
 date: Thu, 24 Jan 2019 13:27:00 GMT
 categories: 
 - overijssel 
-- oldenzaal 
+- raalte 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/24/02-in-onder-de-loep-brute-overval-tankstation.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/onderwerpen/onder-de-loep.jpg"
 ---
 

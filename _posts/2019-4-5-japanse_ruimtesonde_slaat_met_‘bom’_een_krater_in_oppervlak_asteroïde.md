@@ -2,9 +2,7 @@
 layout: post
 title: "Japanse ruimtesonde slaat met ‘bom’ een krater in oppervlak asteroïde"
 date: Fri, 05 Apr 2019 09:03:13 GMT
-categories: 
-- overig 
-- wetenschap 
+category: wetenschap
 externe_link: "https://www.ad.nl/wetenschap/japanse-ruimtesonde-slaat-met-bom-een-krater-in-oppervlak-asteroide~a4ddd002/"
 feature_image: "https://images3.persgroep.net/rcs/f41lkHEUnWSqpYflusjD6ko5Kw0/diocontent/144877054/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

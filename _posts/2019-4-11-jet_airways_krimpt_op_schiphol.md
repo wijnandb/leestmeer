@@ -2,9 +2,8 @@
 layout: post
 title: "Jet Airways krimpt op Schiphol"
 date: Thu, 11 Apr 2019 11:21:11 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3429350/jet-airways-krimpt-op-schiphol"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5bd7a9cc-5c3c-11e9-b673-0255c322e81b.jpg"
 ---
 

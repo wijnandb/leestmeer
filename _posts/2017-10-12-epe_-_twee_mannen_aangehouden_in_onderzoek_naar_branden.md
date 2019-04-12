@@ -5,6 +5,7 @@ date: Thu, 12 Oct 2017 06:20:00 GMT
 categories: 
 - gelderland 
 - epe 
+externe_link: "https://www.politie.nl/nieuws/2017/oktober/12/02-epe-twee-mannen-aangehouden-in-onderzoek-naar-branden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/brandweer-en-politie-bij-incident-in-de-avond.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 23 May 2018 16:00:00 GMT
 categories: 
 - gelderland 
 - lochem 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/mei/02-oon/gld/inbraak-in-woning.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/mei/02-on/2018086966-1.jpg"
 ---
 

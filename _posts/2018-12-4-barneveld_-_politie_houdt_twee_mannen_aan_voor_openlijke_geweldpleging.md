@@ -5,6 +5,7 @@ date: Tue, 04 Dec 2018 11:29:00 GMT
 categories: 
 - gelderland 
 - barneveld 
+externe_link: "https://www.politie.nl/nieuws/2018/december/4/02-politie-houdt-twee-mannen-aan-voor-openlijke-geweldpleging.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-3.jpg"
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Meldpunt: 1,7 miljoen schade via bitcoinadvertenties met nepcitaten BN'ers"
-date: Fri, 12 Apr 2019 09:50:12 +0200
-category: nieuws
+date: Fri, 12 Apr 2019 11:37:12 +0200
+category: tech
 externe_link: "https://www.nu.nl/internet/5839530/meldpunt-17-miljoen-schade-via-bitcoinadvertenties-met-nepcitaten-bners.html"
 feature_image: "https://media.nu.nl/m/m0qxd92amczv_sqr256.jpg/meldpunt-17-miljoen-schade-via-bitcoinadvertenties-met-nepcitaten-bners.jpg"
 ---

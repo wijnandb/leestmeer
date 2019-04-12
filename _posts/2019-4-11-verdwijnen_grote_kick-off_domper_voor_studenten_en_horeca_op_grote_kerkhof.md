@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 08:30:29 GMT
 categories: 
 - overijssel 
 - deventer 
+externe_link: "https://www.ad.nl/deventer/verdwijnen-grote-kick-off-domper-voor-studenten-en-horeca-op-grote-kerkhof~a2d1b427/"
 feature_image: "https://images1.persgroep.net/rcs/3jnFKXW1rCLR2B8luMJM1b0kAb8/diocontent/131077769/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

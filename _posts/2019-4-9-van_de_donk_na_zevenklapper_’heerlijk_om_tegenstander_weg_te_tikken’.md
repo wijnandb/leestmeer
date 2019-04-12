@@ -2,7 +2,9 @@
 layout: post
 title: "Van de Donk na zevenklapper: ’Heerlijk om tegenstander weg te tikken’"
 date: Tue, 09 Apr 2019 22:02:07 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3420749/van-de-donk-na-zevenklapper-heerlijk-om-tegenstander-weg-te-tikken"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/73ca3b52-5b02-11e9-8854-0217670beecd.jpg"
 ---

@@ -5,6 +5,7 @@ date: Wed, 02 Jan 2019 10:54:00 GMT
 categories: 
 - gelderland 
 - ede 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/2/02-ede-bewoners-betrappen-en-overmeesteren-inbreker.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

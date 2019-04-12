@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 11:09:00 GMT
 categories: 
 - noord-brabant 
 - breda 
+externe_link: "https://www.ad.nl/breda/reiziger-geeft-busvervoer-in-west-brabant-rapportcijfer-7-9~aeefc56e/"
 feature_image: "https://images4.persgroep.net/rcs/gNWlZ67WBh_0lx0fnPVjGbgGRuY/diocontent/145303850/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Van Aert verbaasd over staat van kasseienstroken in Parijs-Roubaix"
 date: Thu, 11 Apr 2019 17:30:00 GMT
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.ad.nl/wielrennen/van-aert-verbaasd-over-staat-van-kasseienstroken-in-parijs-roubaix~ad10e148/"
 feature_image: "https://images0.persgroep.net/rcs/Gi0ciEZz5oQ7YtWbEvSJJR7Oomo/diocontent/145321346/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Twitter en Facebook op het matje en Ocean Cleanup
 date: Thu, 06 Sep 2018 17:05:22 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4110/nporadio1_nosop3techpodcast_20180906_nos-op-3-tech-podcast-twitter-en-facebook-op-het-matje-en-ocean-cleanup-van-start.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4110/nporadio1_nosop3techpodcast_20180906_nos-op-3-tech-podcast-twitter-en-facebook-op-het-matje-en-ocean-cleanup-van-start.mp3"
 ---
 
 0:00 Facebook en Twitter werden deze week uitvoerig ondervraagd in het Amerikaanse parlement. Het ging onder meer over Russische beïnvloeding in Amerika, en de vraag of social media partijdig zijn.

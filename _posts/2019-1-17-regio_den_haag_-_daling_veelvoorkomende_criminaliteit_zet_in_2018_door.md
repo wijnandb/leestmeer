@@ -4,7 +4,8 @@ title: "Regio Den Haag - Daling veelvoorkomende criminaliteit zet in 2018 door"
 date: Thu, 17 Jan 2019 18:36:00 GMT
 categories: 
 - zuid-holland 
-- gouda 
+- leiden 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/17/06-terugblik-2018.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/januari/06-dh/terugblik2018cijfersdef.jpg"
 ---
 

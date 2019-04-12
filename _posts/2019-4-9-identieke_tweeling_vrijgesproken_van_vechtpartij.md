@@ -2,7 +2,7 @@
 layout: post
 title: "Identieke tweeling vrijgesproken van vechtpartij"
 date: Tue, 09 Apr 2019 15:39:21 +0200
-category: algemeen
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/3418403/identieke-tweeling-vrijgesproken-van-vechtpartij"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a54f1e0c-5ae6-11e9-a27a-02d1dbdc35d1.jpg"
 ---

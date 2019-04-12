@@ -2,9 +2,8 @@
 layout: post
 title: "Hillegom - Verdachte aangehouden voor brand Hillegom"
 date: Tue, 09 Apr 2019 09:05:00 GMT
-categories: 
-- zuid-holland 
-- hillegom 
+category: zuid-holland
+externe_link: "https://www.politie.nl/nieuws/2019/april/9/06-hillegom-verdachte-aangehouden-voor-brand-hillegom.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

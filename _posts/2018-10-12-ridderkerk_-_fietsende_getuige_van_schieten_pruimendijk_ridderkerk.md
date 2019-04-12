@@ -4,7 +4,8 @@ title: "Ridderkerk - Fietsende getuige van schieten Pruimendijk Ridderkerk"
 date: Fri, 12 Oct 2018 08:33:00 GMT
 categories: 
 - zuid-holland 
-- barendrecht 
+- zwijndrecht 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/12/fietsende-getuige-van-schieten-pruimendijk-ridderkerk.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/afzetlint-gebruikt-bij-een-afzetting-van-een-pd.jpg"
 ---
 

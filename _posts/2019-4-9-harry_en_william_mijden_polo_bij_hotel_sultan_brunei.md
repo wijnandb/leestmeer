@@ -2,7 +2,9 @@
 layout: post
 title: "Harry en William mijden polo bij hotel sultan Brunei"
 date: Tue, 09 Apr 2019 14:46:40 +0200
-category: entertainment
+categories: 
+- entertainment 
+- royalty 
 externe_link: "https://www.telegraaf.nl/entertainment/3417808/harry-en-william-mijden-polo-bij-hotel-sultan-brunei"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3dc45cbe-5acf-11e9-bda1-02d2fb1aa1d7.png"
 ---

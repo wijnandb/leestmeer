@@ -5,6 +5,7 @@ date: Tue, 26 Feb 2019 11:57:00 GMT
 categories: 
 - overijssel 
 - enschede 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/26/02-enschede-aanhoudingen-schietincident.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Film over leven en werk Dick Maas in de maak"
 date: Wed, 10 Apr 2019 15:56:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3425278/film-over-leven-en-werk-dick-maas-in-de-maak"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bc5fc9b6-5b95-11e9-847b-0218eaf05005.jpg"
 ---

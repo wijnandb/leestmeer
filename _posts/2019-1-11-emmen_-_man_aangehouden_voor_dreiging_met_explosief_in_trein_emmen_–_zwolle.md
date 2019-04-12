@@ -2,9 +2,8 @@
 layout: post
 title: "Emmen - Man aangehouden voor dreiging met explosief in trein Emmen – Zwolle"
 date: Fri, 11 Jan 2019 11:04:00 GMT
-categories: 
-- drenthe 
-- emmen 
+category: drenthe
+externe_link: "https://www.politie.nl/nieuws/2019/januari/11/02-man-aangehouden-voor-dreiging-met-explosief-in-trein-emmen-%E2%80%93-zwolle.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/nieuwe-intercity-exterieur.jpg"
 ---
 

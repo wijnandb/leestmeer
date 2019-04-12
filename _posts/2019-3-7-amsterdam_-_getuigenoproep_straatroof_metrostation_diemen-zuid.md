@@ -5,6 +5,7 @@ date: Thu, 07 Mar 2019 10:39:00 GMT
 categories: 
 - noord-holland 
 - diemen 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/7/05-getuigenoproep-straatroof-metrostation-diemen-zuid.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/twee-agenten-staan-bij-ingang-sprintertrein.jpg"
 ---
 

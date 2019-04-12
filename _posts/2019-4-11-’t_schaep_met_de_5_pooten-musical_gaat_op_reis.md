@@ -2,7 +2,9 @@
 layout: post
 title: "’t Schaep met de 5 Pooten-musical gaat op reis"
 date: Thu, 11 Apr 2019 22:14:57 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3433766/t-schaep-met-de-5-pooten-musical-gaat-op-reis"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c4c7ee38-5c96-11e9-8fc6-02d2fb1aa1d7.jpg"
 ---

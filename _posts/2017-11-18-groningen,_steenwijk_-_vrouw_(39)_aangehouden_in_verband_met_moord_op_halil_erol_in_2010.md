@@ -5,6 +5,7 @@ date: Sat, 18 Nov 2017 05:19:00 GMT
 categories: 
 - drenthe 
 - meppel 
+externe_link: "https://www.politie.nl/nieuws/2017/november/18/02-vrouw-39-aangehouden-in-verband-met-moord-op-halil-erol-in-2010.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/gele-politiejas.jpg"
 ---
 

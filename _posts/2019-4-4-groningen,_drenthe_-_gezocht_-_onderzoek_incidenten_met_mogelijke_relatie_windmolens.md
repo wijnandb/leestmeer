@@ -2,7 +2,7 @@
 layout: post
 title: "Groningen, Drenthe - Gezocht - Onderzoek incidenten met mogelijke relatie windmolens"
 date: Thu, 04 Apr 2019 13:54:00 GMT
-category: drenthe
+category: groningen
 externe_link: "https://www.politie.nl/gezocht-en-vermist/dossiers/2019/onderzoek-incidenten-met-mogelijke-relatie-windmolens/bedreigingen.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/dossiers/2019/01-nn/dreigbrief-timmermans.jpg"
 ---

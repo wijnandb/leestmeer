@@ -5,6 +5,7 @@ date: Wed, 29 Nov 2017 14:09:00 GMT
 categories: 
 - noord-brabant 
 - boxtel 
+externe_link: "https://www.politie.nl/nieuws/2017/november/29/09-doorzoekingen-in-internationaal-onderzoek-naar-fraude.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/cybercrime/beveiliging-internet.jpg"
 ---
 

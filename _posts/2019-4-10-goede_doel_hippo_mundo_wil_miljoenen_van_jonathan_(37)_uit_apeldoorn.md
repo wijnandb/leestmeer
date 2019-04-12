@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 12:33:00 GMT
 categories: 
 - gelderland 
 - apeldoorn 
+externe_link: "https://www.ad.nl/apeldoorn/goede-doel-hippo-mundo-wil-miljoenen-van-jonathan-37-uit-apeldoorn~a1114764/"
 feature_image: "https://images3.persgroep.net/rcs/v9kToD8vPUdib_7bH4Z0oXWw9lQ/diocontent/100575820/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

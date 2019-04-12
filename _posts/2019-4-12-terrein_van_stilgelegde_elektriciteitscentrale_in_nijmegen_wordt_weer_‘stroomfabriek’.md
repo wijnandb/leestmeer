@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 05:02:14 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.ad.nl/nijmegen/terrein-van-stilgelegde-elektriciteitscentrale-in-nijmegen-wordt-weer-stroomfabriek~a713485d/"
 feature_image: "https://images3.persgroep.net/rcs/Qdw-YVI6HwmAmtYIQE4Jad9vNsQ/diocontent/100873022/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

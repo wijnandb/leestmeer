@@ -3,8 +3,8 @@ layout: post
 title: "Doorbreek taboe supportersterreur"
 date: Fri, 29 Mar 2019 06:15:00 +0100
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/sport/3364786/doorbreek-taboe-supportersterreur"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4c20f618-51e8-11e9-9815-0218eaf05005.png"
 ---

@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 16:27:53 +0200
 categories: 
 - financieel 
 - economie 
+externe_link: "https://www.nu.nl/economie/5838468/meeste-kans-op-brand-met-in-het-dak-geintegreerde-zonnepanelen.html"
 feature_image: "https://media.nu.nl/m/m1oxqigax6s0_sqr256.jpg/meeste-kans-op-brand-met-in-het-dak-geintegreerde-zonnepanelen.jpg"
 ---
 

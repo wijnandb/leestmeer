@@ -5,6 +5,7 @@ date: Sun, 17 Mar 2019 08:43:00 GMT
 categories: 
 - noord-brabant 
 - bergen_op_zoom 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/17/08-treinconducteur-bedreigd-door-reiziger.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/trein.jpg"
 ---
 

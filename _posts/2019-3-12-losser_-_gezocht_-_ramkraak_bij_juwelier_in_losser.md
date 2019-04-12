@@ -5,6 +5,7 @@ date: Tue, 12 Mar 2019 10:55:00 GMT
 categories: 
 - overijssel 
 - losser 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/02-oon/ov/ramkraak-bij-juwelier-in-losser.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/02-on/2019067512-1.jpg"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Europees besluit over export WW uitgesteld"
 date: Thu, 11 Apr 2019 10:54:47 +0200
-category: nieuws
+category: politiek
 externe_link: "https://nos.nl/l/2279952"
 feature_image: "https://nos.nl/data/image/2019/03/26/539527/1008x567.jpg"
 ---

@@ -5,6 +5,7 @@ date: Mon, 29 Jan 2018 10:07:00 GMT
 categories: 
 - gelderland 
 - berkelland 
+externe_link: "https://www.politie.nl/nieuws/2018/januari/29/06-den-haag-verdachten-vast-na-babbeltrucs-bij-hoogbejaarde-slachtoffers.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/ingesloten-arrestant-in-observatiecel-cel-zonder-dikke-deur.jpg"
 ---
 

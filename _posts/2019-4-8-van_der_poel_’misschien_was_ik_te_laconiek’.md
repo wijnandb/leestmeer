@@ -2,7 +2,9 @@
 layout: post
 title: "Van der Poel: ’Misschien was ik te laconiek’"
 date: Mon, 08 Apr 2019 09:00:00 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/3409521/van-der-poel-misschien-was-ik-te-laconiek"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1dfd131a-59cd-11e9-a704-0255c322e81b.jpg"
 ---

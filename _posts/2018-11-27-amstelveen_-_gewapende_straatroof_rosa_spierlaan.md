@@ -5,6 +5,7 @@ date: Tue, 27 Nov 2018 12:18:00 GMT
 categories: 
 - noord-holland 
 - amstelveen 
+externe_link: "https://www.politie.nl/nieuws/2018/november/27/05-gewapende-straatroof-rosa-spierlaan.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/politieauto-met-zwaailicht-nacht.jpg"
 ---
 

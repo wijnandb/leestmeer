@@ -2,9 +2,8 @@
 layout: post
 title: "’Ben Affleck en vriendin opnieuw uit elkaar’"
 date: Fri, 12 Apr 2019 08:01:00 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3434510/ben-affleck-en-vriendin-opnieuw-uit-elkaar"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c03915b0-5ce9-11e9-9af6-0217670beecd.jpg"
 ---
 

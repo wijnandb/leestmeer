@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 12:40:00 GMT
 categories: 
 - noord-brabant 
 - eindhoven 
+externe_link: "https://www.ad.nl/eindhoven/juridisch-onderzoek-naar-knip-vestdijk-in-eindhoven~a838efac/"
 feature_image: "https://images1.persgroep.net/rcs/A4jcudfzdnzVMeXQVgoZyF_226c/diocontent/143022031/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

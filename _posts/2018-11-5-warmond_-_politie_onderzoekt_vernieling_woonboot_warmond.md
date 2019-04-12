@@ -5,6 +5,7 @@ date: Mon, 05 Nov 2018 15:36:00 GMT
 categories: 
 - zuid-holland 
 - teylingen 
+externe_link: "https://www.politie.nl/nieuws/2018/november/5/06-warmond-politie-onderzoekt-vernieling-woonboot-warmond.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/zijkant-politieauto-met-logo.jpg"
 ---
 

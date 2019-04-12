@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 14:11:00 GMT
 categories: 
 - overijssel 
 - deventer 
+externe_link: "https://www.ad.nl/deventer/ruim-3100-kinderen-op-bezoek-bij-deventer-sportclubs-tijdens-koningsspelen~ad219a6d/"
 feature_image: "https://images1.persgroep.net/rcs/M_opLUMqLZEgQByclBmdFRGk0ZM/diocontent/101678066/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

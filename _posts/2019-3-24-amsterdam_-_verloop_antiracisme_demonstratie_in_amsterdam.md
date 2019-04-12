@@ -5,6 +5,7 @@ date: Sun, 24 Mar 2019 12:59:00 GMT
 categories: 
 - noord-holland 
 - amsterdam 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/23/05-verloop-antiracisme-demonstratie-in-amsterdam.html"
 ---
 
 Zaterdagmiddag 23 maart 2019 vond in het centrum van Amsterdam een antiracisme demonstratie plaats. 

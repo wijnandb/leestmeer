@@ -2,9 +2,8 @@
 layout: post
 title: "De stad Chicago klaagt Jussie Smollett aan"
 date: Fri, 12 Apr 2019 10:01:58 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3435092/de-stad-chicago-klaagt-jussie-smollett-aan"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/46dc30d4-5cf9-11e9-ab1a-0218eaf05005.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 28 Mar 2019 13:50:00 GMT
 categories: 
 - zuid-holland 
 - maassluis 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/28/07-politie-zoekt-getuigen-van-aanrijding-maassluis.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/noodhulp-auto.jpg"
 ---
 

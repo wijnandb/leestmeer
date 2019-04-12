@@ -2,9 +2,8 @@
 layout: post
 title: "Driebergen, Woudsend - Kamikaze-piloot na achtervolging aangehouden"
 date: Mon, 18 Mar 2019 11:49:00 GMT
-categories: 
-- fryslan 
-- fryslân 
+category: fryslan
+externe_link: "https://www.politie.nl/nieuws/2019/maart/18/11-kamikaze-piloot-na-achtervolging-in-woudsend-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stock-afbeeldingen/11-landelijke-eenheid/woudsend.jpg"
 ---
 

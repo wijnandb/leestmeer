@@ -4,7 +4,8 @@ title: "Wijdemeren/Gooise Meren/Hilversum - Heeft u een hond? Doe dan mee aan Wa
 date: Wed, 15 Jun 2016 09:46:00 GMT
 categories: 
 - noord-holland 
-- muiden 
+- naarden 
+externe_link: "https://www.politie.nl/nieuws/2016/juni/15/03-waaks.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2016/juni/03-mn/waaks-flyer.jpg"
 ---
 

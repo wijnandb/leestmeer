@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 09:33:44 +0200
 categories: 
 - entertainment 
 - film 
+externe_link: "https://www.nu.nl/film/5837337/lori-loughlin-uit-serie-geknipt-vanwege-witwasaanklacht.html"
 feature_image: "https://media.nu.nl/m/x9qxk53aqrtl_sqr256.jpg/lori-loughlin-uit-serie-geknipt-vanwege-witwasaanklacht.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Mon, 20 Nov 2017 15:41:00 GMT
 categories: 
 - zuid-holland 
 - binnenmaas 
+externe_link: "https://www.politie.nl/nieuws/2017/november/20/07-politie-houdt-verdachte-aan-voor-mishandeling-krantenbezorger-en-zoekt-taxichauffeur.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/logo-politie-op-dienstauto.jpg"
 ---
 

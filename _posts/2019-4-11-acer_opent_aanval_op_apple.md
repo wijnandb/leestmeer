@@ -2,9 +2,8 @@
 layout: post
 title: "Acer opent aanval op Apple"
 date: Thu, 11 Apr 2019 21:49:59 +0200
-categories: 
-- financieel 
-- koersen 
+category: tech
+externe_link: "https://www.telegraaf.nl/financieel/3433691/acer-opent-aanval-op-apple"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f151c3e6-5ca2-11e9-b843-0218eaf05005.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Haase en Middelkoop geen duo meer: ’Zakelijk besluit’"
 date: Mon, 08 Apr 2019 14:42:57 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/3411867/haase-en-middelkoop-geen-duo-meer-zakelijk-besluit"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d5fd0582-59fb-11e9-a528-02c309bc01c1.jpg"
 ---

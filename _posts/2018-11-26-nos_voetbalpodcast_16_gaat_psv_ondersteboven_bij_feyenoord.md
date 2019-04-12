@@ -6,7 +6,6 @@ categories:
 - sport 
 - voetbal 
 externe_link: "https://podcast.npo.nl/file/nos-voetbalpodcast/3044/nporadio1_nos-voetbalpodcast_20181126_nos-voetbalpodcast-16-gaat-psv-ondersteboven-bij-feyenoord.mp3"
-feature_image: "https://podcast.npo.nl/file/nos-voetbalpodcast/3044/nporadio1_nos-voetbalpodcast_20181126_nos-voetbalpodcast-16-gaat-psv-ondersteboven-bij-feyenoord.mp3"
 ---
 
 Deze week met Arman Avsaroglu, Andy Houtkamp, Frank Snoeks en presentator Arno Vermeulen. Ze bespreken wie voor hen de speler van het weekend was en ze kijken vooruit naar de Champions League-wedstrijden van Ajax en PSV. En hoe veel kans maakt PSV bij Feyenoord komend weekend? De meningen zijn verdeeld!

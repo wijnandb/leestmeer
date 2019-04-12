@@ -5,6 +5,7 @@ date: Wed, 23 Jan 2019 13:05:00 GMT
 categories: 
 - zuid-holland 
 - ridderkerk 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/23/07-overvallen-en-een-bomaanslag-in-bureau-rijnmond.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/augustus/07-rt/br_logo_vierkant.jpg"
 ---
 

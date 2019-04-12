@@ -5,6 +5,7 @@ date: Tue, 19 Feb 2019 14:28:00 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/gld/tweemaal-inbraak-woning-nijmegen.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/02-on/2018318383-1.jpg"
 ---
 

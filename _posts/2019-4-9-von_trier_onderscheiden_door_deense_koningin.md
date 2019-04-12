@@ -2,7 +2,9 @@
 layout: post
 title: "Von Trier onderscheiden door Deense koningin"
 date: Tue, 09 Apr 2019 23:45:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3421224/von-trier-onderscheiden-door-deense-koningin"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c7c4752a-5b10-11e9-a00c-02c309bc01c1.jpg"
 ---

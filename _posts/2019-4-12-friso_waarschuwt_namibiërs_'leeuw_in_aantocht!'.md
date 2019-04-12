@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 08:18:35 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.ad.nl/den-bosch/friso-waarschuwt-namibiers-leeuw-in-aantocht~ae947a5c3/"
 feature_image: "https://images0.persgroep.net/rcs/6o3EAQMj-5-O_2nu9b8ongqL61g/diocontent/145163456/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

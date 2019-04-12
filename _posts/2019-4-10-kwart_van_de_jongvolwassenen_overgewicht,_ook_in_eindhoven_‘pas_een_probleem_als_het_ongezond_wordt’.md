@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 13:51:00 GMT
 categories: 
 - noord-brabant 
 - eindhoven 
+externe_link: "https://www.ad.nl/eindhoven/kwart-van-de-jongvolwassenen-overgewicht-ook-in-eindhoven-pas-een-probleem-als-het-ongezond-wordt~af9af9a9/"
 feature_image: "https://images3.persgroep.net/rcs/K3wTfVo5vipr5dZn8pKS4y1_PT4/diocontent/145239044/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

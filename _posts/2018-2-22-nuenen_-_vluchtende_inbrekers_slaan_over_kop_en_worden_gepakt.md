@@ -5,6 +5,7 @@ date: Thu, 22 Feb 2018 12:15:00 GMT
 categories: 
 - noord-brabant 
 - nuenen,_gerwen_en_nederwetten 
+externe_link: "https://www.politie.nl/nieuws/2018/februari/22/09-vluchtende-inbrekers-slaan-over-kop-en-worden-gepakt.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

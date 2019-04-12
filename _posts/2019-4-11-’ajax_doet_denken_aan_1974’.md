@@ -2,7 +2,9 @@
 layout: post
 title: "’Ajax doet denken aan 1974’"
 date: Thu, 11 Apr 2019 08:02:33 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3428154/ajax-doet-denken-aan-1974"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/002c62e0-5c2b-11e9-b4ef-0217670beecd.jpg"
 ---

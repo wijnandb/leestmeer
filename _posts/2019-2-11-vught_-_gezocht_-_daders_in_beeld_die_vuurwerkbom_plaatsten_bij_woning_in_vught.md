@@ -5,6 +5,7 @@ date: Mon, 11 Feb 2019 19:25:00 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/09-daders-in-beeld-die-vuurwerkbom-plaatsten-bij-woning-in-vught.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/09-ob/bb_190211/vught-02.jpg"
 ---
 

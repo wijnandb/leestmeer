@@ -5,6 +5,7 @@ date: Tue, 18 Sep 2018 07:47:00 GMT
 categories: 
 - noord-brabant 
 - geldrop-mierlo 
+externe_link: "https://www.politie.nl/nieuws/2018/september/18/edward-gaat-mono.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/september/09-ob/edward.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 02 May 2018 13:04:00 GMT
 categories: 
 - noord-brabant 
 - boxtel 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/2/09-getuigen-van-dodelijke-aanrijding-gezocht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/ambulance.jpg"
 ---
 

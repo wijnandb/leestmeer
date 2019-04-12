@@ -5,6 +5,7 @@ date: Tue, 08 May 2018 09:39:00 GMT
 categories: 
 - gelderland 
 - druten 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/8/02-deest-politie-vraagt-hulp-bij-opsporen-daders-dumping-vermoedelijk-drugsafval.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/mei/02-on/2018198821_drugsvaten_deest.jpg"
 ---
 

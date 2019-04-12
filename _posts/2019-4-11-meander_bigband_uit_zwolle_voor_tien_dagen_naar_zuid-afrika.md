@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 14:33:12 GMT
 categories: 
 - overijssel 
 - zwolle 
+externe_link: "https://www.ad.nl/zwolle/meander-bigband-uit-zwolle-voor-tien-dagen-naar-zuid-afrika~a64e30ab/"
 feature_image: "https://images3.persgroep.net/rcs/FzWe58jNAwDrceCmLwCW90poiKc/diocontent/145315862/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

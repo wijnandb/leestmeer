@@ -5,6 +5,7 @@ date: Mon, 10 Dec 2018 14:38:00 GMT
 categories: 
 - noord-brabant 
 - cranendonck 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/juli/09-woningoverval-budel.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/juli/09-ob/bureaubrabant/compilatie-daders-budel-woningoverval.jpg"
 ---
 

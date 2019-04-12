@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 17:31:18 GMT
 categories: 
 - utrecht 
 - veenendaal 
+externe_link: "https://www.ad.nl/veenendaal/hoogspanningskabels-blijven-nog-even-boven-veenendaal-hangen~a2545c5b/"
 feature_image: "https://images3.persgroep.net/rcs/kSnXhFolpnYrh2X0k4Eklp26pYs/diocontent/103251161/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

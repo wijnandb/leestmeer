@@ -4,7 +4,8 @@ title: "Baarn - Inbrekersbende aangehouden"
 date: Wed, 17 Oct 2018 12:41:00 GMT
 categories: 
 - utrecht 
-- baarn 
+- soest 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/17/03-baarn-inbrekersbende-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

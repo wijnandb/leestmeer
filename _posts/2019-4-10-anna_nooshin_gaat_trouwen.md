@@ -2,7 +2,9 @@
 layout: post
 title: "Anna Nooshin gaat trouwen"
 date: Wed, 10 Apr 2019 13:33:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3424032/anna-nooshin-gaat-trouwen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/fe9ca842-5b8d-11e9-b4ef-0217670beecd.jpg"
 ---

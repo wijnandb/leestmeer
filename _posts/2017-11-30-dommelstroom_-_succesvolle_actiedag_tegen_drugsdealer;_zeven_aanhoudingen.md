@@ -5,6 +5,7 @@ date: Thu, 30 Nov 2017 12:07:00 GMT
 categories: 
 - noord-brabant 
 - son_en_breugel 
+externe_link: "https://www.politie.nl/nieuws/2017/november/30/09-succesvolle-actiedag-tegen-drugsdealer-zeven-aanhoudingen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/november/09-ob/afvangactie-dommelstroom.jpg"
 ---
 

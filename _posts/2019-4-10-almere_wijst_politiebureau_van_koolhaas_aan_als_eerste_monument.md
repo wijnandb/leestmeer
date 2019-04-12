@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 11:35:44 +0200
 categories: 
 - entertainment 
 - opmerkelijk 
+externe_link: "https://www.nu.nl/opmerkelijk/5835714/almere-wijst-politiebureau-van-koolhaas-aan-als-eerste-monument.html"
 feature_image: "https://media.nu.nl/m/moixq16avtpc_sqr256.jpg/almere-wijst-politiebureau-van-koolhaas-aan-als-eerste-monument.jpg"
 ---
 

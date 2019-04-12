@@ -2,7 +2,9 @@
 layout: post
 title: "Vijfde deel Mees Kees in de maak"
 date: Thu, 11 Apr 2019 16:57:02 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3432437/vijfde-deel-mees-kees-in-de-maak"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/12623f40-5c6a-11e9-b172-02d1dbdc35d1.jpg"
 ---

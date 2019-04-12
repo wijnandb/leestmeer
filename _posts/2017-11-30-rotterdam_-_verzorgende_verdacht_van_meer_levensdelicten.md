@@ -5,6 +5,7 @@ date: Thu, 30 Nov 2017 13:57:00 GMT
 categories: 
 - zuid-holland 
 - cromstrijen 
+externe_link: "https://www.politie.nl/nieuws/2017/november/30/07-verzorgende-verdacht-van-meer-levensdelicten.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/ambulance.jpg"
 ---
 

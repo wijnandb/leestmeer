@@ -2,8 +2,8 @@
 layout: post
 title: "Wekdienst 12/4: Koningsspelen en uitspraak in moordzaak Ali Motamed"
 date: Fri, 12 Apr 2019 07:07:48 +0200
-category: nieuws
-externe_link: "https://nos.nl/l/2280070"
+category: buitenland
+externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/QAps7pCbr8w/2280070"
 feature_image: "https://nos.nl/data/image/2019/04/12/543037/1008x567.jpg"
 ---
 
@@ -22,4 +22,4 @@ feature_image: "https://nos.nl/data/image/2019/04/12/543037/1008x567.jpg"
 <p>Elke vrijdag beantwoordt premier Rutte vragen over allerlei onderwerpen. Vandaag ook weer. Maar zo'n vragenmomentje met een regeringsleider is behoorlijk uniek in de wereld en bestaat in Nederland al 49 jaar.</p>
 <p>Op 16 januari 1970 gaf de toenmalige minister-president Piet de Jong de eerste wekelijke persconferentie. "Ik vond dat als je één journalist wat vertelde, ze daar allemaal recht op hadden", zei hij daarover. Maar er was ook een praktische reden: "Na de ministerraad op vrijdag werd De Jong gebeld over wat er op zijn ministerie was besproken, maar ook door het thuisfront", vertelt Binnenhofkenner Menno de Bruyne, die al zo'n 35 jaar in politiek Den Haag werkt. "En dan werd zijn eten koud. De premier wilde zijn piepers gewoon warm hebben."</p>
 <p>Sinds De Jong hebben alle premiers het vragenmoment in ere gehouden. Lees hier het hele verhaal over het wekelijkse persmoment.</p>
-<p>Fijne dag!</p>
+<p>Fijne dag!</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbuitenland/~4/QAps7pCbr8w" height="1" width="1" alt=""/>

@@ -5,6 +5,7 @@ date: Tue, 21 Nov 2017 19:20:00 GMT
 categories: 
 - noord-brabant 
 - boxmeer 
+externe_link: "https://www.politie.nl/nieuws/2017/november/21/opsporing-verzocht-21-november-2017.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/gezocht/opsporing-verzocht/algemeen-beeld/nieuw-deco/belpanel-nieuw-decor.jpg"
 ---
 

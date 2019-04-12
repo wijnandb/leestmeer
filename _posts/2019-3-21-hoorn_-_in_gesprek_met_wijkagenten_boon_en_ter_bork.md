@@ -5,6 +5,7 @@ date: Thu, 21 Mar 2019 14:29:00 GMT
 categories: 
 - noord-holland 
 - hoorn 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/21/in-gesprek-met-wijkagenten-boon-en-ter-bork.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/mijn-buurt/wijkprojecten/04---noord-holland/pop-up-bureau.jpg"
 ---
 

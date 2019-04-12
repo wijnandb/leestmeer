@@ -5,6 +5,7 @@ date: Wed, 11 Jul 2018 07:54:00 GMT
 categories: 
 - zuid-holland 
 - bernisse 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/11/verdachte-aangehouden-na-brand-in-loods.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/juli/07-rt/vuurwapen.jpg"
 ---
 

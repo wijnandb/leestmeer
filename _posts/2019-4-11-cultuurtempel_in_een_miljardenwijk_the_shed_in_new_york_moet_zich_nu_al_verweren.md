@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 15:44:00 GMT
 categories: 
 - entertainment 
 - cultuur 
+externe_link: "https://www.volkskrant.nl/nieuws-achtergrond/the-shed-is-nog-maar-net-open-maar-het-kunstcentrum-in-new-york-moet-zich-nu-al-verweren~be8b5f21/"
 feature_image: "https://images3.persgroep.net/rcs/i-x9Eq0gia1OMaED06MxHkj288M/diocontent/145309737/_crop/322/396/2407/2405/_fill/320/320?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.85"
 ---
 

@@ -2,9 +2,8 @@
 layout: post
 title: "Amersfoort - Gezocht - Poging tot brandstichting bij supermarkt"
 date: Thu, 04 Apr 2019 07:31:00 GMT
-categories: 
-- utrecht 
-- amersfoort 
+category: utrecht
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/03-poging-tot-brandstichting-bij-supermarkt.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/april/03-mn/amersfoort-3-brandstichting.jpg"
 ---
 

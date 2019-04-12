@@ -5,6 +5,7 @@ date: Tue, 02 Apr 2019 09:19:00 GMT
 categories: 
 - zuid-holland 
 - vlaardingen 
+externe_link: "https://www.politie.nl/nieuws/2019/april/2/07-politie-zoekt-getuigen-van-overval-op-maaltijdbezorger-vlaardingen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/detail-afzetlint.jpg"
 ---
 

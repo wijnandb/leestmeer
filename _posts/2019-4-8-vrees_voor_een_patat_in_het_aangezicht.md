@@ -3,8 +3,8 @@ layout: post
 title: "Vrees voor een patat in het aangezicht"
 date: Mon, 08 Apr 2019 18:32:00 +0200
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3413464/vrees-voor-een-patat-in-het-aangezicht"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3be652de-5a1c-11e9-ab99-0218eaf05005.jpg"
 ---

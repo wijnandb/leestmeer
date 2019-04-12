@@ -2,7 +2,7 @@
 layout: post
 title: "Nederland - Waakzaam op sociale media"
 date: Thu, 11 Apr 2019 14:38:00 GMT
-category: politieberichten
+category: nieuws
 externe_link: "https://www.politie.nl/nieuws/2019/april/11/00-waakzaam-op-sociale-media.html"
 ---
 

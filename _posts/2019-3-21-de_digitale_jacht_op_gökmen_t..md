@@ -4,7 +4,6 @@ title: "De digitale jacht op Gökmen T."
 date: Thu, 21 Mar 2019 17:59:50 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4829/nporadio1_nosop3techpodcast_20190321_de-digitale-jacht-op-gokmen-t_81Q4DT.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4829/nporadio1_nosop3techpodcast_20190321_de-digitale-jacht-op-gokmen-t_81Q4DT.mp3"
 ---
 
 0:00 De verdachte van de aanslag in Utrecht, Gökmen T. kon worden opgespoord dankzij internetbankieren. Hoe werkt dat?

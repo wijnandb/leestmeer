@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 11:32:01 GMT
 categories: 
 - overijssel 
 - zwolle 
+externe_link: "https://www.ad.nl/zwolle/zwolle-moet-niet-veranderen-in-een-stil-dorp~ad06904f/"
 feature_image: "https://images4.persgroep.net/rcs/wgAuK0uhj7SkySMKH52KjM9fJ6E/diocontent/100478701/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

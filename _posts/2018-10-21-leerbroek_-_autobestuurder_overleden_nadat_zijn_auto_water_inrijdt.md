@@ -5,6 +5,7 @@ date: Sun, 21 Oct 2018 10:43:00 GMT
 categories: 
 - zuid-holland 
 - zederik 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/21/07-autobestuurder-overleden-nadat-zijn-auto-water-inrijdt.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/detailopname-surveillancewagen.jpg"
 ---
 

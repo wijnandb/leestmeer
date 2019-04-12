@@ -3,8 +3,8 @@ layout: post
 title: "Forum dwingt rechts tot hergroeperen"
 date: Mon, 01 Apr 2019 18:45:30 +0200
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3378473/forum-dwingt-rechts-tot-hergroeperen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b3e9869a-549d-11e9-97c7-02d2fb1aa1d7.jpg"
 ---

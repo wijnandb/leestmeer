@@ -4,7 +4,8 @@ title: "regio Rotterdam - Al meer dan 100 wapens ingeleverd"
 date: Mon, 28 Jan 2019 13:15:00 GMT
 categories: 
 - zuid-holland 
-- dirksland 
+- lansingerland 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/28/07-al-meer-dan-100-wapens-ingeleverd.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/januari/07-rt/weekoverzicht-echt-klein.jpg"
 ---
 

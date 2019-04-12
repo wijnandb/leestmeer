@@ -2,9 +2,8 @@
 layout: post
 title: "Noord-Nederland - Nepwebsites offline gehaald in onderzoek cybercrime"
 date: Tue, 19 Mar 2019 11:15:00 GMT
-categories: 
-- fryslan 
-- leeuwarden 
+category: groningen
+externe_link: "https://www.politie.nl/nieuws/2019/maart/19/01-nepwebsites-offline-gehaald-in-onderzoek-cybercrime.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/01-nn/website-platgelegd.jpg"
 ---
 

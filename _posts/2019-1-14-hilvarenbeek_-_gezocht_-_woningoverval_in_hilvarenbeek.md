@@ -5,6 +5,7 @@ date: Mon, 14 Jan 2019 12:15:00 GMT
 categories: 
 - noord-brabant 
 - hilvarenbeek 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/januari/08-woningoverval-in-hilvarenbeek.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/januari/09-ob/bb_190114/hilvarenbeek-07.jpg"
 ---
 

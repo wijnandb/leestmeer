@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 19:12:00 GMT
 categories: 
 - zuid-holland 
 - alphen 
+externe_link: "https://www.ad.nl/alphen/alphen-moet-elke-zonnestraal-gaan-pakken~ae35db2d/"
 feature_image: "https://images1.persgroep.net/rcs/8mz9q4SMKQe_Mtt_VkfSmuI_IIY/diocontent/145244439/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

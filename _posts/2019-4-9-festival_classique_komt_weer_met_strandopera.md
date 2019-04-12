@@ -2,7 +2,9 @@
 layout: post
 title: "Festival Classique komt weer met strandopera"
 date: Tue, 09 Apr 2019 15:25:42 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3418246/festival-classique-komt-weer-met-strandopera"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d1855bce-5acf-11e9-abce-02c309bc01c1.jpg"
 ---

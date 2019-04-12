@@ -4,7 +4,8 @@ title: "Lichtenvoorde - Gezocht - Pinnen met gestolen pas na inbraak woning"
 date: Tue, 05 Feb 2019 10:30:00 GMT
 categories: 
 - gelderland 
-- berkelland 
+- oost_gelre 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/januari/02-oon/gld/pinnen-met-gestolen-pas-na-inbraak-woning.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/januari/02-on/2017130076-1.jpg"
 ---
 

@@ -2,9 +2,8 @@
 layout: post
 title: "Politie vindt 85.000 euro en 374 nep-Rolexen in woning Amersfoort"
 date: Fri, 12 Apr 2019 05:06:00 GMT
-categories: 
-- utrecht 
-- amersfoort 
+category: utrecht
+externe_link: "https://www.ad.nl/amersfoort/politie-vindt-85-000-euro-en-374-nep-rolexen-in-woning-amersfoort~a317b389/"
 feature_image: "https://images2.persgroep.net/rcs/ClF657q1XfpSuVmfhpaBU95sLew/diocontent/145359195/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 08:35:53 GMT
 categories: 
 - noord-brabant 
 - waalwijk 
+externe_link: "https://www.ad.nl/waalwijk/demonstratie-yuri-van-gelder-bij-startsein-voor-bouwplan-buurten-in-besoyen~ad05310b/"
 feature_image: "https://images0.persgroep.net/rcs/2RqJ6BFhZI5nTad9BbpXhExHLu4/diocontent/122385716/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -3,8 +3,8 @@ layout: post
 title: "Zachte ’staatsgreep’ van de Democraten"
 date: Tue, 26 Mar 2019 18:43:00 +0100
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3352257/zachte-staatsgreep-van-de-democraten"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1d29da6a-5093-11e9-967e-0217670beecd.jpg"
 ---

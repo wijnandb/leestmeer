@@ -4,7 +4,6 @@ title: "#92: Een gouden visum en selfies van wilde dieren"
 date: Sat, 02 Jun 2018 00:00:00 +0200
 category: podcast
 externe_link: "https://podcast.npo.nl/file/het-beste-uit-het-oog/2939/nporadio1_het-beste-uit-het-oog_20180602_92-een-gouden-visum-en-selfies-van-wilde-dieren.mp3"
-feature_image: "https://podcast.npo.nl/file/het-beste-uit-het-oog/2939/nporadio1_het-beste-uit-het-oog_20180602_92-een-gouden-visum-en-selfies-van-wilde-dieren.mp3"
 ---
 
 Voor een zak geld kun je in verschillende Europese landen een verblijfsvergunning kopen. Soms is zelfs een paspoort te koop. Europarlementariër Sofie in 't Veld van D66 wil van die gouden visa af. Samen met Martijn van Helvert van het CDA vertelde ze over de handel in visa en paspoorten.

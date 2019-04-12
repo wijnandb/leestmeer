@@ -2,7 +2,7 @@
 layout: post
 title: "Tap op schoolplein tegen overgewicht"
 date: Fri, 12 Apr 2019 07:30:00 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3434016/tap-op-schoolplein-tegen-overgewicht"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7a8c7b82-5cea-11e9-bdd3-02d2fb1aa1d7.jpg"
 ---

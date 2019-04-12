@@ -5,6 +5,7 @@ date: Thu, 07 Dec 2017 16:31:00 GMT
 categories: 
 - noord-brabant 
 - boxtel 
+externe_link: "https://www.politie.nl/nieuws/2017/december/7/09-flinke-bedragen-geind-tijdens-verkeerscontrole.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/december/09-ob/screenshot_20171207-172824.jpg"
 ---
 

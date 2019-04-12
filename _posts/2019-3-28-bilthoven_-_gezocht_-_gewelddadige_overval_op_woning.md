@@ -5,6 +5,7 @@ date: Thu, 28 Mar 2019 07:49:00 GMT
 categories: 
 - utrecht 
 - de_bilt 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/03-gewelddadige-overval-op-woning.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/03-mn/bilthoven-27-overval1.jpg"
 ---
 

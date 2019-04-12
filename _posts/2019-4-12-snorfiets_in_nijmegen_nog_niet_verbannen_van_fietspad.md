@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 06:04:55 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.ad.nl/nijmegen/snorfiets-in-nijmegen-nog-niet-verbannen-van-fietspad~a2cdfa7f/"
 feature_image: "https://images2.persgroep.net/rcs/pLJpaxCyf4ThykvPcvJQr0jmzfw/diocontent/145089120/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -4,7 +4,8 @@ title: "Boxtel - Arrestatie in onderzoek steekincident"
 date: Sun, 11 Feb 2018 11:06:00 GMT
 categories: 
 - noord-brabant 
-- boxtel 
+- sint_michielsgestel 
+externe_link: "https://www.politie.nl/nieuws/2018/februari/11/09-arrestatie-in-onderzoek-steekincident.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/busje-forensische-opsporing.jpg"
 ---
 

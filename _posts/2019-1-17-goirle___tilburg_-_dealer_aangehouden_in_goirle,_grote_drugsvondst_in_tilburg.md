@@ -5,6 +5,7 @@ date: Thu, 17 Jan 2019 09:42:00 GMT
 categories: 
 - noord-brabant 
 - goirle 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/17/08-dealer-aangehouden-in-goirle-grote-drugsvondst-in-tilburg.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/januari/08-zw/drugs3.jpg"
 ---
 

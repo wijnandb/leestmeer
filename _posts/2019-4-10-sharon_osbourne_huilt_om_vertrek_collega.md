@@ -2,7 +2,9 @@
 layout: post
 title: "Sharon Osbourne huilt om vertrek collega"
 date: Wed, 10 Apr 2019 08:16:33 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3421618/sharon-osbourne-huilt-om-vertrek-collega"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c9dbeaf0-5b7e-11e9-a27a-02d1dbdc35d1.jpg"
 ---

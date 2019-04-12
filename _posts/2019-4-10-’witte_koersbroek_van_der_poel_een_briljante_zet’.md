@@ -2,7 +2,9 @@
 layout: post
 title: "’Witte koersbroek Van der Poel een briljante zet’"
 date: Wed, 10 Apr 2019 16:17:43 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/3425842/witte-koersbroek-van-der-poel-een-briljante-zet"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6824c580-5b9b-11e9-8fb5-02c309bc01c1.jpg"
 ---

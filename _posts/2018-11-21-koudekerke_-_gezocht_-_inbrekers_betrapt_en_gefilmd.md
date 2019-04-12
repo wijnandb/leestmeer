@@ -2,9 +2,8 @@
 layout: post
 title: "Koudekerke - Gezocht - Inbrekers betrapt en gefilmd"
 date: Wed, 21 Nov 2018 20:47:00 GMT
-categories: 
-- zeeland 
-- veere 
+category: zeeland
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/november/08-inbrekers-koudekerke.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/november/08-zw/2018-11-20_drieluik-verdachten.jpg"
 ---
 

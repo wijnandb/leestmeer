@@ -2,9 +2,8 @@
 layout: post
 title: "Amsterdam Utrecht Den haag - Aanhoudingen in onderzoek aanslag pand De Telegraaf"
 date: Mon, 08 Apr 2019 11:26:00 GMT
-categories: 
-- noord-holland 
-- amsterdam 
+category: utrecht
+externe_link: "https://www.politie.nl/nieuws/2019/april/8/05-aanhoudingen-in-onderzoek-aanslag-pand-de-telegraaf.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/april/05-am/dsi-busje-def.jpg"
 ---
 

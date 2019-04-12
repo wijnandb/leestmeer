@@ -5,6 +5,7 @@ date: Mon, 14 Jan 2019 09:22:00 GMT
 categories: 
 - flevoland 
 - dronten 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/14/getuigenoproep-doorrijden-na-ongeval-de-linge-dronten.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/politieauto-met-zwaailicht.jpg"
 ---
 

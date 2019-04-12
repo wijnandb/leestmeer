@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 20:35:58 GMT
 categories: 
 - entertainment 
 - opinie 
+externe_link: "https://www.volkskrant.nl/nieuws-achtergrond/het-is-een-schande-dat-het-nederlandse-onderwijssysteem-leerlingen-aflevert-die-onvoldoende-kunnen-lezen-en-schrijven~b4116dc3/"
 feature_image: "https://images3.persgroep.net/rcs/Rxb_KDTa-lU0HibSxC22xmXgZOM/diocontent/145338690/_focus/0.5/0.5/_fill/320/320?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.85"
 ---
 

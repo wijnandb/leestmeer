@@ -4,7 +4,8 @@ title: "Noord-Nederland - Vier aanhoudingen bij grootschalige verkeerscontrole i
 date: Sat, 24 Mar 2018 07:10:00 GMT
 categories: 
 - fryslan 
-- de_friese_meren 
+- súdwest-fryslân 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/24/01---vier-aanhoudingen-bij-grootschalige-verkeerscontrole-in-noord-nederland.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/controle-rijbewijs-door-motoragent.jpg"
 ---
 

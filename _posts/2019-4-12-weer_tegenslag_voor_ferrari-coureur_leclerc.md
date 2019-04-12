@@ -4,7 +4,8 @@ title: "Weer tegenslag voor Ferrari-coureur Leclerc"
 date: Fri, 12 Apr 2019 09:24:01 +0200
 categories: 
 - sport 
-- autosport 
+- scoreboard 
+externe_link: "https://www.telegraaf.nl/sport/3434855/weer-tegenslag-voor-ferrari-coureur-leclerc"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f2123080-5cf3-11e9-b689-0217670beecd.jpg"
 ---
 

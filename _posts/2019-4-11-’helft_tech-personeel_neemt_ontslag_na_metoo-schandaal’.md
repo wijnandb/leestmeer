@@ -2,9 +2,8 @@
 layout: post
 title: "’Helft tech-personeel neemt ontslag na #metoo-schandaal’"
 date: Thu, 11 Apr 2019 14:20:01 +0200
-categories: 
-- financieel 
-- geld 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3430845/helft-tech-personeel-neemt-ontslag-na-metoo-schandaal"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/403ca8d8-5c5b-11e9-9a52-0218eaf05005.jpg"
 ---
 

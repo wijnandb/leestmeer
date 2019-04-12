@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 13:21:00 GMT
 categories: 
 - overijssel 
 - zwolle 
+externe_link: "https://www.ad.nl/zwolle/muziekstudent-in-zwolle-moet-op-zoek-naar-nieuwe-stek-nu-the-livingroom-aan-banden-is-gelegd~af5f044b/"
 feature_image: "https://images3.persgroep.net/rcs/SYEDnAIVS3-x5AD0aqvANkrcfcs/diocontent/106111837/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

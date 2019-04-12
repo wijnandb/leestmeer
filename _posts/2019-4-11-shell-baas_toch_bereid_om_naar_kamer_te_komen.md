@@ -2,9 +2,8 @@
 layout: post
 title: "Shell-baas toch bereid om naar Kamer te komen"
 date: Thu, 11 Apr 2019 15:17:44 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3431335/shell-baas-toch-bereid-om-naar-kamer-te-komen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8a32625c-5c6f-11e9-8854-0217670beecd.jpg"
 ---
 

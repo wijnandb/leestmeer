@@ -4,7 +4,8 @@ title: "Rotterdam - Wapenbezit kent alleen verliezers"
 date: Fri, 11 Jan 2019 10:01:00 GMT
 categories: 
 - zuid-holland 
-- dordrecht 
+- vlaardingen 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/11/07-wapenbezit-kent-alleen-verliezers.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/januari/07-rt/sarina.jpg"
 ---
 

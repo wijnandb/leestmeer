@@ -5,6 +5,7 @@ date: Sun, 08 Apr 2018 13:35:00 GMT
 categories: 
 - noord-brabant 
 - son_en_breugel 
+externe_link: "https://www.politie.nl/nieuws/2018/april/8/09-wie-weet-wat-man-met-ernstig-hersenletsel-is-overkomen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/ambulance.jpg"
 ---
 

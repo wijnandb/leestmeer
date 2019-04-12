@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 11:36:03 GMT
 categories: 
 - noord-brabant 
 - oss 
+externe_link: "https://www.ad.nl/oss/de-wissel-richt-zich-in-open-brief-tot-zwanenberg-samen-maken-we-unox-winkeltje-weer-een-icoon~a46db862/"
 feature_image: "https://images3.persgroep.net/rcs/7E-RnePN5AjClb1SZ6KLfkJwTe0/diocontent/117328300/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Tue, 11 Dec 2018 12:57:00 GMT
 categories: 
 - zuid-holland 
 - leiden 
+externe_link: "https://www.politie.nl/nieuws/2018/december/11/06-politie-onderzoekt-herkomst-bijtende-stof.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/agent-naast-auto-van-bovenaf-gezien.jpg"
 ---
 

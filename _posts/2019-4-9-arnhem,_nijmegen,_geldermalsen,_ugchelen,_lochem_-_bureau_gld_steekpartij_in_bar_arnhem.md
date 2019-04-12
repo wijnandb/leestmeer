@@ -2,9 +2,8 @@
 layout: post
 title: "Arnhem, Nijmegen, Geldermalsen, Ugchelen, Lochem - Bureau GLD: Steekpartij in bar Arnhem"
 date: Tue, 09 Apr 2019 13:45:00 GMT
-categories: 
-- gelderland 
-- apeldoorn 
+category: gelderland
+externe_link: "https://www.politie.nl/nieuws/2019/april/9/02-bureau-gld---steekpartij-in-bar-arnhem.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/mijn-buurt/regionale-opsporingsprogrammas/logo-of-beeldmerk/logobureaugld.jpg"
 ---
 

@@ -4,7 +4,8 @@ title: "Duiven, Eibergen, Nijmegen, Arnhem, Apeldoorn - Zaken in Bureau GLD van 
 date: Mon, 15 Jan 2018 14:24:00 GMT
 categories: 
 - gelderland 
-- berkelland 
+- duiven 
+externe_link: "https://www.politie.nl/nieuws/2018/januari/15/02-zaken-in-bureau-gld-van-17-januari.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/onderwerpen/bureau-gld.jpg"
 ---
 

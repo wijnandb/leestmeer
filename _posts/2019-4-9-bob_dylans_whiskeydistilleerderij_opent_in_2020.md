@@ -2,7 +2,9 @@
 layout: post
 title: "Bob Dylans whiskeydistilleerderij opent in 2020"
 date: Tue, 09 Apr 2019 15:29:22 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3418282/bob-dylans-whiskeydistilleerderij-opent-in-2020"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/14e91414-5ad0-11e9-abce-02c309bc01c1.jpg"
 ---

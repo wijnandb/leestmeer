@@ -2,9 +2,8 @@
 layout: post
 title: "Utrecht - Kom van het dak af"
 date: Wed, 10 Apr 2019 11:20:00 GMT
-categories: 
-- utrecht 
-- utrecht 
+category: utrecht
+externe_link: "https://www.politie.nl/nieuws/2019/april/10/03-utrecht-kom-van-het-dak-af.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-door-agenten-op-straat.jpg"
 ---
 

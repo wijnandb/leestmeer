@@ -4,7 +4,6 @@ title: "Hoe hack je de vakantie van Enzo Knol? En Netflix-nieuws"
 date: Thu, 22 Feb 2018 17:19:19 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4139/nporadio1_nosop3techpodcast_20180222_hoe-hack-je-de-vakantie-van-enzo-knol-en-netflix-nieuws.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4139/nporadio1_nosop3techpodcast_20180222_hoe-hack-je-de-vakantie-van-enzo-knol-en-netflix-nieuws.mp3"
 ---
 
 Een jongere van De Cyberwerkplaats, waar 15-25-jarigen worden opgeleid tot digitale beveiligers wist persoonlijke gegevens van YouTuber Enzo Knol te achterhalen - op een manier die zo simpel is dat je er waarschijnlijk niet bij stilstaat. Hoe en waarom?

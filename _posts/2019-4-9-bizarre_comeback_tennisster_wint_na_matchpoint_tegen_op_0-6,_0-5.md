@@ -2,7 +2,9 @@
 layout: post
 title: "Bizarre comeback: tennisster wint na matchpoint tegen op 0-6, 0-5"
 date: Tue, 09 Apr 2019 17:35:00 GMT
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.ad.nl/tennis/bizarre-comeback-tennisster-wint-na-matchpoint-tegen-op-0-6-0-5~a5504e2c/"
 feature_image: "https://images4.persgroep.net/rcs/xhl8-hmnIaMpy_7y2fAER8tmpb0/diocontent/67889781/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

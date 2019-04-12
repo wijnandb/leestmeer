@@ -2,9 +2,8 @@
 layout: post
 title: "Sluiting dreigt voor Hudson's Bay"
 date: Fri, 12 Apr 2019 08:07:11 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3434504/sluiting-dreigt-voor-hudson-s-bay"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e93567fe-5cec-11e9-ab1a-0218eaf05005.jpg"
 ---
 

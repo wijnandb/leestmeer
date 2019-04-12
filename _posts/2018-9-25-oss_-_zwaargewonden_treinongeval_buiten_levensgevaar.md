@@ -5,6 +5,7 @@ date: Tue, 25 Sep 2018 15:31:00 GMT
 categories: 
 - noord-brabant 
 - bernheze 
+externe_link: "https://www.politie.nl/nieuws/2018/september/25/09-zwaargewonden-treinongeval-buiten-levensgevaar.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/politie-embleem.jpg"
 ---
 

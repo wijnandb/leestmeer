@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 15:15:00 GMT
 categories: 
 - overijssel 
 - enschede 
+externe_link: "https://www.ad.nl/enschede/kamervragen-over-financiele-steun-voor-fc-twente~a2a43bab/"
 feature_image: "https://images2.persgroep.net/rcs/nNzgAoNntVwbk8V8-jlMtnVeUUQ/diocontent/102152554/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Nepmailtjes namens het kabinet en maken lootboxes
 date: Thu, 26 Oct 2017 18:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4157/nporadio1_nosop3techpodcast_20171026_nos-op-3-tech-podcast-nepmailtjes-namens-het-kabinet-en-maken-lootboxes-games-kapot.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4157/nporadio1_nosop3techpodcast_20171026_nos-op-3-tech-podcast-nepmailtjes-namens-het-kabinet-en-maken-lootboxes-games-kapot.mp3"
 ---
 
 0:00 Deze week was er een hoop ophef over de email-veiligheid van politici en overheidsdiensten. Wij leggen uit hoe het nou echt zit met die gevaren en wat ertegen te doen is.

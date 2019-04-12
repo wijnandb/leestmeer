@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 09:01:35 +0200
 categories: 
 - entertainment 
 - muziek 
+externe_link: "https://www.nu.nl/muziek/5835003/oliver-heldens-bij-shows-in-nederland-kun-je-iets-dieper-gaan.html"
 feature_image: "https://media.nu.nl/m/ka8xoyaaiws1_sqr256.jpg/oliver-heldens-bij-shows-in-nederland-kun-je-iets-dieper-gaan.jpg"
 ---
 

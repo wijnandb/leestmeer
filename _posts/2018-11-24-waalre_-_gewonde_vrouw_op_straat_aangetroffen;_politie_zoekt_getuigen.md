@@ -5,6 +5,7 @@ date: Sat, 24 Nov 2018 12:17:00 GMT
 categories: 
 - noord-brabant 
 - waalre 
+externe_link: "https://www.politie.nl/nieuws/2018/november/24/09-gewonde-vrouw-op-straat-aangetroffen-politie-zoekt-getuigen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/politie-embleem.jpg"
 ---
 

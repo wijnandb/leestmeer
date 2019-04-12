@@ -5,6 +5,7 @@ date: Mon, 23 Oct 2017 08:49:00 GMT
 categories: 
 - gelderland 
 - oldebroek 
+externe_link: "https://www.politie.nl/nieuws/2017/oktober/23/02-zaken-in-bureau-gld-van-25-oktober.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/onderwerpen/bureau-gld.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Mon, 28 Jan 2019 11:51:00 GMT
 categories: 
 - gelderland 
 - nijkerk 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/28/02-nijkerk-%E2%80%93-tweede-aanhouding-in-onderzoek-naar-gewelddadige-overvallen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

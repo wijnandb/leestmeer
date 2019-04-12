@@ -4,7 +4,8 @@ title: "Groesbeek Malden - Onderzoek overval geldloper juni 2016 in Opsporing Ve
 date: Tue, 12 Mar 2019 13:09:00 GMT
 categories: 
 - gelderland 
-- groesbeek 
+- heumen 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/12/02-onderzoek-overval-geldloper-juni-2016-in-opsporing-verzocht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/agente-bakent-gebied-af-met-afzetlint.jpg"
 ---
 

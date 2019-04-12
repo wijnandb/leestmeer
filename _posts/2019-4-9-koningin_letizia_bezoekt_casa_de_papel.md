@@ -2,7 +2,9 @@
 layout: post
 title: "Koningin Letizia bezoekt Casa de Papel"
 date: Tue, 09 Apr 2019 09:18:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- royalty 
 externe_link: "https://www.telegraaf.nl/entertainment/3414822/koningin-letizia-bezoekt-casa-de-papel"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0f0ab422-5aa7-11e9-8a3a-02d1dbdc35d1.jpg"
 ---

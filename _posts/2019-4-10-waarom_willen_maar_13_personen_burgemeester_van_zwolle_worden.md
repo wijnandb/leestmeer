@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 09:56:15 GMT
 categories: 
 - overijssel 
 - zwolle 
+externe_link: "https://www.ad.nl/zwolle/waarom-willen-maar-13-personen-burgemeester-van-zwolle-worden~a8dc4a39/"
 feature_image: "https://images3.persgroep.net/rcs/qCX4neJFp6YInaaerqVM2A_M1iE/diocontent/145197550/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

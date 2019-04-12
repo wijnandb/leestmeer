@@ -2,7 +2,9 @@
 layout: post
 title: "Snollebollekes: nu Super Bowl en Songfestival"
 date: Mon, 08 Apr 2019 18:24:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3413226/snollebollekes-nu-super-bowl-en-songfestival"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c0d36216-5a1c-11e9-9fc0-0217670beecd.jpg"
 ---

@@ -2,9 +2,8 @@
 layout: post
 title: "Soesterberg - Gezocht - Mannen stelen ruim 10.000 euro van verward persoon"
 date: Thu, 04 Apr 2019 06:50:00 GMT
-categories: 
-- utrecht 
-- soest 
+category: utrecht
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/03-man-leent-bankpas-van-verwarde-man-en-steelt-ruim-10.000-euro.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/april/03-mn/soesterberg-3-bankpas.jpg"
 ---
 

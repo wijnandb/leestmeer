@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Steun voor regisseur die werd ontslagen vanwege 1
 date: Thu, 02 Aug 2018 16:08:02 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4115/nporadio1_nosop3techpodcast_20180802_nos-op-3-tech-podcast-steun-voor-regisseur-die-werd-ontslagen-vanwege-10-jaar-oude-tweets.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4115/nporadio1_nosop3techpodcast_20180802_nos-op-3-tech-podcast-steun-voor-regisseur-die-werd-ontslagen-vanwege-10-jaar-oude-tweets.mp3"
 ---
 
 0:00 Een sms'je als extra beveiliging bij het inloggen is niet zo veilig als je misschien denkt. Dat blijkt wel uit de hack bij discussiesite Reddit deze week.

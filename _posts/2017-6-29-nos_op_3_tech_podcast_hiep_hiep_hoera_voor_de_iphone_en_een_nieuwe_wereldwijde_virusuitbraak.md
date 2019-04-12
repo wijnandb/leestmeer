@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: hiep hiep hoera voor de iPhone en een nieuwe were
 date: Thu, 29 Jun 2017 17:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4168/nporadio1_nosop3techpodcast_20170629_nos-op-3-tech-podcast-hiep-hiep-hoera-voor-de-iphone-en-een-nieuwe-wereldwijde-virusuitbraak.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4168/nporadio1_nosop3techpodcast_20170629_nos-op-3-tech-podcast-hiep-hiep-hoera-voor-de-iphone-en-een-nieuwe-wereldwijde-virusuitbraak.mp3"
 ---
 
 0:00 De wereld werd opnieuw opgeschrikt door een cyberaanval die veel bedrijven en instanties lamlegde. In eerste instantie leek het virus op ransomware, maar in de loop van de week werd dat toch anders.

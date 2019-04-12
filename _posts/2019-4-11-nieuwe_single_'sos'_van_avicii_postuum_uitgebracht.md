@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 09:10:02 +0200
 categories: 
 - entertainment 
 - muziek 
+externe_link: "https://www.nu.nl/muziek/5837109/nieuwe-single-sos-van-avicii-postuum-uitgebracht.html"
 feature_image: "https://media.nu.nl/m/4a9xa7ban4la_sqr256.jpg/nieuwe-single-sos-van-avicii-postuum-uitgebracht.jpg"
 ---
 

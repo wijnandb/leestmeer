@@ -5,6 +5,7 @@ date: Thu, 28 Mar 2019 17:55:00 GMT
 categories: 
 - utrecht 
 - utrecht 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/28/03-invallen-tegen-illegaal-gokken.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/03-mn/cashcenterterminal1.jpg"
 ---
 

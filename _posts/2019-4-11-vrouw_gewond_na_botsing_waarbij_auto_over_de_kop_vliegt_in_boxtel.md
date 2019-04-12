@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 13:06:08 GMT
 categories: 
 - noord-brabant 
 - boxtel 
+externe_link: "https://www.ad.nl/boxtel/vrouw-gewond-na-botsing-waarbij-auto-over-de-kop-vliegt-in-boxtel~a9f8ece3/"
 feature_image: "https://images2.persgroep.net/rcs/i-G59ngVWDjwNcpMRS68JT1Kdos/diocontent/145310246/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Brandende accu's, doorzoek Darfur en de Playstati
 date: Thu, 13 Oct 2016 16:02:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4204/nporadio1_nosop3techpodcast_20161013_nos-op-3-tech-podcast-brandende-accu-s-doorzoek-darfur-en-de-playstation-bril.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4204/nporadio1_nosop3techpodcast_20161013_nos-op-3-tech-podcast-brandende-accu-s-doorzoek-darfur-en-de-playstation-bril.mp3"
 ---
 
 Donderdagmiddag. Je kunt geen kant meer op. Wegklikken is zinloos. Tijd voor een nieuwe NOS op 3 Tech Podcast! Iedere week hoor je bij ons het laatste nieuws en ontwikkelingen op het gebied van tech, sociale media, apps en meer.

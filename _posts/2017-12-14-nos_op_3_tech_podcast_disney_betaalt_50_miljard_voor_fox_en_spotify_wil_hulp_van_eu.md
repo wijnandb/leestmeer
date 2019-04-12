@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Disney betaalt 50 miljard voor Fox en Spotify wil
 date: Thu, 14 Dec 2017 17:05:22 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4150/nporadio1_nosop3techpodcast_20171214_nos-op-3-tech-podcast-disney-betaalt-50-miljard-voor-fox-en-spotify-wil-hulp-van-eu.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4150/nporadio1_nosop3techpodcast_20171214_nos-op-3-tech-podcast-disney-betaalt-50-miljard-voor-fox-en-spotify-wil-hulp-van-eu.mp3"
 ---
 
 1:04 Walt Disney heeft voor meer dan 50 miljard dollar 21st Century Fox overgenomen. Wat betekent dat voor de industrie?

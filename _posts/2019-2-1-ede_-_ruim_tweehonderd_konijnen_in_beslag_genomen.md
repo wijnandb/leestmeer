@@ -5,6 +5,7 @@ date: Fri, 01 Feb 2019 12:17:00 GMT
 categories: 
 - gelderland 
 - ede 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/1/02-ruim-200-konijnen-in-beslag-genomen-in-ede.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/januari/02-on/konijn.jpg"
 ---
 

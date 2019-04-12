@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 04:13:26 GMT
 categories: 
 - overijssel 
 - almelo 
+externe_link: "https://www.ad.nl/almelo/stefan-is-barman-bij-preston-palace-van-alle-gasten-maken-de-duitsers-het-meeste-geluid~a026672d/"
 feature_image: "https://images2.persgroep.net/rcs/kzIXxoj4gZSFS1BEbz06gPXmEoA/diocontent/144748322/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

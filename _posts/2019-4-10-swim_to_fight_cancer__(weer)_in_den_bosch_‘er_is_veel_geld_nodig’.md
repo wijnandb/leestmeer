@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 13:56:00 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.ad.nl/den-bosch/swim-to-fight-cancer-weer-in-den-bosch-er-is-veel-geld-nodig~a3ef88d0/"
 feature_image: "https://images1.persgroep.net/rcs/j_KzxrXqbKIDIyRKvsioav4rhxQ/diocontent/101318271/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

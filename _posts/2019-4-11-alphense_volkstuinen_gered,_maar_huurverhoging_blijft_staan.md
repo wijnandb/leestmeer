@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 13:47:42 GMT
 categories: 
 - zuid-holland 
 - alphen 
+externe_link: "https://www.ad.nl/alphen/alphense-volkstuinen-gered-maar-huurverhoging-blijft-staan~a436918c/"
 feature_image: "https://images3.persgroep.net/rcs/sv-rDsD1ft62bmX7PoV12Io2VLw/diocontent/135648205/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

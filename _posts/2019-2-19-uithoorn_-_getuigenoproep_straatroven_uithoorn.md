@@ -5,6 +5,7 @@ date: Tue, 19 Feb 2019 14:07:00 GMT
 categories: 
 - noord-holland 
 - uithoorn 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/19/05-straatroven-uithoorn.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/februari/05-am/uithoorn-bibliotheek.jpg"
 ---
 

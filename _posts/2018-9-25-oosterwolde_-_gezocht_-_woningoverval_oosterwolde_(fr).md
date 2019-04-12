@@ -2,9 +2,8 @@
 layout: post
 title: "Oosterwolde - Gezocht - Woningoverval Oosterwolde (FR)"
 date: Tue, 25 Sep 2018 08:29:00 GMT
-categories: 
-- fryslan 
-- ooststellingwerf 
+category: fryslan
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/september/01-woningoverval.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/september/01-nn/oosterwolde-twee-luik.jpg"
 ---
 

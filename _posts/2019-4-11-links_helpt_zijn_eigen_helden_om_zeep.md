@@ -3,8 +3,9 @@ layout: post
 title: "Links helpt zijn eigen helden om zeep"
 date: Thu, 11 Apr 2019 16:11:00 GMT
 categories: 
-- entertainment 
-- opinie 
+- overig 
+- mensen 
+externe_link: "https://www.volkskrant.nl/nieuws-achtergrond/progressieve-politiek-eist-dat-leiders-ethisch-volmaakt-zijn-en-helpt-zo-eigen-helden-om-zeep~bbf57bf2/"
 feature_image: "https://images0.persgroep.net/rcs/b4W0iTPnsz1g6CbqFVi9QGtw7bU/diocontent/145324090/_focus/0.5/0.5/_fill/320/320?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.85"
 ---
 

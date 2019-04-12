@@ -2,7 +2,9 @@
 layout: post
 title: "Van de Donk: Hier hebben we lang op gewacht"
 date: Tue, 09 Apr 2019 20:00:00 GMT
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.ad.nl/nederlands-voetbal/van-de-donk-hier-hebben-we-lang-op-gewacht~ad297e45/"
 feature_image: "https://images3.persgroep.net/rcs/q1Kp17EcT_4CY306dl0RGL0dlUM/diocontent/145195739/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

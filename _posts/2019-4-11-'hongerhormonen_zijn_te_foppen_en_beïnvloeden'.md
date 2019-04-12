@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 22:55:23 +0200
 categories: 
 - overig 
 - gezondheid 
+externe_link: "https://www.nu.nl/eten-en-drinken/5834205/hongerhormonen-zijn-te-foppen-en-beinvloeden.html"
 feature_image: "https://media.nu.nl/m/dwjxuqaa1woo_sqr256.jpg/hongerhormonen-zijn-te-foppen-en-beinvloeden.jpg"
 ---
 

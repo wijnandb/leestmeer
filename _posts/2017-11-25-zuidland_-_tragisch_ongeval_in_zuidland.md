@@ -5,6 +5,7 @@ date: Sat, 25 Nov 2017 16:26:00 GMT
 categories: 
 - zuid-holland 
 - bernisse 
+externe_link: "https://www.politie.nl/nieuws/2017/november/25/07-zuidland-tragisch-ongeval-in-zuidland.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/ambulance.jpg"
 ---
 

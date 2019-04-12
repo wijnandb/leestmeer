@@ -4,7 +4,6 @@ title: "Hoe gevaarlijk is het nieuwe Russische hackwapen? En wat verraadt een pi
 date: Thu, 27 Sep 2018 17:14:05 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4107/nporadio1_nosop3techpodcast_20180927_hoe-gevaarlijk-is-het-nieuwe-russische-hackwapen-en-wat-verraadt-een-pinpas-over-mensenhandel.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4107/nporadio1_nosop3techpodcast_20180927_hoe-gevaarlijk-is-het-nieuwe-russische-hackwapen-en-wat-verraadt-een-pinpas-over-mensenhandel.mp3"
 ---
 
 00.00 Er is een slim Russisch hackwapen gevonden bij Oost-Europese overheden. Hoe stiekem infecteert dit wapen je computer?

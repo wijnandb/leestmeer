@@ -5,6 +5,7 @@ date: Thu, 09 Nov 2017 09:54:00 GMT
 categories: 
 - zuid-holland 
 - leerdam 
+externe_link: "https://www.politie.nl/nieuws/2017/november/9/07-politie-rotterdam-geeft-unieke-inkijk-bij-de-inzet-voetbalwedstrijden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/november/07-rt/foto-feyenoord.jpg"
 ---
 

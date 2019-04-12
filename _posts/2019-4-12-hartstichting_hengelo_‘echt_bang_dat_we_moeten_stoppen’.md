@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 05:41:32 GMT
 categories: 
 - overijssel 
 - hengelo 
+externe_link: "https://www.ad.nl/hengelo/hartstichting-hengelo-echt-bang-dat-we-moeten-stoppen~aba6cc64/"
 feature_image: "https://images2.persgroep.net/rcs/z_GQ80uRPU1rF3eWNhIcTRoX4ok/diocontent/144700585/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

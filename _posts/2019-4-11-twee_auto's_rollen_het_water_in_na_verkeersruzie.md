@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 17:07:42 GMT
 categories: 
 - zuid-holland 
 - delft 
+externe_link: "https://www.ad.nl/delft/twee-auto-s-rollen-het-water-in-na-verkeersruzie~a46b78ea/"
 feature_image: "https://images4.persgroep.net/rcs/Q210hm1XoG97cgTNebrPHtDBM9s/diocontent/145322247/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

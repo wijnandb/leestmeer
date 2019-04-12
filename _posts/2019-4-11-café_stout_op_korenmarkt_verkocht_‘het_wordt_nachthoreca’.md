@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 05:22:00 GMT
 categories: 
 - gelderland 
 - arnhem 
+externe_link: "https://www.ad.nl/arnhem/cafe-stout-op-korenmarkt-verkocht-het-wordt-nachthoreca~a10633e2/"
 feature_image: "https://images0.persgroep.net/rcs/PtDvAA1WWbXFGdeZw5LrTeTKiyQ/diocontent/145246929/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

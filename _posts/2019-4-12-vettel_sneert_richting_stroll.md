@@ -4,7 +4,8 @@ title: "Vettel sneert richting Stroll"
 date: Fri, 12 Apr 2019 11:10:26 +0200
 categories: 
 - sport 
-- autosport 
+- scoreboard 
+externe_link: "https://www.telegraaf.nl/sport/3435673/vettel-sneert-richting-stroll"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/cfc0459e-5d02-11e9-ac91-02d2fb1aa1d7.jpg"
 ---
 

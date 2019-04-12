@@ -6,7 +6,6 @@ categories:
 - sport 
 - voetbal 
 externe_link: "https://podcast.npo.nl/file/nos-voetbalpodcast/2036/nporadio1_nos-voetbalpodcast_20180903_de-nos-voetbalpodcast-4-is-de-groep-van-psv-in-de-champions-league-wel-zo-moeilijk.mp3"
-feature_image: "https://podcast.npo.nl/file/nos-voetbalpodcast/2036/nporadio1_nos-voetbalpodcast_20180903_de-nos-voetbalpodcast-4-is-de-groep-van-psv-in-de-champions-league-wel-zo-moeilijk.mp3"
 ---
 
 Meningen en scherpe analyses, verhalen en opvallende anekdotes. Allemaal van de commentatoren die langs het veld ter plekke waren. Dat en meer is te horen in de NOS Voetbalpodcast.

@@ -2,7 +2,9 @@
 layout: post
 title: "Milan vreest nieuwe straf van de UEFA"
 date: Wed, 10 Apr 2019 15:09:50 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3425097/milan-vreest-nieuwe-straf-van-de-uefa"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ec20b31c-5b91-11e9-8fc6-02d2fb1aa1d7.jpg"
 ---

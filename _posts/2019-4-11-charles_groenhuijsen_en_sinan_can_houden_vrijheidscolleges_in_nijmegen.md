@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 17:05:17 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.ad.nl/nijmegen/charles-groenhuijsen-en-sinan-can-houden-vrijheidscolleges-in-nijmegen~af2949ae/"
 feature_image: "https://images4.persgroep.net/rcs/V-HyXasACXDjyMofGONE8Ql-jvY/diocontent/145317914/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

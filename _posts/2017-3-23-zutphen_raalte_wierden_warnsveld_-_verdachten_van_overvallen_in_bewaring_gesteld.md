@@ -5,6 +5,7 @@ date: Thu, 23 Mar 2017 14:58:00 GMT
 categories: 
 - overijssel 
 - wierden 
+externe_link: "https://www.politie.nl/nieuws/2017/maart/23/02-verdachten-van-overvallen-in-bewaring-gesteld.html"
 ---
 
 De twee verdachten van betrokkenheid bij de gewelddadige (woning)overvallen in Raalte, Wierden en Warnsveld zijn woensdag voorgeleid aan de rechter-commissaris, deze heeft ze voor 14 dagen in bewaring gesteld.

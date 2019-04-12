@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 05:30:00 +0200
 categories: 
 - entertainment 
 - opinie 
+externe_link: "https://www.telegraaf.nl/columns/3421028/niet-passend"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/031d7d04-5b09-11e9-b673-0255c322e81b.png"
 ---
 

@@ -5,6 +5,7 @@ date: Mon, 05 Jun 2017 09:40:00 GMT
 categories: 
 - utrecht 
 - leusden 
+externe_link: "https://www.politie.nl/nieuws/2017/juni/5/03-utrecht-aanhoudingen-verricht-in-onderzoeken-naar-dood-van-romy-en-savannah.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/politie-embleem.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "UEFA klaagt Ajax aan voor wangedrag fans tijdens duel met Juve"
 date: Thu, 11 Apr 2019 18:30:31 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://nos.nl/l/2280008"
 feature_image: "https://nos.nl/data/image/2019/04/11/542925/1008x567.jpg"
 ---

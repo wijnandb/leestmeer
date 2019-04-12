@@ -5,6 +5,7 @@ date: Tue, 12 Feb 2019 08:29:00 GMT
 categories: 
 - noord-holland 
 - amstelveen 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/12/05-controles-op-letselongevallocaties.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/februari/05-am/kaartje-controles.jpg"
 ---
 

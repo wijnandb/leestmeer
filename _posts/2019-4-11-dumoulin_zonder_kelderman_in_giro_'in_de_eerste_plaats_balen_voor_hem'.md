@@ -2,7 +2,9 @@
 layout: post
 title: "Dumoulin zonder Kelderman in Giro: 'In de eerste plaats balen voor hem'"
 date: Thu, 11 Apr 2019 20:45:22 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2280034"
 feature_image: "https://nos.nl/data/image/2019/03/23/538972/1008x567.jpg"
 ---

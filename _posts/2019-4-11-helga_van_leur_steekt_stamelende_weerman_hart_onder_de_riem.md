@@ -2,9 +2,8 @@
 layout: post
 title: "Helga van Leur steekt stamelende weerman hart onder de riem"
 date: Thu, 11 Apr 2019 21:35:45 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3433649/helga-van-leur-steekt-stamelende-weerman-hart-onder-de-riem"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/09dd7660-5c91-11e9-8fc6-02d2fb1aa1d7.jpg"
 ---
 

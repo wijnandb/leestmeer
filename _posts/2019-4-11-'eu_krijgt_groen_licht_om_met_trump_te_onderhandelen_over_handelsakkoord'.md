@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 20:58:20 +0200
 categories: 
 - financieel 
 - economie 
+externe_link: "https://www.nu.nl/economie/5839086/eu-krijgt-groen-licht-om-met-trump-te-onderhandelen-over-handelsakkoord.html"
 feature_image: "https://media.nu.nl/m/27kxq6jafudm_sqr256.jpg/eu-krijgt-groen-licht-om-met-trump-te-onderhandelen-over-handelsakkoord.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Fri, 12 Oct 2018 12:08:00 GMT
 categories: 
 - zuid-holland 
 - molenwaard 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/12/07-geen-aanwijzing-voor-brandstichting-bij-brand-molenaarsgraaf.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/oktober/07-rt/brandmolenaarsgraafklein.jpg"
 ---
 

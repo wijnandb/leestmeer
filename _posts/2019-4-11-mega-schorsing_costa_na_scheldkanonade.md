@@ -2,7 +2,9 @@
 layout: post
 title: "Mega-schorsing Costa na scheldkanonade"
 date: Thu, 11 Apr 2019 12:27:59 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3429889/mega-schorsing-costa-na-scheldkanonade"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/64754c9a-5c48-11e9-ba01-0255c322e81b.jpg"
 ---

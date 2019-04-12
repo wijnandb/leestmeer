@@ -5,6 +5,7 @@ date: Tue, 10 Jul 2018 10:21:00 GMT
 categories: 
 - gelderland 
 - winterswijk 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/10/02-winterswijk-beloning-van-15.000-euro-in-moordzaak.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/juli/02-on/demelulaj2.jpg"
 ---
 

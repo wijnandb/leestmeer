@@ -5,6 +5,7 @@ date: Mon, 11 Feb 2019 11:31:00 GMT
 categories: 
 - noord-brabant 
 - veldhoven 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/09-fietsendiefstal-jumbo-veldhoven.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/09-ob/adfaf6ae-4bd5-4d5b-90fa-c32d9c535b70.jpg"
 ---
 

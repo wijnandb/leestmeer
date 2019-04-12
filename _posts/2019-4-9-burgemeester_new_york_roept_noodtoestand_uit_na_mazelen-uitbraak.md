@@ -2,7 +2,7 @@
 layout: post
 title: "Burgemeester New York roept noodtoestand uit na mazelen-uitbraak"
 date: Tue, 09 Apr 2019 19:44:45 +0200
-category: algemeen
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/3420073/burgemeester-new-york-roept-noodtoestand-uit-na-mazelen-uitbraak"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a9d5cdc8-5aef-11e9-93c9-02c309bc01c1.jpg"
 ---

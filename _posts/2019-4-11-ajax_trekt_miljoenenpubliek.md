@@ -2,7 +2,9 @@
 layout: post
 title: "Ajax trekt miljoenenpubliek"
 date: Thu, 11 Apr 2019 08:40:29 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3428239/ajax-trekt-miljoenenpubliek"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e50ab2c8-5c2a-11e9-b4ef-0217670beecd.jpg"
 ---

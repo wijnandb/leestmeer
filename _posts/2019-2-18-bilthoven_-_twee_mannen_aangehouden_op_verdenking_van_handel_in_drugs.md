@@ -4,7 +4,8 @@ title: "Bilthoven - Twee mannen aangehouden op verdenking van handel in drugs"
 date: Mon, 18 Feb 2019 11:17:00 GMT
 categories: 
 - utrecht 
-- de_bilt 
+- lopik 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/18/03-twee-mannen-aangehouden-op-verdenking-van-handel-in-drugs.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-3.jpg"
 ---
 

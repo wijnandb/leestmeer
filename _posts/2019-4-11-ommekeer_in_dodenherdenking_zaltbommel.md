@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 13:21:59 GMT
 categories: 
 - gelderland 
 - zaltbommel 
+externe_link: "https://www.ad.nl/zaltbommel/ommekeer-in-dodenherdenking-zaltbommel~a16950f5/"
 feature_image: "https://images3.persgroep.net/rcs/cZIGQQMq2YLS1LtWdZhdlsFdh-k/diocontent/145310326/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

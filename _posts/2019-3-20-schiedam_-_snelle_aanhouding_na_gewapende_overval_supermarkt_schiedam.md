@@ -5,6 +5,7 @@ date: Wed, 20 Mar 2019 13:48:00 GMT
 categories: 
 - zuid-holland 
 - schiedam 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/20/07-snelle-aanhouding-na-gewapende-overval-supermarkt-schiedam.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-3.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 15:12:09 GMT
 categories: 
 - overijssel 
 - zwolle 
+externe_link: "https://www.ad.nl/zwolle/om-zwollenaar-maakte-van-stalking-zijn-allergrootste-hobby~a8bd0be6/"
 feature_image: "https://images3.persgroep.net/rcs/MqO7MnFMbkVrLeBsh7f0ZXfJeRY/diocontent/15653776/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

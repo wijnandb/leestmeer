@@ -5,6 +5,7 @@ date: Tue, 01 May 2018 14:50:00 GMT
 categories: 
 - utrecht 
 - rhenen 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/1/11-drie-aanhoudingen-rhenen-voor-drugshandel.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stock-afbeeldingen/11-landelijke-eenheid/looijen.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Mon, 18 Feb 2019 14:34:00 GMT
 categories: 
 - noord-brabant 
 - helmond 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/18/09-cybermonday---kijk-uit-voor-phishing.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/februari/09-ob/cybermondag-2.jpg"
 ---
 

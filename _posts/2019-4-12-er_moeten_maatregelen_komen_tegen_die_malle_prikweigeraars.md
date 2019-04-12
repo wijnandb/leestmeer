@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 04:29:00 GMT
 categories: 
 - zuid-holland 
 - dordrecht 
+externe_link: "https://www.ad.nl/dordrecht/er-moeten-maatregelen-komen-tegen-die-malle-prikweigeraars~a76a676b/"
 feature_image: "https://images4.persgroep.net/rcs/lDdPUkSbv4Ld2ZXXsGQm8_FZf5Y/diocontent/136769836/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

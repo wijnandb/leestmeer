@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 14:10:45 +0200
 categories: 
 - sport 
 - autosport 
+externe_link: "https://nos.nl/l/2279977"
 ---
 
 Voormalig Formule 1-baas Bernie Ecclestone vindt Nigel Mansell en Alain Prost de grootste coureurs ooit. De Brit laat bijvoorbeeld Ayrton Senna of Michael Schumacher buiten beschouwing.

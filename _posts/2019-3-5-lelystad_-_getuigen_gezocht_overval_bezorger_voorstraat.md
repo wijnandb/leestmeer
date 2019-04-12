@@ -2,9 +2,8 @@
 layout: post
 title: "Lelystad - Getuigen gezocht overval bezorger Voorstraat"
 date: Tue, 05 Mar 2019 13:41:00 GMT
-categories: 
-- flevoland 
-- lelystad 
+category: flevoland
+externe_link: "https://www.politie.nl/nieuws/2019/maart/5/getuigen-gezocht-overval-bezorger-voorstraat.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/logo-politie-op-dienstauto.jpg"
 ---
 

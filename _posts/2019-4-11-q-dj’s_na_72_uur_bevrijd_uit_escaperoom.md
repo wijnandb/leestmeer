@@ -2,7 +2,9 @@
 layout: post
 title: "Q-dj’s na 72 uur bevrijd uit escaperoom"
 date: Thu, 11 Apr 2019 10:05:22 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3428698/q-dj-s-na-72-uur-bevrijd-uit-escaperoom"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e809fac2-5c36-11e9-a4e2-02d1dbdc35d1.jpg"
 ---

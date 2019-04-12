@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 14:47:28 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.ad.nl/den-bosch/ondernemersfonds-wil-betalen-voor-bosch-winterparadijs-maar-er-zijn-voorwaarden~aa537eb0/"
 feature_image: "https://images0.persgroep.net/rcs/UhghAQp6iPFhHYqW1xtM3ngPLgk/diocontent/138402047/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 05 Dec 2018 16:20:00 GMT
 categories: 
 - gelderland 
 - maasdriel 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/december/02-oon/gld/politie-zoekt-nog-een-van-de-2-scooterdieven.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/december/02-on/2018393059-1.jpg"
 ---
 

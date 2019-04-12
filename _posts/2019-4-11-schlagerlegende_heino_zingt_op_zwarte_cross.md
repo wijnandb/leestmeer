@@ -2,7 +2,9 @@
 layout: post
 title: "Schlagerlegende Heino zingt op Zwarte Cross"
 date: Thu, 11 Apr 2019 17:29:02 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3432684/schlagerlegende-heino-zingt-op-zwarte-cross"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/88f5ee82-5c6e-11e9-96f7-02d2fb1aa1d7.jpg"
 ---

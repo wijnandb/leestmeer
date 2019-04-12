@@ -2,9 +2,8 @@
 layout: post
 title: "Fagron zet stijgende lijn voort"
 date: Fri, 12 Apr 2019 07:19:48 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3434324/fagron-zet-stijgende-lijn-voort"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/84e8e0f8-5cee-11e9-a131-0255c322e81b.jpg"
 ---
 

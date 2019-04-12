@@ -2,7 +2,9 @@
 layout: post
 title: "Schachmann wint opnieuw in het Baskenland, zware val Alaphilippe"
 date: Wed, 10 Apr 2019 15:45:00 GMT
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.ad.nl/wielrennen/schachmann-wint-opnieuw-in-het-baskenland-zware-val-alaphilippe~a57a2166/"
 feature_image: "https://images1.persgroep.net/rcs/YvZI4Ga0mhKFe0rRmDGPUR4WWLQ/diocontent/145124109/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

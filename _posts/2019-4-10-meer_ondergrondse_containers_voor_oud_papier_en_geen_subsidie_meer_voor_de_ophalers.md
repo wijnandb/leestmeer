@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 08:48:55 GMT
 categories: 
 - utrecht 
 - veenendaal 
+externe_link: "https://www.ad.nl/veenendaal/meer-ondergrondse-containers-voor-oud-papier-en-geen-subsidie-meer-voor-de-ophalers~ad2e8962/"
 feature_image: "https://images1.persgroep.net/rcs/qFUcX-s6nc0_fKuVQlBfvgayz8A/diocontent/137328912/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

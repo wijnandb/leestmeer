@@ -2,9 +2,8 @@
 layout: post
 title: "Seminar: Vermogen opbouwen met defensieve aandelen en opties"
 date: Thu, 11 Apr 2019 11:04:00 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3412240/seminar-vermogen-opbouwen-met-defensieve-aandelen-en-opties"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/547f725c-5c39-11e9-93c9-02c309bc01c1.jpg"
 ---
 

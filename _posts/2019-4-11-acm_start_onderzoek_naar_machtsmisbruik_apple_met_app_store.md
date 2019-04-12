@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ACM start onderzoek naar machtsmisbruik Apple met App Store"
-date: Thu, 11 Apr 2019 10:42:45 +0200
+date: Thu, 11 Apr 2019 16:45:03 +0200
 category: tech
 externe_link: "https://www.nu.nl/internet/5837544/acm-start-onderzoek-naar-machtsmisbruik-apple-met-app-store.html"
 feature_image: "https://media.nu.nl/m/w62x7kkajjwl_sqr256.jpg/acm-start-onderzoek-naar-machtsmisbruik-apple-met-app-store.jpg"

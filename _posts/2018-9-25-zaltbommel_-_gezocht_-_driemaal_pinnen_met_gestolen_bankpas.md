@@ -5,6 +5,7 @@ date: Tue, 25 Sep 2018 07:22:00 GMT
 categories: 
 - gelderland 
 - zaltbommel 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/september/02-oon/gld/driemaal-pinnen-met-gestolen-bankpas.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/september/02-on/2018330171-1.jpg"
 ---
 

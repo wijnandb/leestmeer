@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 13:01:00 GMT
 categories: 
 - gelderland 
 - rivierenland 
+externe_link: "https://www.ad.nl/rivierenland/basisschool-in-wijk-en-aalburg-ontruimd-vanwege-kortsluiting-in-de-meterkast~a0341ae5/"
 feature_image: "https://images1.persgroep.net/rcs/FuIzoQ2OPBtXYhhu9gEtzhvPa10/diocontent/145308786/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

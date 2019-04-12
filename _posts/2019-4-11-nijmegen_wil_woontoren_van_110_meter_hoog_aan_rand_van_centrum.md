@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 05:09:54 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.ad.nl/nijmegen/nijmegen-wil-woontoren-van-110-meter-hoog-aan-rand-van-centrum~a82b7ff5/"
 feature_image: "https://images2.persgroep.net/rcs/BDtagk5udIKRUoOQI3Y7cJR6Ujk/diocontent/145258820/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

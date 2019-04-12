@@ -5,6 +5,7 @@ date: Thu, 22 Nov 2018 13:06:00 GMT
 categories: 
 - zuid-holland 
 - teylingen 
+externe_link: "https://www.politie.nl/nieuws/2018/november/22/06-voorhout-politie-dringend-op-zoek-naar-getuigen-van-brand-paardenstal.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/zijkant-politieauto-met-logo.jpg"
 ---
 

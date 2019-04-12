@@ -4,7 +4,8 @@ title: "CDA aarzelt over coalitie zonder VVD in provincie Utrecht"
 date: Thu, 11 Apr 2019 18:01:00 GMT
 categories: 
 - utrecht 
-- amersfoort 
+- woerden 
+externe_link: "https://www.ad.nl/utrecht/cda-aarzelt-over-coalitie-zonder-vvd-in-provincie-utrecht~a6cc288f/"
 feature_image: "https://images4.persgroep.net/rcs/EYGYvjZgQlUFFdDSz0fTqXKqsyg/diocontent/144082803/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

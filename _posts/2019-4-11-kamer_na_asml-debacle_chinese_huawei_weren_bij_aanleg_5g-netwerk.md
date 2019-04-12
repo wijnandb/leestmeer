@@ -2,7 +2,7 @@
 layout: post
 title: "Kamer na ASML-debacle: Chinese Huawei weren bij aanleg 5G-netwerk"
 date: Thu, 11 Apr 2019 15:55:48 +0200
-category: politiek
+category: tech
 externe_link: "https://nos.nl/l/2279986"
 feature_image: "https://nos.nl/data/image/2019/04/11/542899/1008x567.jpg"
 ---

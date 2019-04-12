@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 15:30:00 GMT
 categories: 
 - noord-brabant 
 - eindhoven 
+externe_link: "https://www.ad.nl/eindhoven/olympic-moves-in-eindhoven-korfbal-is-meer-dan-mislukt-basketbal~ae6d9de5/"
 feature_image: "https://images3.persgroep.net/rcs/LVeh6R7tDR-PVkDkN3p0Ktxf_iI/diocontent/145244360/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

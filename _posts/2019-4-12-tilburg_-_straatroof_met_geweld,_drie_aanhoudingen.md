@@ -2,7 +2,7 @@
 layout: post
 title: "Tilburg - Straatroof met geweld, drie aanhoudingen"
 date: Fri, 12 Apr 2019 09:01:00 GMT
-category: politieberichten
+category: nieuws
 externe_link: "https://www.politie.nl/nieuws/2019/april/12/08-straatroof-met-geweld-drie-aanhoudingen.html"
 ---
 

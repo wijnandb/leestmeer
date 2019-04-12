@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 09:55:54 GMT
 categories: 
 - noord-brabant 
 - tilburg 
+externe_link: "https://www.ad.nl/tilburg/studenten-tilburg-university-willen-shell-weren-tijdens-bedrijvendagen-op-campus~ad6276d3/"
 feature_image: "https://images1.persgroep.net/rcs/29ZjbxGx5NE9HXQKnMaMbzjphB4/diocontent/145299982/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

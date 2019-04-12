@@ -2,7 +2,9 @@
 layout: post
 title: "Komedie met Lisa Smit gaat naar Hollywood"
 date: Thu, 11 Apr 2019 23:28:31 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3433985/komedie-met-lisa-smit-gaat-naar-hollywood"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c7317716-5ca0-11e9-84d4-02c309bc01c1.png"
 ---

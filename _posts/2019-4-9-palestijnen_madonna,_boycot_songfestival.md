@@ -2,7 +2,9 @@
 layout: post
 title: "Palestijnen: Madonna, boycot songfestival"
 date: Tue, 09 Apr 2019 23:32:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3420833/palestijnen-madonna-boycot-songfestival"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/33a97e18-5b0f-11e9-bbde-0217670beecd.jpg"
 ---

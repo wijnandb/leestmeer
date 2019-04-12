@@ -2,9 +2,8 @@
 layout: post
 title: "TKH koopt maker van parkeersystemen"
 date: Fri, 12 Apr 2019 10:40:47 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3435402/tkh-koopt-maker-van-parkeersystemen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/cc02e4f0-5cff-11e9-a131-0255c322e81b.jpg"
 ---
 

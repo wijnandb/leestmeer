@@ -2,7 +2,9 @@
 layout: post
 title: "Duncan dolgelukkig in de liefde"
 date: Wed, 10 Apr 2019 19:00:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3426336/duncan-dolgelukkig-in-de-liefde"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c45cace2-5bc7-11e9-8854-0217670beecd.jpg"
 ---

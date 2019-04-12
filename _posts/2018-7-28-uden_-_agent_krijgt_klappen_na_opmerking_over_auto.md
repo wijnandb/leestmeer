@@ -5,6 +5,7 @@ date: Sat, 28 Jul 2018 10:35:00 GMT
 categories: 
 - noord-brabant 
 - uden 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/28/09-agent-krijgt-klappen-na-opmerking-over-auto.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/gezocht/dossiers/2016/05-am/digitaal-buurtonderzoek/mishandeling-vuist.jpg"
 ---
 

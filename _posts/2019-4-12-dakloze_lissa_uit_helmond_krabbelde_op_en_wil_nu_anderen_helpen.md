@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 05:30:00 GMT
 categories: 
 - noord-brabant 
 - helmond 
+externe_link: "https://www.ad.nl/helmond/dakloze-lissa-uit-helmond-krabbelde-op-en-wil-nu-anderen-helpen~ab5017a5/"
 feature_image: "https://images4.persgroep.net/rcs/NWF9F-vudHd7S_p3AGD4opNPBz0/diocontent/144768773/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

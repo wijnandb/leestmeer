@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 08:46:07 GMT
 categories: 
 - noord-brabant 
 - oss 
+externe_link: "https://www.ad.nl/oss/youtube-ster-speelt-live-fortnite-op-megascherm-in-theater-de-lievekamp~aca6a112/"
 feature_image: "https://images2.persgroep.net/rcs/2rbATEYVtJdt4wzTl292SeBooMo/diocontent/145294985/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

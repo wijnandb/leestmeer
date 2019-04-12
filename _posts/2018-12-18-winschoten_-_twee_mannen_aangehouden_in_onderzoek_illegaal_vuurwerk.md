@@ -5,6 +5,7 @@ date: Tue, 18 Dec 2018 10:31:00 GMT
 categories: 
 - drenthe 
 - coevorden 
+externe_link: "https://www.politie.nl/nieuws/2018/december/18/01-twee-mannen-aangehouden-in-onderzoek-illegaal-vuurwerk.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/december/01-nn/vuurwerk-youtube.jpg"
 ---
 

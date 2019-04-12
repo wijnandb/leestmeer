@@ -2,7 +2,9 @@
 layout: post
 title: "'Meghan Markle wil koninklijke doktoren niet'"
 date: Mon, 08 Apr 2019 13:05:42 +0200
-category: entertainment
+categories: 
+- entertainment 
+- royalty 
 externe_link: "https://www.telegraaf.nl/entertainment/3411044/meghan-markle-wil-koninklijke-doktoren-niet"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4436ccc6-59ee-11e9-8a3a-02d1dbdc35d1.png"
 ---

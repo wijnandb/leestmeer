@@ -2,7 +2,9 @@
 layout: post
 title: "Grote namen op Game of Thrones-album"
 date: Wed, 10 Apr 2019 09:59:17 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3422100/grote-namen-op-game-of-thrones-album"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ef561434-5b80-11e9-9635-02c309bc01c1.jpg"
 ---

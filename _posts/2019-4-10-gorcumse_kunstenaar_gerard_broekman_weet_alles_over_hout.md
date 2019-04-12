@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 13:03:00 GMT
 categories: 
 - gelderland 
 - rivierenland 
+externe_link: "https://www.ad.nl/rivierenland/gorcumse-kunstenaar-gerard-broekman-weet-alles-over-hout~a8808966/"
 feature_image: "https://images1.persgroep.net/rcs/gQ7wmn9Ys_FzP3WVW1wM2D6eT6U/diocontent/145232476/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

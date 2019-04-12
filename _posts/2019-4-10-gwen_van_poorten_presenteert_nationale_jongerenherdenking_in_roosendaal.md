@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 08:40:34 GMT
 categories: 
 - noord-brabant 
 - roosendaal 
+externe_link: "https://www.ad.nl/roosendaal/gwen-van-poorten-presenteert-nationale-jongerenherdenking-in-roosendaal~ac20219e/"
 feature_image: "https://images3.persgroep.net/rcs/eS-cgNLepYXxCGOxbSBq1uKr5KI/diocontent/134903795/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

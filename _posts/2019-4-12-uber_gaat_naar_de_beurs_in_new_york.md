@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 07:33:53 +0200
 categories: 
 - financieel 
 - economie 
+externe_link: "https://www.nu.nl/ondernemen/5839284/uber-gaat-naar-de-beurs-in-new-york.html"
 feature_image: "https://media.nu.nl/m/k0oxyefayaxo_sqr256.jpg/uber-gaat-naar-de-beurs-in-new-york.jpg"
 ---
 

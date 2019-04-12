@@ -5,6 +5,7 @@ date: Mon, 18 Feb 2019 11:33:00 GMT
 categories: 
 - zuid-holland 
 - schiedam 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/18/07-dure-post-voor-200-verkeersovertreders.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/februari/07-rt/rode-kruizen.jpg"
 ---
 

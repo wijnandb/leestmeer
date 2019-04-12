@@ -5,6 +5,7 @@ date: Fri, 04 Jan 2019 08:19:00 GMT
 categories: 
 - zeeland 
 - tholen 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/4/08-dieseldieven-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/ladingcontrole.jpg"
 ---
 

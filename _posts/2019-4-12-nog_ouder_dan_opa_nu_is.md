@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 06:01:50 GMT
 categories: 
 - gelderland 
 - wageningen 
+externe_link: "https://www.ad.nl/wageningen/nog-ouder-dan-opa-nu-is~a7f8d16c/"
 feature_image: "https://images2.persgroep.net/rcs/pGf84_WK2fb-uOojUGAJ4G2jEoU/diocontent/144704644/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

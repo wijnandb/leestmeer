@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 12:08:01 +0200
 categories: 
 - overig 
 - gezondheid 
+externe_link: "https://www.nu.nl/binnenland/5837349/ggd-meer-lichamelijke-problemen-bij-jongeren-door-beeldschermgebruik.html"
 feature_image: "https://media.nu.nl/m/qluxwzva24zx_sqr256.jpg/ggd-meer-lichamelijke-problemen-bij-jongeren-door-beeldschermgebruik.jpg"
 ---
 

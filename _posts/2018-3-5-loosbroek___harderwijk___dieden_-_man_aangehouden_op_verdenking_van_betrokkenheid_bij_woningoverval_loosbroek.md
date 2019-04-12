@@ -5,6 +5,7 @@ date: Mon, 05 Mar 2018 17:07:00 GMT
 categories: 
 - gelderland 
 - harderwijk 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/2/09-man-aangehouden-op-verdenking-van-betrokkenheid-bij-woningoverval-loosbroek.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

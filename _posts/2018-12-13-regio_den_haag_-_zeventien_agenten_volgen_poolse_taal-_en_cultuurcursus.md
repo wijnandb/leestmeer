@@ -5,6 +5,7 @@ date: Thu, 13 Dec 2018 09:00:00 GMT
 categories: 
 - zuid-holland 
 - leiden 
+externe_link: "https://www.politie.nl/nieuws/2018/december/13/06-zeventien-agenten-volgen-poolse-taal--en-cultuurcursus.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/burgers-in-gesprek-met-agenten.jpg"
 ---
 

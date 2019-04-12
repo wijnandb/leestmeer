@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 14:58:13 GMT
 categories: 
 - zuid-holland 
 - delft 
+externe_link: "https://www.ad.nl/delft/museum-van-marken-gaat-alvast-van-start~aa00d429/"
 feature_image: "https://images4.persgroep.net/rcs/wvm5oVONiXLnOwHey0nAkH_7DL4/diocontent/142085949/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

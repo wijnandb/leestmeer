@@ -2,7 +2,9 @@
 layout: post
 title: "Details uitvaart Nispey Hussle bekend"
 date: Tue, 09 Apr 2019 08:53:26 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3414737/details-uitvaart-nispey-hussle-bekend"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d5ec6b2c-5aa6-11e9-967e-0217670beecd.jpg"
 ---

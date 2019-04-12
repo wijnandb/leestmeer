@@ -4,7 +4,6 @@ title: "IGTV, grote belofte maar slaat het aan? En hoe stuur je een maantoerist 
 date: Thu, 20 Sep 2018 17:30:01 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4108/nporadio1_nosop3techpodcast_20180920_igtv-grote-belofte-maar-slaat-het-aan-en-hoe-stuur-je-een-maantoerist-veilig-de-ruimte-in.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4108/nporadio1_nosop3techpodcast_20180920_igtv-grote-belofte-maar-slaat-het-aan-en-hoe-stuur-je-een-maantoerist-veilig-de-ruimte-in.mp3"
 ---
 
 01:10 Kan een elektrische bakfiets op hol slaan? En welke dilemma's brengt nieuwe technologie in het verkeer met zich mee?

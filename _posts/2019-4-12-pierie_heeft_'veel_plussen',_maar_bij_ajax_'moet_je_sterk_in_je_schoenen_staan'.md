@@ -2,7 +2,9 @@
 layout: post
 title: "Pierie heeft 'veel plussen', maar bij Ajax 'moet je sterk in je schoenen staan'"
 date: Fri, 12 Apr 2019 08:33:55 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://nos.nl/l/2280077"
 feature_image: "https://nos.nl/data/image/2019/04/12/543057/1008x567.jpg"
 ---

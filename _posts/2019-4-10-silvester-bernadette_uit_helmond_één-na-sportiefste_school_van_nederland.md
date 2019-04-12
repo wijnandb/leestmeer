@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 16:24:00 GMT
 categories: 
 - noord-brabant 
 - helmond 
+externe_link: "https://www.ad.nl/helmond/silvester-bernadette-uit-helmond-een-na-sportiefste-school-van-nederland~ab9ae904/"
 feature_image: "https://images0.persgroep.net/rcs/J-l8TYmp2aT-wgRbiGq97C6FFV4/diocontent/145248380/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

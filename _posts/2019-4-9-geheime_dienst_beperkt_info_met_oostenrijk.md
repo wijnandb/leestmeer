@@ -2,7 +2,7 @@
 layout: post
 title: "Geheime dienst beperkt info met Oostenrijk"
 date: Tue, 09 Apr 2019 22:13:43 +0200
-category: algemeen
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/3420802/geheime-dienst-beperkt-info-met-oostenrijk"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3da3d4a0-5b04-11e9-ba01-0255c322e81b.jpg"
 ---

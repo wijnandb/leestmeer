@@ -5,6 +5,7 @@ date: Sun, 25 Nov 2018 09:53:00 GMT
 categories: 
 - noord-brabant 
 - asten 
+externe_link: "https://www.politie.nl/nieuws/2018/november/25/09-politie-vindt-vuurwapen-in-woning-na-ruzie.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/zijkant-politieauto-met-logo.jpg"
 ---
 

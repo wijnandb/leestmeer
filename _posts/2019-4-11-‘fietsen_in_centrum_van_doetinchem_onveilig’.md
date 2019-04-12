@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 05:31:57 GMT
 categories: 
 - gelderland 
 - doetinchem 
+externe_link: "https://www.ad.nl/doetinchem/fietsen-in-centrum-van-doetinchem-onveilig~af0a1b7f/"
 feature_image: "https://images4.persgroep.net/rcs/XuzdhtlQKA5Z1ZdR3-bVrLbOPw0/diocontent/102514251/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

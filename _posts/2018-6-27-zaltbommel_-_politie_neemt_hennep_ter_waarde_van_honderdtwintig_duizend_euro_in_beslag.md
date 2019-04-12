@@ -5,6 +5,7 @@ date: Wed, 27 Jun 2018 09:20:00 GMT
 categories: 
 - gelderland 
 - zaltbommel 
+externe_link: "https://www.politie.nl/nieuws/2018/juni/27/02-zaltbommel-politie-neemt-hennep-ter-waarde-van-honderdtwintig-duizend-euro-in-beslag.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/drugs/agent-heeft-hennepplant-in-handen.jpg"
 ---
 

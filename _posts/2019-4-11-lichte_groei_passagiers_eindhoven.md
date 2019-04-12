@@ -2,9 +2,8 @@
 layout: post
 title: "Lichte groei passagiers Eindhoven"
 date: Thu, 11 Apr 2019 13:46:53 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3430463/lichte-groei-passagiers-eindhoven"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/848441d8-5c4f-11e9-8459-02d1dbdc35d1.jpg"
 ---
 

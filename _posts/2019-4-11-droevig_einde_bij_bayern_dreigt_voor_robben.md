@@ -2,7 +2,9 @@
 layout: post
 title: "Droevig einde bij Bayern dreigt voor Robben"
 date: Thu, 11 Apr 2019 14:21:53 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3430942/droevig-einde-bij-bayern-dreigt-voor-robben"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bd1018ae-5c56-11e9-847b-0218eaf05005.jpg"
 ---

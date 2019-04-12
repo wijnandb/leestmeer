@@ -2,7 +2,9 @@
 layout: post
 title: "Lhbt-serie Anne Plus krijgt seizoen 2"
 date: Thu, 11 Apr 2019 22:41:33 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3433844/lhbt-serie-anne-plus-krijgt-seizoen-2"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3d1faddc-5c9a-11e9-b172-02d1dbdc35d1.jpg"
 ---

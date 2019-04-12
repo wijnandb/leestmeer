@@ -5,6 +5,7 @@ date: Thu, 21 Jun 2018 11:08:00 GMT
 categories: 
 - zuid-holland 
 - waddinxveen 
+externe_link: "https://www.politie.nl/nieuws/2018/juni/21/06-man-aangehouden-op-verdenking-van-poging-doodslag.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/detailopname-van-uniformen-motoragenten.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Nieuwe track SOS van Avicii uitgebracht"
 date: Wed, 10 Apr 2019 22:28:52 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3427452/nieuwe-track-sos-van-avicii-uitgebracht"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/48d151c4-5bcf-11e9-9a52-0218eaf05005.jpg"
 ---

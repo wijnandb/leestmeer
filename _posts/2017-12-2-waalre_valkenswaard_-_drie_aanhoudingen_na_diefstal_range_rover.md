@@ -5,6 +5,7 @@ date: Sat, 02 Dec 2017 13:04:00 GMT
 categories: 
 - noord-brabant 
 - valkenswaard 
+externe_link: "https://www.politie.nl/nieuws/2017/december/2/09-drie-aanhoudingen-na-diefstal-range-rover.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-op-straat.jpg"
 ---
 

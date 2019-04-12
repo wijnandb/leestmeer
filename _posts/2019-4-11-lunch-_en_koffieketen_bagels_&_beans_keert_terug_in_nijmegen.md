@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 10:15:00 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.ad.nl/nijmegen/lunch-en-koffieketen-bagels-en-beans-keert-terug-in-nijmegen~af2f35df/"
 feature_image: "https://images3.persgroep.net/rcs/VyDy3yBUWICqoV48Vipyus4ZPl4/diocontent/145296692/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

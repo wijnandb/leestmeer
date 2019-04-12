@@ -4,7 +4,6 @@ title: "We deden groot onderzoek naar ict op het mbo & wie zijn spekkoper dankzi
 date: Thu, 24 May 2018 17:27:56 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4125/nporadio1_nosop3techpodcast_20180524_we-deden-groot-onderzoek-naar-ict-op-het-mbo-wie-zijn-spekkoper-dankzij-de-nieuwe-privacywet.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4125/nporadio1_nosop3techpodcast_20180524_we-deden-groot-onderzoek-naar-ict-op-het-mbo-wie-zijn-spekkoper-dankzij-de-nieuwe-privacywet.mp3"
 ---
 
 Jaha, 25 mei is een belangrijke dag als je een bedrijf hebt, want vanaf die dag moet je je officieel houden aan de AvG, de Algemene verordening persoonsgegevens. Wordt de privacy van jou en mij, beter door beschermd. Da’s mooi. Maar wie zijn er spekkopers door deze wet? Juristen.  Maar... wat doen ze nou eigenlijk voor je?

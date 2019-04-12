@@ -5,6 +5,7 @@ date: Tue, 03 Jul 2018 10:46:00 GMT
 categories: 
 - zuid-holland 
 - giessenlanden 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/3/07-politie-onderzoekt-brand-arkel.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/brandweerauto.jpg"
 ---
 

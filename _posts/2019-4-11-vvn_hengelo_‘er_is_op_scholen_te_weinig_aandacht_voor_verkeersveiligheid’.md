@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 05:19:00 GMT
 categories: 
 - overijssel 
 - hengelo 
+externe_link: "https://www.ad.nl/hengelo/vvn-hengelo-er-is-op-scholen-te-weinig-aandacht-voor-verkeersveiligheid~a1e18c51/"
 feature_image: "https://images4.persgroep.net/rcs/EBzFlLR6PA2H940YaJcFp-YCo1o/diocontent/145259046/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

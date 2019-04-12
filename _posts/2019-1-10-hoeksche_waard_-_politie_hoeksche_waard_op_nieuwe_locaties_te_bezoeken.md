@@ -5,6 +5,7 @@ date: Thu, 10 Jan 2019 12:59:00 GMT
 categories: 
 - zuid-holland 
 - cromstrijen 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/10/07-politie-hoeksche-waard-op-nieuwe-locaties-te-bezoeken.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/wijkagent-praat-met-bewoners-op-straat.jpg"
 ---
 

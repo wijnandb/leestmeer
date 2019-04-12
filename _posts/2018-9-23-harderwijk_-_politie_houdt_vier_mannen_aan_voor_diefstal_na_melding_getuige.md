@@ -5,6 +5,7 @@ date: Sun, 23 Sep 2018 09:12:00 GMT
 categories: 
 - gelderland 
 - harderwijk 
+externe_link: "https://www.politie.nl/nieuws/2018/september/23/02-harderwijk-4-aanhoudingen-na-tip.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-3.jpg"
 ---
 

@@ -2,9 +2,7 @@
 layout: post
 title: "Waarom gebruikten hippies drugs om in opstand te komen?"
 date: Thu, 04 Apr 2019 19:30:07 GMT
-categories: 
-- overig 
-- wetenschap 
+category: wetenschap
 externe_link: "https://www.ad.nl/wetenschap/waarom-gebruikten-hippies-drugs-om-in-opstand-te-komen~a38e1fba/"
 feature_image: "https://images2.persgroep.net/rcs/VJTgNzgL7ufVM7EeTMjR9w6RvKs/diocontent/144826422/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

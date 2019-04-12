@@ -5,6 +5,7 @@ date: Thu, 25 Oct 2018 15:04:00 GMT
 categories: 
 - gelderland 
 - culemborg 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/22/02-man-aangehouden-na-aantreffen-stoffelijk-overschot.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/forensische-onderzoekers-op-een-plaats-delict.jpg"
 ---
 

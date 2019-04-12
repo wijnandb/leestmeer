@@ -5,6 +5,7 @@ date: Mon, 25 Sep 2017 05:56:00 GMT
 categories: 
 - noord-holland 
 - aalsmeer 
+externe_link: "https://www.politie.nl/nieuws/2017/september/25/05-controle-kudelstaart.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/september/05-am/radarcontrole.jpg"
 ---
 

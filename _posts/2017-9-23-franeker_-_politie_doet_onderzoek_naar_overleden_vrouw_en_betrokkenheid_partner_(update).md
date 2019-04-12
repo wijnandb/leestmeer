@@ -5,6 +5,7 @@ date: Sat, 23 Sep 2017 08:56:00 GMT
 categories: 
 - fryslan 
 - franekeradeel 
+externe_link: "https://www.politie.nl/nieuws/2017/september/12/01-politie-doet-onderzoek-naar-overleden-vrouw.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/detail-afzetlint.jpg"
 ---
 

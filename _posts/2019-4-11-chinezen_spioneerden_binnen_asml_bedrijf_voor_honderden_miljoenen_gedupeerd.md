@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 05:08:00 GMT
 categories: 
 - noord-brabant 
 - eindhoven 
+externe_link: "https://www.ad.nl/eindhoven/chinezen-spioneerden-binnen-asml-bedrijf-voor-honderden-miljoenen-gedupeerd~ac67d28e/"
 feature_image: "https://images1.persgroep.net/rcs/v9vTQxgch1aFlo0kUBWqIFZwLWg/diocontent/131077425/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

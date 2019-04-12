@@ -5,6 +5,7 @@ date: Tue, 24 Apr 2018 04:36:00 GMT
 categories: 
 - gelderland 
 - druten 
+externe_link: "https://www.politie.nl/nieuws/2018/april/24/polis-kimli%C4%9Fi-bilinmeyen-erkek-cesedinin-tan%C4%B1nmas%C4%B1-icin-yard%C4%B1m-istemektedir.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/april/02-on/vermist1.jpg"
 ---
 

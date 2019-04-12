@@ -2,7 +2,9 @@
 layout: post
 title: "Starter moet veel eigen geld meenemen voor eerste huis"
 date: Mon, 08 Apr 2019 12:20:43 +0200
-category: financieel
+categories: 
+- financieel 
+- geld 
 externe_link: "https://www.telegraaf.nl/financieel/3410773/starter-moet-veel-eigen-geld-meenemen-voor-eerste-huis"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ba016668-59ea-11e9-8851-02d2fb1aa1d7.jpg"
 ---

@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 09:28:52 GMT
 categories: 
 - noord-brabant 
 - waalwijk 
+externe_link: "https://www.ad.nl/waalwijk/frisse-start-van-koningsspelen-in-waspik~a28cd52c/"
 feature_image: "https://images0.persgroep.net/rcs/TfShyiuuANimiEnsmeGh90eZzCE/diocontent/145371507/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

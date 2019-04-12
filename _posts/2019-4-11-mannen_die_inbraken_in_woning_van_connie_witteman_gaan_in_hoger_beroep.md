@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 20:49:40 +0200
 categories: 
 - entertainment 
 - achterklap 
+externe_link: "https://www.nu.nl/achterklap/5839077/mannen-die-inbraken-in-woning-van-connie-witteman-gaan-in-hoger-beroep.html"
 feature_image: "https://media.nu.nl/m/s4xxwdyakqm4_sqr256.jpg/mannen-die-inbraken-in-woning-van-connie-witteman-gaan-in-hoger-beroep.jpg"
 ---
 

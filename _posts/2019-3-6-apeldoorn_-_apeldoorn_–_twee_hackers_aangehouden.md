@@ -5,6 +5,7 @@ date: Wed, 06 Mar 2019 07:46:00 GMT
 categories: 
 - gelderland 
 - apeldoorn 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/6/02-apeldoorn-%E2%80%93-twee-hackers-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/cybercrime/cybercrime.jpg"
 ---
 

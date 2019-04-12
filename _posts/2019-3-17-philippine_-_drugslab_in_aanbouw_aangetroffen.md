@@ -5,6 +5,7 @@ date: Sun, 17 Mar 2019 12:45:00 GMT
 categories: 
 - zeeland 
 - terneuzen 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/17/08-drugslab-in-aanbouw-aangetroffen-in-philippine.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/08-zw/2019-03-16-drugslab-in-aanbouw.01.jpg"
 ---
 

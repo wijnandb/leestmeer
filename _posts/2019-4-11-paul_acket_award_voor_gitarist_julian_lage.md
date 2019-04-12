@@ -2,7 +2,9 @@
 layout: post
 title: "Paul Acket Award voor gitarist Julian Lage"
 date: Thu, 11 Apr 2019 23:33:57 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3434004/paul-acket-award-voor-gitarist-julian-lage"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8fee6f38-5ca1-11e9-bdb3-0218eaf05005.jpg"
 ---

@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 07:45:33 GMT
 categories: 
 - entertainment 
 - eten 
+externe_link: "https://www.ad.nl/koken-en-eten/wat-eten-we-vandaag-enchilada-s-met-zoete-aardappel~abb60729/"
 feature_image: "https://images0.persgroep.net/rcs/EPTpG2CWTYHL2WEOlJN3hvH7xAs/diocontent/145293186/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

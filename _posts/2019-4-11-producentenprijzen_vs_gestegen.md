@@ -2,9 +2,8 @@
 layout: post
 title: "Producentenprijzen VS gestegen"
 date: Thu, 11 Apr 2019 14:49:44 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3431123/producentenprijzen-vs-gestegen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7e18efac-5c58-11e9-bdb3-0218eaf05005.jpg"
 ---
 

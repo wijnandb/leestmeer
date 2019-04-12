@@ -2,7 +2,9 @@
 layout: post
 title: "Zo maakten Wilco en Erica van tienduizenden liters merkloos bier ‘echte’ Heineken"
 date: Thu, 11 Apr 2019 09:00:34 GMT
-category: binnenland
+categories: 
+- entertainment 
+- eten 
 externe_link: "https://www.ad.nl/koken-en-eten/zo-maakten-wilco-en-erica-van-tienduizenden-liters-merkloos-bier-echte-heineken~aba7b48d/"
 feature_image: "https://images4.persgroep.net/rcs/31DcK4RJO_ULiRD7RSk6m07mMZk/diocontent/108017914/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

@@ -2,9 +2,8 @@
 layout: post
 title: "Groen licht EU voor handelsgesprekken met VS"
 date: Thu, 11 Apr 2019 17:56:31 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3432802/groen-licht-eu-voor-handelsgesprekken-met-vs"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/60103e2e-5c72-11e9-92e5-02d2fb1aa1d7.jpg"
 ---
 

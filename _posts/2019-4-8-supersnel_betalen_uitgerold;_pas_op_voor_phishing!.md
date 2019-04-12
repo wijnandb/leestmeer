@@ -2,7 +2,9 @@
 layout: post
 title: "Supersnel betalen uitgerold; pas op voor phishing!"
 date: Mon, 08 Apr 2019 15:52:21 +0200
-category: financieel
+categories: 
+- financieel 
+- geld 
 externe_link: "https://www.telegraaf.nl/financieel/3412414/supersnel-betalen-uitgerold-pas-op-voor-phishing"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/198b5afe-5a12-11e9-9187-0217670beecd.jpg"
 ---

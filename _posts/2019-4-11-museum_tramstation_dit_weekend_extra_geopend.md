@@ -4,7 +4,8 @@ title: "Museum Tramstation dit weekend extra geopend"
 date: Thu, 11 Apr 2019 11:03:11 GMT
 categories: 
 - zuid-holland 
-- delft 
+- westland 
+externe_link: "https://www.ad.nl/delft/museum-tramstation-dit-weekend-extra-geopend~a3989f03/"
 feature_image: "https://images2.persgroep.net/rcs/APIbTXwe7d8RTOHBJdVAtQJnB-Q/diocontent/145229272/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

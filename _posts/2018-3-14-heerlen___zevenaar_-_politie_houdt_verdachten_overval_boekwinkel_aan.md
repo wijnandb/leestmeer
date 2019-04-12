@@ -5,6 +5,7 @@ date: Wed, 14 Mar 2018 10:17:00 GMT
 categories: 
 - noord-brabant 
 - valkenswaard 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/14/10-politie-houdt-verdachten-overval-boekwinkel-aan.html"
 ---
 
 De politie heeft zondagavond in Valkenswaard twee verdachten aangehouden.

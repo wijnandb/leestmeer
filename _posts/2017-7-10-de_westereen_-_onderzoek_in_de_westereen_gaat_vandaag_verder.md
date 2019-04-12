@@ -5,6 +5,7 @@ date: Mon, 10 Jul 2017 09:16:00 GMT
 categories: 
 - fryslan 
 - dantumadiel 
+externe_link: "https://www.politie.nl/nieuws/2017/juli/10/01-onderzoek-in-de-westereen-gaat-vandaag.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/detail-afzetlint.jpg"
 ---
 

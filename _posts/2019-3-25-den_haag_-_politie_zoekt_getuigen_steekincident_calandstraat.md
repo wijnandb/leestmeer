@@ -5,6 +5,7 @@ date: Mon, 25 Mar 2019 10:42:00 GMT
 categories: 
 - zuid-holland 
 - den_haag 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/25/06-den-haag-politie-zoekt-getuigen-steekincident-calandsraat.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

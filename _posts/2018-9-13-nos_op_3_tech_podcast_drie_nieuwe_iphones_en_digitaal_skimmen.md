@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Drie nieuwe iPhones en digitaal skimmen"
 date: Thu, 13 Sep 2018 17:07:56 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4109/nporadio1_nosop3techpodcast_20180913_nos-op-3-tech-podcast-drie-nieuwe-iphones-en-digitaal-skimmen.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4109/nporadio1_nosop3techpodcast_20180913_nos-op-3-tech-podcast-drie-nieuwe-iphones-en-digitaal-skimmen.mp3"
 ---
 
 0:00 Apple presenteerde gisteren drie nieuwe iPhones en een nieuwe versie van de Apple Watch. In de podcast een uitgebreide nabeschouwing op de presentatie.

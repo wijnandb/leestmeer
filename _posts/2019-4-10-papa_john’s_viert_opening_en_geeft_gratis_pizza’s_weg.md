@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 15:02:20 GMT
 categories: 
 - zuid-holland 
 - zoetermeer 
+externe_link: "https://www.ad.nl/zoetermeer/papa-john-s-viert-opening-en-geeft-gratis-pizza-s-weg~a8eda19c/"
 feature_image: "https://images1.persgroep.net/rcs/GZllOK_rrsKojV4gQzHxDdEQ0w4/diocontent/128086095/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

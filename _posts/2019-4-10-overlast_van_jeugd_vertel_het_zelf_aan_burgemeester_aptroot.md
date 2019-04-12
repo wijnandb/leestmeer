@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 09:02:00 GMT
 categories: 
 - zuid-holland 
 - zoetermeer 
+externe_link: "https://www.ad.nl/zoetermeer/overlast-van-jeugd-vertel-het-zelf-aan-burgemeester-aptroot~a4167090/"
 feature_image: "https://images1.persgroep.net/rcs/kPZ_3Qjju4xefUCVsCCRprElcpY/diocontent/140970117/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

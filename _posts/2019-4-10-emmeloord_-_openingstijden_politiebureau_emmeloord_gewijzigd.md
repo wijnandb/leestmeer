@@ -2,9 +2,8 @@
 layout: post
 title: "Emmeloord - Openingstijden politiebureau Emmeloord gewijzigd"
 date: Wed, 10 Apr 2019 08:49:00 GMT
-categories: 
-- flevoland 
-- noordoostpolder 
+category: flevoland
+externe_link: "https://www.politie.nl/nieuws/2019/april/10/03-openingstijden-politiebureau-emmeloord-gewijzigd.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/mijn-buurt/bureaus/03/fl-emmeloord-img_1060.jpg"
 ---
 

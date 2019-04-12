@@ -5,6 +5,7 @@ date: Thu, 28 Dec 2017 15:04:00 GMT
 categories: 
 - noord-brabant 
 - valkenswaard 
+externe_link: "https://www.politie.nl/nieuws/2017/december/28/09-verdachten-van-fraude-gearresteerd.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stock-afbeeldingen/algemeen/handboeien.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Monique Westenberg al dagen van streek"
 date: Tue, 09 Apr 2019 21:21:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3419731/monique-westenberg-al-dagen-van-streek"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/349a7f1e-5afd-11e9-92e5-02d2fb1aa1d7.jpg"
 ---

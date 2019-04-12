@@ -5,6 +5,7 @@ date: Tue, 29 May 2018 15:06:00 GMT
 categories: 
 - noord-holland 
 - laren 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/29/aangepaste-openingstijden-laren.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/mijn-buurt/bureaus/03/gv-laren-img_1044.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Tue, 26 Feb 2019 10:02:00 GMT
 categories: 
 - gelderland 
 - arnhem 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/gld/inbraak-in-appartement-flat.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/02-on/2018138962-1a.jpg"
 ---
 

@@ -3,8 +3,8 @@ layout: post
 title: "Draaiboek Amersfoort is allang bekend"
 date: Sun, 31 Mar 2019 23:07:00 +0200
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3373975/draaiboek-amersfoort-is-allang-bekend"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7ec1cb08-5439-11e9-8851-02d2fb1aa1d7.jpg"
 ---

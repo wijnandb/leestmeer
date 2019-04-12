@@ -5,6 +5,7 @@ date: Wed, 12 Oct 2016 10:08:00 GMT
 categories: 
 - zuid-holland 
 - oegstgeest 
+externe_link: "https://www.politie.nl/nieuws/2016/oktober/12/06-noordwijk-vijf-aanhoudingen-in-onderzoek-schietincident.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/jas-met-opdruk-technische-recherche.jpg"
 ---
 

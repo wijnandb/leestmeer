@@ -2,9 +2,8 @@
 layout: post
 title: "Aantal faillissementen gestegen"
 date: Fri, 12 Apr 2019 06:48:41 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3434289/aantal-faillissementen-gestegen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/97a5a9ac-5cde-11e9-b673-0255c322e81b.jpg"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Voorjaarskermis Helmond trekt ruim 100.000 bezoekers"
-date: Tue, 09 Apr 2019 15:03:13 GMT
+date: Tue, 09 Apr 2019 15:03:00 GMT
 categories: 
 - noord-brabant 
 - helmond 

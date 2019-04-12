@@ -2,9 +2,8 @@
 layout: post
 title: "Zaltbommel - Ouder echtpaar slachtoffer van laffe babbeltruc"
 date: Thu, 11 Apr 2019 11:44:00 GMT
-categories: 
-- gelderland 
-- zaltbommel 
+category: nieuws
+externe_link: "https://www.politie.nl/nieuws/2019/april/11/02-zaltbommel-ouder-echtpaar-slachtoffer-van-laffe-babbeltruc.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/nw-operationeel-uniform-3.jpg"
 ---
 

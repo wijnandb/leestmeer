@@ -2,7 +2,9 @@
 layout: post
 title: "Pelé na terugkeer weer in ziekenhuis"
 date: Tue, 09 Apr 2019 21:07:17 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3420549/pele-na-terugkeer-weer-in-ziekenhuis"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/82237d78-5afb-11e9-a27a-02d1dbdc35d1.jpg"
 ---

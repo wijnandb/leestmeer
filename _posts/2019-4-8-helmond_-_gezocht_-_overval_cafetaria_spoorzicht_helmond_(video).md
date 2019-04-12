@@ -2,9 +2,8 @@
 layout: post
 title: "Helmond - Gezocht - Overval cafetaria Spoorzicht Helmond (VIDEO)"
 date: Mon, 08 Apr 2019 09:21:00 GMT
-categories: 
-- noord-brabant 
-- helmond 
+category: noord-brabant
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/09-overval-cafetaria-spoorzicht-helmond.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/april/09-ob/bb_190408/helmond-02.jpg"
 ---
 

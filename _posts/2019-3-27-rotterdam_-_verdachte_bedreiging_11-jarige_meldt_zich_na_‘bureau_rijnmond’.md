@@ -5,6 +5,7 @@ date: Wed, 27 Mar 2019 12:37:00 GMT
 categories: 
 - zuid-holland 
 - rotterdam 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/27/07-verdachte-bedreiging-11-jarige-meldt-zich-na-%E2%80%98bureau-rijnmond%E2%80%99.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/man-wordt-geboeid-afgevoerd.jpg"
 ---
 

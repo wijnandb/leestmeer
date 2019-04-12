@@ -3,8 +3,9 @@ layout: post
 title: "Rozenburg - Jonge Rozenburgers aangehouden voor gewelddadige berovingen"
 date: Tue, 12 Mar 2019 10:51:00 GMT
 categories: 
-- noord-holland 
-- haarlemmermeer 
+- zuid-holland 
+- spijkenisse 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/12/07-jonge-rozenburgers-aangehouden-voor-gewelddadige-berovingen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/07-rt/dating.jpg"
 ---
 

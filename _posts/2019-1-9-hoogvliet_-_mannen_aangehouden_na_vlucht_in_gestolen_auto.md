@@ -5,6 +5,7 @@ date: Wed, 09 Jan 2019 10:17:00 GMT
 categories: 
 - zuid-holland 
 - albrandswaard 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/9/07-mannen-aangehouden-na-vlucht-in-gestolen-auto.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-3.jpg"
 ---
 

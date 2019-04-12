@@ -4,7 +4,8 @@ title: "Ricciardo eert illustere landgenoot met helm"
 date: Fri, 12 Apr 2019 08:24:32 +0200
 categories: 
 - sport 
-- autosport 
+- scoreboard 
+externe_link: "https://www.telegraaf.nl/sport/3434552/ricciardo-eert-illustere-landgenoot-met-helm"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b3c691ee-5cef-11e9-b689-0217670beecd.jpg"
 ---
 

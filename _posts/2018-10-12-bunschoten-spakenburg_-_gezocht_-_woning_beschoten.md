@@ -5,6 +5,7 @@ date: Fri, 12 Oct 2018 09:03:00 GMT
 categories: 
 - utrecht 
 - bunschoten 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/oktober/03-bunschoten-10-beschieting.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/oktober/03-mn/1768865_1024.jpg"
 ---
 

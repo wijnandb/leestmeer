@@ -2,7 +2,7 @@
 layout: post
 title: "Ontsnapte illegalen zoek"
 date: Thu, 11 Apr 2019 18:01:00 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3428770/ontsnapte-illegalen-zoek"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0a6414c2-5c73-11e9-950a-02c309bc01c1.jpg"
 ---

@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 09:17:00 GMT
 categories: 
 - noord-brabant 
 - tilburg 
+externe_link: "https://www.ad.nl/tilburg/gewonde-bij-gewelddadige-straatroof-in-tilburg-twee-belgen-en-hagenees-opgepakt~ad32484b/"
 feature_image: "https://images1.persgroep.net/rcs/qTSsj0Z4zpvXMsiF_GREpHmaJgs/diocontent/145017684/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

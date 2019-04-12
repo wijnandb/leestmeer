@@ -2,9 +2,8 @@
 layout: post
 title: "Amsterdam Zuidoost - Aanhoudingen na bedreiging met vuurwapen"
 date: Thu, 11 Apr 2019 09:13:00 GMT
-categories: 
-- flevoland 
-- almere 
+category: noord-holland
+externe_link: "https://www.politie.nl/nieuws/2019/april/11/05-aanhoudingen-na-bedreiging-met-vuurwapen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/mijn-buurt/wijkprojecten/01--noord-nederland/politieauto-1.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 03:00:45 GMT
 categories: 
 - entertainment 
 - auto 
+externe_link: "https://www.ad.nl/auto/speciaal-voor-autopatsers-een-contactsleutel-van-500-000-euro~af7a73ea/"
 feature_image: "https://images0.persgroep.net/rcs/-IvljSOQB6qQCkILAO9REZ5nOz0/diocontent/145326077/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

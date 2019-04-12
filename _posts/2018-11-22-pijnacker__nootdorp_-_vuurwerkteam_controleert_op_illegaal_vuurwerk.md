@@ -5,6 +5,7 @@ date: Thu, 22 Nov 2018 12:00:00 GMT
 categories: 
 - zuid-holland 
 - pijnacker-nootdorp 
+externe_link: "https://www.politie.nl/nieuws/2018/november/22/06-vuurwerkteam-controleert-op-illegaal-vuurwerk.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/december/00-km/10-vuurwerk-goud-oker.jpg"
 ---
 

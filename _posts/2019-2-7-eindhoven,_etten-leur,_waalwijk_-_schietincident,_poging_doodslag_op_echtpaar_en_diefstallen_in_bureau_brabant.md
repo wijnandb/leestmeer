@@ -5,6 +5,7 @@ date: Thu, 07 Feb 2019 11:15:00 GMT
 categories: 
 - noord-brabant 
 - waalwijk 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/6/08-schietincident-poging-doodslag-op-echtpaar-en-diefstallen-in-bureau-brabant.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/februari/08-zw/bb-waallwijk-1.jpg"
 ---
 

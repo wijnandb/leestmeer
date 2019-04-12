@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 06:29:52 GMT
 categories: 
 - utrecht 
 - woerden 
+externe_link: "https://www.ad.nl/woerden/leerlingen-veenlanden-college-in-mijdrecht-bivakkeren-op-schoolplein~a956ef80/"
 feature_image: "https://images4.persgroep.net/rcs/eRXlu-zEz1yxffY72PN4YtPhFDQ/diocontent/145361617/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

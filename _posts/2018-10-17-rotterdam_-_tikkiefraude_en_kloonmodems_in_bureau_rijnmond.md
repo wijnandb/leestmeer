@@ -5,6 +5,7 @@ date: Wed, 17 Oct 2018 14:06:00 GMT
 categories: 
 - zuid-holland 
 - oud-beijerland 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/17/07-tikkiefraude-en-kloonmodems-in-bureau-rijnmond.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2015/juni/07-rt/logo-bureau-rijnmond_dinblack.jpg"
 ---
 

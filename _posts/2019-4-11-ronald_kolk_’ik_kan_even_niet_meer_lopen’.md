@@ -2,9 +2,8 @@
 layout: post
 title: "RONALD KOLK: ’Ik kan even niet meer lopen’"
 date: Thu, 11 Apr 2019 05:30:00 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3427652/ronald-kolk-ik-kan-even-niet-meer-lopen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8299d4c8-5bd7-11e9-8854-0217670beecd.png"
 ---
 

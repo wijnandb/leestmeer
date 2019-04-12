@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 15:19:00 GMT
 categories: 
 - overijssel 
 - deventer 
+externe_link: "https://www.ad.nl/deventer/deventer-schouwburg-viert-150-jarig-bestaan-met-stadsmusical-meisje-van-de-waag~af5de605/"
 feature_image: "https://images1.persgroep.net/rcs/21TmnQgWEGJyhz0moyazH0c1UcM/diocontent/145320159/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

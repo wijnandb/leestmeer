@@ -2,9 +2,8 @@
 layout: post
 title: "Apple ontkent benadeling ontwikkelaars"
 date: Thu, 11 Apr 2019 16:55:31 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3432417/apple-ontkent-benadeling-ontwikkelaars"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/da1d3838-5c69-11e9-ba01-0255c322e81b.jpg"
 ---
 

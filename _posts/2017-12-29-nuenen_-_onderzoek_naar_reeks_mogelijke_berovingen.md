@@ -5,6 +5,7 @@ date: Fri, 29 Dec 2017 11:13:00 GMT
 categories: 
 - noord-brabant 
 - nuenen,_gerwen_en_nederwetten 
+externe_link: "https://www.politie.nl/nieuws/2017/december/29/09-onderzoek-naar-reeks-mogelijke-berovingen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/oktober/03-mn/straatrooftelefoon.jpg"
 ---
 

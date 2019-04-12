@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 16:03:00 GMT
 categories: 
 - gelderland 
 - rivierenland 
+externe_link: "https://www.ad.nl/rivierenland/windmolens-draaien-al-maar-raad-moet-nog-instemmen-met-turbines-op-boerenerf~a434c48f/"
 feature_image: "https://images4.persgroep.net/rcs/csECt6CZwqS8V0ICXbWx_Y7Gbvc/diocontent/145309300/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

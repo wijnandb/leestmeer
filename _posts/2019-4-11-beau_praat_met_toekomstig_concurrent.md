@@ -2,9 +2,8 @@
 layout: post
 title: "Beau praat met toekomstig concurrent"
 date: Thu, 11 Apr 2019 13:39:30 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3430403/beau-praat-met-toekomstig-concurrent"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/939aafbe-5c4e-11e9-8fb5-02c309bc01c1.jpg"
 ---
 

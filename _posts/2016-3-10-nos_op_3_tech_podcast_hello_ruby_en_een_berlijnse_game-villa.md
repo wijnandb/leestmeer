@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Hello Ruby en een Berlijnse game-villa"
 date: Thu, 10 Mar 2016 16:08:09 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4236/nporadio1_nosop3techpodcast_20160310_nos-op-3-tech-podcast-hello-ruby-en-een-berlijnse-game-villa.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4236/nporadio1_nosop3techpodcast_20160310_nos-op-3-tech-podcast-hello-ruby-en-een-berlijnse-game-villa.mp3"
 ---
 
 Een speciale gast uit Finland in de podcast deze keer: Linda Liukas, oprichter van Rails Girls en maker van het kinderboek Hello Ruby. Dat boek vertelt een sprookje over programmeren voor jongens en meisjes vanaf 5 jaar.

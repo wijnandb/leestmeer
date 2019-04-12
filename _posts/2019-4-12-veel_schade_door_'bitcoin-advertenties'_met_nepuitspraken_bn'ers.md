@@ -2,7 +2,7 @@
 layout: post
 title: "Veel schade door 'bitcoin-advertenties' met nepuitspraken BN'ers"
 date: Fri, 12 Apr 2019 06:00:16 +0200
-category: nieuws
+category: tech
 externe_link: "https://nos.nl/l/2280062"
 feature_image: "https://nos.nl/data/image/2019/04/12/543033/1008x567.jpg"
 ---
@@ -17,3 +17,5 @@ feature_image: "https://nos.nl/data/image/2019/04/12/543033/1008x567.jpg"
 <h2>Waylon en Alexander Klöpping</h2>
 <p>De zwendelsites worden aangeprezen met valse citaten van BN'ers. Met clickbait-achtige koppen worden mensen ertoe verleid om op artikelen te klikken, zoals de 'meest recente investering van Alexander Klöpping' die de 'grote banken doodsbang maakt'. Ook de identiteit van John de Mol, Waylon en Humberto Tan wordt gebruikt voor de nepadvertenties.</p>
 <p>De politie kan niet zeggen hoe vaak het probleem voorkomt, omdat deze vorm van fraude niet apart wordt geregistreerd. Volgens de politie is het lastig om de daders op te sporen. Dat beaamt Vermeulen van de Fraudehelpdesk. "Het zijn slimme jongens die ongrijpbaar zijn."</p>
+<p>Gisteren werden de bitcoin-advertenties al besproken in de NOS op 3 Tech Podcast. Hierin vertelt techredacteur Joost Schellevis onder andere hoe je kunt voorkomen dat je slachtoffer wordt.</p>
+<p>Luister hier naar de podcast. Het gesprek over de advertentie begint op 14 minuten:</p>

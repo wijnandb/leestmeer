@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 05:02:14 GMT
 categories: 
 - zuid-holland 
 - delft 
+externe_link: "https://www.ad.nl/delft/proces-fusie-stadspartij-moet-heel-zorgvuldig-gedaan-worden~ac1812bc/"
 feature_image: "https://images4.persgroep.net/rcs/lRacJvx1ZYlmsT4qmwjADmrC2bI/diocontent/145301670/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

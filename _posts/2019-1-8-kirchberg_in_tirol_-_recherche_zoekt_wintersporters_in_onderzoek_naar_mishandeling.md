@@ -3,8 +3,9 @@ layout: post
 title: "Kirchberg in Tirol - Recherche zoekt wintersporters in onderzoek naar mishandeling"
 date: Tue, 08 Jan 2019 09:39:00 GMT
 categories: 
-- noord-brabant 
-- bernheze 
+- overijssel 
+- oldenzaal 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/8/09-recherche-zoekt-wintersporters-in-onderzoek-naar-mishandeling.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/januari/09-ob/tirol1.jpg"
 ---
 

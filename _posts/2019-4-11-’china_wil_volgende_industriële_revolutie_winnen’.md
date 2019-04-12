@@ -2,9 +2,8 @@
 layout: post
 title: "’China wil volgende industriële revolutie winnen’"
 date: Thu, 11 Apr 2019 13:57:36 +0200
-categories: 
-- financieel 
-- koersen 
+category: binnenland
+externe_link: "https://www.telegraaf.nl/financieel/3430549/china-wil-volgende-industriele-revolutie-winnen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/42299a04-5c59-11e9-bda1-02d2fb1aa1d7.jpg"
 ---
 

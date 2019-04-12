@@ -2,7 +2,9 @@
 layout: post
 title: "’McGregor vocht met gebroken voet’"
 date: Thu, 11 Apr 2019 11:24:13 +0200
-category: sport
+categories: 
+- sport 
+- scoreboard 
 externe_link: "https://www.telegraaf.nl/sport/3429373/mc-gregor-vocht-met-gebroken-voet"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/91d5dd10-5c3b-11e9-a2cf-02d1dbdc35d1.jpg"
 ---

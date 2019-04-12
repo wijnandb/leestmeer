@@ -5,6 +5,7 @@ date: Wed, 20 Jul 2016 10:23:00 GMT
 categories: 
 - noord-holland 
 - naarden 
+externe_link: "https://www.politie.nl/nieuws/2016/juli/20/03-verdachte-aangehouden-voor-brandstichting-geweldpleging-en-heling.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-door-agenten-op-straat.jpg"
 ---
 

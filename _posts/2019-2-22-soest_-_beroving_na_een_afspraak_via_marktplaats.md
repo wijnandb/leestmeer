@@ -5,6 +5,7 @@ date: Fri, 22 Feb 2019 13:33:00 GMT
 categories: 
 - utrecht 
 - soest 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/22/beroving-na-een-afspraak-via-marktplaats.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/mouw-nieuwe-uniform-politie.jpg"
 ---
 

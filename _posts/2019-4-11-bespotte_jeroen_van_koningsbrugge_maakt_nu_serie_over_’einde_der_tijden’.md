@@ -2,7 +2,9 @@
 layout: post
 title: "Bespotte Jeroen van Koningsbrugge maakt nu serie over ’einde der tijden’"
 date: Thu, 11 Apr 2019 17:56:28 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3432799/bespotte-jeroen-van-koningsbrugge-maakt-nu-serie-over-einde-der-tijden"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/24b367d0-5c80-11e9-b4ef-0217670beecd.jpg"
 ---

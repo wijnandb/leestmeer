@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 07:10:00 GMT
 categories: 
 - overijssel 
 - oldenzaal 
+externe_link: "https://www.ad.nl/oldenzaal/krimp-in-noordoost-twente-bedreiging-maar-zeker-ook-kansen~a8a90fda/"
 feature_image: "https://images3.persgroep.net/rcs/rs5V9zamyJR10I07_3J_-ObMT6Q/diocontent/145363598/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

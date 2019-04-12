@@ -5,6 +5,7 @@ date: Sat, 02 Jun 2018 11:15:00 GMT
 categories: 
 - noord-brabant 
 - waalre 
+externe_link: "https://www.politie.nl/nieuws/2018/juni/2/09-5-aanhoudingen-in-onderzoek-jeugdgroep-waalre.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/man-wordt-geboeid-afgevoerd.jpg"
 ---
 

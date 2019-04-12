@@ -2,7 +2,9 @@
 layout: post
 title: "Ajax keurt verdediger Kik Pierie"
 date: Thu, 11 Apr 2019 20:52:21 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3433463/ajax-keurt-verdediger-kik-pierie"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/43f84a4c-5c8b-11e9-9635-02c309bc01c1.jpg"
 ---

@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Instagram lanceert IGTV en een nieuw hoofdstuk in
 date: Thu, 21 Jun 2018 16:29:45 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4121/nporadio1_nosop3techpodcast_20180621_nos-op-3-tech-podcast-instagram-lanceert-igtv-en-een-nieuw-hoofdstuk-in-de-lootboxes-soap.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4121/nporadio1_nosop3techpodcast_20180621_nos-op-3-tech-podcast-instagram-lanceert-igtv-en-een-nieuw-hoofdstuk-in-de-lootboxes-soap.mp3"
 ---
 
 0:00: Instagram heeft z'n eigen videoplatform IGTV gelanceerd en gaat hiermee de concurrentie aan met Youtube.

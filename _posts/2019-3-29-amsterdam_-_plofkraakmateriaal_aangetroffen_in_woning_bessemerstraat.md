@@ -5,6 +5,7 @@ date: Fri, 29 Mar 2019 13:21:00 GMT
 categories: 
 - noord-holland 
 - amsterdam 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/29/05-plofkraakmateriaal-aangetroffen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/maart/05-am/cobra6.jpg"
 ---
 

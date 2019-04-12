@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Hoe betrouwbaar is gezichtsherkenning op je telef
 date: Thu, 03 Jan 2019 17:46:55 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4093/nporadio1_nosop3techpodcast_20190103_nos-op-3-tech-podcast-hoe-betrouwbaar-is-gezichtsherkenning-op-je-telefoon.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4093/nporadio1_nosop3techpodcast_20190103_nos-op-3-tech-podcast-hoe-betrouwbaar-is-gezichtsherkenning-op-je-telefoon.mp3"
 ---
 
 0:00 De Consumentenbond testte de gezichtsherkenning van meer dan 100 telefoons, en ruim een derde bleek je te kunnen foppen met een pasfoto. Hoe werkt gezichtsherkenning eigenlijk en hoe veilig is het? Dat vragen we aan professor Raymond Veldhuis van de Universiteit Twente.

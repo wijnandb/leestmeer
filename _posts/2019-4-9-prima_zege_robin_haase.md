@@ -2,7 +2,9 @@
 layout: post
 title: "Prima zege Robin Haase"
 date: Tue, 09 Apr 2019 16:42:30 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/3419051/prima-zege-robin-haase"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b42a697e-5ad5-11e9-af69-0255c322e81b.JPG"
 ---

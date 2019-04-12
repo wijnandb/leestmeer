@@ -4,7 +4,8 @@ title: "Ruurlo, Lichtenvoorde, Doetinchem, Raalte, Oldenzaal - Gezocht - Reeks i
 date: Tue, 19 Mar 2019 11:14:00 GMT
 categories: 
 - overijssel 
-- oldenzaal 
+- raalte 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/januari/02-oon/gld/reeks-inbraken-personenautos.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/januari/02-on/2018514332-1.jpg"
 ---
 

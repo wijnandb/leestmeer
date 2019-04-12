@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 04:03:00 GMT
 categories: 
 - zuid-holland 
 - dordrecht 
+externe_link: "https://www.ad.nl/dordrecht/mooie-plannen-voor-parkeerterrein-walburg-zorgen-voor-verwarring-in-de-gemeenteraad~ab1b664d/"
 feature_image: "https://images1.persgroep.net/rcs/inXkGA6JvKM-Htq1K3acPwjltPI/diocontent/145206479/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Disney+ werkt aan tv-serie van Love, Simon"
 date: Thu, 11 Apr 2019 23:31:15 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3433996/disney-werkt-aan-tv-serie-van-love-simon"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/342b82bc-5ca1-11e9-8c76-02d1dbdc35d1.jpg"
 ---

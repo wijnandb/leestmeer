@@ -5,6 +5,7 @@ date: Wed, 13 Dec 2017 14:17:00 GMT
 categories: 
 - overijssel 
 - dalfsen 
+externe_link: "https://www.politie.nl/nieuws/2017/december/13/02-nieuwleusen-politie-doet-onderzoek-naar-gewapende-overval-juwelier.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/afzetlint-gebruikt-bij-een-afzetting-van-een-pd.jpg"
 ---
 

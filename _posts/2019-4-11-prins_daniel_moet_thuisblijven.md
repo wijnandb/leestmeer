@@ -2,9 +2,8 @@
 layout: post
 title: "Prins Daniel moet thuisblijven"
 date: Thu, 11 Apr 2019 14:19:47 +0200
-categories: 
-- entertainment 
-- royalty 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3430828/prins-daniel-moet-thuisblijven"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1a3626d4-5c54-11e9-9af6-0217670beecd.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 04:45:47 GMT
 categories: 
 - overijssel 
 - enschede 
+externe_link: "https://www.ad.nl/enschede/enschede-ademt-meerdere-dagen-de-marathon~a719f751/"
 feature_image: "https://images1.persgroep.net/rcs/74CoeHsrK8PfY4z5Jr9wPGDXivA/diocontent/145119412/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

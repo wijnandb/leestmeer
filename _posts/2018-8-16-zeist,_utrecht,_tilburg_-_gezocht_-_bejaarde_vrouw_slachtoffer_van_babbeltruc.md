@@ -5,6 +5,7 @@ date: Thu, 16 Aug 2018 06:51:00 GMT
 categories: 
 - utrecht 
 - zeist 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/augustus/03-zeist-15-babbeltruc.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/augustus/03-mn/zeist-15-babbeltruc.jpg"
 ---
 

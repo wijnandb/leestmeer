@@ -5,6 +5,7 @@ date: Thu, 08 Mar 2018 08:26:00 GMT
 categories: 
 - noord-brabant 
 - alphen-chaam 
+externe_link: "https://www.politie.nl/nieuws/2018/maart/8/08-hennep-en-synthetische-drugs-gevonden-tijdens-actiedag.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/drugs/drugslab.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 05:48:00 GMT
 categories: 
 - sport 
 - autosport 
+externe_link: "https://www.ad.nl/formule-1/bottas-en-vettel-nipt-sneller-dan-verstappen-problemen-voor-leclerc~ac38b5b3e/"
 feature_image: "https://images3.persgroep.net/rcs/_uoiwZcbaflbeQUaHHatKdERd5M/diocontent/145360451/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

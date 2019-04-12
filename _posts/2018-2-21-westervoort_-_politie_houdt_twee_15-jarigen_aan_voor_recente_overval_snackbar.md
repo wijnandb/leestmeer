@@ -5,6 +5,7 @@ date: Wed, 21 Feb 2018 12:20:00 GMT
 categories: 
 - gelderland 
 - westervoort 
+externe_link: "https://www.politie.nl/nieuws/2018/februari/21/02-westervoort-aanhoudingen-voor-overval.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

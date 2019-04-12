@@ -2,8 +2,10 @@
 layout: post
 title: "Schaatsers stappen gretig en nieuwsgierig in Icederby-avontuur"
 date: Wed, 10 Apr 2019 16:43:20 +0200
-category: sport
-externe_link: "https://nos.nl/l/2279862"
+categories: 
+- sport 
+- schaatsen 
+externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/DraAJooUY9w/2279862"
 feature_image: "https://nos.nl/data/image/2019/04/10/542698/1008x567.jpg"
 ---
 
@@ -20,4 +22,4 @@ feature_image: "https://nos.nl/data/image/2019/04/10/542698/1008x567.jpg"
 <p>Zowel bij de mannen als de vrouwen is volgend jaar 1 miljoen euro te verdelen. "Dat is heel erg lekker", geeft Schulting toe. "Vooral bij een sport als shorttrack zijn we met elk beetje prijzengeld hartstikke blij."</p>
 <p>Toch is geld niet allesbepalend volgens de shorttrackster. "Je moet je hart blijven volgen. Het is leuk dat er in de Icederby heel veel geld te verdienen valt, maar als je er geen plezier in hebt, hou je het ook niet lang vol."</p>
 <h2>Stap voor stap uitbouwen</h2>
-<p>Derby Holdings hoopt de Icederby internationaal stap voor stap uit te bouwen. De investeringsmaatschappij is van plan de Icederby ook naar het Zuid-Koreaanse Gangneung te brengen, de stad waar in 2018 het olympisch schaatstoernooi werd gehouden.</p>
+<p>Derby Holdings hoopt de Icederby internationaal stap voor stap uit te bouwen. De investeringsmaatschappij is van plan de Icederby ook naar het Zuid-Koreaanse Gangneung te brengen, de stad waar in 2018 het olympisch schaatstoernooi werd gehouden.</p><img src="http://feeds.feedburner.com/~r/nossportschaatsen/~4/DraAJooUY9w" height="1" width="1" alt=""/>

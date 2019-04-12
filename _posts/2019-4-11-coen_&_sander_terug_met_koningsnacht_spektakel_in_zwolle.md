@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 13:46:39 GMT
 categories: 
 - overijssel 
 - zwolle 
+externe_link: "https://www.ad.nl/zwolle/coen-en-sander-terug-met-koningsnacht-spektakel-in-zwolle~a81a62b3c/"
 feature_image: "https://images1.persgroep.net/rcs/E7wWHhcLZTX5R3Ba8kei8tZSqf4/diocontent/145312762/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

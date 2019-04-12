@@ -5,6 +5,7 @@ date: Wed, 27 Feb 2019 09:06:00 GMT
 categories: 
 - zuid-holland 
 - krimpen_aan_den_ijssel 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/27/07-laffe-overval-op-bejaard-echtpaar.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/busje-forensische-opsporing.jpg"
 ---
 

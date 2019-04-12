@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 21:04:00 GMT
 categories: 
 - noord-brabant 
 - helmond 
+externe_link: "https://www.ad.nl/helmond/akkoord-over-groei-automotive-campus-helmond~a705168b/"
 feature_image: "https://images1.persgroep.net/rcs/45ZmbMulFbkW0Md5NM5jcrt91O0/diocontent/101234647/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

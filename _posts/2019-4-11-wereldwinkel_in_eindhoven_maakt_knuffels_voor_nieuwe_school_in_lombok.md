@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 08:04:12 GMT
 categories: 
 - noord-brabant 
 - eindhoven 
+externe_link: "https://www.ad.nl/eindhoven/wereldwinkel-in-eindhoven-maakt-knuffels-voor-nieuwe-school-in-lombok~aa5aee94/"
 feature_image: "https://images1.persgroep.net/rcs/ahPoPzlqQKsI7298cLGsUKqjhD0/diocontent/144352210/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

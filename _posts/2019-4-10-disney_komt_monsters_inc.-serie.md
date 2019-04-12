@@ -2,7 +2,9 @@
 layout: post
 title: "Disney komt Monsters Inc.-serie"
 date: Wed, 10 Apr 2019 09:52:11 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3422056/disney-komt-monsters-inc-serie"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/df56630e-5b80-11e9-8fc6-02d2fb1aa1d7.jpg"
 ---

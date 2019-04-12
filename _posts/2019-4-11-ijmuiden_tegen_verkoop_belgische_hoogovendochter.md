@@ -2,9 +2,8 @@
 layout: post
 title: "IJmuiden tegen verkoop Belgische hoogovendochter"
 date: Thu, 11 Apr 2019 13:34:27 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3430383/i-jmuiden-tegen-verkoop-belgische-hoogovendochter"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/90799bc2-5c50-11e9-966f-0217670beecd.jpg"
 ---
 

@@ -2,9 +2,8 @@
 layout: post
 title: "’Aperam nog enige koopje in de sector’"
 date: Fri, 12 Apr 2019 10:36:50 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3435352/aperam-nog-enige-koopje-in-de-sector"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/787b3bde-5cff-11e9-ab1a-0218eaf05005.jpg"
 ---
 

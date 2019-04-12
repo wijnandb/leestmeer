@@ -4,7 +4,8 @@ title: "Stieltjeskanaal / Emmen - Tweede aanhouding in zaak kofferbakmoord"
 date: Thu, 05 Apr 2018 10:58:00 GMT
 categories: 
 - drenthe 
-- coevorden 
+- emmen 
+externe_link: "https://www.politie.nl/nieuws/2018/april/5/01-tweede-aanhouding-in-zaak-kofferbakmoord.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/detailopname-surveillancewagen.jpg"
 ---
 

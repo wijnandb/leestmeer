@@ -5,6 +5,7 @@ date: Mon, 07 Jan 2019 15:43:00 GMT
 categories: 
 - noord-brabant 
 - uden 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/november/09-mishandeling-met-honkbalknuppel.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/januari/09-ob/bb_190107/uden-01.jpg"
 ---
 

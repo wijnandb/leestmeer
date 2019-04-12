@@ -2,9 +2,8 @@
 layout: post
 title: "Tony Neef geopereerd aan staar"
 date: Thu, 11 Apr 2019 23:15:35 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3433901/tony-neef-geopereerd-aan-staar"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f9c7fe5e-5c9e-11e9-bdb3-0218eaf05005.jpg"
 ---
 

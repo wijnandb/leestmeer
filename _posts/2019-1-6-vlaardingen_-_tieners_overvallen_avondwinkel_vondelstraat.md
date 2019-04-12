@@ -5,6 +5,7 @@ date: Sun, 06 Jan 2019 11:24:00 GMT
 categories: 
 - zuid-holland 
 - vlaardingen 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/6/07-tieners-overvallen-avondwinkel-vondelstraat.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/man-wordt-geboeid-afgevoerd.jpg"
 ---
 

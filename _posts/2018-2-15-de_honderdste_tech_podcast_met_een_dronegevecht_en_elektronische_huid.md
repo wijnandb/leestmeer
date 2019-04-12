@@ -4,7 +4,6 @@ title: "De honderdste Tech Podcast met een dronegevecht en elektronische huid"
 date: Thu, 15 Feb 2018 16:57:31 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4141/nporadio1_nosop3techpodcast_20180215_de-honderdste-tech-podcast-met-een-dronegevecht-en-elektronische-huid.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4141/nporadio1_nosop3techpodcast_20180215_de-honderdste-tech-podcast-met-een-dronegevecht-en-elektronische-huid.mp3"
 ---
 
 0:00 Er zijn een hoop plekken waar je niet mag vliegen met een drone, maar de politie heeft nauwelijks mogelijkheden om zo'n ding uit de lucht te halen. Om inspiratie op te doen organiseerde de politie samen met de TU Delft een groot dronegevecht. De leider van het winnende team vertelt wat hun tactiek was.

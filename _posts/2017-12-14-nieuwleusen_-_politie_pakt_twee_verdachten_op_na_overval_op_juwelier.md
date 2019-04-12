@@ -4,7 +4,8 @@ title: "Nieuwleusen - Politie pakt twee verdachten op na overval op juwelier"
 date: Thu, 14 Dec 2017 09:39:00 GMT
 categories: 
 - overijssel 
-- dalfsen 
+- ommen 
+externe_link: "https://www.politie.nl/nieuws/2017/december/14/02-nieuwleusen-politie-pakt-twee-verdachten-op-na-overval-op-juwelier.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aangehouden-arrestant-wordt-in-progis-ingevoerd.jpg"
 ---
 

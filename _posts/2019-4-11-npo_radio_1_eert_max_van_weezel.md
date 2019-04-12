@@ -2,7 +2,9 @@
 layout: post
 title: "NPO Radio 1 eert Max van Weezel"
 date: Thu, 11 Apr 2019 16:53:43 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3432401/npo-radio-1-eert-max-van-weezel"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9c0797b4-5c69-11e9-ac91-02d2fb1aa1d7.jpg"
 ---

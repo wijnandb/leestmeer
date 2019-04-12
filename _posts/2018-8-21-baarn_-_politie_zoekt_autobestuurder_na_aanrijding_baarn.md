@@ -5,6 +5,7 @@ date: Tue, 21 Aug 2018 09:08:00 GMT
 categories: 
 - utrecht 
 - baarn 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/21/03-politie-zoekt-autobestuurders-na-aanrijding-baarn.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/politieauto-bij-een-verkeerslicht.jpg"
 ---
 

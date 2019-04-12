@@ -5,6 +5,7 @@ date: Wed, 11 Apr 2018 10:40:00 GMT
 categories: 
 - drenthe 
 - noordenveld 
+externe_link: "https://www.politie.nl/nieuws/2018/april/11/01-automobiliste-overleden-bij-ernstig-verkeersongeval.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/logo-politie-op-dienstauto.jpg"
 ---
 

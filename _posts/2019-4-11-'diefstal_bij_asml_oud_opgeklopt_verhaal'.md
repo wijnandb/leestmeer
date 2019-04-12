@@ -2,9 +2,8 @@
 layout: post
 title: "'Diefstal bij ASML oud opgeklopt verhaal'"
 date: Thu, 11 Apr 2019 20:04:06 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3433334/diefstal-bij-asml-oud-opgeklopt-verhaal"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7f43f8a0-5c84-11e9-8c76-02d1dbdc35d1.jpg"
 ---
 

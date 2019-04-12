@@ -2,7 +2,9 @@
 layout: post
 title: "De Ligt: ’Ronaldo is een roofdier’"
 date: Wed, 10 Apr 2019 23:14:07 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3427582/de-ligt-ronaldo-is-een-roofdier"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bca53564-5bd6-11e9-b689-0217670beecd.jpg"
 ---

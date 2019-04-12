@@ -5,6 +5,7 @@ date: Mon, 25 Mar 2019 17:44:00 GMT
 categories: 
 - noord-brabant 
 - zundert 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/08-vrijheidsberoving-zware-mishandeling-en-diefstal-hennep-in-wernhout.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/09-ob/bb_190325/wernhout-9.jpg"
 ---
 

@@ -2,9 +2,8 @@
 layout: post
 title: "Noord-Nederland - Politie kijkt terug op rol tijdens actieweek Code Rood"
 date: Fri, 15 Feb 2019 10:16:00 GMT
-categories: 
-- drenthe 
-- assen 
+category: groningen
+externe_link: "https://www.politie.nl/nieuws/2019/februari/15/01-politie-kijkt-terug-op-rol-tijdens-actieweek-code-rood.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/agenten-tijdens-horecadienst.jpg"
 ---
 

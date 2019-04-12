@@ -5,6 +5,7 @@ date: Fri, 22 Feb 2019 14:44:00 GMT
 categories: 
 - utrecht 
 - de_ronde_venen 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/22/03-man-vlucht-vinkeveense-plas-in-aangehouden-voor-witwassen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/politieheliec135.jpg"
 ---
 

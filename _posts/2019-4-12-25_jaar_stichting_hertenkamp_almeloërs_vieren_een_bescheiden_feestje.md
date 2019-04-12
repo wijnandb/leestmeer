@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 04:13:27 GMT
 categories: 
 - overijssel 
 - almelo 
+externe_link: "https://www.ad.nl/almelo/25-jaar-stichting-hertenkamp-almeloers-vieren-een-bescheiden-feestje~ac4c301c/"
 feature_image: "https://images0.persgroep.net/rcs/CJB8glKnJaYhcNxazcjF7qmnlsY/diocontent/16357663/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

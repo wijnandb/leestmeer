@@ -3,8 +3,8 @@ layout: post
 title: "Politiek Den Haag heeft geen benul hoe het er aan toe gaat in een bedrijf als KLM"
 date: Fri, 05 Apr 2019 08:15:00 +0200
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3398254/politiek-den-haag-heeft-geen-benul-hoe-het-er-aan-toe-gaat-in-een-bedrijf-als-klm"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1961ad22-573c-11e9-b866-0218eaf05005.jpg"
 ---

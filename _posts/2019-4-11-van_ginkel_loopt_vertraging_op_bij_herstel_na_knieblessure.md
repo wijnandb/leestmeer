@@ -2,9 +2,8 @@
 layout: post
 title: "Van Ginkel loopt vertraging op bij herstel na knieblessure"
 date: Thu, 11 Apr 2019 16:26:00 GMT
-categories: 
-- sport 
-- voetbal 
+category: sport
+externe_link: "https://www.ad.nl/nederlands-voetbal/van-ginkel-loopt-vertraging-op-bij-herstel-na-knieblessure~a51bfa3d/"
 feature_image: "https://images1.persgroep.net/rcs/mB0CCkm8XBGDlMdIwnxLwg1NupI/diocontent/116049519/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

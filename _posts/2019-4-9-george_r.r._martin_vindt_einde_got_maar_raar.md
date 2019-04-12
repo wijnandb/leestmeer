@@ -2,7 +2,9 @@
 layout: post
 title: "George R.R. Martin vindt einde GoT maar raar"
 date: Tue, 09 Apr 2019 17:06:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3419293/george-r-r-martin-vindt-einde-go-t-maar-raar"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/471679be-5ad9-11e9-bdd3-02d2fb1aa1d7.jpg"
 ---

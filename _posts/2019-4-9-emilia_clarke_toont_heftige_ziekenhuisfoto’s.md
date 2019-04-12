@@ -2,7 +2,9 @@
 layout: post
 title: "Emilia Clarke toont heftige ziekenhuisfoto’s"
 date: Tue, 09 Apr 2019 13:08:19 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3416825/emilia-clarke-toont-heftige-ziekenhuisfoto-s"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/32a9b20e-5acd-11e9-bfd5-0255c322e81b.jpg"
 ---

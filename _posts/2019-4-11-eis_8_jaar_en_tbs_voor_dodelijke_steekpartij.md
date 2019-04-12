@@ -2,7 +2,7 @@
 layout: post
 title: "Eis: 8 jaar en tbs voor dodelijke steekpartij"
 date: Thu, 11 Apr 2019 18:02:33 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3432837/eis-8-jaar-en-tbs-voor-dodelijke-steekpartij"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3dc87cfe-5c73-11e9-a4e2-02d1dbdc35d1.jpg"
 ---

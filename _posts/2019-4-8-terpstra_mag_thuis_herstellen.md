@@ -2,7 +2,9 @@
 layout: post
 title: "Terpstra mag thuis herstellen"
 date: Mon, 08 Apr 2019 21:24:48 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/3413939/terpstra-mag-thuis-herstellen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f98730f8-5a33-11e9-8be0-02d1dbdc35d1.jpg"
 ---

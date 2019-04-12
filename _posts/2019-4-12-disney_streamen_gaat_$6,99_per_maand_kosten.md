@@ -2,7 +2,7 @@
 layout: post
 title: "Disney streamen gaat $6,99 per maand kosten"
 date: Fri, 12 Apr 2019 09:58:25 +0200
-category: entertainment
+category: financieel
 externe_link: "https://www.telegraaf.nl/financieel/3435072/disney-streamen-gaat-6-99-per-maand-kosten"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/89e6320c-5cfa-11e9-b172-02d1dbdc35d1.jpg"
 ---

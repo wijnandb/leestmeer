@@ -2,9 +2,8 @@
 layout: post
 title: "Vermist - Abdelilah Zenagui"
 date: Wed, 10 Apr 2019 22:00:00 GMT
-categories: 
-- zeeland 
-- goes 
+category: zeeland
+externe_link: "https://www.politie.nl/gezocht-en-vermist/vermiste-volwassenen/2019/april/08-abdelilah-zengui.html"
 feature_image: "https://www.politie.nl/binaries/w98h130/content/gallery/politie/vermist/vermiste-volwassenen/2019/april/abdelilahgedraaid.jpg"
 ---
 

@@ -2,9 +2,8 @@
 layout: post
 title: "Schoonhoven - Gewapende overval op pakketbezorger; politie zoekt getuigen"
 date: Tue, 09 Apr 2019 11:59:00 GMT
-categories: 
-- zuid-holland 
-- schoonhoven 
+category: zuid-holland
+externe_link: "https://www.politie.nl/nieuws/2019/april/9/06-schoonhoven---gewapende-overval-op-pakketbezorger-politie-zoekt-getuigen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/politie-embleem.jpg"
 ---
 

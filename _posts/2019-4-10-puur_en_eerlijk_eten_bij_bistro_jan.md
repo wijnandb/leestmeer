@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 15:06:21 GMT
 categories: 
 - noord-brabant 
 - oosterhout 
+externe_link: "https://www.ad.nl/oosterhout/puur-en-eerlijk-eten-bij-bistro-jan~a1b6e05f/"
 feature_image: "https://images4.persgroep.net/rcs/MPSLF9cBO0tuRaOeDx6qIs-rl5Y/diocontent/139856420/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

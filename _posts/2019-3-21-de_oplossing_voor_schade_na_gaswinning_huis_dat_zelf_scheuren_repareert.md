@@ -2,9 +2,7 @@
 layout: post
 title: "De oplossing voor schade na gaswinning: huis dat zelf scheuren repareert"
 date: Thu, 21 Mar 2019 20:15:00 GMT
-categories: 
-- overig 
-- wetenschap 
+category: wetenschap
 externe_link: "https://www.ad.nl/wetenschap/de-oplossing-voor-schade-na-gaswinning-huis-dat-zelf-scheuren-repareert~a69137e2/"
 feature_image: "https://images2.persgroep.net/rcs/xdrKQWwp1S8nk3EDKQ72hNVXlUo/diocontent/70435337/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

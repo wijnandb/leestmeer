@@ -2,9 +2,8 @@
 layout: post
 title: "Vermist - Frederik Pallesen"
 date: Thu, 31 Jan 2019 13:04:00 GMT
-categories: 
-- noord-holland 
-- aalsmeer 
+category: noord-holland
+externe_link: "https://www.politie.nl/gezocht-en-vermist/vermiste-volwassenen/2019/januari/frederik-pallesen.html"
 feature_image: "https://www.politie.nl/binaries/w98h130/content/gallery/politie/vermist/vermiste-volwassenen/2019/januari/frederik-pallesen.jpg"
 ---
 

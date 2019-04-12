@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Is een enkelband te hacken en dakpannen van Tesla
 date: Thu, 11 May 2017 17:30:00 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4174/nporadio1_nosop3techpodcast_20170511_nos-op-3-tech-podcast-is-een-enkelband-te-hacken-en-dakpannen-van-tesla.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4174/nporadio1_nosop3techpodcast_20170511_nos-op-3-tech-podcast-is-een-enkelband-te-hacken-en-dakpannen-van-tesla.mp3"
 ---
 
 0:00 Is Uber nou een techbedrijf of een taxibedrijf? Die vraagt ligt nu bij de hoogste Europese rechter en kan bepalend zijn voor de toekomst van het bedrijf.

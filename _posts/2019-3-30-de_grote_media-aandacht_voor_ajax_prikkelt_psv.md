@@ -3,8 +3,8 @@ layout: post
 title: "De grote media-aandacht voor Ajax prikkelt PSV"
 date: Sat, 30 Mar 2019 06:20:00 +0100
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/sport/3369747/de-grote-media-aandacht-voor-ajax-prikkelt-psv"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d882cc70-527a-11e9-97c7-02d2fb1aa1d7.jpg"
 ---

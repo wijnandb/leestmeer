@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 08:25:05 GMT
 categories: 
 - gelderland 
 - arnhem 
+externe_link: "https://www.ad.nl/arnhem/sloetski-is-voor-velen-vermakelijker-dan-het-vitesse-voetbal~aa334022/"
 feature_image: "https://images0.persgroep.net/rcs/Qy1SontwJ9-c_Jk5_7TFCxNZ8Sg/diocontent/138536377/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

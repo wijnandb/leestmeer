@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 10:31:35 +0200
 categories: 
 - overig 
 - gezondheid 
+externe_link: "https://www.nu.nl/gezondheid/5837712/griekse-baby-door-nieuwe-ivf-methode-geboren-uit-drie-biologische-ouders.html"
 feature_image: "https://media.nu.nl/m/ouuxr54agfz3_sqr256.jpg/griekse-baby-door-nieuwe-ivf-methode-geboren-uit-drie-biologische-ouders.jpg"
 ---
 

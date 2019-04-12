@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "John Heitinga vindt groot gezin 'mooiste wat er is'"
-date: Fri, 12 Apr 2019 08:59:20 +0200
+date: Fri, 12 Apr 2019 09:24:11 +0200
 categories: 
 - entertainment 
 - achterklap 
+externe_link: "https://www.nu.nl/achterklap/5839635/john-heitinga-vindt-groot-gezin-mooiste-wat-er-is.html"
 feature_image: "https://media.nu.nl/m/9swx2ktafg0l_sqr256.jpg/john-heitinga-vindt-groot-gezin-mooiste-wat-er-is.jpg"
 ---
 

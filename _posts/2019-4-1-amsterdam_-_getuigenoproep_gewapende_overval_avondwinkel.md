@@ -5,6 +5,7 @@ date: Mon, 01 Apr 2019 11:16:00 GMT
 categories: 
 - noord-holland 
 - amsterdam 
+externe_link: "https://www.politie.nl/nieuws/2019/april/1/05-gewapende-overval-avondwinkel.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/mijn-buurt/wijkprojecten/01--noord-nederland/politieauto-zwaailicht-nacht.jpg"
 ---
 

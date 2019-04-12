@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 16:45:10 +0200
 categories: 
 - entertainment 
 - gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/3426138/ex-barbie-maakt-twee-vrouwen-tegelijk-zwanger"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/93daa74e-5c40-11e9-b673-0255c322e81b.jpg"
 ---
 

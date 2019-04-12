@@ -5,6 +5,7 @@ date: Sat, 01 Dec 2018 08:50:00 GMT
 categories: 
 - gelderland 
 - ede 
+externe_link: "https://www.politie.nl/nieuws/2018/december/1/02-ede-aanhouding-na-woninginbraak-dankzij-alerte-getuige.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/december/02-on/verdacht-gedrag.jpg"
 ---
 

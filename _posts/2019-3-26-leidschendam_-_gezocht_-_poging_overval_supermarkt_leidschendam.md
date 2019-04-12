@@ -5,6 +5,7 @@ date: Tue, 26 Mar 2019 07:18:00 GMT
 categories: 
 - zuid-holland 
 - leidschendam-voorburg 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/06-dh/tw-26-03/06-diefstal-tas--pinnen-met-gestolen-pas-kopie.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/06-dh/tw-26-03/190326_team_overval-dirk-leidschendam-2.jpg"
 ---
 

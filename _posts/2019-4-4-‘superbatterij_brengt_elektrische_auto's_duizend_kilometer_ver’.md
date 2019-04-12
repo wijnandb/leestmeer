@@ -2,9 +2,7 @@
 layout: post
 title: "‘Superbatterij brengt elektrische auto's duizend kilometer ver’"
 date: Thu, 04 Apr 2019 16:20:00 GMT
-categories: 
-- overig 
-- wetenschap 
+category: wetenschap
 externe_link: "https://www.ad.nl/auto/superbatterij-brengt-elektrische-auto-s-duizend-kilometer-ver~abccc4a0/"
 feature_image: "https://images4.persgroep.net/rcs/g_Sq8JJi7ld8ePEy-x1JO58Jyzw/diocontent/79084557/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

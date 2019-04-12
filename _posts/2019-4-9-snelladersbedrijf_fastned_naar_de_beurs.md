@@ -2,7 +2,9 @@
 layout: post
 title: "Snelladersbedrijf Fastned naar de beurs"
 date: Tue, 09 Apr 2019 18:16:57 +0200
-category: algemeen
+categories: 
+- financieel 
+- economie 
 externe_link: "https://nos.nl/l/2279718"
 feature_image: "https://nos.nl/data/image/2017/12/03/435428/1008x567.jpg"
 ---

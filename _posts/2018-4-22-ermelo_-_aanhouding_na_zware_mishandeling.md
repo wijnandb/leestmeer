@@ -4,7 +4,8 @@ title: "Ermelo - Aanhouding na zware mishandeling"
 date: Sun, 22 Apr 2018 05:25:00 GMT
 categories: 
 - gelderland 
-- ermelo 
+- harderwijk 
+externe_link: "https://www.politie.nl/nieuws/2018/april/22/02-ermelo-zware-mishandeling.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/in-dienst-in-de-dienstauto.jpg"
 ---
 

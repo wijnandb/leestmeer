@@ -2,9 +2,8 @@
 layout: post
 title: "’Maatje meer’ maakt de tongen los"
 date: Fri, 12 Apr 2019 10:00:00 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3434082/maatje-meer-maakt-de-tongen-los"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/135aa47a-5ca4-11e9-9a52-0218eaf05005.png"
 ---
 

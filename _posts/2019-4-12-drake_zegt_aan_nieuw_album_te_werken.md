@@ -2,7 +2,9 @@
 layout: post
 title: "Drake zegt aan nieuw album te werken"
 date: Fri, 12 Apr 2019 10:52:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3435403/drake-zegt-aan-nieuw-album-te-werken"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/fd1bda34-5cfe-11e9-847b-0218eaf05005.jpg"
 ---

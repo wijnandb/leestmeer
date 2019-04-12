@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 13:47:00 GMT
 categories: 
 - utrecht 
 - woerden 
+externe_link: "https://www.ad.nl/woerden/paard-bijna-gestikt-na-mishandeling-in-woerden~ae29ac4e/"
 feature_image: "https://images2.persgroep.net/rcs/ynv-qIwNvr_9q1PloHxZwTkoXCM/diocontent/144089816/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

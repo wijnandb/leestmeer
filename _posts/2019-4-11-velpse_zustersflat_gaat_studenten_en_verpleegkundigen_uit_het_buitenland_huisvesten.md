@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 05:32:37 GMT
 categories: 
 - gelderland 
 - arnhem 
+externe_link: "https://www.ad.nl/arnhem/velpse-zustersflat-gaat-studenten-en-verpleegkundigen-uit-het-buitenland-huisvesten~af1e7dd8/"
 feature_image: "https://images2.persgroep.net/rcs/WZCgAq8GkCej-bZeiG2DG6F_eus/diocontent/140019613/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

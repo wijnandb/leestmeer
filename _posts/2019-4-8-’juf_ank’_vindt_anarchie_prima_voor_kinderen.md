@@ -2,7 +2,9 @@
 layout: post
 title: "’Juf Ank’ vindt anarchie prima voor kinderen"
 date: Mon, 08 Apr 2019 18:46:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3413304/juf-ank-vindt-anarchie-prima-voor-kinderen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7d1abc02-5a1e-11e9-95d7-02d2fb1aa1d7.jpg"
 ---

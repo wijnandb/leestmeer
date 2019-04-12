@@ -2,9 +2,8 @@
 layout: post
 title: "Column: Fed onder druk ondanks de arbeidsmarkt"
 date: Thu, 11 Apr 2019 11:37:49 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3429471/column-fed-onder-druk-ondanks-de-arbeidsmarkt"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7c4f355c-5c3d-11e9-b689-0217670beecd.jpg"
 ---
 

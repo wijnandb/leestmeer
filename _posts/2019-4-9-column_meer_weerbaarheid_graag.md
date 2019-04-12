@@ -2,7 +2,9 @@
 layout: post
 title: "Column: Meer weerbaarheid graag"
 date: Tue, 09 Apr 2019 09:59:12 +0200
-category: financieel
+categories: 
+- financieel 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/3415096/column-meer-weerbaarheid-graag"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9bed3dcc-5aa4-11e9-9e69-0218eaf05005.jpg"
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Overheid aan de bak met arbeidsgehandicapten"
 date: Thu, 11 Apr 2019 18:06:34 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3432862/overheid-aan-de-bak-met-arbeidsgehandicapten"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ccad4314-5c73-11e9-b343-02c309bc01c1.jpg"
 ---

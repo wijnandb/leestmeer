@@ -5,6 +5,7 @@ date: Mon, 03 Jul 2017 09:05:00 GMT
 categories: 
 - zuid-holland 
 - bernisse 
+externe_link: "https://www.politie.nl/nieuws/2017/juli/3/07-dronken-bestuurder-van-de-weg-na-controles-nissewaard.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/controle-voertuigen.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 04:41:06 GMT
 categories: 
 - zuid-holland 
 - waterweg 
+externe_link: "https://www.ad.nl/waterweg/woningbouw-in-schiedamse-gravin-aleidaschool-nu-ineens-wel-een-optie~a6ebff28/"
 feature_image: "https://images1.persgroep.net/rcs/6vm8XF8UTo0bCY5Ly3YFUWGBmVY/diocontent/15724316/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

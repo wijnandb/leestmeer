@@ -5,6 +5,7 @@ date: Mon, 28 May 2018 13:57:00 GMT
 categories: 
 - zuid-holland 
 - waddinxveen 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/28/07-verdachte-van-wapenhandel-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/mei/07-rt/20180522_115448.jpg"
 ---
 

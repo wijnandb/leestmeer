@@ -5,6 +5,7 @@ date: Sat, 04 Mar 2017 12:00:00 GMT
 categories: 
 - gelderland 
 - neerijnen 
+externe_link: "https://www.politie.nl/nieuws/2017/maart/4/02-opijnen-onderzoek-dode-vrouw-afgerond.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/busje-forensische-opsporing.jpg"
 ---
 

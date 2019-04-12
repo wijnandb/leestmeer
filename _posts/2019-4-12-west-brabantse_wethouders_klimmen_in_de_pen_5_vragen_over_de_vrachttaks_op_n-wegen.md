@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 04:01:11 GMT
 categories: 
 - noord-brabant 
 - roosendaal 
+externe_link: "https://www.ad.nl/roosendaal/west-brabantse-wethouders-klimmen-in-de-pen-5-vragen-over-de-vrachttaks-op-n-wegen~a5c9d59f/"
 feature_image: "https://images1.persgroep.net/rcs/H5lINwJPHT6WvqqKzF9dWn8kAro/diocontent/145316527/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

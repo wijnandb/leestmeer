@@ -5,6 +5,7 @@ date: Fri, 06 Jul 2018 14:46:00 GMT
 categories: 
 - zuid-holland 
 - barendrecht 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/6/07-politie-zoekt-getuigen-aanrijding-kruising-kilpad.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/logo-politie-op-dienstauto.jpg"
 ---
 

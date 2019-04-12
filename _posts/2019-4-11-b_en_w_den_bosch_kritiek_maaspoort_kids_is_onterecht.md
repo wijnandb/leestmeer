@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 08:44:05 GMT
 categories: 
 - noord-brabant 
 - vught 
+externe_link: "https://www.ad.nl/den-bosch/b-en-w-den-bosch-kritiek-maaspoort-kids-is-onterecht~a11ace45/"
 feature_image: "https://images0.persgroep.net/rcs/MKnd4q74SIDmGj4hIEZM7AdAk1o/diocontent/138032335/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

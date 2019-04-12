@@ -5,6 +5,7 @@ date: Wed, 22 Nov 2017 12:34:00 GMT
 categories: 
 - drenthe 
 - meppel 
+externe_link: "https://www.politie.nl/nieuws/2017/november/22/01---vijf-aanhoudingen-en-zeven-doorzoekingen-vanwege-georganiseerde-hennepteelt.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/drugs/illegale-kwekerij-in-woning-wordt-gecontroleerd.jpg"
 ---
 

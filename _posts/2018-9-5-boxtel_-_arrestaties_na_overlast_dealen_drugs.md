@@ -5,6 +5,7 @@ date: Wed, 05 Sep 2018 17:40:00 GMT
 categories: 
 - noord-brabant 
 - boxtel 
+externe_link: "https://www.politie.nl/nieuws/2018/september/5/09-arrestaties-na-overlast-dealen-drugs.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/drugs/agent-heeft-hennepplant-in-handen.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Sun, 03 Feb 2019 12:37:00 GMT
 categories: 
 - overijssel 
 - hengelo 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/3/02-beckum-drie-mensen-gewond-bij-schietincident.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/detailfoto-van-een-zwaailicht-bij-een-kas.jpg"
 ---
 

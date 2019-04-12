@@ -5,6 +5,7 @@ date: Mon, 11 Jun 2018 08:35:00 GMT
 categories: 
 - gelderland 
 - buren 
+externe_link: "https://www.politie.nl/nieuws/2018/juni/11/02-maurik-rijswijk---politie-zoekt-getuigen-van-vechtpartij-kopie.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-3.jpg"
 ---
 

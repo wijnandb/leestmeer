@@ -4,7 +4,8 @@ title: "Wijk bij Duurstede - Getuigen gezocht verkeersongeval Graaf Lijnden van 
 date: Wed, 05 Dec 2018 21:01:00 GMT
 categories: 
 - utrecht 
-- bunnik 
+- wijk_bij_duurstede 
+externe_link: "https://www.politie.nl/nieuws/2018/december/5/getuigen-gezocht-verkeersongeval-graaf-lijnden-van-sandenburgweg.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/mouw-nieuwe-uniform-politie.jpg"
 ---
 

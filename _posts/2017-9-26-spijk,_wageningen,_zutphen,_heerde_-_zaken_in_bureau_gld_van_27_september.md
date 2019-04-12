@@ -4,7 +4,8 @@ title: "Spijk, Wageningen, Zutphen, Heerde - Zaken in Bureau GLD van 27 septembe
 date: Tue, 26 Sep 2017 11:07:00 GMT
 categories: 
 - gelderland 
-- heerde 
+- lingewaal 
+externe_link: "https://www.politie.nl/nieuws/2017/september/25/02-zaken-in-bureau-gld-van-27-september.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/onderwerpen/bureau-gld.jpg"
 ---
 

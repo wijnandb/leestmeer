@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 07:12:00 GMT
 categories: 
 - zuid-holland 
 - alphen 
+externe_link: "https://www.ad.nl/alphen/bezoekers-kinderboerderij-bospark-balen-alphen-geeft-liever-geld-uit-aan-andere-dingen~a97f83f1/"
 feature_image: "https://images2.persgroep.net/rcs/AHwqYXAPDdDBejIS2w8zIynz2do/diocontent/145244954/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 07 Feb 2019 08:31:00 GMT
 categories: 
 - overijssel 
 - deventer 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/odl/zakkenrollerij-in-supermarkt-deventer.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/02-on/2018569392-1.jpg"
 ---
 

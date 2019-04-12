@@ -5,6 +5,7 @@ date: Mon, 25 Mar 2019 12:34:00 GMT
 categories: 
 - utrecht 
 - amersfoort 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/25/03-zware-mishandeling.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/politie-en-boa.jpg"
 ---
 

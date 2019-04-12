@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 06:59:01 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.ad.nl/nijmegen/nijmeegse-hoogleraar-schrijft-boek-met-acteur-michael-j-fox~a4c847d86/"
 feature_image: "https://images0.persgroep.net/rcs/M5uoGbvLUnQ9rSAdJK-JRnLUwzQ/diocontent/145335743/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

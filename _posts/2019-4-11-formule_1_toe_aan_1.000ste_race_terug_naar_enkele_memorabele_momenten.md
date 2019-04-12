@@ -2,7 +2,9 @@
 layout: post
 title: "Formule 1 toe aan 1.000ste race: terug naar enkele memorabele momenten"
 date: Thu, 11 Apr 2019 19:24:54 +0200
-category: sport
+categories: 
+- sport 
+- autosport 
 externe_link: "https://nos.nl/l/2280017"
 feature_image: "https://nos.nl/data/image/2019/04/11/542961/1008x567.jpg"
 ---

@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 23:49:39 +0200
 categories: 
 - sport 
 - voetbal 
+externe_link: "https://nos.nl/l/2279917"
 ---
 
 De reactie van Ajax-middenvelder Frenkie de Jong na het 1-1 gelijkspel tegen Juventus in de kwartfinales van de Champions League.

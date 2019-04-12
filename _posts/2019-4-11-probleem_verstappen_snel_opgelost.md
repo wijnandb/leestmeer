@@ -4,7 +4,8 @@ title: "Probleem Verstappen snel opgelost"
 date: Thu, 11 Apr 2019 12:33:46 +0200
 categories: 
 - sport 
-- autosport 
+- scoreboard 
+externe_link: "https://www.telegraaf.nl/sport/3429933/probleem-verstappen-snel-opgelost"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8410fa5c-5c45-11e9-9a52-0218eaf05005.jpg"
 ---
 

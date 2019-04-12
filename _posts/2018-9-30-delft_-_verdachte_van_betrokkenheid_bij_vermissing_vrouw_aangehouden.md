@@ -5,6 +5,7 @@ date: Sun, 30 Sep 2018 18:38:00 GMT
 categories: 
 - zuid-holland 
 - oud-beijerland 
+externe_link: "https://www.politie.nl/nieuws/2018/september/30/06-delft-verdachte-van-betrokkenheid-bij-vermissing-vrouw-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/detailopname-van-uniformen-motoragenten.jpg"
 ---
 

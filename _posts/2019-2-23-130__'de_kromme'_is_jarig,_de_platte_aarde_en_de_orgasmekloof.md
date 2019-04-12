@@ -4,7 +4,6 @@ title: "#130:  'De Kromme' is jarig, de platte aarde en de orgasmekloof"
 date: Sat, 23 Feb 2019 14:54:31 +0100
 category: podcast
 externe_link: "https://podcast.npo.nl/file/het-beste-uit-het-oog/4404/nporadio1_het-beste-uit-het-oog_20190223_130-de-kromme-is-jarig-de-platte-aarde-en-de-orgasmekloof_5UT624.mp3"
-feature_image: "https://podcast.npo.nl/file/het-beste-uit-het-oog/4404/nporadio1_het-beste-uit-het-oog_20190223_130-de-kromme-is-jarig-de-platte-aarde-en-de-orgasmekloof_5UT624.mp3"
 ---
 
 Willem van Hanegem, 'de beste voetballer na Cruijff', werd deze week 75. 'De Kromme' had geen zin in interviews, maar maakte voor het Met het Oog op Morgen graag een uitzondering. Alle aandacht die hij deze week kreeg, had van hem niet gehoeven. "Ze laten alleen maar het mooie zien. Terwijl ik niet meer verkocht hoef te worden. Dan kan je toch ook laten zien wat er minder ging?"

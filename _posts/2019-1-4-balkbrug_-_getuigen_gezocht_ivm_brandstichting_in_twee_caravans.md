@@ -5,6 +5,7 @@ date: Fri, 04 Jan 2019 13:44:00 GMT
 categories: 
 - overijssel 
 - ommen 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/4/02-getuigen-gezocht-ivm-brandstichting-in-twee-caravans.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/busje-forensische-opsporing.jpg"
 ---
 

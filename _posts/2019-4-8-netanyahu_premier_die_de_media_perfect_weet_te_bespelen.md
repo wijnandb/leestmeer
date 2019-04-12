@@ -2,7 +2,7 @@
 layout: post
 title: "Netanyahu: premier die de media perfect weet te bespelen"
 date: Mon, 08 Apr 2019 18:49:37 +0200
-category: algemeen
+category: nieuws
 externe_link: "https://nos.nl/l/2279590"
 feature_image: "https://nos.nl/data/image/2019/04/08/542280/1008x567.jpg"
 ---

@@ -3,8 +3,8 @@ layout: post
 title: "Indoctrinatie mislukt dankzij leerlingen"
 date: Thu, 28 Mar 2019 20:00:00 +0100
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3363967/indoctrinatie-mislukt-dankzij-leerlingen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/075565ca-5196-11e9-87a7-0217670beecd.jpg"
 ---

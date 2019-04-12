@@ -2,9 +2,8 @@
 layout: post
 title: "Vlissingen - Acht elektrische fietsen terug"
 date: Mon, 08 Apr 2019 12:29:00 GMT
-categories: 
-- zeeland 
-- vlissingen 
+category: zeeland
+externe_link: "https://www.politie.nl/nieuws/2019/april/8/08-acht-elektrische-fietsen-terug.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/gezocht/gestolen-gevonden/2018/mei/10-lg/aangetroffen-e-bike-velden/hele-fiets-2.jpg"
 ---
 

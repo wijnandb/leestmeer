@@ -4,7 +4,6 @@ title: "#132: Somberheid op Urk, Instagrampoëzie en Clint Eastwood"
 date: Sat, 09 Mar 2019 15:22:25 +0100
 category: podcast
 externe_link: "https://podcast.npo.nl/file/het-beste-uit-het-oog/4609/nporadio1_het-beste-uit-het-oog_20190309_132-somberheid-op-urk-instagrampoezie-en-clint-eastwood_V4URYZ.mp3"
-feature_image: "https://podcast.npo.nl/file/het-beste-uit-het-oog/4609/nporadio1_het-beste-uit-het-oog_20190309_132-somberheid-op-urk-instagrampoezie-en-clint-eastwood_V4URYZ.mp3"
 ---
 
 Zeker 14.000 mensen doen momenteel mee aan #IkPas, een actie om 40 dagen geen alcohol te drinken. Erik Jan Harmens, voorheen verslaafd aan alcohol, legt uit hoe het stoppen met drinken hem veranderd heeft. "Mijn ideaal was om zoveel te drinken dat ik half bewusteloos op de bank lag, tegenwoordig word ik elke dag met een glimlach wakker."

@@ -5,6 +5,7 @@ date: Sat, 18 Nov 2017 06:00:00 GMT
 categories: 
 - fryslan 
 - dongeradeel 
+externe_link: "https://www.politie.nl/nieuws/2017/november/18/sinterklaas-2017-intocht-in-dokkum---politiewerk-in-beeld.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/november/01-nn/sint-in-dokkum-3.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Sjinkie Knegt zit vol vragen"
 date: Wed, 10 Apr 2019 19:11:57 +0200
-category: sport
+categories: 
+- sport 
+- scoreboard 
 externe_link: "https://www.telegraaf.nl/sport/3426808/sjinkie-knegt-zit-vol-vragen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/896a707a-5bcb-11e9-92e5-02d2fb1aa1d7.jpg"
 ---

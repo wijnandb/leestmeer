@@ -4,7 +4,6 @@ title: "#100: Dna vinden, overbevolking in Lagos en Tangerine"
 date: Sat, 28 Jul 2018 00:00:00 +0200
 category: podcast
 externe_link: "https://podcast.npo.nl/file/het-beste-uit-het-oog/2931/nporadio1_het-beste-uit-het-oog_20180728_100-dna-vinden-overbevolking-in-lagos-en-tangerine.mp3"
-feature_image: "https://podcast.npo.nl/file/het-beste-uit-het-oog/2931/nporadio1_het-beste-uit-het-oog_20180728_100-dna-vinden-overbevolking-in-lagos-en-tangerine.mp3"
 ---
 
 Zeventien jaar na de aanslagen op het World Trade Center is alsnog de identiteit van een slachtoffer vastgesteld. Dna-onderzoeker Lex Meulenbroek vertelde afgelopen week in NOS Met het Oog op Morgen hoe dat mogelijk is na al die jaren. Verder aandacht in onze zomerserie over overbevolking voor de Afrikaanse stad Lagos.

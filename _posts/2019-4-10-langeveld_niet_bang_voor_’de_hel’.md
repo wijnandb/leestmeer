@@ -2,7 +2,9 @@
 layout: post
 title: "Langeveld niet bang voor ’De Hel’"
 date: Wed, 10 Apr 2019 08:21:07 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/3421626/langeveld-niet-bang-voor-de-hel"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d3ab17ca-5b58-11e9-a27a-02d1dbdc35d1.jpg"
 ---

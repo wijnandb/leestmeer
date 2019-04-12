@@ -5,6 +5,7 @@ date: Thu, 30 Aug 2018 10:40:00 GMT
 categories: 
 - utrecht 
 - woerden 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/30/03-auto%E2%80%99s-motor-en-woning-lopen-schade-op-na-brandstichting-woerden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/nachtelijke-inzet-politie-en-brandweer.jpg"
 ---
 

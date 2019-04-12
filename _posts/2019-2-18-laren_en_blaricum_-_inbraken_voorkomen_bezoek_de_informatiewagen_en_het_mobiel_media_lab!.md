@@ -4,7 +4,8 @@ title: "Laren en Blaricum - Inbraken voorkomen? Bezoek de informatiewagen en het
 date: Mon, 18 Feb 2019 12:42:00 GMT
 categories: 
 - noord-holland 
-- blaricum 
+- laren 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/18/03-mml-laren-blaricum.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/november/03-mn/mml-afb2-nw.jpg"
 ---
 

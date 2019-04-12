@@ -3,8 +3,9 @@ layout: post
 title: "Gorssel, Deventer - Gezocht - Vrouwen pinnen met gestolen pas bejaarde dame"
 date: Thu, 21 Mar 2019 10:49:00 GMT
 categories: 
-- gelderland 
-- lochem 
+- overijssel 
+- deventer 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/02-oon/gld/vrouwen-pinnen-met-gestolen-pas-bejaarde-dame.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/02-on/2018512902-1.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 19 Dec 2018 08:10:00 GMT
 categories: 
 - gelderland 
 - aalten 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/december/02-oon/gld/man-tankt-zonder-te-betalen-en-rijdt-auto-aan.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/december/02-on/2018513746-1.jpg"
 ---
 

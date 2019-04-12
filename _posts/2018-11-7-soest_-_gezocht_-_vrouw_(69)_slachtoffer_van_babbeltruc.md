@@ -5,6 +5,7 @@ date: Wed, 07 Nov 2018 14:40:00 GMT
 categories: 
 - utrecht 
 - soest 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/november/03-soest-07-babbeltruc.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/november/03-mn/soest-7-babbeltruc.jpg"
 ---
 

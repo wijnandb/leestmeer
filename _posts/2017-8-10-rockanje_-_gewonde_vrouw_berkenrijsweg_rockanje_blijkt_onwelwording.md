@@ -5,6 +5,7 @@ date: Thu, 10 Aug 2017 14:56:00 GMT
 categories: 
 - zuid-holland 
 - westvoorne 
+externe_link: "https://www.politie.nl/nieuws/2017/augustus/10/07-gewonde-vrouw-berkenrijsweg-rockanje-blijkt-onwelwording.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/ambulance.jpg"
 ---
 

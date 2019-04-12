@@ -2,7 +2,9 @@
 layout: post
 title: "RTL-weerman ontroerd door reacties na black-out"
 date: Fri, 12 Apr 2019 07:42:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3434417/rtl-weerman-ontroerd-door-reacties-na-black-out"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/aad8cdb0-5ced-11e9-b843-0218eaf05005.jpg"
 ---

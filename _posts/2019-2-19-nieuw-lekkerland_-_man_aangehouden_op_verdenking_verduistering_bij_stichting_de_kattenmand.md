@@ -5,6 +5,7 @@ date: Tue, 19 Feb 2019 10:17:00 GMT
 categories: 
 - zuid-holland 
 - molenwaard 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/19/07-man-aangehouden-op-verdenking-verduistering-bij-stichting-de-kattenmand.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/februari/07-rt/kat1.jpg"
 ---
 

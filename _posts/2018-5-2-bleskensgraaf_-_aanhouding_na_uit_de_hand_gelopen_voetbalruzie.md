@@ -5,6 +5,7 @@ date: Wed, 02 May 2018 19:39:00 GMT
 categories: 
 - zuid-holland 
 - molenwaard 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/2/07-aanhouding-na-uit-de-hand-gelopen-voetbalruzie.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/politieauto-met-zwaailicht.jpg"
 ---
 

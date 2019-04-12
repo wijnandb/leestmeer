@@ -2,9 +2,8 @@
 layout: post
 title: "Geen fotomoment vlak na bevalling Meghan"
 date: Thu, 11 Apr 2019 11:53:55 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3429581/geen-fotomoment-vlak-na-bevalling-meghan"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/36549ea2-5c42-11e9-b673-0255c322e81b.jpg"
 ---
 

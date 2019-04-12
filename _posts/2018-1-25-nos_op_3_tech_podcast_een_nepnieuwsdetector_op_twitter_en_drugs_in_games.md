@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Een nepnieuwsdetector op twitter en drugs in game
 date: Thu, 25 Jan 2018 17:30:00 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4144/nporadio1_nosop3techpodcast_20180125_nos-op-3-tech-podcast-een-nepnieuwsdetector-op-twitter-en-drugs-in-games.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4144/nporadio1_nosop3techpodcast_20180125_nos-op-3-tech-podcast-een-nepnieuwsdetector-op-twitter-en-drugs-in-games.mp3"
 ---
 
 0:00 Nepnieuws en misinformatie op social media, dat zijn dingen die de  Groningse Startup TrustTheSource tegengaat. Zij maken een algoritme dat de betrouwbaarheid van tweets kan inschatten.

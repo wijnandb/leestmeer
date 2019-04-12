@@ -5,6 +5,7 @@ date: Fri, 12 Oct 2018 17:07:00 GMT
 categories: 
 - zuid-holland 
 - vlist 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/12/06-haastrecht-klant-houdt-verdachte-van-overval-op-supermarkt-aan.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/agent-met-vest-en-portofoon.jpg"
 ---
 

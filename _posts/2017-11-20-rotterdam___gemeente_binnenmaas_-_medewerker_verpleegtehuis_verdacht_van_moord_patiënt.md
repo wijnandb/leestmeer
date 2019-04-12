@@ -5,6 +5,7 @@ date: Mon, 20 Nov 2017 13:52:00 GMT
 categories: 
 - zuid-holland 
 - binnenmaas 
+externe_link: "https://www.politie.nl/nieuws/2017/november/20/medewerker-verpleegtehuis-verdacht-van-moord-patient.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Tue, 21 Feb 2017 06:58:00 GMT
 categories: 
 - overijssel 
 - borne 
+externe_link: "https://www.politie.nl/nieuws/2017/februari/21/02-oostnl-verward.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/politie-embleem.jpg"
 ---
 

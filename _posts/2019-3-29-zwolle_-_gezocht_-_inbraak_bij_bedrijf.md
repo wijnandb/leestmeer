@@ -2,9 +2,8 @@
 layout: post
 title: "Zwolle - Gezocht - Inbraak bij bedrijf"
 date: Fri, 29 Mar 2019 12:19:00 GMT
-categories: 
-- overijssel 
-- zwolle 
+category: overijssel
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/maart/02-inbraak-bij-bedrijf.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/maart/02-on/2019025716_foto-3.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Fri, 05 Oct 2018 14:03:00 GMT
 categories: 
 - drenthe 
 - emmen 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/5/01-brand-in-politiebureau-klazienaveen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/brandweerauto.jpg"
 ---
 

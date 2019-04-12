@@ -5,6 +5,7 @@ date: Wed, 21 Feb 2018 11:57:00 GMT
 categories: 
 - fryslan 
 - weststellingwerf 
+externe_link: "https://www.politie.nl/nieuws/2018/februari/21/07-beter-goede-buur-dan-verre-vriend-inbrekers-vast.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-op-straat.jpg"
 ---
 

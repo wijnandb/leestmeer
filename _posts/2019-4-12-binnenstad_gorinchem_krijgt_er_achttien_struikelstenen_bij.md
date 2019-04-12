@@ -5,6 +5,7 @@ date: Fri, 12 Apr 2019 06:54:00 GMT
 categories: 
 - gelderland 
 - rivierenland 
+externe_link: "https://www.ad.nl/rivierenland/binnenstad-gorinchem-krijgt-er-achttien-struikelstenen-bij~a9e74d56/"
 feature_image: "https://images4.persgroep.net/rcs/IPfxZLR9BtF3U_srRVzcgrTYfFo/diocontent/73082422/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

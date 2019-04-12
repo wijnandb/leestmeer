@@ -4,7 +4,8 @@ title: "Middelharnis - *UPDATE* Politie zoekt getuigen zware mishandeling Middel
 date: Fri, 28 Dec 2018 08:30:00 GMT
 categories: 
 - zuid-holland 
-- dirksland 
+- goeree-overflakkee 
+externe_link: "https://www.politie.nl/nieuws/2018/december/21/07-politie-zoekt-getuigen-zware-mishandeling-middelharnis.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/politie-embleem.jpg"
 ---
 

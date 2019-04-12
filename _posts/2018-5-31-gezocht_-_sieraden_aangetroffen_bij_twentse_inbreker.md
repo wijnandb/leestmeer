@@ -4,7 +4,8 @@ title: "Gezocht - Sieraden aangetroffen bij Twentse inbreker"
 date: Thu, 31 May 2018 14:16:00 GMT
 categories: 
 - overijssel 
-- dinkelland 
+- oldenzaal 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/eigenaar-gezocht/2018/mei/02-sieraden-aangetroffen-bij-twentse-inbreker.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/gestolen-gevonden/2018/mei/02-on/twentse-inbreker/inbraakgoederen-wit-twente.jpeg"
 ---
 

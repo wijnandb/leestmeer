@@ -5,6 +5,7 @@ date: Wed, 11 Jul 2018 12:43:00 GMT
 categories: 
 - noord-brabant 
 - boxtel 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/11/09-verdachte-openlijke-geweldpleging-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/mouw-nieuwe-uniform-politie.jpg"
 ---
 

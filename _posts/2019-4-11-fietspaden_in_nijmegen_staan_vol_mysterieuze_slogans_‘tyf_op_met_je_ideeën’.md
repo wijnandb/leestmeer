@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 10:57:00 GMT
 categories: 
 - gelderland 
 - nijmegen 
+externe_link: "https://www.ad.nl/nijmegen/fietspaden-in-nijmegen-staan-vol-mysterieuze-slogans-tyf-op-met-je-ideeen~a9164a1e/"
 feature_image: "https://images1.persgroep.net/rcs/6zAbPjk6cI61yA928JNXcWtIFXo/diocontent/145301976/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 08:30:00 +0200
 categories: 
 - entertainment 
 - opinie 
+externe_link: "https://www.telegraaf.nl/columns/3428055/hollands-tintje-in-veel-grijs-beton-in-sao-paulo"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e9bfc93a-5bfc-11e9-bdb3-0218eaf05005.jpg"
 ---
 

@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Google onthult nieuwste snufjes en stickers zijn 
 date: Wed, 09 May 2018 15:46:18 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4127/nporadio1_nosop3techpodcast_20180509_nos-op-3-tech-podcast-google-onthult-nieuwste-snufjes-en-stickers-zijn-de-nieuwe-emoji-s.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4127/nporadio1_nosop3techpodcast_20180509_nos-op-3-tech-podcast-google-onthult-nieuwste-snufjes-en-stickers-zijn-de-nieuwe-emoji-s.mp3"
 ---
 
 Wegens Hemelvaartsdag zijn we een dagje eerder!

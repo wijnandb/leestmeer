@@ -2,9 +2,8 @@
 layout: post
 title: "AFM na Brexit grootste beurswaakhond van Europa"
 date: Thu, 11 Apr 2019 12:11:53 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3429752/afm-na-brexit-grootste-beurswaakhond-van-europa"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7aaf58ca-5c70-11e9-8854-0217670beecd.jpg"
 ---
 

@@ -4,7 +4,8 @@ title: "Spier - Politie onderzoekt dood 18-jarige vrouw"
 date: Sun, 24 Sep 2017 19:24:00 GMT
 categories: 
 - drenthe 
-- hoogeveen 
+- midden-drenthe 
+externe_link: "https://www.politie.nl/nieuws/2017/september/24/01-politie-onderzoekt-dood-18-jarige-vrouw.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/afzetlint-gebruikt-bij-een-afzetting-van-een-pd.jpg"
 ---
 

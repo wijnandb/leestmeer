@@ -5,6 +5,7 @@ date: Sat, 12 May 2018 09:00:00 GMT
 categories: 
 - flevoland 
 - noordoostpolder 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/12/03-emmeloord-slachtoffer-steekincident-overleden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/nw-operationeel-uniform-2.jpg"
 ---
 

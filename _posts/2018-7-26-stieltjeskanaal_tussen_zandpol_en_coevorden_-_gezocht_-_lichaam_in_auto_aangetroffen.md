@@ -2,9 +2,8 @@
 layout: post
 title: "Stieltjeskanaal tussen Zandpol en Coevorden - Gezocht - Lichaam in auto aangetroffen"
 date: Thu, 26 Jul 2018 05:20:00 GMT
-categories: 
-- drenthe 
-- coevorden 
+category: drenthe
+externe_link: "https://www.politie.nl/gezocht-en-vermist/dossiers/2017/01-stieltjeskanaal-lichaam-in-auto-aangetroffen/01-stieltjeskanaal-lichaam-in-auto-aangetroffen.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/nieuws/2017/maar/01-noord-nl/foto-stieltjeskanaal.jpg"
 ---
 

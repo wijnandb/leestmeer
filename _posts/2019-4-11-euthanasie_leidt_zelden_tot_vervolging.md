@@ -2,7 +2,7 @@
 layout: post
 title: "Euthanasie leidt zelden tot vervolging"
 date: Thu, 11 Apr 2019 17:09:22 +0200
-category: binnenland
+category: nieuws
 externe_link: "https://www.telegraaf.nl/nieuws/3432536/euthanasie-leidt-zelden-tot-vervolging"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d6dc295c-5c6b-11e9-a131-0255c322e81b.jpg"
 ---

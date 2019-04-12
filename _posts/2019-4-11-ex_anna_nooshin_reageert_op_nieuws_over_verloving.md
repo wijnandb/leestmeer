@@ -2,9 +2,8 @@
 layout: post
 title: "Ex Anna Nooshin reageert op nieuws over verloving"
 date: Thu, 11 Apr 2019 12:30:02 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3429903/ex-anna-nooshin-reageert-op-nieuws-over-verloving"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/cba1c3a2-5c44-11e9-b843-0218eaf05005.jpg"
 ---
 

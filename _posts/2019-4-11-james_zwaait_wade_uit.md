@@ -2,7 +2,9 @@
 layout: post
 title: "James zwaait Wade uit"
 date: Thu, 11 Apr 2019 09:14:06 +0200
-category: sport
+categories: 
+- sport 
+- scoreboard 
 externe_link: "https://www.telegraaf.nl/sport/3428398/james-zwaait-wade-uit"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/69b68aa0-5c2c-11e9-9a52-0218eaf05005.jpg"
 ---

@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 09:14:46 +0200
 categories: 
 - entertainment 
 - gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/3421878/hilaria-baldwin-bevestigt-miskraam"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d8abb514-5b7f-11e9-96f7-02d2fb1aa1d7.jpg"
 ---
 

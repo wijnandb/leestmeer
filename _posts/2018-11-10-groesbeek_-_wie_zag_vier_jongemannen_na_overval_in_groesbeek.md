@@ -5,6 +5,7 @@ date: Sat, 10 Nov 2018 09:54:00 GMT
 categories: 
 - gelderland 
 - groesbeek 
+externe_link: "https://www.politie.nl/nieuws/2018/november/10/02-groesbeek-wie-zag-vier-jongemannen-na-overval-in-groesbeek.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/detail-afzetlint.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Coquard rijdt Van der Poel uit leiderstrui"
 date: Wed, 10 Apr 2019 16:36:21 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/3426039/coquard-rijdt-van-der-poel-uit-leiderstrui"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/025fd764-5b9e-11e9-8d7a-0218eaf05005.jpg"
 ---

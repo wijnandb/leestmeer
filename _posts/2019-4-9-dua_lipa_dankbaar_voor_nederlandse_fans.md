@@ -2,7 +2,9 @@
 layout: post
 title: "Dua Lipa dankbaar voor Nederlandse fans"
 date: Tue, 09 Apr 2019 12:53:48 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3416727/dua-lipa-dankbaar-voor-nederlandse-fans"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/cb4e0d26-5acc-11e9-9fc0-0217670beecd.jpg"
 ---

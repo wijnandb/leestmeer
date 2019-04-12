@@ -4,7 +4,6 @@ title: "Uitslag van het aftapwet-referendum en een gigantisch schandaal bij Face
 date: Thu, 22 Mar 2018 16:49:58 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4134/nporadio1_nosop3techpodcast_20180322_uitslag-van-het-aftapwet-referendum-en-een-gigantisch-schandaal-bij-facebook.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4134/nporadio1_nosop3techpodcast_20180322_uitslag-van-het-aftapwet-referendum-en-een-gigantisch-schandaal-bij-facebook.mp3"
 ---
 
 0:00 Het is the day after het referendum over de nieuwe inlichtingenwet, dus we kijken naar de uitslag en wat daarmee gaat gebeuren.

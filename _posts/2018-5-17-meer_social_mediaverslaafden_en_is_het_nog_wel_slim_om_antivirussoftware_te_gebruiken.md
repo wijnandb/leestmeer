@@ -4,7 +4,6 @@ title: "Meer social mediaverslaafden en is het nog wel slim om antivirussoftware
 date: Thu, 17 May 2018 16:29:42 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4126/nporadio1_nosop3techpodcast_20180517_meer-social-mediaverslaafden-en-is-het-nog-wel-slim-om-antivirussoftware-te-gebruiken.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4126/nporadio1_nosop3techpodcast_20180517_meer-social-mediaverslaafden-en-is-het-nog-wel-slim-om-antivirussoftware-te-gebruiken.mp3"
 ---
 
 0:00 Het percentage jongeren dat verslaafd is aan social media is de afgelopen drie jaar met de helft toegenomen. Hoe kan het dat ze zo vastgelijmd zitten aan onze telefoon?

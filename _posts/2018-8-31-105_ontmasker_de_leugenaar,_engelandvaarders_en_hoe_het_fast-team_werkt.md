@@ -4,7 +4,6 @@ title: "#105: Ontmasker de leugenaar, Engelandvaarders en hoe het FAST-team werk
 date: Sat, 01 Sep 2018 00:00:00 +0200
 category: podcast
 externe_link: "https://podcast.npo.nl/file/het-beste-uit-het-oog/2926/nporadio1_het-beste-uit-het-oog_20180901_105-ontmasker-de-leugenaar-engelandvaarders-en-hoe-het-fast-team-werkt.mp3"
-feature_image: "https://podcast.npo.nl/file/het-beste-uit-het-oog/2926/nporadio1_het-beste-uit-het-oog_20180901_105-ontmasker-de-leugenaar-engelandvaarders-en-hoe-het-fast-team-werkt.mp3"
 ---
 
 Bij de aanhouding van Jos B. in Spanje speelde het FAST-team van de politie een grote rol. Normaal spoort dat team gevluchte tbs'ers en veroordeelde mensen die zich niet melden op. Danielle Los legt uit waarom waarom FAST toch betrokken was bij het opsporen van de verdachte in de zaak-Nicky Verstappen.

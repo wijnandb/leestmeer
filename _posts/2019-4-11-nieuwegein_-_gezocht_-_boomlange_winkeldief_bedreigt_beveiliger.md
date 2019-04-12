@@ -2,9 +2,8 @@
 layout: post
 title: "Nieuwegein - Gezocht - Boomlange winkeldief bedreigt beveiliger"
 date: Thu, 11 Apr 2019 11:46:00 GMT
-categories: 
-- utrecht 
-- nieuwegein 
+category: utrecht
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/april/03-boomlange-winkeldief-bedreigt-beveiliger.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/april/03-mn/nieuwegein-10-winkeldfst.jpg"
 ---
 

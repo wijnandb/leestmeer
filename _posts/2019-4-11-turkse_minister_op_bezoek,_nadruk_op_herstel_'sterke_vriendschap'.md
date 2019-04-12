@@ -2,7 +2,7 @@
 layout: post
 title: "Turkse minister op bezoek, nadruk op herstel 'sterke vriendschap'"
 date: Thu, 11 Apr 2019 12:09:54 +0200
-category: nieuws
+category: politiek
 externe_link: "https://nos.nl/l/2279966"
 feature_image: "https://nos.nl/data/image/2019/04/11/542859/1008x567.jpg"
 ---

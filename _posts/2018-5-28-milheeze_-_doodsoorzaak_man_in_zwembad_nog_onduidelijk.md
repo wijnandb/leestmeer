@@ -4,7 +4,8 @@ title: "Milheeze - Doodsoorzaak man in zwembad nog onduidelijk"
 date: Mon, 28 May 2018 12:05:00 GMT
 categories: 
 - noord-brabant 
-- gemert-bakel 
+- someren 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/28/09-doodsoorzaak-man-in-zwembad-nog-onduidelijk.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/opsporing-recherche/busje-forensische-opsporing.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 15 Mar 2017 10:15:00 GMT
 categories: 
 - zuid-holland 
 - hardinxveld-giessendam 
+externe_link: "https://www.politie.nl/nieuws/2017/maart/15/07-aanhouding-overval-supermarkt.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

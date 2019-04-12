@@ -5,6 +5,7 @@ date: Fri, 14 Sep 2018 08:29:00 GMT
 categories: 
 - noord-holland 
 - oostzaan 
+externe_link: "https://www.politie.nl/nieuws/2018/september/14/05-automobilist-opnieuw-betrapt-voor-rijden-zonder-rijbewijs.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/bij-een-verkeerscontrole.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Fri, 16 Nov 2018 11:56:00 GMT
 categories: 
 - utrecht 
 - bunnik 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/november/03-werkhoven-31-brand.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/brandweerauto.jpg"
 ---
 

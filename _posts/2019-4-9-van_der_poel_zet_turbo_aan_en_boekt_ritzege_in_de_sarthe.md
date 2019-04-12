@@ -2,7 +2,9 @@
 layout: post
 title: "Van der Poel zet turbo aan en boekt ritzege in de Sarthe"
 date: Tue, 09 Apr 2019 16:12:48 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2279698"
 feature_image: "https://nos.nl/data/image/2019/04/09/542478/1008x567.jpg"
 ---

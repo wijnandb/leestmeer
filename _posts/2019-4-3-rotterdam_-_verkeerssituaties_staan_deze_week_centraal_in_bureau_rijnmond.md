@@ -5,6 +5,7 @@ date: Wed, 03 Apr 2019 13:49:00 GMT
 categories: 
 - zuid-holland 
 - rotterdam 
+externe_link: "https://www.politie.nl/nieuws/2019/april/3/07-verkeerssituaties-staan-deze-week-centraal-in-bureau-rijnmond.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/augustus/07-rt/br_logo_vierkant.jpg"
 ---
 

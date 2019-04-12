@@ -2,8 +2,8 @@
 layout: post
 title: "'Nazorg ex-kankerpatiënten schiet ernstig tekort'"
 date: Fri, 12 Apr 2019 04:24:32 +0200
-category: nieuws
-externe_link: "https://nos.nl/l/2280060"
+category: binnenland
+externe_link: "http://feeds.nos.nl/~r/nosnieuwsbinnenland/~3/NGM7DdgR2fs/2280060"
 feature_image: "https://nos.nl/data/image/2017/12/28/440554/1008x567.jpg"
 ---
 
@@ -14,4 +14,4 @@ feature_image: "https://nos.nl/data/image/2017/12/28/440554/1008x567.jpg"
 <p>Eén op de vijf mensen gaf aan tien jaar na de diagnose nog ernstig vermoeid te zijn. Ook concentratie- of geheugenproblemen, depressies, minder plezier in seks en angst op terugkeer voor de ziekte worden genoemd.</p>
 <p>Begin deze maand werd al bekend dat zestig procent van de patiënten door de ziekte financiële schade lijdt. Tien procent van de patiënten verliest zijn of haar baan. Ook krijgt deze groep minder snel of soms geen hypotheek.</p>
 <h2>Begrip</h2>
-<p>Iets minder dan de helft van de mensen die kanker hebben of de ziekte overleefden, zegt geen informatie te hebben gekregen over ondersteunende zorg. De NFK roept daarom op om meer begrip te tonen voor deze groep mensen.</p>
+<p>Iets minder dan de helft van de mensen die kanker hebben of de ziekte overleefden, zegt geen informatie te hebben gekregen over ondersteunende zorg. De NFK roept daarom op om meer begrip te tonen voor deze groep mensen.</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbinnenland/~4/NGM7DdgR2fs" height="1" width="1" alt=""/>

@@ -2,9 +2,8 @@
 layout: post
 title: "Huizenzoeker heeft de moed opgegeven"
 date: Fri, 12 Apr 2019 05:30:00 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3433924/huizenzoeker-heeft-de-moed-opgegeven"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1d8f4cd2-5cec-11e9-bdb3-0218eaf05005.jpg"
 ---
 

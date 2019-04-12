@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 09:52:00 GMT
 categories: 
 - overijssel 
 - hengelo 
+externe_link: "https://www.ad.nl/hengelo/totale-vergroening-van-het-marktplein-in-hengelo-is-kansloos~ace55bc5/"
 feature_image: "https://images3.persgroep.net/rcs/Cudjfh-o7IrsqGhrxZJsACW0d2M/diocontent/143805450/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

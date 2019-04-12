@@ -5,6 +5,7 @@ date: Mon, 31 Dec 2018 08:40:00 GMT
 categories: 
 - zuid-holland 
 - rijswijk 
+externe_link: "https://www.politie.nl/nieuws/2018/december/31/06-twee-verdachten-aangehouden-voor-brandstichting-auto%E2%80%99s.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/brandweerauto.jpg"
 ---
 

@@ -2,9 +2,8 @@
 layout: post
 title: "Column: Europese Unie moet Chinese dreiging serieus nemen"
 date: Fri, 12 Apr 2019 10:40:58 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3435393/column-europese-unie-moet-chinese-dreiging-serieus-nemen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5e3fa64c-5cff-11e9-9da7-0255c322e81b.jpg"
 ---
 

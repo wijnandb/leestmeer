@@ -5,6 +5,7 @@ date: Tue, 17 Jul 2018 11:47:00 GMT
 categories: 
 - fryslan 
 - leeuwarden 
+externe_link: "https://www.politie.nl/nieuws/2018/juli/17/01-vijf-aanhoudingen-in-onderzoek-naar-faciliteren-georganiseerde-hennepteelt.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/juli/01-nn/180717-actiedag-leeuwarden.jpg"
 ---
 

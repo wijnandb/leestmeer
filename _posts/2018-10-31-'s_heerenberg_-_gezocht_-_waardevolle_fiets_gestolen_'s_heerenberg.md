@@ -5,6 +5,7 @@ date: Wed, 31 Oct 2018 10:07:00 GMT
 categories: 
 - gelderland 
 - montferland 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/oktober/02-oon/gld/waardevolle-fiets-gestolen-s-heerenberg.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/oktober/02-on/2018410684-1.jpg"
 ---
 

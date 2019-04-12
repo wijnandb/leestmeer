@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "'Krijg toch allemaal de ......'"
-date: Fri, 12 Apr 2019 08:51:43 GMT
+date: Fri, 12 Apr 2019 08:51:00 GMT
 categories: 
-- zuid-holland 
-- gouda 
+- utrecht 
+- woerden 
+externe_link: "https://www.ad.nl/woerden/krijg-toch-allemaal-de~a394d983/"
 feature_image: "https://images4.persgroep.net/rcs/6QWXOXhwMxc7URrSWDlxOsVesWI/diocontent/145251267/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

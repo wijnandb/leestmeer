@@ -2,7 +2,9 @@
 layout: post
 title: "Ajax mist Tagliafico in de return tegen Juventus"
 date: Wed, 10 Apr 2019 21:50:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3427341/ajax-mist-tagliafico-in-de-return-tegen-juventus"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/585832a0-5bd6-11e9-a00c-02c309bc01c1.jpg"
 ---

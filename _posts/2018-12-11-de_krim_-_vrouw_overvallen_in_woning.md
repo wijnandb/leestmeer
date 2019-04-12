@@ -5,6 +5,7 @@ date: Tue, 11 Dec 2018 15:18:00 GMT
 categories: 
 - overijssel 
 - hardenberg 
+externe_link: "https://www.politie.nl/nieuws/2018/december/11/02-de-krim-vrouw-overvallen-in-woning.html"
 ---
 
 Maandagavond 10 december is er een overval op een woning aan de Kikkertsveldweg gepleegd. De politie is een onderzoek gestart en is op zoek naar getuigen van de overval.

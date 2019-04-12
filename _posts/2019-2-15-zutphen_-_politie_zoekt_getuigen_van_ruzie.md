@@ -5,6 +5,7 @@ date: Fri, 15 Feb 2019 11:53:00 GMT
 categories: 
 - gelderland 
 - zutphen 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/15/02-zutphen-politie-zoekt-getuigen-van-ruzie.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/februari/02-on/zutphen_emmerikseweg.jpg"
 ---
 

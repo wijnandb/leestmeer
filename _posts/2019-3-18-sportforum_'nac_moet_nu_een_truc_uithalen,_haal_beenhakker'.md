@@ -6,7 +6,6 @@ categories:
 - sport 
 - podcast 
 externe_link: "https://podcast.npo.nl/file/nos-langs-de-lijn-sport-forum/4790/nporadio1_nos-langs-de-lijn-sport-forum_20190318_sportforum-nac-moet-nu-een-truc-uithalen-haal-beenhakker_8IDP0S.mp3"
-feature_image: "https://podcast.npo.nl/file/nos-langs-de-lijn-sport-forum/4790/nporadio1_nos-langs-de-lijn-sport-forum_20190318_sportforum-nac-moet-nu-een-truc-uithalen-haal-beenhakker_8IDP0S.mp3"
 ---
 
 Het Sportforum van maandag 18 maart. Met aan tafel Volkskrant-journalist Lennart Bloemhof, NOS-voetbalcommentator Jeroen Grueter en AD-journalist Sjoerd Mossou.

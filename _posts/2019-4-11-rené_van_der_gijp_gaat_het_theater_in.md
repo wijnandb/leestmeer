@@ -3,8 +3,9 @@ layout: post
 title: "René van der Gijp gaat het theater in"
 date: Thu, 11 Apr 2019 04:00:54 GMT
 categories: 
-- zuid-holland 
-- dordrecht 
+- entertainment 
+- theater 
+externe_link: "https://www.ad.nl/show/rene-van-der-gijp-gaat-het-theater-in~ae8dbced/"
 feature_image: "https://images3.persgroep.net/rcs/SWD5pSavGLZycjHXoT2HBMw5pf0/diocontent/118216295/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

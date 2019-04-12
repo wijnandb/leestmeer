@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 18:26:54 GMT
 categories: 
 - overijssel 
 - enschede 
+externe_link: "https://www.ad.nl/enschede/luchtmacht-oefent-in-het-donker-met-parachutesprongen-boven-twente~a6e8937b/"
 feature_image: "https://images1.persgroep.net/rcs/uUh_wcCElngvWGt5vWQi1R9iCMw/diocontent/108274101/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

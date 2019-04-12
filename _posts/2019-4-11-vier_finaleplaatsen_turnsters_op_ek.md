@@ -2,7 +2,9 @@
 layout: post
 title: "Vier finaleplaatsen turnsters op EK"
 date: Thu, 11 Apr 2019 22:06:16 +0200
-category: sport
+categories: 
+- sport 
+- scoreboard 
 externe_link: "https://www.telegraaf.nl/sport/3433747/vier-finaleplaatsen-turnsters-op-ek"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/09b659e0-5c96-11e9-bda1-02d2fb1aa1d7.jpg"
 ---

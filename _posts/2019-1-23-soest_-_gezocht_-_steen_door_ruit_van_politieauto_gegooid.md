@@ -5,6 +5,7 @@ date: Wed, 23 Jan 2019 13:41:00 GMT
 categories: 
 - utrecht 
 - soest 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/januari/03-soest-23-steen-door-ruit-van-politieauto-gegooid.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/januari/03-mn/soest-23-steen.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Makers The Crown hebben hun Diana gevonden"
 date: Tue, 09 Apr 2019 21:43:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3420220/makers-the-crown-hebben-hun-diana-gevonden"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/29b9bae2-5b02-11e9-8c76-02d1dbdc35d1.jpg"
 ---

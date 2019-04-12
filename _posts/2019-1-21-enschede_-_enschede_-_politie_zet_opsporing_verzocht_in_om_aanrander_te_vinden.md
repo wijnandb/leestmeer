@@ -5,6 +5,7 @@ date: Mon, 21 Jan 2019 10:15:00 GMT
 categories: 
 - overijssel 
 - enschede 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/21/02-politie-zet-opsporing-verzocht-in-om-aanrander-te-vinden-enschede.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/januari/09-ob/opsporing-verzocht.jpg"
 ---
 

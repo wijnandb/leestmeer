@@ -5,6 +5,7 @@ date: Fri, 14 Dec 2018 16:53:00 GMT
 categories: 
 - zuid-holland 
 - ouderkerk 
+externe_link: "https://www.politie.nl/nieuws/2018/december/14/06-ouderkerk-ad-ijssel-illegaal-vuurwerk-aangetroffen-na-melding.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/december/06-dh/vuurwerk-2.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Sterk Ajax houdt kans op halve finales Champions League"
 date: Wed, 10 Apr 2019 22:51:43 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3427492/sterk-ajax-houdt-kans-op-halve-finales-champions-league"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ddbe0a72-5beb-11e9-847b-0218eaf05005.jpg"
 ---

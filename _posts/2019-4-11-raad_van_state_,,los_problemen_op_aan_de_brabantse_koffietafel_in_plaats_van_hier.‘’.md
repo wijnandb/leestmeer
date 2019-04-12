@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 10:58:29 GMT
 categories: 
 - noord-brabant 
 - roosendaal 
+externe_link: "https://www.ad.nl/roosendaal/raad-van-state-los-problemen-op-aan-de-brabantse-koffietafel-in-plaats-van-hier~ae81f0c1/"
 feature_image: "https://images2.persgroep.net/rcs/DB0859KghpbxKRuu3vX4EElEWmo/diocontent/102203943/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

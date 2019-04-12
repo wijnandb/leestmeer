@@ -5,6 +5,7 @@ date: Fri, 15 Mar 2019 07:54:00 GMT
 categories: 
 - noord-holland 
 - amsterdam 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/15/11-amsterdammer-aangehouden-voor-verzenden-drugspakketjes.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2014/oktober/05-amsterdam/xtc_small.jpg"
 ---
 

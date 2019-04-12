@@ -4,7 +4,8 @@ title: "Hengelo, Raalte - In Onder de Loep: Driemaal overval op tankstation"
 date: Thu, 10 Jan 2019 13:32:00 GMT
 categories: 
 - overijssel 
-- oldenzaal 
+- raalte 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/10/02-in-onder-de-loep-driemaal-overval-op-tankstation.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/onderwerpen/onder-de-loep.jpg"
 ---
 

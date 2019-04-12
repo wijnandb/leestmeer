@@ -4,7 +4,8 @@ title: "Goeree-Overflakkee - Aanhouding in reeks branden Goeree-Overflakkee"
 date: Fri, 01 Feb 2019 16:13:00 GMT
 categories: 
 - zuid-holland 
-- dirksland 
+- goeree-overflakkee 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/1/07-aanhouding-in-reeks-branden-goeree-overflakkee.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/detailopname-surveillancewagen.jpg"
 ---
 

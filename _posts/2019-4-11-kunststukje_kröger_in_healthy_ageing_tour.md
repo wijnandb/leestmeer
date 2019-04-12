@@ -2,7 +2,9 @@
 layout: post
 title: "Kunststukje Kröger in Healthy Ageing Tour"
 date: Thu, 11 Apr 2019 17:32:20 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2279999"
 feature_image: "https://nos.nl/data/image/2019/04/11/542921/1008x567.jpg"
 ---

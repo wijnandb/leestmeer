@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 16:35:18 +0200
 categories: 
 - sport 
 - wielrennen 
+externe_link: "https://nos.nl/l/2279988"
 feature_image: "https://nos.nl/data/image/2019/04/11/542902/1008x567.jpg"
 ---
 

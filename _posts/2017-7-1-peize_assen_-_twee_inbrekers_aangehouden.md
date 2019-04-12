@@ -5,6 +5,7 @@ date: Sat, 01 Jul 2017 07:26:00 GMT
 categories: 
 - drenthe 
 - noordenveld 
+externe_link: "https://www.politie.nl/nieuws/2017/juli/1/01-twee-inbrekers-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-3.jpg"
 ---
 

@@ -4,7 +4,8 @@ title: "Hamilton enthousiast over Zandvoort"
 date: Thu, 11 Apr 2019 14:01:43 +0200
 categories: 
 - sport 
-- autosport 
+- scoreboard 
+externe_link: "https://www.telegraaf.nl/sport/3430599/hamilton-enthousiast-over-zandvoort"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/01a13cd2-5c52-11e9-8d0e-02d1dbdc35d1.jpg"
 ---
 

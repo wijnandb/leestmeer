@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 10:08:22 GMT
 categories: 
 - zuid-holland 
 - westland 
+externe_link: "https://www.ad.nl/westland/eerste-hotel-in-centrum-naaldwijk-opent-binnenkort-de-deuren~acfb2a41/"
 feature_image: "https://images3.persgroep.net/rcs/1Pq4WGZdId7TGPHdVGSrrJOFg-g/diocontent/144827636/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Sun, 24 Mar 2019 10:47:00 GMT
 categories: 
 - zuid-holland 
 - vlaardingen 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/24/07-politie-onderzoekt-autobranden-vlaardingen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/nachtelijke-inzet-politie-en-brandweer.jpg"
 ---
 

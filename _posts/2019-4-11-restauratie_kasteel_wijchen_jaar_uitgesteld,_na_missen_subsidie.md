@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 04:33:43 GMT
 categories: 
 - gelderland 
 - wijchen 
+externe_link: "https://www.ad.nl/wijchen/restauratie-kasteel-wijchen-jaar-uitgesteld-na-missen-subsidie~a02a5684/"
 feature_image: "https://images0.persgroep.net/rcs/D864E0kHhcu51QYYGf0QcOvRARY/diocontent/107056055/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -5,6 +5,7 @@ date: Wed, 09 Jan 2019 13:54:00 GMT
 categories: 
 - noord-brabant 
 - cranendonck 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/9/09-drugsbusje-gestopt-dankzij-oplettende-getuige.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/januari/09-ob/budel.jpg"
 ---
 

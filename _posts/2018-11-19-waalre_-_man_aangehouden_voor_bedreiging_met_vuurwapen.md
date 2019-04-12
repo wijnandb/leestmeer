@@ -5,6 +5,7 @@ date: Mon, 19 Nov 2018 15:33:00 GMT
 categories: 
 - noord-brabant 
 - waalre 
+externe_link: "https://www.politie.nl/nieuws/2018/november/19/09-man-aangehouden-voor-bedreiging-met-vuurwapen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/november/09-ob/wapen-waalre-goed.jpg"
 ---
 

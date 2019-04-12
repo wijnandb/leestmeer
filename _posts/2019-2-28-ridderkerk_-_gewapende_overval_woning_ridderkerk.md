@@ -5,6 +5,7 @@ date: Thu, 28 Feb 2019 09:15:00 GMT
 categories: 
 - zuid-holland 
 - ridderkerk 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/28/07-gewapende-overval-woning-ridderkerk.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/man-wordt-geboeid-afgevoerd.jpg"
 ---
 

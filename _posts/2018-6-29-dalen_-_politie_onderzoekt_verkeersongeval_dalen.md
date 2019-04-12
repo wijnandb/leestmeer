@@ -5,6 +5,7 @@ date: Fri, 29 Jun 2018 09:28:00 GMT
 categories: 
 - drenthe 
 - coevorden 
+externe_link: "https://www.politie.nl/nieuws/2018/juni/29/01-politie-onderzoekt-ongeval-dalen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/nw-operationeel-uniform-2.jpg"
 ---
 

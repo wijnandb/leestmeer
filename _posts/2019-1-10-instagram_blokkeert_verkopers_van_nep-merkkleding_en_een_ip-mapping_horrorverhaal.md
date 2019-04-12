@@ -4,7 +4,6 @@ title: "Instagram blokkeert verkopers van nep-merkkleding en een IP-mapping horr
 date: Thu, 10 Jan 2019 17:19:44 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4092/nporadio1_nosop3techpodcast_20190110_instagram-blokkeert-verkopers-van-nep-merkkleding-en-een-ip-mapping-horrorverhaal.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4092/nporadio1_nosop3techpodcast_20190110_instagram-blokkeert-verkopers-van-nep-merkkleding-en-een-ip-mapping-horrorverhaal.mp3"
 ---
 
 0:00 Op Instagram wordt op grote schaal nep-merkkleding verkocht. Vorig jaar werden 2000 accounts hierom verwijderd, maar toch hoef je niet ver te zoeken naar een namaak Gucci-riem.

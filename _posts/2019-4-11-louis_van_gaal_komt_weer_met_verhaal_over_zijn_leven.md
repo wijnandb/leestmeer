@@ -2,7 +2,9 @@
 layout: post
 title: "Louis van Gaal komt weer met verhaal over zijn leven"
 date: Thu, 11 Apr 2019 14:06:03 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3430633/louis-van-gaal-komt-weer-met-verhaal-over-zijn-leven"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3042803c-5c52-11e9-bda1-02d2fb1aa1d7.jpg"
 ---

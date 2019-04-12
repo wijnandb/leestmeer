@@ -5,6 +5,7 @@ date: Wed, 17 Jan 2018 10:54:00 GMT
 categories: 
 - noord-brabant 
 - son_en_breugel 
+externe_link: "https://www.politie.nl/nieuws/2018/januari/17/09-weer-drie-verdachten-opgepakt-voor-overvallenreeks.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-2.jpg"
 ---
 

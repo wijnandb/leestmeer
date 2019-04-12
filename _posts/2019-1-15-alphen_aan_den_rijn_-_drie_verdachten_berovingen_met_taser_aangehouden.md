@@ -5,6 +5,7 @@ date: Tue, 15 Jan 2019 11:40:00 GMT
 categories: 
 - zuid-holland 
 - alphen_aan_den_rijn 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/15/06-alphen-aan-den-rijn-drie-verdachten-berovingen-met-taser-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/zijkant-politieauto-met-logo.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Maan en Tony Junior op 7th Sunday Festival"
 date: Fri, 12 Apr 2019 11:31:42 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3435784/maan-en-tony-junior-op-7th-sunday-festival"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c83a81c4-5d05-11e9-ac91-02d2fb1aa1d7.jpg"
 ---

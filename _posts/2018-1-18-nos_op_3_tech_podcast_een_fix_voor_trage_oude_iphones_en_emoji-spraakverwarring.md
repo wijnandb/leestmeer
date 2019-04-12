@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Een fix voor trage oude iPhones en emoji-spraakve
 date: Thu, 18 Jan 2018 17:30:00 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4145/nporadio1_nosop3techpodcast_20180118_nos-op-3-tech-podcast-een-fix-voor-trage-oude-iphones-en-emoji-spraakverwarring.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4145/nporadio1_nosop3techpodcast_20180118_nos-op-3-tech-podcast-een-fix-voor-trage-oude-iphones-en-emoji-spraakverwarring.mp3"
 ---
 
 0:00 Oudere iPhones worden slomer in nieuwe versies van iOS. Apple doet dit om de batterij te sparen, maar als je wil kan je die vertraging binnenkort uitschakelen.

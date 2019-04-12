@@ -5,6 +5,7 @@ date: Tue, 26 Feb 2019 19:46:00 GMT
 categories: 
 - zuid-holland 
 - westland 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/26/06-wateringen-aanhoudingen-na-vondst-drugslab.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/februari/06-dh/2019-drugslab-wateringen22.jpg"
 ---
 

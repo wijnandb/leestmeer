@@ -5,6 +5,7 @@ date: Fri, 06 Apr 2018 11:46:00 GMT
 categories: 
 - zuid-holland 
 - pijnacker-nootdorp 
+externe_link: "https://www.politie.nl/nieuws/2018/april/6/07-tackel-wordt-vluchtende-verdachte-fataal.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/politieauto-met-zwaailicht-nacht.jpg"
 ---
 

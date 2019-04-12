@@ -4,7 +4,8 @@ title: "Sprang-Capelle - Verkeerscontroles in Kaatsheuvel, Dongen (2) Waalwijk e
 date: Wed, 27 Feb 2019 12:02:00 GMT
 categories: 
 - noord-brabant 
-- dongen 
+- waalwijk 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/27/08-verkeerscontroles-in-kaatsheuvel-dongen-2-waalwijk-en-loon-op-zand.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/februari/08-zw/langstraat-vk-2.jpg"
 ---
 

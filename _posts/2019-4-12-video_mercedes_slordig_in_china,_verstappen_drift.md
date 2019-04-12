@@ -4,7 +4,8 @@ title: "Video: Mercedes slordig in China, Verstappen drift"
 date: Fri, 12 Apr 2019 08:52:16 +0200
 categories: 
 - sport 
-- autosport 
+- scoreboard 
+externe_link: "https://www.telegraaf.nl/sport/3434687/video-mercedes-slordig-in-china-verstappen-drift"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3015278c-5d00-11e9-bda1-02d2fb1aa1d7.jpg"
 ---
 

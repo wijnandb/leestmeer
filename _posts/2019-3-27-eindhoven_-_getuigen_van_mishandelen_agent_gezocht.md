@@ -5,6 +5,7 @@ date: Wed, 27 Mar 2019 13:32:00 GMT
 categories: 
 - noord-brabant 
 - eindhoven 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/27/09-getuigen-van-mishandelen-agent-gezocht.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/logos/politielogo-gevel.jpg"
 ---
 

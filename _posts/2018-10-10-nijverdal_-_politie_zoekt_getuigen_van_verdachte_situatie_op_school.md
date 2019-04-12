@@ -5,6 +5,7 @@ date: Wed, 10 Oct 2018 16:00:00 GMT
 categories: 
 - overijssel 
 - hellendoorn 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/10/02-nijverdal-getuigenoproep-verdachte-situatie.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/detail-afzetlint.jpg"
 ---
 

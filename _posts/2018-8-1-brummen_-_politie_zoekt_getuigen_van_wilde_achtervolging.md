@@ -5,6 +5,7 @@ date: Wed, 01 Aug 2018 12:52:00 GMT
 categories: 
 - gelderland 
 - brummen 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/1/02-brummen-%E2%80%93-politie-zoekt-getuigen-van-wilde-achtervolging.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/augustus/02-on/achtervolging-brummen.jpg"
 ---
 

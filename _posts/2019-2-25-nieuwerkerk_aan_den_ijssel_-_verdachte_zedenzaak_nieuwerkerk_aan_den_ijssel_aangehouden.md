@@ -5,6 +5,7 @@ date: Mon, 25 Feb 2019 13:26:00 GMT
 categories: 
 - zuid-holland 
 - zuidplas 
+externe_link: "https://www.politie.nl/nieuws/2019/februari/25/06-verdachte-zedenzaak-nieuwerkerk-aan-den-ijssel-aangehouden.html"
 ---
 
 De politie hield maandagochtend 25 februari in Capelle aan den IJssel een 29-jarige man aan als verdachte in een zedenzaak in Nieuwerkerk aan den IJssel in februari 2018.

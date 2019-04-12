@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 08:58:04 GMT
 categories: 
 - overijssel 
 - enschede 
+externe_link: "https://www.ad.nl/enschede/expositie-met-kunst-van-plastic-afval-op-ut~a6ea9e63/"
 feature_image: "https://images1.persgroep.net/rcs/FHY3SYoNMTd6-zCW85D_WtoXICc/diocontent/145226701/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

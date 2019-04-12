@@ -5,6 +5,7 @@ date: Wed, 02 Jan 2019 10:27:00 GMT
 categories: 
 - noord-brabant 
 - uden 
+externe_link: "https://www.politie.nl/nieuws/2019/januari/2/uitzending-bureau-brabant-maandag-7-januari.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/januari/08-zw/bb7januari.jpg"
 ---
 

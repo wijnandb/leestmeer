@@ -2,9 +2,8 @@
 layout: post
 title: "’Onenigheid over timing Duitse bankenfusie’"
 date: Thu, 11 Apr 2019 10:24:12 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3428816/onenigheid-over-timing-duitse-bankenfusie"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b1d195b2-5c33-11e9-bda1-02d2fb1aa1d7.jpg"
 ---
 

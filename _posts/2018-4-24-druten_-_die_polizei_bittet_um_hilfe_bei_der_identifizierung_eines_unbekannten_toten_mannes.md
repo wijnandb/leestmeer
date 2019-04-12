@@ -5,6 +5,7 @@ date: Tue, 24 Apr 2018 05:03:00 GMT
 categories: 
 - gelderland 
 - druten 
+externe_link: "https://www.politie.nl/nieuws/2018/april/24/02-die-polizei-bittet-um-hilfe-bei-der-identifizierung-eines-unbekannten-toten-mannes.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/april/02-on/vermist1.jpg"
 ---
 

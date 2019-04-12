@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 05:30:00 +0200
 categories: 
 - entertainment 
 - royalty 
+externe_link: "https://www.telegraaf.nl/entertainment/3421102/wil-masako-wel-echt-keizerin-worden"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/36ab9446-5b0c-11e9-a131-0255c322e81b.jpg"
 ---
 

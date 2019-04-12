@@ -5,6 +5,7 @@ date: Mon, 08 Oct 2018 14:39:00 GMT
 categories: 
 - zuid-holland 
 - albrandswaard 
+externe_link: "https://www.politie.nl/nieuws/2018/oktober/8/07-limburger-aangehouden-voor-overval-op-lachgaspatroonverkoper-rhoon.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/oktober/07-rt/images.jpg"
 ---
 

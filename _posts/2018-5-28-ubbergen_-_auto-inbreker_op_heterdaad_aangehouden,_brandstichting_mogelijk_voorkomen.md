@@ -5,6 +5,7 @@ date: Mon, 28 May 2018 08:42:00 GMT
 categories: 
 - gelderland 
 - ubbergen 
+externe_link: "https://www.politie.nl/nieuws/2018/mei/28/02-ubbergen-auto-inbreker-op-heterdaad-aangehouden-brandstichting-mogelijk-voorkomen.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/autoradio-gestolen-na-inbraak.jpg"
 ---
 

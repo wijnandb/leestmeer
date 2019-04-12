@@ -5,6 +5,7 @@ date: Mon, 30 Apr 2018 09:17:00 GMT
 categories: 
 - overijssel 
 - ommen 
+externe_link: "https://www.politie.nl/nieuws/2018/april/30/02-social-media-ijsselland.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/april/02-on/infographic-webcare-ijsselland.jpg"
 ---
 

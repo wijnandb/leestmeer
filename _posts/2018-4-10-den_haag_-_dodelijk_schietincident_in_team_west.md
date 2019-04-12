@@ -5,6 +5,7 @@ date: Tue, 10 Apr 2018 13:07:00 GMT
 categories: 
 - zuid-holland 
 - pijnacker-nootdorp 
+externe_link: "https://www.politie.nl/nieuws/2018/april/10/06-den-haag-dodelijk-schietincident-in-team-west.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/augustus/06-dh/esther-in-studio-met-watermerk.jpg"
 ---
 

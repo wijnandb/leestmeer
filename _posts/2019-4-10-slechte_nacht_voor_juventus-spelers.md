@@ -2,7 +2,9 @@
 layout: post
 title: "Slechte nacht voor Juventus-spelers"
 date: Wed, 10 Apr 2019 08:08:29 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3421601/slechte-nacht-voor-juventus-spelers"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ce8e7584-5b8a-11e9-9a52-0218eaf05005.jpg"
 ---

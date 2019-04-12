@@ -4,7 +4,8 @@ title: "Opgesloten dj’s na dik 72 uur ontsnapt uit escape room"
 date: Thu, 11 Apr 2019 07:33:00 GMT
 categories: 
 - entertainment 
-- show 
+- televisie 
+externe_link: "https://www.ad.nl/show/opgesloten-dj-s-na-dik-72-uur-ontsnapt-uit-escape-room~ab2b1848/"
 feature_image: "https://images1.persgroep.net/rcs/6xJk0QW4OoRpo4DLPff8iGFOyEo/diocontent/145292581/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

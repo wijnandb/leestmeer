@@ -5,6 +5,7 @@ date: Wed, 06 Jun 2018 13:22:00 GMT
 categories: 
 - zuid-holland 
 - papendrecht 
+externe_link: "https://www.politie.nl/nieuws/2018/juni/6/07-raadsels-rond-zwaargewonde-amerikaanse-student-morgen-in-%E2%80%98bureau-rijnmond%E2%80%99.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/augustus/07-rt/br_logo_vierkant.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Mon, 19 Nov 2018 13:27:00 GMT
 categories: 
 - zuid-holland 
 - nieuwkoop 
+externe_link: "https://www.politie.nl/nieuws/2018/november/19/06-twee-aanhoudingen-na-plofkraak-nieuwkoop.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/detail-afzetlint.jpg"
 ---
 

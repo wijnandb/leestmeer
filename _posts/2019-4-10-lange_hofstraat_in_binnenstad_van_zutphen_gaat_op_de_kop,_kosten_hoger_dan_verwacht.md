@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 14:45:32 GMT
 categories: 
 - gelderland 
 - zutphen 
+externe_link: "https://www.ad.nl/zutphen/lange-hofstraat-in-binnenstad-van-zutphen-gaat-op-de-kop-kosten-hoger-dan-verwacht~a03bfd37/"
 feature_image: "https://images1.persgroep.net/rcs/26lbvx-OjllW8CPFcsoZwwy7xJM/diocontent/145229075/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

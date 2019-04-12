@@ -5,6 +5,7 @@ date: Thu, 27 Sep 2018 13:21:00 GMT
 categories: 
 - flevoland 
 - lelystad 
+externe_link: "https://www.politie.nl/nieuws/2018/september/27/verdachten-autodiefstal-na-achtervolging-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/mijn-buurt/wijkprojecten/01--noord-nederland/politieauto-nacht.jpg"
 ---
 

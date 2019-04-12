@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Verzekeraar ASR zegt ‘nee’ tegen bonussen – is dit het keerpunt in het beloningsoproer?"
-date: Tue, 09 Apr 2019 14:40:14 GMT
+date: Tue, 09 Apr 2019 14:40:00 GMT
 categories: 
 - financieel 
 - economie 

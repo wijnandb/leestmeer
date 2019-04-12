@@ -2,7 +2,9 @@
 layout: post
 title: "Ajax beslist het voor Nederland"
 date: Wed, 10 Apr 2019 23:02:34 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/3427554/ajax-beslist-het-voor-nederland"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/47e85e2a-5c28-11e9-a131-0255c322e81b.jpg"
 ---

@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Vrouwen die hacken en ontploffende smartphones"
 date: Thu, 06 Oct 2016 15:59:19 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4205/nporadio1_nosop3techpodcast_20161006_nos-op-3-tech-podcast-vrouwen-die-hacken-en-ontploffende-smartphones.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4205/nporadio1_nosop3techpodcast_20161006_nos-op-3-tech-podcast-vrouwen-die-hacken-en-ontploffende-smartphones.mp3"
 ---
 
 ?Hackers houden hun wapens graag dicht tegen de borst. Zowel de hackers die kwaad in de zin hebben, als de hackers die bedrijven proberen te beschermen. ?Me?lanie Rieback leidt zo’n team van ethische hackers en laat bedrijven zien hoe ze inbreken op hun systemen.

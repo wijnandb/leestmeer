@@ -2,7 +2,7 @@
 layout: post
 title: "Spionagezaak dwingt kabinet tot snel besluit over aanleg 5G"
 date: Thu, 11 Apr 2019 14:15:00 GMT
-category: binnenland
+category: tech
 externe_link: "https://www.ad.nl/politiek/spionagezaak-dwingt-kabinet-tot-snel-besluit-over-aanleg-5g~a3790bd2/"
 feature_image: "https://images0.persgroep.net/rcs/K41uo7mSKy-3BU8iGl_9U4VdiZY/diocontent/145152877/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

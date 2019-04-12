@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Help jij astronauten met poepen?"
 date: Thu, 01 Dec 2016 15:30:30 +0100
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4197/nporadio1_nosop3techpodcast_20161201_nos-op-3-tech-podcast-help-jij-astronauten-met-poepen.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4197/nporadio1_nosop3techpodcast_20161201_nos-op-3-tech-podcast-help-jij-astronauten-met-poepen.mp3"
 ---
 
 Meer dan de helft van de websites van de overheid biedt geen beveiligde verbinding. Daardoor weet je niet wie er meekijkt met de  informatie die je zoekt en verstuurt.

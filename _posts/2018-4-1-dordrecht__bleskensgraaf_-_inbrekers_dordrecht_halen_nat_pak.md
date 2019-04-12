@@ -5,6 +5,7 @@ date: Sun, 01 Apr 2018 09:24:00 GMT
 categories: 
 - zuid-holland 
 - molenwaard 
+externe_link: "https://www.politie.nl/nieuws/2018/april/1/07-inbrekers-dordrecht-halen-nat-pak.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/agent-praat-in-portofoon.jpg"
 ---
 

@@ -4,7 +4,8 @@ title: "Schaijk - Man aangehouden in onderzoek naar moord op Henk Baum"
 date: Mon, 12 Nov 2018 08:34:00 GMT
 categories: 
 - noord-brabant 
-- bernheze 
+- landerd 
+externe_link: "https://www.politie.nl/nieuws/2018/november/12/09-man-aangehouden-in-onderzoek-naar-moord-op-henk-baum.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/maart/09-ob/20180322_170549.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Sun, 31 Mar 2019 07:02:00 GMT
 categories: 
 - noord-brabant 
 - zundert 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/31/08-motorrijder-en-passagier-overleden-na-aanrijding.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/infra-en-voertuigen/agent-staat-op-snelweg.jpg"
 ---
 

@@ -5,6 +5,7 @@ date: Thu, 08 Nov 2018 14:37:00 GMT
 categories: 
 - noord-brabant 
 - best 
+externe_link: "https://www.politie.nl/nieuws/2018/november/6/09-uitzending-bureau-brabant-maandag-12-november.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/november/09-ob/20181112-standupper-ehv.jpg"
 ---
 

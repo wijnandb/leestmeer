@@ -3,8 +3,8 @@ layout: post
 title: "Buiten schreeuwen de buitenvrouwen"
 date: Sun, 07 Apr 2019 07:30:00 +0200
 categories: 
-- overig 
-- columns 
+- entertainment 
+- opinie 
 externe_link: "https://www.telegraaf.nl/columns/3404231/buiten-schreeuwen-de-buitenvrouwen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/094def5a-5902-11e9-9fc0-0217670beecd.jpg"
 ---

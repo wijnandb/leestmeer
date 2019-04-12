@@ -2,9 +2,8 @@
 layout: post
 title: "Jarige Duncan Laurence zorgt voor grapjes"
 date: Thu, 11 Apr 2019 15:22:09 +0200
-categories: 
-- entertainment 
-- gossip 
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3431371/jarige-duncan-laurence-zorgt-voor-grapjes"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d58ab69a-5c5c-11e9-b673-0255c322e81b.jpg"
 ---
 

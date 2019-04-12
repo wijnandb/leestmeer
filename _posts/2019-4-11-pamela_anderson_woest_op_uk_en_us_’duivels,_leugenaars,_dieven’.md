@@ -2,7 +2,9 @@
 layout: post
 title: "Pamela Anderson woest op UK en US: ’Duivels, leugenaars, dieven’"
 date: Thu, 11 Apr 2019 16:26:21 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3432161/pamela-anderson-woest-op-uk-en-us-duivels-leugenaars-dieven"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f42e674a-5c6b-11e9-8459-02d1dbdc35d1.jpg"
 ---

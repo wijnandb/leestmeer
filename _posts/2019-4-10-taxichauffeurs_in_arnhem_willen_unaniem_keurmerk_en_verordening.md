@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 10:31:24 GMT
 categories: 
 - gelderland 
 - arnhem 
+externe_link: "https://www.ad.nl/arnhem/taxichauffeurs-in-arnhem-willen-unaniem-keurmerk-en-verordening~a6cab265/"
 feature_image: "https://images1.persgroep.net/rcs/ZFnz8FlnRnOlD0kuJ3Qq0LPHzgo/diocontent/144449236/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

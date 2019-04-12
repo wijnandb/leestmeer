@@ -5,6 +5,7 @@ date: Thu, 09 Aug 2018 08:27:00 GMT
 categories: 
 - zuid-holland 
 - molenwaard 
+externe_link: "https://www.politie.nl/nieuws/2018/augustus/9/07-wapens-kadavers-munitie-en-geld-gevonden-bij-woning-ottoland.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/augustus/07-rt/f-180809-b-ottoland.jpg"
 ---
 

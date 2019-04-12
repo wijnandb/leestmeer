@@ -5,6 +5,7 @@ date: Tue, 19 Feb 2019 08:42:00 GMT
 categories: 
 - zuid-holland 
 - zuidplas 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/februari/dh/tw-19-02/06-zedenzaak-blaasdorpseweg-nieuwerkerk-aan-den-ijssel.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/februari/06-dh/tw-19-02/190219_team_seksueel-misbruik-nieuwerkerk-riem2.jpg"
 ---
 

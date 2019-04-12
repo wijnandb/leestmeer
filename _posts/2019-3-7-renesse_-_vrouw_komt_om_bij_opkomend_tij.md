@@ -5,6 +5,7 @@ date: Thu, 07 Mar 2019 19:54:00 GMT
 categories: 
 - zeeland 
 - schouwen-duiveland 
+externe_link: "https://www.politie.nl/nieuws/2019/maart/7/08-noordzee-renesse.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/agent-praat-in-portofoon.jpg"
 ---
 

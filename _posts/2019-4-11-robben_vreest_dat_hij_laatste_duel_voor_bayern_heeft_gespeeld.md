@@ -2,7 +2,9 @@
 layout: post
 title: "Robben vreest dat hij laatste duel voor Bayern heeft gespeeld"
 date: Thu, 11 Apr 2019 14:57:57 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://nos.nl/l/2279981"
 feature_image: "https://nos.nl/data/image/2019/02/25/533275/1008x567.jpg"
 ---

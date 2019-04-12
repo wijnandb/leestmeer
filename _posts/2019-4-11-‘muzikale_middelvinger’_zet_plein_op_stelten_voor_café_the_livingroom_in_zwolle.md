@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 20:18:28 GMT
 categories: 
 - overijssel 
 - zwolle 
+externe_link: "https://www.ad.nl/zwolle/muzikale-middelvinger-zet-plein-op-stelten-voor-cafe-the-livingroom-in-zwolle~abe4fff4/"
 feature_image: "https://images3.persgroep.net/rcs/djVPZIlUrtzfTC5Lv1WNAEbWuFA/diocontent/145333660/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

@@ -2,9 +2,8 @@
 layout: post
 title: "Spurs-spits Kane heeft zware enkelblessure"
 date: Thu, 11 Apr 2019 19:04:24 GMT
-categories: 
-- sport 
-- voetbal 
+category: sport
+externe_link: "https://www.ad.nl/buitenlands-voetbal/spurs-spits-kane-heeft-zware-enkelblessure~a5cb5d2bb/"
 feature_image: "https://images2.persgroep.net/rcs/slm35lxqLiu3McfGfFIwrAm4ej8/diocontent/145198796/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

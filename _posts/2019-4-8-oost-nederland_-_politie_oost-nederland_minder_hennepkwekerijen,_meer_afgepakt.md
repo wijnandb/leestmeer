@@ -2,7 +2,7 @@
 layout: post
 title: "Oost-Nederland - Politie Oost-Nederland Minder hennepkwekerijen, meer afgepakt"
 date: Mon, 08 Apr 2019 09:33:00 GMT
-category: gelderland
+category: overijssel
 externe_link: "https://www.politie.nl/nieuws/2019/april/8/02-politie-oost-nederland-minder-hennepkwekerijen-meer-afgepakt.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/drugs/kwekerij-in-woning.jpg"
 ---

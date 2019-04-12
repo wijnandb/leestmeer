@@ -2,9 +2,8 @@
 layout: post
 title: "Huizenprijzen eurozone stijgen opnieuw"
 date: Thu, 11 Apr 2019 11:27:51 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3429415/huizenprijzen-eurozone-stijgen-opnieuw"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/691312e8-5c3c-11e9-a27a-02d1dbdc35d1.jpg"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Herman Finkers wint Blijvend Applaus Prijs"
 date: Thu, 11 Apr 2019 13:21:02 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/3430270/herman-finkers-wint-blijvend-applaus-prijs"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e3c16472-5c4b-11e9-92e5-02d2fb1aa1d7.jpg"
 ---

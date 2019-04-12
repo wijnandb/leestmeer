@@ -5,6 +5,7 @@ date: Thu, 22 Feb 2018 13:39:00 GMT
 categories: 
 - drenthe 
 - assen 
+externe_link: "https://www.politie.nl/nieuws/2018/februari/22/01-politie-rolt-hennepkwekerij-van-bestuurslid-no-surrender-op.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/drugs/agent-zit-in-kamer-met-hennepplanten.jpg"
 ---
 

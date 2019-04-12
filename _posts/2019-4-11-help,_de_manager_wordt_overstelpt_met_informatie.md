@@ -2,9 +2,8 @@
 layout: post
 title: "Help, de manager wordt overstelpt met informatie"
 date: Thu, 11 Apr 2019 08:47:00 +0200
-categories: 
-- financieel 
-- geld 
+category: binnenland
+externe_link: "https://www.telegraaf.nl/financieel/3427878/help-de-manager-wordt-overstelpt-met-informatie"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bba7010c-5c25-11e9-9da7-0255c322e81b.jpg"
 ---
 

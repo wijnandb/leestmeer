@@ -2,9 +2,8 @@
 layout: post
 title: "'Boskalis raakt baggerklus Elbe kwijt'"
 date: Thu, 11 Apr 2019 09:52:42 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3428611/boskalis-raakt-baggerklus-elbe-kwijt"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ff1a7d70-5c2e-11e9-b6df-02d2fb1aa1d7.jpg"
 ---
 

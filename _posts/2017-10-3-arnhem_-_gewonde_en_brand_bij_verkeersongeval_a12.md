@@ -5,6 +5,7 @@ date: Tue, 03 Oct 2017 06:49:00 GMT
 categories: 
 - gelderland 
 - epe 
+externe_link: "https://www.politie.nl/nieuws/2017/oktober/3/02-arnhem-gewonde-en-brand-bij-verkeersongeval-a12.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/ambulance.jpg"
 ---
 

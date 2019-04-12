@@ -2,7 +2,9 @@
 layout: post
 title: "Rotterdam Project-Patrick brengt drugsverleden in beeld"
 date: Tue, 09 Apr 2019 18:18:31 +0200
-category: entertainment
+categories: 
+- entertainment 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/3419672/rotterdam-project-patrick-brengt-drugsverleden-in-beeld"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1dc76c94-5ae3-11e9-847b-0218eaf05005.jpg"
 ---

@@ -5,6 +5,7 @@ date: Thu, 29 Nov 2018 12:32:00 GMT
 categories: 
 - gelderland 
 - zaltbommel 
+externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2018/november/02-oon/fb/duo-steelt-tandenborstels-en-scheermesjes-zaltbommel.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2018/november/02-on/2018475064-1.jpg"
 ---
 

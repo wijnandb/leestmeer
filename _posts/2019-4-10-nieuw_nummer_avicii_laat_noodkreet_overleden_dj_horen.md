@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 18:33:00 GMT
 categories: 
 - entertainment 
 - muziek 
+externe_link: "https://www.ad.nl/show/nieuw-nummer-avicii-laat-noodkreet-overleden-dj-horen~a4ef9960/"
 feature_image: "https://images3.persgroep.net/rcs/5rGAA3Z_XtxU91cSgzxRxJ9V7DM/diocontent/122438768/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

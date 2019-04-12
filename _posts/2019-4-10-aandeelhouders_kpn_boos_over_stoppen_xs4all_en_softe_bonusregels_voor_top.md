@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 15:14:00 GMT
 categories: 
 - financieel 
 - economie 
+externe_link: "https://www.ad.nl/economie/aandeelhouders-kpn-boos-over-stoppen-xs4all-en-softe-bonusregels-voor-top~a2d4cced/"
 feature_image: "https://images2.persgroep.net/rcs/Zn76xFJy_uKFZBgqYEuLOEeJSEs/diocontent/140549828/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

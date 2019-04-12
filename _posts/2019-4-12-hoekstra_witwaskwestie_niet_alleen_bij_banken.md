@@ -2,9 +2,8 @@
 layout: post
 title: "Hoekstra: witwaskwestie niet alleen bij banken"
 date: Fri, 12 Apr 2019 08:18:20 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3434535/hoekstra-witwaskwestie-niet-alleen-bij-banken"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c4f7ce42-5cea-11e9-8fb5-02c309bc01c1.jpg"
 ---
 

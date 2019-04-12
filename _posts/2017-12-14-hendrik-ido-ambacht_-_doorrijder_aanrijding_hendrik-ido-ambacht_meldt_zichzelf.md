@@ -5,6 +5,7 @@ date: Thu, 14 Dec 2017 15:34:00 GMT
 categories: 
 - zuid-holland 
 - hendrik-ido-ambacht 
+externe_link: "https://www.politie.nl/nieuws/2017/december/14/07-doorrijder-aanrijding-hendrik-ido-ambacht-bekend.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2017/december/07-rt/dq_qfyyx0aawarx.jpg"
 ---
 

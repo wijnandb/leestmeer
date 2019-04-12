@@ -5,6 +5,7 @@ date: Wed, 05 Sep 2018 13:54:00 GMT
 categories: 
 - noord-brabant 
 - grave 
+externe_link: "https://www.politie.nl/nieuws/2018/september/5/09-uitzending-bureau-brabant-maandag-10-september.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2018/september/09-ob/reco-zeeland.jpg"
 ---
 

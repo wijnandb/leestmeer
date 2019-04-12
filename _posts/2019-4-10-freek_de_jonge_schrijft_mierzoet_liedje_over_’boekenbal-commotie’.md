@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 14:17:10 +0200
 categories: 
 - entertainment 
 - gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/3424364/freek-de-jonge-schrijft-mierzoet-liedje-over-boekenbal-commotie"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/26465c06-5b8b-11e9-ba01-0255c322e81b.jpg"
 ---
 

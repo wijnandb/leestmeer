@@ -2,9 +2,8 @@
 layout: post
 title: "ASML: van Chinese spionage geen sprake"
 date: Thu, 11 Apr 2019 14:12:01 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3430689/asml-van-chinese-spionage-geen-sprake"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bea9d98c-5c53-11e9-b6df-02d2fb1aa1d7.jpg"
 ---
 

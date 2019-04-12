@@ -5,6 +5,7 @@ date: Thu, 15 Nov 2018 13:42:00 GMT
 categories: 
 - zuid-holland 
 - teylingen 
+externe_link: "https://www.politie.nl/nieuws/2018/november/15/06-warmond-politie-houdt-twee-jongens-aan-na-afsteken-illegaal-vuurwerk-warmond.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/aanhouding-handboeien-3.jpg"
 ---
 

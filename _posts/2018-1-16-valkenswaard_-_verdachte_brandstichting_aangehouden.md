@@ -5,6 +5,7 @@ date: Tue, 16 Jan 2018 11:58:00 GMT
 categories: 
 - noord-brabant 
 - valkenswaard 
+externe_link: "https://www.politie.nl/nieuws/2018/januari/16/09-verdachte-brandstichting-aangehouden.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/partners-o.a.-brandweer-ambulance/brandweer-en-politie-bij-incident-in-de-avond.jpg"
 ---
 

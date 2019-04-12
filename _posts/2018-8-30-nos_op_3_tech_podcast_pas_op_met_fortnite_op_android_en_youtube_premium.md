@@ -4,7 +4,6 @@ title: "NOS op 3 Tech Podcast: Pas op met Fortnite op Android en Youtube Premium
 date: Thu, 30 Aug 2018 16:20:28 +0200
 category: tech
 externe_link: "https://podcast.npo.nl/file/nosop3techpodcast/4111/nporadio1_nosop3techpodcast_20180830_nos-op-3-tech-podcast-pas-op-met-fortnite-op-android-en-youtube-premium.mp3"
-feature_image: "https://podcast.npo.nl/file/nosop3techpodcast/4111/nporadio1_nosop3techpodcast_20180830_nos-op-3-tech-podcast-pas-op-met-fortnite-op-android-en-youtube-premium.mp3"
 ---
 
 0:00 Let op als je Fortnite wilt downloaden op je Android telefoon. Uitgever Epic Games heeft besloten om het spel buiten de officiële Google Play Store aan te bieden, en daar kleven wat risico's aan.

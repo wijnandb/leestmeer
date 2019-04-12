@@ -5,6 +5,7 @@ date: Thu, 11 Apr 2019 04:45:06 GMT
 categories: 
 - utrecht 
 - utrecht 
+externe_link: "https://www.ad.nl/utrecht/auto-uitgebrand-in-leidsche-rijn-poging-bij-busje-mislukt~acffc520/"
 feature_image: "https://images1.persgroep.net/rcs/pwLmLMYVdAFoUV4zaL-T9hBxQlY/diocontent/145285916/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

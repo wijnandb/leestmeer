@@ -4,7 +4,7 @@ title: "Supermarkten verhogen prijzen weer naar eindcijfer 9 na btw-verhoging: â
 date: Wed, 03 Apr 2019 09:42:00 GMT
 categories: 
 - entertainment 
-- eten 
+- gezondheid 
 externe_link: "https://www.ad.nl/economie/supermarkten-verhogen-prijzen-weer-naar-eindcijfer-9-na-btw-verhoging-dan-lijken-ze-goedkoper~a837b70a/"
 feature_image: "https://images1.persgroep.net/rcs/qfFZcaqv56z3JgVszuzn-zgxYJA/diocontent/138915596/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---

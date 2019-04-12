@@ -5,6 +5,7 @@ date: Wed, 10 Apr 2019 15:44:00 GMT
 categories: 
 - zuid-holland 
 - alphen 
+externe_link: "https://www.ad.nl/alphen/rockband-bokkers-op-weiland-in-oersaai-woubrugge~a971d318/"
 feature_image: "https://images1.persgroep.net/rcs/zVUPVhCwjx4JivuiA23UfJPVmVY/diocontent/142737197/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
 ---
 

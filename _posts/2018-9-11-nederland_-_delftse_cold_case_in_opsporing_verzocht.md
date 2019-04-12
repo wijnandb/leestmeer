@@ -5,6 +5,7 @@ date: Tue, 11 Sep 2018 15:00:00 GMT
 categories: 
 - flevoland 
 - lelystad 
+externe_link: "https://www.politie.nl/nieuws/2018/september/11/opsporing-verzocht-11-september-2018.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/gezocht/opsporing-verzocht/algemeen-beeld/nieuw-deco/belpanel-nieuw-decor.jpg"
 ---
 
