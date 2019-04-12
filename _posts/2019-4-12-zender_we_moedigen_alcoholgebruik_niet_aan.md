@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Zender: we moedigen alcoholgebruik niet aan"
+date: Fri, 12 Apr 2019 18:10:23 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3438656/zender-we-moedigen-alcoholgebruik-niet-aan"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7a655450-5d3d-11e9-a27a-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Comedy Central zegt alcoholgebruik niet actief aan te moedigen in het nieuwe programma Drunk History.</p> <p>Op het programma is kritiek omdat het wordt aangeprezen met de slogan ’dronken artiesten, acteurs en presentatoren vertellen bezopen verhalen uit de vaderlandse geschiedenis’. De Stichting Verantwoorde Alcoholconsumptie (STIVA) vindt echter dat Comedy Central overmatig alcoholgebruik in een positief daglicht stelt. Op de wens van STIVA af te zien van het programma, gaat de zender niet concreet in.</p><p>De zender zegt in een schriftelijke verklaring in het programma vertellers „uit te nodigen om een verhaal uit de vaderlandse geschiedenis te vertellen onder het genot van hun favoriete drankje.” Volgens Comedy Central houdt een medisch professional voortdurend het alcoholgebruik in de gaten ’om te voorkomen dat er onaanvaardbare risico’s worden genomen’. Ook zal een een duidelijk zichtbaar advies aan het begin van iedere uitzending worden gegeven.</p><p>In de stichting STIVA werken Nederlandse producenten en importeurs van bier, wijn en gedistilleerd samen om drankmisbruik tegen te gaan, vooral onder jongeren. De stichting claimt dat er merken zijn die overwegen te minderen of te stoppen met adverteren op de zender. Comedy Central gaat in de schriftelijke verklaring niet op die claim in. Mondeling geeft de zender geen toelichting.</p><p>Aan het programma werken een groot aantal bekende Nederlanders mee, zoals Victoria Koblenko, Jelka van Houten, Rob Kamphues, Birgit Schuurmans, rapper Keizer, Donnie, Nance Coolen, Jody Bernal Jasper Demollin, Loes Luca, Roué Verveer, Nienke Plas, JayJay Boske, Dio en Stefano Keizers.</p>

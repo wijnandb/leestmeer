@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Bevoegdheid staatssecretaris rond verblijfsvergunning in mei van de baan"
+date: Fri, 12 Apr 2019 18:53:31 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3438796/bevoegdheid-staatssecretaris-rond-verblijfsvergunning-in-mei-van-de-baan"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0c8dc5c6-5d4b-11e9-ac91-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">De bevoegdheid voor de staatssecretaris Mark Harbers (Justitie en Veiligheid) om in schrijnende gevallen een verblijfsvergunning te geven aan asielzoekers verdwijnt per 1 mei. Harbers heeft dat vrijdag aan de Tweede Kamer geschreven.</p> <p>Dat de zogeheten discretionaire bevoegdheid geschrapt zou worden was al eerder door de regeringspartijen afgesproken in het akkoord over het kinderpardon dat de coalitie in januari sloot. De hoofddirecteur van de Immigratie- en Naturalisatiedienst (IND) heeft na 1 mei nog wel de mogelijkheid een verblijfsvergunning voor beperkte tijd aan asielzoekers toe te kennen. Dan moet wel sprake zijn van een schrijnende situatie. De bevoegdheid van de IND geldt tot een rechterlijke uitspraak in hoger beroep.</p><p>In het besluit van Harbers staat dat prikkels die het verblijf in Nederland verlengen, moeten worden verminderd. Nu houdt een vreemdeling hoop op een verblijfsvergunning tot het allerlaatste moment door de discretionaire bevoegdheid. „Dat leidt er mede toe dat het verblijf wordt gerekt”, aldus Harbers.</p><p>Tweede Kamerlid Joël Voordewind van de ChristenUnie is blij met de uitwerking van de afspraken over het kinderpardon. De discretionaire bevoegdheid zorgde er volgens hem voor dat de onzekerheid onnodig lang bleef bestaan doordat ze pas aan het einde van de procedure in beeld kwam. In de nieuwe regels kan al meteen een beroep worden gedaan op schrijnende omstandigheden.</p><p>’Verdwijnen barmhartigheid’</p><p>VluchtelingenWerk Nederland is niet tevreden. De barmhartigheid verdwijnt volgens de organisatie uit het asielbeleid.</p>

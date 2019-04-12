@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Carrie Fisher toch in negende Star Wars-film te zien"
+date: Fri, 12 Apr 2019 19:06:48 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3438848/carrie-fisher-toch-in-negende-star-wars-film-te-zien"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5bd7dcbc-5d45-11e9-9da7-0255c322e81b.jpg"
+---
+
+<p class="intro">Regisseur J.J. Abrams heeft voor de scènes met Leia Organa in de nieuwe Star Wars-film oud materiaal van het zevende deel, The Force Awakens, kunnen gebruiken. Dat vertelde hij volgens The Hollywood Reporter vrijdag op een grote Star Wars-conventie in Chicago.</p> <p>Actrice Carrie Fisher, die het personage al in vijf delen vertolkte, overleed vlak na het voltooien van de achtste film, The Last Jedi eind december 2016. „We konden de rol niet opnieuw casten voor deel 9. En we konden haar personage niet plotseling laten verdwijnen”, legde J.J. Abrams uit.</p><p>„Op miraculeuze wijze hadden we nog een aantal scènes uit The Force Awakens die niet in de uiteindelijke film waren beland. Door dat materiaal te bekijken, kwamen we op een idee om die scènes te kunnen gebruiken en op deze manier haar verhaal toch door te laten gaan.”</p><p>’Heel surrealistisch’</p><p>De suggestie om Leia Organa met digitale effecten te recreëren, werd van tafel geveegd. Eerder verscheen een jonge Leia op die manier wel in de prequel Rogue One. „We keken elkaar aan en zeiden: „Wat nou als we het verhaal om de scènes die we van haar hadden, heen konden schrijven?” Fisher is in de scènes te zien met haar dochter, Billie Lourd. De actrice vertolkt in de nieuwe Star Wars-reeks de rol van Lieutenant Connix.</p><p>„Elke dag op de set merkten we dat ze er niet was”, stelde J.J. Abrams tijdens de conventie. „Het is heel surrealistisch omdat we dus wel elke dag met haar werken. Ze is springlevend in de scènes in Star Wars 9.” Het resultaat is vanaf 20 december te zien in de Nederlandse bioscopen.</p>
