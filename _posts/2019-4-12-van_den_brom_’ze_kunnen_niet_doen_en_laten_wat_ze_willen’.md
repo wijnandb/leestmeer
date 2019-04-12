@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Van den Brom: ’Ze kunnen niet doen en laten wat ze willen’"
+date: Fri, 12 Apr 2019 15:23:27 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3437509/van-den-brom-ze-kunnen-niet-doen-en-laten-wat-ze-willen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4bab6e12-5d27-11e9-ba01-0255c322e81b.jpg"
+---
+
+<p class="intro">In een poging om zijn ploeg weer in de winning mood te krijgen, deelde AZ-trainer John van den Brom daags voor de thuiswedstrijd met ADO Den Haag een fikse waarschuwing uit.</p> <p>Aan het adres van Calvin Stengs en Oussama Idrissi wel te verstaan, de vleugelspelers die de laatste duels lelijk uit vorm zijn. Van den Brom probeert in de regel altijd zijn vertrouwen uit te spreken aan zijn basisspelers. „Maar het betekent niet dat spelers kunnen doen en laten wat ze willen, dat ze te allen tijde blijven staan. Als ze niet meer doen waarvoor ze op het veld staan, zowel aanvallend als verdedigend, dan maken ze het zichzelf enorm moeilijk.”</p><p>Stengs en Idrissi</p><p>De 52-jarige hoofdtrainer doelde expliciet op zijn aanvallers Stengs en Idrissi, die het vooral in aanvallend opzicht laten afweten. „Ze spelen iets minder, klaar. Nu zitten ze qua discipline nog goed in het verdedigende aspect. Maar ze zijn wel aanvaller. Ik vind het niet erg als een actie een keer niet lukt. Maar het wordt een probleem als ze geen acties meer maken. Want waarom staan ze dan nog op het veld?”</p><p>Plek drie</p><p>In de jacht op de zevende thuiszege op rij beloofde Van den Brom vast te houden aan de formatie die voor AZ na de winterstop de meeste kastanjes uit het vuur wist te slepen. Met enige compassie voor zijn vleugelaanvallers: „Het zijn jonge gasten, ze moeten hier even doorheen zien te komen.” „Ik weet ook wel dat ze over dusdanige kwaliteiten beschikken, dat ze er ineens weer kunnen staan. Dat ze er uit het niets een beslissende, geniale actie kunnen uitslingeren. Dan weet ik dat ze heel snel over die mindere vorm heen zijn.”</p><p>Bekijk hier het programma, de uitslagen en de stand in de Eredivisie.</p>
