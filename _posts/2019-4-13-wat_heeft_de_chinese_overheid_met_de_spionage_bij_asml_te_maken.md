@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Wat heeft de Chinese overheid met de spionage bij ASML te maken?"
+date: Sat, 13 Apr 2019 07:40:45 +0200
+category: nieuws
+externe_link: "https://nos.nl/l/2280228"
+feature_image: "https://nos.nl/data/image/2018/01/17/444528/1008x567.jpg"
+---
+
+<p>Wie zit er achter de spionage bij ASML? Dat is de vraag die politici bezighoudt, nadat Het Financieele Dagblad deze week had ontdekt dat oud-werknemers van de Nederlandse chipmachinefabrikant belangrijke informatie wisten te stelen, om vervolgens snel een succesvolle concurrent uit de grond te stampen.</p>
+<p>In Den Haag werd al snel een verband gelegd met de Chinese overheid. VVD-Kamerlid Van Haga spreekt van 'staatsgeleide diefstal', en D66-Kamerlid Sjoerdsma zegt dat de AIVD al jaren waarschuwt voor Chinese spionage: "Terecht, blijkt maar weer eens."</p>
+<p>Of de Chinese overheid achter de spionage zit, is niet duidelijk. Direct bewijs is er niet. Er zijn wel relaties tussen de spionnen, het stelende bedrijf en de Chinese overheid. Wat weten we daar over?</p>
+<h2>Wie zit er achter het bedrijf?</h2>
+<p>Spil in de spionagezaak is XTAL, het bedrijf dat de diefstal aanstuurde om er vervolgens zelf aan te verdienen. Het bedrijf is gevestigd in Silicon Valley, en volgens de eigen website opgericht door een private investeerder in Hong Kong.</p>
+<p>Veel informatie over die investeerder, met de naam Finest Sino, is niet te vinden. Alleen dat het bedrijf volledig in handen is van een groot Chinees staalbedrijf: China Oriental Group Company.</p>
+<p>Op de website van het staalbedrijf staat beschreven wie er aan het roer staan, met helemaal bovenaan de ceo en voorzitter Han Jingyuan. Een voormalig congreslid, en een veel gelauwerde man, blijkt uit de toelichting.</p>
+<p>Zo mag hij zich onder andere de 'Most Attention-grabbing Chinese Entrepreneur' (de Chinese ondernemer die de meeste aandacht op zich vestigt) noemen, en staat hij in de 'Top Ten Celebrities for China Reform Programme in the New Century' (vrij vertaald de top tien beroemdheden voor het Chinese hervormingsprogramma in de nieuwe eeuw) en in de 'Economic Top ten Men of Honesty and Credibility in China' (de economische top-10 van de eerlijkste en meest geloofwaardige mannen in China).</p>
+<p>Zijn zoon, Han Li, werkt eveneens in het bestuur van het staalbedrijf en is naast congreslid ook lid van de jongerenafdeling van de communistische partij. In het bestuur van XTAL zit ook een Han Li. Of dat dezelfde persoon is, kunnen we niet achterhalen.</p>
+<h2>'Een rotte appel'</h2>
+<p>ASML zelf zegt geen bewijs te hebben gevonden dat XTAL banden heeft met de Chinese overheid. Het stuurde zelfs een afzonderlijke verklaring naar buiten om de suggestie te ontkrachten dat de Chinese overheid achter de spionage zat.</p>
+<p>China is een belangrijke handelspartner voor ASML. Het bedrijf haalde er afgelopen jaar zo'n 17 procent van zijn omzet, goed voor 1,8 miljard euro. In verhouding daarmee is de over enkele jaren verspreidde schade door de spionage, zo'n 200 miljoen euro, beperkt. De schade van de spionage is dus vele malen kleiner dan wat het bedrijf verdient aan China.</p>
+<p>Volgens ASML draait de zaak om ordinaire diefstal en gaat het om een 'rotte appel': niet meer dan een stel criminelen die waardevolle informatie hebben gestolen om er zelf rijker van te worden. Bovendien hadden de daders verschillende nationaliteiten, zegt het bedrijf.</p>
+<h2>Waar komen de zes spionnen vandaan?</h2>
+<p>In totaal zijn er zes mensen veroordeeld voor de spionage bij ASML. Waar ze precies vandaan komen, vertelt ASML niet. Ook de website van XTAL geeft geen uitsluitsel. Wel staat er dat de drie bestuurders van het bedrijf die bij de spionage betrokken waren, naast aan Amerikaanse universiteiten, eerder ook aan een Chinese universiteit hebben gestudeerd.</p>
+<p>Uit cv's die als bewijsstukken zijn ingediend in de rechtszaak in de VS blijkt dat in elk geval nog een vierde spion ook aan een Chinese universiteit heeft gestudeerd alvorens naar Californië te komen. En een LinkedIn-profiel geeft hetzelfde aan bij een vijfde. Over de overgebleven dief, Wanyu Li, is niets te vinden.</p>
+<p>Dat ASML zich zorgen maakte dat de gestolen informatie, broncodes, software, strategieën en handleidingen die de spionnen gedownload hadden op een harde schijf, in China zou belanden, blijkt wel uit de rechtbankverslagen.</p>
+<p>De chipmachinefabrikant heeft de rechter gevraagd om XTAL te dwingen om de gestolen en gekopieerde informatie terug te geven of te vernietigen. In de loop van de rechtszaak blijkt dat ASML zich daarbij verkeken heeft op de reikwijdte van dat verzoek: het lijkt erop dat er nog steeds gevoelige informatie in handen is van XTAL.</p>
+<p>De advocaat van ASML, Patrick Ryan, vraagt de rechter in oktober vorig jaar dan ook om het bevel uit te breiden. "Als voorzorgsmaatregel", zegt hij, "gegeven de connecties tussen de verweerder en China. We weten niet wanneer mensen van plan zijn om naar China te gaan. En we willen niet dat onze handelsgeheimen geëxporteerd worden naar een ander land waar we ze niet meer terug kunnen krijgen."</p>
+<p>Staatsgestuurde spionage of niet, de Chinese overheid ziet zeker dat de wereldwijde chipindustrie een goudmijn is waar veel te halen valt. Volgens onderzoeksbureau Gartner ging er afgelopen jaar meer dan 420 miljard euro in om. En die markt blijft maar groeien.</p>
+<p>"Feit is dat Peking alles op alles zet om de eigen chipindustrie vooruit te helpen", zegt NOS-correspondent in China Sjoerd den Daas. "Met 'Made in China 2025' probeert Peking haar eigen bedrijven naar de wereldwijde voorhoede te parachuteren. Met belastingvoordelen, of subsidies bijvoorbeeld, moet China sterker worden in sleutelsectoren."</p>
+<p>Op sommige vlakken maakt China inderdaad veel vooruitgang. Zo is telecomgigant Huawei inmiddels opgestoomd tot een wereldspeler op het gebied van 5G. Den Daas: "In de chipindustrie, een sector waar veel geld zit in onderzoek in ontwikkeling, lukt dat nog veel minder goed."</p>
+<p>In 2017, het laatste jaar waarover cijfers beschikbaar zijn, was China 230 miljard kwijt aan de import van chips. "Als ze dat kunnen vervangen door Chinese chips, levert dat veel geld op."</p>
+<p>Zelf zegt China keer op keer dat het spel volgens de regels wordt gespeeld. "Afgelopen week nog, tijdens de jaarlijkse EU-Chinatop, ondertekende premier Li Keqiang de slotverklaring waarin hij wederom beloofde dat het belangrijk is om de internationale standaarden voor de bescherming van intellectueel eigendom te volgen, en die ook na te leven", aldus Den Daas.</p>
+<p>"In de praktijk klagen veel buitenlandse bedrijven dat die beloftes vaak juist niet worden nagekomen. De regels mogen op papier dan rechtvaardig lijken, als er in de praktijk niet naar wordt gehandeld, is dat frustrerend."</p>
+<p>Chipmakers als TSMC, Qualcomm en ook chipmachinebouwer ASML, zijn regelmatig het slachtoffer van cyberaanvallen. Ook merken ze dat er in sommige gevallen mensen worden weggekaapt. Voor wie mee wil bouwen aan de Chinese chipindustrie, liggen vaak grote pakketten klaar.</p>
+<h2>Verstandig zaken doen?</h2>
+<p>"Kunnen we wel verstandig zaken doen in China?", vraagt ASML zichzelf af in een schriftelijke verklaring, om zelf het antwoord te geven: "Ja natuurlijk. Dit was een rotte appel. Dat kunnen we nooit helemaal voorkomen, maar we hebben al actie ondernomen om het veel moeilijker te maken."</p>
+<p>Zo heeft de chipmachinefabrikant de bedrijfsinformatie nu gesegmenteerd, zodat medewerkers niet overal meer bij kunnen. Ook blijft het bedrijf gesprekken voeren met de Chinese overheid.</p>
+<p>"Eerder deze week spraken China en de EU af om bedrijfsgeheimen in China beter te respecteren. Dat moeten we ook nog terugzien in goede wetten en rechtspraak, maar het is beslist zeer bemoedigend", concludeert ASML.</p>
