@@ -2,7 +2,7 @@
 layout: post
 title: "De 13-jarige Anne wil leven, maar de anorexiawachtlijst brengt dat in gevaar"
 date: Sat, 13 Apr 2019 01:00:00 GMT
-category: nieuws
+category: nieuws 
 externe_link: "https://www.trouw.nl/home/de-13-jarige-anne-wil-leven-maar-de-anorexiawachtlijst-brengt-dat-in-gevaar-~ae464e96/"
 feature_image: "https://images4.persgroep.net/rcs/h76BDzmWXWimUd_bRWGz4cskPHA/diocontent/145405455/_focus/0.72/0.43/_fill/230/230?appId=e9b4e2a1869038ffcaf318a6d1463b0b&quality=0.9&format=jpeg"
 ---
