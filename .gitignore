@@ -1,2 +1,8 @@
 _site
 test_dir/
+*.sh
+.gitignore
+Gemfile.lock
+Gemfile
+minima.gemspec
+
