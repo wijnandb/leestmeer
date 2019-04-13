@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Vermist - Krispijn Sterrenburg"
+date: Sat, 13 Apr 2019 20:03:54 GMT
+category: politieberichten
+externe_link: "https://www.politie.nl/gezocht-en-vermist/vermiste-volwassenen/2019/april/krispijn-sterrenburg.html"
+feature_image: "https://www.politie.nl/binaries/w98h130/content/gallery/politie/vermist/vermiste-volwassenen/2019/april/krispijn-sterrenburg.jpg"
+---
+
+Krispijn heeft een vriend geappt waarbij hij afscheid van hem neemt, zodra hij een geschikte eindplek heeft gevonden.
