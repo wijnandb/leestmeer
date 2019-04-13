@@ -1,0 +1,12 @@
+---
+layout: post
+title: "’Cijferseizoen kan nog wel eens meevallen’"
+date: Sat, 13 Apr 2019 11:29:00 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/3439161/cijferseizoen-kan-nog-wel-eens-meevallen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/038c357e-5d51-11e9-a00c-02c309bc01c1.jpg"
+---
+
+<p class="intro">Zwartkijkers hebben de overhand in de aanloop naar het bedrijfscijferseizoen, dat komende week in alle hevigheid losbarst. Maar na de ronduit positief verrassende cijfers van de Amerikaanse banken JPMorgan en Wells Fargo kunnen er nog wel eens meer meevallers volgen.</p> <p>„Analisten zijn iets té negatief geweest, en de eerste nieuwe kwartaalcijfers zijn ook in absolute zin echt heel goed”, zegt Simon Wiersma, investment manager bij het investment office van ING. De komende beursweek openen onder meer ASML, Unilever en Vopak de boeken. Als altijd zijn er dan twee zaken van belang, zegt Wiersma: „Doet een bedrijf het in het eerste kwartaal beter dan analisten verwachtten? En wat zijn de vooruitzichten voor de rest van het jaar?”</p><p>Met dat laatste zijn bedrijven steeds voorzichtiger, ziet ook de ING-bankier. „Al sinds de afgelopen economische crisis. Het verbaast me dus niet als er ook nu niet al te verre outlooks zijn.”</p><p>Lichtpuntjes</p><p>Terwijl de markt nog steeds lijkt te rekenen met een winstdaling over de hele linie, ziet Wiersma al lichtpuntjes. „Misschien hebben we het dieptepunt deze winter wel gehad. Inmiddels is onder meer het Chinese exportcijfer beter dan verwacht, en presteert de beurs van ’zorgenkindje’ Italië het best van heel Europa.”</p><p>Liefhebbers van macro-economische cijfers hebben deze week alle reden om naar China te kijken. Op woensdag komen er uit de volksrepubliek statistieken over de industriële productie, winkelverkopen én economische groei. Peking wordt gezien als belangrijke trekker van de wereldeconomie, dus goede cijfers daar zijn goed nieuws voor Europa en Amerika.</p><p>Het zwaartepunt van de macro-economische cijfers ligt niettemin op donderdag, aldus Wiersma. „Er zijn inkoopmanagersindexen uit Duitsland, Frankrijk, de eurozone én uit de Verenigde Staten. Daar komen de Amerikaanse winkelverkopen bij, die zijn altijd belangrijk, en de WW-aanvragen in de VS.”</p><p>Abonneer je op de wekelijkse podcast van De Financiële Telegraaf! Luister mee via Spotify of iTunes.</p>

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Frans Bauer maakt lied met rapper Donnie"
+date: Sat, 13 Apr 2019 16:58:56 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3440604/frans-bauer-maakt-lied-met-rapper-donnie"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/33f1de30-5e00-11e9-96f7-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Verrassende samenwerkingen in de muziekindustrie zijn niets nieuws. Zo deed Paul McCartney het tot twee keer toe met Michael Jackson, wist Nick Cave halverwege de jaren negentig Kylie Minogue te strikken voor een onvervalste murder ballad en ook het duet tussen Zucchero en Paul Young was op z’n minst opmerkelijk te noemen. Dat alles valt echter in het niets bij de samenwerking die nu voor de deur staat: Donnie en Frans Bauer.</p> <p>Hoe de Amsterdamse rapper en de Brabantse volkszanger een duo zijn geworden? Daarvoor moeten we terug naar afgelopen week, toen Frans in gesprek met in Telegraaf TV opbiechtte stiekem open te staan voor een samenwerking met Donnie.</p><p>Voor de videoclip van zijn nieuwe single Barry Hayze (ft. Willie Wartaal) had Donald Scloszkie, zoals de rapper in het echt heet, een flink aantal BN’ers weten te strikken. In de video hebben alle gastacteurs dezelfde lange, blonde lokken als Donnie. Zo ook Frans. „Ik heb daar bizarre reacties op gekregen”, vertelde Frans aan presentator Maarten Steendam. „Die jongen, dat is echt een schat. Ik ben echt gek op ’m. Ik moet zeggen, ik heb niet veel met rappers, maar als ik ooit in mijn leven een duet zou doen, dan zou het met hem zijn. Gewoon een lieve gast, echt waar.”</p><p>Vrijdag deelde Donnie het fragment op Instagram: met daarbij de oproep: „Ik heb net het management van Frans Bauer gesproken en bij meer dan 5000 comments maken we de track. Let’s go!” Er was uiteindelijk een dag voor nodig om dat aantal te halen, en dus zal het niet lang duren voordat de samenwerking tussen Frans en Donnie, die Heb je even voor mij al eens coverde – en veranderde in Heb je jonko voor mij, een feit is.</p>
