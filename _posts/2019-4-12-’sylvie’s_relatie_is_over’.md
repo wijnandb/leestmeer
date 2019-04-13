@@ -1,0 +1,12 @@
+---
+layout: post
+title: "’Sylvie’s relatie is OVER’"
+date: Fri, 12 Apr 2019 23:10:12 +0200
+categories: 
+- entertainment 
+- gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/3439556/sylvie-s-relatie-is-over"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c0d7a9ac-5d69-11e9-b689-0217670beecd.jpg"
+---
+
+<p class="intro">Sylvie en haar grote liefde Bart zouden uit elkaar zijn. Dat meldt Shownieuws op basis van een bron uit Hamburg.</p> <p>Volgens Shownieuws zouden Sylvie en Bart uiteindelijk toch tot de conclusie gekomen zijn dat ze beiden een ander beeld hebben van de relatie. Nog geen van hen beiden heeft het nieuws bevestigd, Bart heeft laten weten dat hij er niets over wil zeggen.</p><p>Wellicht heeft zijn zwijgen te maken met Sylvie’s 41e verjaardag morgen; Sylvie zou Sylvie niet zijn als ze daar niet gewoon stoïcijns een groot feest van maakt. Ze hield immers al eerdere relatiebreuken succesvol enige tijd verborgen voor de buitenwereld.</p><p>Het zou ook haar eigen keuze geweest zijn om de relatie te beëindigen. De bom zou volgens de bron begin deze maand gebarsten na een Madonna-event.</p><p>Wat Shownieuws wel kan melden, is dat ze de reservering in het sterrenrestaurant in Hamburg voor vier personen - ze zou daar met haar broertje en echtgenote en ’een vierde persoon’ eten - heeft veranderd naar een tafel voor drie personen.</p><p>De 29-jarige Bart Willemsen veroverde haar hart op de filmset van de film Misfit in oktober vorig jaar. Privé spotte Sylvie en Bart in november samen in het Conservatorium Hotel in Amsterdam. Later die maand bevestigde ze het nieuws zelf.</p><p>Toch was het pas half maart dat ze voor het eerst met hem op een rode loper verscheen, bij de première waar ze toch allebei ook professioneel naar toe moesten, die van de film Misfit. Toepasselijk ook, omdat hun liefde daar immers ook was begonnen. Een liefde die goed leek te gaan; nog maar twee weken geleden riep Sylvie immers nog dat het zo goed ging tussen hen. En, ook niet onbelangrijk, dat Bart zo goed weet om te gaan met de media en de paparazzi die altijd om haar heen hangen. „Maar hij werkt ook zelf in de media, hij weet hoe dat gaat.”</p><p>Toch is het vermoeden bij de bron dat haar faam de relatie uiteindelijk toch de das om heeft gedaan.</p><p>Op de hoogte blijven van al het nieuws over de sterren? Schrijf je hier in voor onze nieuwsbrief.</p>
