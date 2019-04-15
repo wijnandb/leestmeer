@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ajax na 1-1 in Amsterdam: drie keer door, vier keer eruit"
+date: Mon, 15 Apr 2019 10:31:33 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3445485/ajax-na-1-1-in-amsterdam-drie-keer-door-vier-keer-eruit"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e05580a6-5f58-11e9-8fb5-02c309bc01c1.JPG"
+---
+
+<p class="intro">Ajax begint dinsdagavond in Turijn tegen Juventus aan de lastige opgave om na de 1-1 in Amsterdam de halve eindstrijd van de Champions League te bereiken.</p> <p>In het verleden begonnen Ajax in Europees verband zeven keer aan een confrontatie in de knock-outfase nadat het heenduel in eigen huis met dezelfde cijfers was gelijkgespeeld. Vier keer vloog Ajax eruit. Drie keer bereikten de hoofdstedelingen de volgende ronde.</p><p>Daarbij moet wel worden aangetekend dat Ajax twee keer een 1-1 gelijkspel te boven kwam in de voorronde van de Champions League. Zowel in het seizoen 2010/2011 als in het seizoen 2016/2017 lukte dit tegen PAOK Saloniki.</p><p>Onder Louis van Gaal werd in de kwartfinales van de Champions League ook een keer een 1-1 uit Amsterdam omgezet in een plek in de volgende ronde. In het seizoen 1996/1997 won Ajax na verlengingen met 2-3 op bezoek bij Atletico Madrid.</p><p>Bijna 52 jaar geleden lukte het de Amsterdammers niet om na een 1-1 gelijkspel Dukla Praag te vloeren bij de laatste acht van de Europa Cup 1. In Tsjechië werd er met 2-1 verloren. In het seizoen 1967/1968 vloog Ajax er met dezelfde uitslagen uit tegen Real Madrid.</p><p>Ook tegen Juventus ging het al eens mis na een 1-1 in Amsterdam. In het seizoen 1977/1978 werden penalty’s het Ajax van Tomislav Ivic uiteindelijk fataal. De laatste keer dat Ajax een 1-1 gelijkspel niet kon omzetten in een goed resultaat was in het seizoen 2016/2017. In de voorronde van de Champions League bleek Rostov veel te goed in Rusland: 4-1.</p><p>Juventus en Ajax trappen dinsdagavond om 21.00 uur af in Turijn. De winnaar van de tweekamp treft bij de laatste vier Tottenham Hotspur of Manchester City.</p>
