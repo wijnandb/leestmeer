@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Onrust bij FC Twente in aanloop naar titelduel"
+date: Mon, 15 Apr 2019 06:10:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3444344/onrust-bij-fc-twente-in-aanloop-naar-titelduel"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/02a5286a-5ef9-11e9-8854-0217670beecd.JPG"
+---
+
+<p class="intro">Door de misstap van de enig overgebleven achtervolger Sparta Rotterdam tegen TOP Oss (1-4) is FC Twente nog maar één zege van het kampioenschap in de Keuken Kampioen Divisie verwijderd. De club uit Enschede kan komende vrijdag in de uitwedstrijd tegen Jong Ajax al de titel veiligstellen en daarmee de gewenste terugkeer op het hoogste niveau na één seizoen realiseren.</p> <p>Ondertussen is het erg onrustig bij FC Twente, waar trainer Marino Pusic afgelopen vrijdag na de 1-0 thuiszege op Telstar verbazing wekte door een emotionele uitbarsting in een radio-interview. De Kroatische trainer fulmineerde onder andere tegen het weinig consistente beleid van de club, waar de afgelopen jaren een lange rij trainers voortijdig moest vertrekken, en lokale media die hem kritisch benaderen.</p><p>De stevige uithaal kan niet los worden gezien van de lastige situatie waarin Pusic zich bevindt. De hoofdtrainer zit ondanks de aanstaande titel op de schopstoel bij FC Twente. Pusic hoorde officieel nog niks van de clubleiding, die de rust probeert te bewaren zolang de titel nog niet is veiliggesteld. Zodra de buit binnen is, zal er echter een evaluatie volgen en het is een publiek geheim dat die negatief gaat uitvallen.</p><p>De Graafschap</p><p>Binnen de spelersgroep is kritiek op de werkwijze van Pusic en ook de geringe ontwikkeling in het spelniveau gedurende het seizoen wordt hem aangewreven. Het contract van Pusic bij FC Twente loopt nog één jaar door. De voormalige assistent-trainer, die na het ontslag van Gertjan Verbeek eind vorig seizoen het stokje overnam, staat op het lijstje bij De Graafschap om na dit seizoen Henk de Jong op te volgen.</p>

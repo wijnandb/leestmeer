@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Woods: ’Ik ben ongelooflijk gelukkig’"
+date: Sun, 14 Apr 2019 21:21:33 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3443802/woods-ik-ben-ongelooflijk-gelukkig"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d3cad2f6-5eee-11e9-8854-0217670beecd.JPG"
+---
+
+<p class="intro">Na zijn eerste majortitel in elf jaar tijd begon Tiger Woods met het maken van excuses.</p> <p>„Sorry dat ik een beetje schor ben. Dat komt van het schreeuwen na mijn overwinning”, lachte de Amerikaanse golfvedette na zijn vijfde triomf bij de Masters op Augusta. In 1997 won hij voor de eerste keer de eerste major van het seizoen in Georgia. „Ik ben ongelooflijk gelukkig. Ik heb er eigenlijk geen woorden voor.”</p><p>Cirkel rond</p><p>Volgens Woods (43) is de cirkel met zijn vijftiende major rond. „In 1997 was mijn vader erbij toen ik hier mijn eerste titel won. Hij mocht destijds eigenlijk helemaal niet op de golfbaan zijn, omdat hij net aan zijn hart geopereerd was. Nu, 22 jaar later, win ik opnieuw en zijn mijn kinderen erbij. Nu ben ik de vader. Mijn moeder was in 1997 ook van de partij en nu weer. Heel jammer dat mijn vader dit niet meer kan meemaken.”</p><p>’Door heen geploegd’</p><p>Woods sprak, gezien zijn grote persoonlijke en fysieke problemen in de afgelopen jaren, van één van de moeilijke titels uit zijn schitterende loopbaan. „Ik heb me door deze laatste dag heen geploegd. Gelukkig slaagde ik erin geduldig te blijven en mijn concentratie vast te houden. Ik kon er zelfs een beetje van genieten. Op de laatste hole wist ik echter niet meer wat ik aan het doen was. Ik wist alleen dat ik een bogey moest maken. Toen dat lukte, schreeuwde ik het uit van vreugde.”</p><p>Onwerkelijk</p><p>Woods erkende dat er tussen zijn eerste en zijn laatste titel op Augusta veel tijd is verstreken. „Het is inderdaad lang, 22 jaar. Er is heel veel gebeurd in al die tijd. Ik heb ook nogal wat jaren gemist. Het voelt onwerkelijk aan om nu het groene jasje weer aan te mogen trekken. Als kampioen van de Masters, ik kan het nog niet geloven.”</p>
