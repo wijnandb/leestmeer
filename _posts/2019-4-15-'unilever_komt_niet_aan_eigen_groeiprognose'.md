@@ -1,0 +1,12 @@
+---
+layout: post
+title: "'Unilever komt niet aan eigen groeiprognose'"
+date: Mon, 15 Apr 2019 16:51:40 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/3448216/unilever-komt-niet-aan-eigen-groeiprognose"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/555c3234-5f8e-11e9-847b-0218eaf05005.jpg"
+---
+
+<p class="intro">Was- en levensmiddelenconcern Unilever heeft in het eerste kwartaal naar verwachting zijn eigen doelstelling voor de autonome omzetgroei niet gehaald. Dat blijkt uit een consensus van analistenramingen die de onderneming zelf op de website heeft gepubliceerd. Het bedrijf maakt donderdag voorbeurs zijn cijfers bekend.</p> <p>Volgens de consensus dikte de onderliggende omzet, dus exclusief wisselkoersen, desinvesteringen en overnames, met 2,8 procent aan ten opzichte van het eerste kwartaal van 2018. Dat ligt onder de bandbreedte van een autonome omzetgroei tussen 3 en 5 procent waar Unilever naar streeft. In totaal zet Unilever in het afgelopen kwartaal 12,3 miljard euro aan opbrengsten in de boeken, verwachten de marktvorsers.</p><p>De nieuwe topman Alan Jope waarschuwde al begin dit jaar dat de marktomstandigheden voor Unilever ,,uitdagend'' blijven. Dat zou mede komen door het mindere consumentenvertrouwen in opkomende markten, waar het bedrijf het merendeel van zijn opbrengsten haalt.</p><p>Toekomstige groei</p><p>Analisten van Deutsche Bank zien een versnelling in de verkopen van levens- en verzorgingsmiddelen in opkomende markten. Vooral in Brazilië en China gaf men in de eerste twee maanden van 2019 meer geld uit aan producten zoals tandpasta, shampoo en wasmiddel. Daarnaast wijzen de kenners op de verkopen van cosmetica en huidverzorgingsmiddelen in China als een belangrijke bron van toekomstige groei voor bedrijven zoals Unilever. Het aandeel van het Nederlands-Britse concern is in deze lucratieve markt vooralsnog klein, concludeert Deutsche Bank.</p><p>In het afgelopen kwartaal voerde Unilever meerdere veranderingen door in zijn tak voor schoonheids- en persoonlijke verzorgingsproducten, wat tegenwoordig de grootste divisie is voor het concern. Zo werd Sunny Jain de nieuwe directeur van het onderdeel. Jain werkte hiervoor bij Amazon en Procter &amp; Gamble. Daarnaast rondde het concern de overname van het Franse cosmeticamerk Garancia af. Ook werd bekend dat de onderneming in de race is voor de overname van de huidverzorgingstak van branchegenoot Nestlé.</p>
