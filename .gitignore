@@ -1,0 +1,7 @@
+_site
+test_dir/
+*.sh
+Gemfile.lock
+Gemfile
+minima.gemspec
+
