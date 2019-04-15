@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ten Hag: ’Uiteindelijk bepaal ík of hij speelt’"
+date: Mon, 15 Apr 2019 19:14:28 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3449067/ten-hag-uiteindelijk-bepaal-ik-of-hij-speelt"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ee171364-5fa1-11e9-a27a-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Ajax-trainer Erik Ten Hag wil nog weinig prijsgeven over het meedoen van Frenkie de Jong tegen Juventus, morgen in de return van de kwartfinale van de Champions League. „Dat hij niet traint is niet bepalend voor mij.”</p> <p>Ten Hag wil echter op de persconferentie in Turijn niet echt zeggen of hij de middenvelder gaat opstellen. „Het is zaterdag gebeurd en dus afwachten. Dat hij nog niet meetraint is niet bepalend of hij zal spelen. We testen hem niet op die manier.”</p><p>Hij vervolgt: „We leven van uur tot uur, van dag tot dag. We zijn bereid een verantwoord risico te nemen. Frenkie moet goed naar zijn lichaam luisteren en uiteindelijk neem ik de beslissing. We staan er op een positieve manier in.” Wie de geschorste Nico Tagliafico gaat vervangen, wil Ten Hag ook niet zeggen. „Mazraoui kan daar spelen, maar Sinkgraven ook. We kunnen ook schuiven met Blind. We gaan geen vaste man op Ronaldo zetten, dat doen we nooit.”</p><p>Is de return in Turijn de ultieme test voor Ajax dit seizoen? „Hopelijk volgen hierna nog meer van dit soort tests. We moeten weer een grens over morgen. Als we goed zijn, kunnen we wat bereiken. We moeten bijvoorbeeld nog wel werken aan onze effectiviteit.”</p><p>De oefenmeester vervolgt: „Zij zijn een volwassen team, ik vind Juventus nog verder dan Real Madrid. We moeten op zoek naar nieuwe mijlpalen en daar kunnen we er morgen een aan toevoegen.”</p><p>In de wekelijkse voetbalpodcast van De Telegraaf blikken chef voetbal Valentijn Driessen en Ajax-watcher Mike Verweij dit keer samen met presentator Pim Sedee vanuit Turijn vooruit op de cruciale clash tussen Juventus en Ajax. Luister hieronder naar de voetbalpodcast:</p>
