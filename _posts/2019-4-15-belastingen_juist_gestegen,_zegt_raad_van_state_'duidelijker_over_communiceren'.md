@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Raad van State: lastendruk relatief hoog"
+title: "Belastingen juist gestegen, zegt Raad van State: 'Duidelijker over communiceren'"
 date: Mon, 15 Apr 2019 12:19:26 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2280563"
@@ -13,5 +13,5 @@ feature_image: "https://nos.nl/data/image/2019/03/26/539459/1008x567.jpg"
 <p>Ieder jaar kijkt het adviesorgaan in het voorjaar naar de overheidsbegroting. Wat blijkt is dat de Nederlandse begroting voldoet aan alle Europese regels. Ook de komende twee jaar ziet het er goed uit.</p>
 <p>Toch zijn er ook uitdagingen. Zo geeft het kabinet-Rutte III een stuk minder uit dan het plan was: het lukt, vooral door de krapte op de arbeidsmarkt, niet om 1,5 procent van de begroting uit te geven. Ook de komende twee jaar zal het lastig worden om alle plannen waar te maken.</p>
 <h2>Nu hervormen</h2>
-<p>Dat er minder wordt uitgegeven dan gedacht heeft ook voordelen: er is geld over om hervormingen door te voeren. "Je moet daarbij denken aan hervormingen op de arbeidsmarkt, op het gebied van pensioenen en woningmarkt," zegt De Graaf.</p>
+<p>Dat er minder wordt uitgegeven dan gedacht heeft ook voordelen: er is geld over om hervormingen door te voeren. "Je moet daarbij denken aan hervormingen op de arbeidsmarkt, op het gebied van pensioenen en woningmarkt", zegt De Graaf.</p>
 <p>Hij doelt daarmee op structurele hervormingen die op de lange termijn winst opleveren. "Door de onderbesteding is er ruimte, ga er verstandig mee om." In Europa is Nederland een middenmoter. Om de binnenlandse groei te stimuleren zouden hervormingen van de arbeidsmarkt, woningmarkt en de pensioenen helpen.</p>
