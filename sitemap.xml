@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type='text/xsl' href='sitemap.xsl'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -6,169 +10,169 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://nieuws.link/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/binnenland/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/buitenland/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/tech/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/nieuws/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/sport/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/sport/voetbal/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/sport/wielrennen/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/sport/tennis/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/sport/autosport/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/sport/darts/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/regio/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/regio/drenthe/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/regio/flevoland/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/regio/fryslan/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/regio/gelderland/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/regio/groningen/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/regio/limburg/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/regio/noord-brabant/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/regio/noord-holland/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/regio/utrecht/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/regio/zeeland/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/regio/zuid-holland/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/extra/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/extra/entertainment/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/extra/financieel/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/extra/cultuur/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
   <url>
     <loc>https://nieuws.link/extra/overig/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
@@ -186,7 +190,7 @@
   </url>
   <url>
     <loc>https://nieuws.link/sport/schaatsen/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
@@ -204,7 +208,7 @@
   </url>
   <url>
     <loc>https://nieuws.link/entertainment/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
@@ -222,7 +226,7 @@
   </url>
   <url>
     <loc>https://nieuws.link/financieel/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
@@ -240,7 +244,7 @@
   </url>
   <url>
     <loc>https://nieuws.link/cultuur/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
@@ -258,7 +262,7 @@
   </url>
   <url>
     <loc>https://nieuws.link/overig/</loc>
-    <changefreq>Daily</changefreq>
+    <changefreq>Always</changefreq>
     <priority>1</priority>
     <lastmod>2019-04-15T13:24:55Z</lastmod>
   </url>
