@@ -1,0 +1,10 @@
+---
+layout: post
+title: "’Allerliefste oma’ flink toegetakeld door onbekende tijdens uitlaten hond"
+date: Mon, 15 Apr 2019 12:55:45 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3446262/allerliefste-oma-flink-toegetakeld-door-onbekende-tijdens-uitlaten-hond"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f925e952-5f73-11e9-8fc6-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Een 69-jarige vrouw uit het Brabantse Oosterhout is zondagmiddag rond 16.30 uur ernstig mishandeld tijdens het uitlaten van haar hondje, zo meldt de politie. Volgens haar kleindochter gaat het om „de allerliefste oma die er bestaat, een vrouw die niemand kwaad doet.”</p> <p>Let op: schokkende foto onderaan dit bericht</p><p>Het slachtoffer werd tijdens het uitlaten van haar huisdier door een onbekende man in het gezicht geslagen. Ze liep daardoor een gebroken neus en twee gebroken jukbeenderen op. Agenten kregen tijdens hun dienst de melding dat een vrouw naast de gymzaal op de Patrijslaan zat. Toen de politie ter plaatse kwam, bleek het slachtoffer flink te bloeden en hield ze een doek tegen haar neus. De vrouw werd daarop naar het ziekenhuis gebracht.</p><p>„Ze vertelde dat ze zonder enige aanleiding was geslagen door een man”, aldus de politie. Een getuige hoorde een man schreeuwen tegen het slachtoffer dat ze haar hond bij zich moest houden. Ze zag dat de man vervolgens de hond trapte, die daardoor een halve meter naar achteren door de lucht vloog. Hierop sloeg hij de vrouw met gebalde vuisten in het gezicht. ’’Ik zag dat ze daardoor op de grond viel. Hierna rende de man, die een grote kartonnen doos droeg, weg’’, zo beschrijft de getuige.</p><p>Signalement</p><p>De getuige belde de hulpdiensten en verleende eerste hulp aan het slachtoffer. De politie is nu op zoek naar een blanke man van ongeveer 1.80 meter lang, hij is tussen de 30 en 40 jaar oud en heeft donkere ogen. Daarnaast is zijn haar zwart en gemillimeterd en droeg hij tijdens de mishandeling een zwart t-shirt met korte mouwen en een zwarte broek die iets weg had van een werkbroek.</p>
