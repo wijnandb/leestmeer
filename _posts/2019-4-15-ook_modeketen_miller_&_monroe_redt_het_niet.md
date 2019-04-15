@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Ook modeketen Miller & Monroe redt het niet"
+date: Mon, 15 Apr 2019 16:25:00 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/3447845/ook-modeketen-miller-monroe-redt-het-niet"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bc128d16-5f89-11e9-8fb5-02c309bc01c1.jpg"
+---
+
+<p class="intro">Vidrea Retail, dat honderden failliete winkels van failliete modeketens als Witteveen, Charles Vögele en Men at Work ombouwde naar de Miller &amp; Monroe-formule, heeft maandag uitstel van betaling aangevraagd.</p> <p>De familie Hes, eigenaar van de zaken, hoopt op deze manier tijd te krijgen om samen met de bewindvoerder een oplossing te vinden voor de gerezen problemen. „Het is absoluut de bedoeling om een faillissement te voorkomen”, zegt een woordvoerder. De 300 winkels van Miller &amp; Monroe blijven voorlopig open. Er werken ongeveer 5500 mensen.</p><p>Vidrea Retail is een dochter van modehuis Victory &amp; Dreams van mode-ondernemer Lex Hes. Hij kwam in de problemen, vertelde hij een paar weken geleden in deze krant, door een ’valse’ balansgarantie van de verkoper van Vögele in Duitsland, onrechtmatige overboekingen en ’verkeerde’ berichtgeving in media, waar gespeculeerd werd op een faillissement in Nederland.</p><p>„Ik ben in een nachtmerrie beland”, zei Hes toen. „Ik moet overal uitleggen dat we in Nederland niet failliet zijn verklaard. Wij hadden weliswaar, net als iedereen, last van extreme weersituatie in 2018, maar Miller &amp; Monroe is onderscheidend en kansrijk genoeg.”</p><p>Het lukt Hes niet om zijn leveranciers gerust te stellen. Een groot aantal eiste vooruit betaling van rekeningen. De definitieve dreun werd uitgedeeld door ABN Amro, de bank zegde vorige week de rekening-courant-faciliteit op. „Toen restte ons niets anders dan uitstel van betalingen aan te vragen”, aldus Vidrea.</p><p>Hes stampte uit de puinhopen van failliete modeketens als Witteveen, Charles Vögele en Men at Work een nieuw mode-imperium uit de grond, met ruim 300 winkels. De ’failliete’ winkels werden vrijwel allemaal ondergebracht in het nieuwe shop-in-shop concept Miller &amp; Monroe, dat zich met eigen merken en productie richt op 50-plus. Naast deze zaak exploiteert Victory &amp; Dreams ook 54 winkels van Witteveen en 750 van Bonita, dat onlangs werd aangekocht.</p>
