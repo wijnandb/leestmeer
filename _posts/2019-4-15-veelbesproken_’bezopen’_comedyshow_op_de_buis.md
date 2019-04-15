@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Veelbesproken ’bezopen’ comedyshow op de buis"
+date: Mon, 15 Apr 2019 08:38:44 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3444970/veelbesproken-bezopen-comedyshow-op-de-buis"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/33ed5ad2-5f49-11e9-8fb5-02c309bc01c1.jpg"
+---
+
+<p class="intro">Het in opspraak geraakte Comedy Central-programma Drunk History is maandag voor het eerst op televisie. Bekende Nederlanders als Jody Bernal, Victoria Koblenko en rapper Keizer geven in beschonken toestand geschiedenisles. Alcoholproducenten en -importeurs zijn niet blij met de komst van het Amerikaanse format naar ons land.</p> <p>Comedy Central zou overmatig alcoholgebruik ophemelen, stelden de producenten en importeurs - verenigd in de Stichting Verantwoorde Alcoholconsumptie (STIVA) - vrijdag. „De gemoederen zijn inmiddels hoog opgelopen in de branche; verschillende merken geven aan serieus te overwegen om te minderen of stoppen met adverteren op de zender”, stelde STIVA-directeur Peter de Wolf. De stichting gaf aan in gesprek te gaan met Comedy Central.</p><p>In reactie op de ophef liet de zender weten dat het programma kijkers niet moet aansporen het net als de BN’ers op een zuipen te zetten. Het is niet de bedoeling dat Drunk History „het gebruik van alcohol aanmoedigt bij kijkers van welke leeftijd dan ook.”</p><p>Succes</p><p>Of Drunk History zorgt voor een hogere alcoholconsumptie is maandagavond te beoordelen, om 21.30 uur is de eerste aflevering op de buis. Het programma, gebaseerd op een gelijknamige webserie van Funny or Die uit 2007, was al een succes in onder meer de Verenigde Staten en het Verenigd Koninkrijk.</p><p>Aan de Nederlandse versie werken ook Jelka van Houten, Rob Kamphues en Birgit Schuurman mee. In de eerste aflevering duiken Nance Coolen en Jasper Demollin met een slok op in de vaderlandse historie. De verhalen van de beschonken BN’ers worden uitgebeeld door een groep acteurs.</p>
