@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Dit is het platform dat inzicht wil krijgen in relatie Shell en overheid"
+date: Tue, 16 Apr 2019 13:00:01 +0200
+category: buitenland
+externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/RYxyB_W8pvA/2280714"
+feature_image: "https://nos.nl/data/image/2019/04/16/544060/1008x567.jpg"
+---
+
+<p>Ze schreeuwen hun bestaan niet van de daken. Toch bestaat het Platform Authentieke Journalistiek (PAJ) al zes jaar. Gisteren haalden ze het nieuws door bij zeventien overheidsinstanties een WOB-procedure te starten naar documenten die afkomstig zijn van Shell, gericht zijn aan Shell of over het oliebedrijf gaan.</p>
+<p>Het PAJ is een samenwerkingsverband van jonge researchers met een voorliefde voor het doen van uitgebreid onderzoek, maar dan niet op academisch gebied. "We willen met ons werk vooral een groot publiek bereiken", vertelt Bas van Beek, onderzoeksjournalist van het collectief. De onderzoekers schreven voorgaande jaren vooral over handelsverdragen. "Dat is nu heel hip, maar toentertijd wilde niemand zich er eigenlijk aan branden", zegt Van Beek.</p>
+<p>Doel van het onderzoekscollectief is naar eigen zeggen informatie te verzamelen en publiceren "die bijdraagt aan de politieke strijd van mensen die worden geraakt door uitsluiting, uitbuiting en andere vormen van onrechtvaardigheid".</p>
+<p>Het platform wil met het WOB-verzoek de relatie tussen de Nederlandse overheid en Shell inzichtelijk maken. Het onderzoek hiernaar is al een tijd aan de gang, vertelt hij. "We hebben op meerdere dossiers gezeten waarbij we echt hebben ingezoomd op de lobbyactiviteiten van bedrijven", legt Van Beek uit. "Wat we zagen is dat Shell voortdurend ter sprake kwam."</p>
+<p>Zo deed het collectief onderzoek naar een groot samenwerkingsverband tussen Nederlandse topbedrijven en meerdere ministeries in het buitenland. Shell speelde daarin een prominente rol. Daaruit ontstond het idee om een mega-WOB procedure te starten.</p>
+<h2>Mails, memo's, zelfs faxberichten</h2>
+<p>Het is een project van ongekende omvang. Bij negen ministeries, drie provincies en vijf gemeenten zijn alle e-mails, notulen, memo's, video's, voortgangsrapportages, planningen, brieven, WhatsApp- en faxberichten opgevraagd die betrekking hebben op Shell.</p>
+<p>Startpunt is 2005, het jaar dat de afspraken uit het Kyoto-protocol van kracht werden. Nederland verplichtte zich daarin om de uitstoot van broeikasgassen terug te dringen. "Dat veranderde de dynamiek van de relatie tussen Shell en de overheid", licht Van Beek toe. "Enerzijds had de overheid er baat bij dat Shell het goed doet, maar Nederland moest zich ook druk maken om het nakomen van het Kyoto-akkoord. Daarom is het goed om vanaf dit moment te kijken hoe de relatie tussen overheid en Shell zich vanaf dat moment heeft ontwikkeld."</p>
+<p>Een andere aanleiding om alle communicatie van en naar Shell met overheidsinstanties vanaf 2005 aan te vragen, is de dividenddeal die Shell met de belastingdienst in dat jaar sloot. "De Nederlandse staat liep daardoor 7 miljard aan belastinginkomsten mis."</p>
+<p>"Wij zijn ons er bewust van dat dit een uitzonderlijke procedure is", zegt Van Beek. "Daarom hebben in onze verzoeken ook benadrukt dat wij afzien van de eerste wettelijke termijnen. "Maar", stelt hij. "We willen zien dat er voldoende ambtenaren op worden gezet en er een redelijke termijn van levering is."</p>
+<h2>Direct publiceren</h2>
+<p>Bijzonder is verder dat iedereen wordt uitgenodigd om mee te kijken en mee te denken. Op de site is een dashboard aangemaakt, waarop de door overheidsinstanties verstrekte documenten direct worden gepubliceerd. "Wij willen hiermee het juridische proces voor de lezer zichtbaar maken", zegt Van Beek. "Wat je vaak ziet is dat een WOB-verzoek een erg gesloten proces is. Als lezer krijg je daar niet veel van mee."</p>
+<p>Ook wil het platform met het dashboard laten zien hoe een WOB-procedure werkt en vooral ook wanneer die niet werkt. "De wettelijke termijnen worden door bestuursorganen vrijwel nooit gehaald", zegt Van Beek.</p>
+<p>De overschrijding van beantwoordingstermijnen is een veelgehoorde klacht bij mensen die een WOB-verzoek indienen. Dat komt volgens Van Beek met name doordat de archieven van die organen vaak slecht op orde zijn. "Documenten zijn vaak moeilijk te terug te vinden." Dat is onder meer te wijten aan enorme personeelstekorten bij het bestuurlijk apparaat, stelt hij. "Met het dashboard kunnen we de lezer laten zien hoeveel tegenwerking en moeilijkheden er bij een WOB-verzoek komt kijken."</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbuitenland/~4/RYxyB_W8pvA" height="1" width="1" alt=""/>
