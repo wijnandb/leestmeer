@@ -3,22 +3,13 @@ layout: default
 ---
 
   <div class="row">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-  </div>
-  <div class="row">
-  {{ content }}
-  </div>
-
-  <div class="row">
         <div class="col-md-4 mx-auto">
             <h5 class="font-weight-bold text-uppercase mt-3 mb-4 text-dark te">{{ page.cat1 }}</h5>
                 <ul class="list-group">
                     
                   {%- for post in site.categories[page.cat1] limit: 10 -%}
                   <li class="list-group-item">
-                      <span class="small text-light">{{ post.date | date: "%-d-%-m-%Y" }}</span><br>
+                      <span class="small text-dark">{{ post.date | date: "%H:%M" }}</span><br>
                       <a href="{{ post.url }}" class="text-dark">{{ post.title | escape }}</a>
                   </li>
                   {%- endfor -%}
@@ -29,6 +20,7 @@ layout: default
                 <ul class="list-group">
                     {%- for post in site.categories[page.cat2] limit: 10 -%}
                     <li class="list-group-item">
+                        <span class="small text-dark">{{ post.date | date: "%H:%M" }}</span><br>
                         <a href="{{ post.url }}" class="text-dark">{{ post.title | escape }}</a>
                     </li>
                     {%- endfor -%}
@@ -39,6 +31,7 @@ layout: default
                     <ul class="list-group">
                         {%- for post in site.categories[page.cat3] limit: 10 -%}
                         <li class="list-group-item">
+                            <span class="small text-dark">{{ post.date | date: "%H:%M" }}</span><br>
                             <a href="{{ post.url }}" class="text-dark">{{ post.title | escape }}</a>
                         </li>
                         {%- endfor -%}
