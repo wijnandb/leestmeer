@@ -3,7 +3,7 @@ layout: default
 ---
 {% assign cat = page.category %}
 {% assign categories_max = 0 %}
-{% for category in site.categories.[cat] %}
+{% for category in site.categories[cat] %}
   {% if category[1].size > categories_max %}
     {% assign categories_max = category[1].size %}
   {% endif %}
