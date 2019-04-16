@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Hockeybond blij met aanpassingen Pro League"
+date: Tue, 16 Apr 2019 13:15:30 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3452296/hockeybond-blij-met-aanpassingen-pro-league"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9c422e02-6050-11e9-ba01-0255c322e81b.jpg"
+---
+
+<p class="intro">De hockeybond KNHB is blij met de aanpassingen in het speelschema van de landencompetitie Pro League, waardoor het aantal reizen voor de nationale teams beduidend minder wordt.</p> <p>De mondiale hockeybond FIH houdt wel vast aan het principe van uit- en thuiswedstrijden, maar spreidt deze over twee aaneensluitende seizoenen. Zo speelt een land in 2020 twee thuiswedstrijden kort na elkaar tegen dezelfde tegenstander en het jaar daarop twee uitwedstrijden binnen enkele dagen tegen datzelfde land.</p><p>„Wij lobbyden al langere tijd voor een aanpassing van het schema om ervoor te kunnen zorgen dat de belasting voor de spelers lager zou worden. Het aantal reizen dat de beide Nederlandse teams met ingang van volgend jaar in deze competitie moeten maken, is nu in een klap gereduceerd tot de helft, terwijl het aantal thuiswedstrijden gelijk blijft”, aldus directeur Erik Gerritsen van de KNHB.</p><p>De Pro League is dit jaar aan zijn eerste editie bezig. De landencompetitie vervangt de Champions Trophy en de Hockey World League. De hockeyvrouwen wonnen vorige week met 6-0 van China en voeren na zes speelronden de stand aan. De mannen staan zesde. De finaleronde is eind juni in het Wagener-stadion in Amstelveen.</p><p>De FIH liet weten dat India vanaf 2020 deelneemt in het mannentoernooi. Het Aziatische land haakte voor de eerste editie af, maar sluit aan in de tweede editie. „Ik ben blij dat ze erbij komen. India bezet de vijfde plaats op de wereldranglijst, is een land met een fantastische hockeyhistorie en enthousiast publiek. Zij horen aan deze competitie deel te nemen”, aldus Gerritsen.</p>
