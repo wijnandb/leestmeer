@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Celstraf voor asielzoeker die meisjes in trein aanrandt"
+date: Tue, 16 Apr 2019 18:12:31 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3455032/celstraf-voor-asielzoeker-die-meisjes-in-trein-aanrandt"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6feaacdc-6062-11e9-9157-0255c322e81b.jpg"
+---
+
+<p class="intro">Een 19-jarige man uit Den Helder is door de rechtbank in Assen veroordeeld tot vijftien maanden celstraf voor aanranding in vooral treinen van meisjes en jonge vrouwen. Drie maanden van de celstraf zijn voorwaardelijk opgelegd, met een proeftijd van drie jaar, blijkt uit het vonnis dat dinsdagmiddag werd uitgesproken.</p> <p>De rechtbank ziet acht aanrandingen en één poging daartoe door de jonge asielzoeker Aman K. uit Eritrea bewezen. „In één geval was het meisje pas dertien jaar oud”, benadrukte de rechtbank Noord-Nederland. Er was achttien maande celstraf geëist.</p><p>De voor de meisjes angstaanjagende belagingen vonden plaats tussen de lente en eind 2018. De nu veroordeelde K. was actief in alle windstreken van Groningen tot Gouda. Zijn gedrag werd vastgelegd op video en er waren verklaringen van slachtoffers, maar op de zitting twee weken geleden ontkende de jongeman in alle toonaarden. Op beelden was echter te zien dat hij naast meisjes ging zitten. Ze beschreven hoe hij ze dan probeerde te zoenen of aanraakte. Van pure schrik durfden de slachtoffers veelal niets te doen. Er was tevens dna-bewijs tegen K. verzameld.</p><p>Tralies</p><p>De man zat al sinds eind vorig jaar achter de tralies. Hoewel K. stug volhoudt dat hem niets mankeert, bleek uit onderzoek dat hij kampt met psychiatrische stoornissen.</p><p>De rechter legde echer geen behandeling op, omdat het er niet op lijkt dat de vluchteling meewerkt. Dit zeker gezien de ontkenning van zijn feitelijke geestelijke toestand. Bovendien zal hij na zijn straf vermoedelijk het land worden uitgezet.</p>
