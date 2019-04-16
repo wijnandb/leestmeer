@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Zon blijft schijnen boven Damrak"
+date: Tue, 16 Apr 2019 10:00:00 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/3450501/zon-blijft-schijnen-boven-damrak"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b654dd0e-601d-11e9-9a52-0218eaf05005.jpg"
+---
+
+<p class="intro">De AEX perste er in het eerste handelsuur toch weer een plusje uit. Beleggers deden het rustig aan, met de kwartaalcijfers van de zwaargewichten ASML en Unilever in het verschiet.</p> <p>Om tien uur stond de AEX 0,2% hoger op 563,7 punten. De AMX pakte er 0,3% bij op 818 punten.</p><p>Andere Europese beursgraadmeters scherpten hun jaarrecords eveneens aan. De Duitse DAX en de Britse FTSE 100 stegen 0,5% en 0,3%. De Franse CAC 40 klom 0,2%.</p><p>De indexfutures wezen op een licht hogere opening van de Amerikaanse beurzen, na de kleine verliezen op maandag.</p><p>In Azië was het beeld vanochtend ook positief. De Japanse Nikkei-index sloot 0,2% hoger.</p><p>Beleggers maakten zich weinig zorgen over het wat moeizame begin van het nieuwe cijferseizoen. Vier grote Amerikaanse banken zijn met hun kwartaalresultaten naar buiten gekomen en vooral Goldman Sachs stelde teleur. Zalando kwam vanochtend wel met meevallende cijfers naar buiten.</p><p>Bij de Nederlandse hoofdfondsen ging betalingsverwerker Adyen met een winst van 1,4% aan kop. ING en staalproducent ArcelorMittal klommen 1%.</p><p>Unilever steeg 0,2%, in aanloop naar de publicatie van zijn kwartaalcijfers donderdag. Analisten denken dat het was- en levensmiddelenconcern zijn eigen doelstelling voor de autonome omzetgroei niet heeft gehaald.</p><p>Shell pakte er 0,1% bij. Diverse politieke partijen willen dat de olie- en gasmaatschappij winstbelasting in Nederland gaat betalen.</p><p>ASML stond met een min van 0,6% onderaan. De analistenconsensus is dat de chipmachineproducent woensdag een omzetdaling van 8% over het eerste kwartaal rapporteert.</p><p>Bij de middelgrote fondsen blonk Flow Traders met een plus van 4,6% uit, na de publicatie van meevallende kwartaalcijfers.</p><p>TomTom won 2,7%. Kepler Cheuvreux heeft het navigatiebedrijf op de kooplijst geplaatst, in aanloop naar de publicatie van de kwartaalcijfers woensdag.</p><p>Volg de beurs op de voet met de DFT Koersen-app. Download hier voor iPhone of voor Android</p>
