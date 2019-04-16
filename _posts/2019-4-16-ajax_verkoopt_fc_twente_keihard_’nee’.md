@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ajax verkoopt FC Twente keihard ’nee’"
+date: Tue, 16 Apr 2019 07:43:23 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3450293/ajax-verkoopt-fc-twente-keihard-nee"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8c583a18-600a-11e9-a27a-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">FC Twente heeft nul op het rekest gekregen bij Ajax op het verzoek om de wedstrijd Jong Ajax-FC Twente van komende vrijdag te verplaatsen van Sportpark De Toekomst naar de Johan Cruijff ArenA. FC Twente pakt bij een zege de titel in de Keuken Kampioen Divisie en wil graag meer supporters meenemen dan de slechts 185 die er in het uitvak op De Toekomst passen.</p> <p>„De ArenA is niet eens van ons, die moeten we huren. Het is niet zo dat wij de Johan Cruijff ArenA even vlak voor Pasen kunnen huren”, laat Ajax weten. „Sportpark De Toekomst is wel van Ajax. Daarom speelt Jong Ajax daar altijd. Het is vervelend voor FC Twente en wij willen echt niet vervelend doen. Maar wij hebben ook vaak gehad dat we wel meer fans naar een uitwedstrijd wilden meenemen.”</p><p>FC Twente heeft al een maand geleden Ajax voor het eerst verzocht of het de wedstrijd wilde verplaatsen naar de ArenA en dat verzoek vorige week herhaald.</p><p>De halsstarrige houding van Ajax is des te opvallender, omdat in de Eredivisie het competitieschema al meerdere keren op verzoek van de Amsterdammers op de schop is genomen met het oog op de Europese verrichtingen, waardoor collega-clubs op het laatste moment met ingrijpende wijzigingen werden geconfronteerd.</p><p>Ajax-trainer Erik ten Hag wilde zijn vingers in Turijn niet branden aan de vraag waar Jong Ajax-FC Twente moet worden gespeeld. „Het gaat erom hoe je het kunt organiseren en ik denk dat er heel veel tukkers naar Amsterdam komen om het kampioenschap te vieren. Ik ben blij dat FC Twente terug gaat komen. Maar dat is logisch, want ik heb er een verleden van 23 jaar en weet hoe het voetbal in het Oosten leeft. Ik denk dat het goed is voor de Eredivisie dat FC Twente terugkeert.”</p>
