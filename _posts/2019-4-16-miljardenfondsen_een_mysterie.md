@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Miljardenfondsen een mysterie"
+date: Tue, 16 Apr 2019 17:33:18 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3454724/miljardenfondsen-een-mysterie"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f5d327b2-605c-11e9-b144-0255c322e81b.jpg"
+---
+
+<p class="intro">De overheid heeft 3,6 miljard euro gestopt in een nieuw soort fonds, maar kan niet vertellen wat er precies mee gebeurt. Dat blijkt uit onderzoek van de Algemene Rekenkamer.</p> <p>Steeds vaker starten bewindslieden een zogenoemd ’revolverend fonds’, bijvoorbeeld om handel met ontwikkelingslanden te stimuleren. Dat houdt in dat het Rijk een startbedrag stopt in een fonds waarmee anderen kunnen gaan investeren. Ze kunnen dan een lening krijgen uit dat potje voor een doel dat de overheid goed vindt, maar waar de bank niet zo snel een lening voor verstrekt. Het idee is dat door aflossingen en rentebetalingen het fonds telkens weer wordt aangevuld. En dan kunnen er uiteindelijk opnieuw leningen worden verstrekt uit hetzelfde, inmiddels aangevulde potje.</p><p>Niemandsland</p><p>Maar ondanks de gigantische som geld in deze fondsen blijkt er niet één minister verantwoordelijk voor het overzicht, zijn er geen regels voor deze fondsen en heeft de Tweede Kamer volgens de Rekenkamer ’beperkt zicht op hoeveel en hoe lang geld wordt ingezet en welke resultaten daarmee worden bereikt’.</p><p>Het Rijk had zelf niet eens inzicht in hoeveel geld er in de fondsen is gestoken. De Rekenkamer is maanden bezig geweest om alleen al te achterhalen hoeveel geld er in omgaat. En dat verbaast de controle-instantie: „Idealiter is een onderzoek als dit door de Algemene Rekenkamer helemaal niet nodig, omdat de informatie reeds voorhanden is.”</p><p>De Rekenkamer heeft nu nog niet duidelijk gemaakt in hoeverre er echt aflossingen en rentebetalingen plaatsvinden door mensen die een lening hebben afgesloten bij zo’n fonds. Het controle-orgaan was dus al maanden bezig met alleen al het in kaart brengen van de omvang van de fondsen.</p>
