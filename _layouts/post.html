@@ -15,7 +15,7 @@ layout: default
             
             <p class="small text-right text-secondary">{{ page.date | date: "%-d-%-m-%Y %H:%M" }}</p>
             {{ content }}<br>
-            <p class="text-right"><a href="{{ page.externe_link }}" >lees hele bericht</a></p>
+            <p class="text-right"><a href="{{ page.externe_link }}" target="_new">lees hele bericht</a></p>
     </div>
     <div class="col-md-4">{% if page.next.url %}
         <a class="next" href="{{ page.next.url }}">{{page.next.title}} &raquo;</a>
