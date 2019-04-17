@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Bekijk hier de hoogtepunten van historische avond Ajax"
+date: Wed, 17 Apr 2019 07:01:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3455827/bekijk-hier-de-hoogtepunten-van-historische-avond-ajax"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4b85380a-60ce-11e9-b843-0218eaf05005.jpg"
+---
+
+<p class="intro">Een nieuwe stunt in de Champions League. Donny van de Beek en Matthijs de Ligt hebben Ajax op bezoek bij Juventus een sensationele 1-2 zege bezorgd. Bekijk hieronder de hoogtepunten van een historische avond voor de Amsterdammers terug.</p> <p>Zes minuten na de openingstreffer van Cristiano Ronaldo maakte Van de Beek in de 34e minuut nagenoeg uit het niets gelijk. Op randje buitenspel, zo werd in Turijn even gedacht, mocht hij door en schoof de bal beheerst binnen. Bekijk hieronder het doelpunt.</p><p>De beslissende goal kwam op naam van De Ligt. De verdediger tekende voor het tweede Amsterdamse doelpunt. Bekijk hieronder de goal.</p><p>Cristiano Ronaldo had dinsdagavond, net als in Amsterdam, nog de score geopend. De vedette van Juventus zorgde in de eerste helft met een rake kopbal voor de 1-0. Bekijk hieronder de goal.</p><p>Andere hoogtepunten</p><p>Hakim Ziyech miste in de tweede helft eerst nog een grote kans op de tweede treffer. Bekijk hieronder de mogelijkheid van de Ajacied.</p><p>Ook Van de Beek was dicht bij een tweede doelpunt.</p><p>Bijna had Ajax in Turijn overigens drie keer gescoord. Een doelpunt van Ziyech werd echter afgekeurd.</p><p>Noussair Mazraoui raakte snel in de wedstrijd geblesseerd. De verdediger werd daardoor al vroeg vervangen door Daley Sinkgraven. Bekijk hieronder het ongelukkige moment.</p><p>Bekijk hier de uitgebreide statistieken van Juventus - Ajax. </p><p>Het heenduel eindigde vorige week in de Johan Cruijff ArenA in een gelijkspel (1-1). Cristiano Ronaldo opende toen vlak voor rust met een rake kopbal de score voor Juventus. David Neres zorgde direct na rust met een prachtige treffer voor de verdiende gelijkmaker.</p>
