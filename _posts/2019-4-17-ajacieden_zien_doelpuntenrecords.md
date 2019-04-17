@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ajacieden zien doelpuntenrecords"
+date: Wed, 17 Apr 2019 22:51:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3461911/ajacieden-zien-doelpuntenrecords"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c483b6ec-6154-11e9-9a52-0218eaf05005.jpg"
+---
+
+<p class="intro">De spelers van Ajax die woensdagavond eens goed voor de kwartfinale tussen Manchester City en Tottenham Hotspur gingen zitten, keken hun ogen uit in de openingsfase. In het Etihad Stadium stond na elf minuten al een 2-2 stand op het scorebord.</p> <p>De Amsterdammers treffen in de halve finale van de Champions League de winnaar van het treffen tussen beide Engelse ploegen. Het eerste duel tussen City en de Spurs in Londen eindigde in 1-0.</p><p>Raheem Sterling zette City woensdag razendsnel op 1-0, maar tot afgrijzen van alles en iedereen van de thuisploeg sloeg Spurs binnen enkele minuten keihard terug. Son Heung-min schoot twee keer raak en tilde de stand naar 1-2. Bernardo Silva was even later goed voor de 2-2.</p><p>Sterling zette City in de 21e minuut voor de tweede keer op voorsprong: 3-2. Sergio Aguero maakte de vierde goal voor de thuisploeg, maar de treffer van Fernando Llorente bleek uiteindelijk de ’winnende’, waardoor de Spurs naar de halve finale gingen.</p><p>Met vijf doelpunten in de eerste 21 minuten werd een record in de Champions League gebroken. Nooit eerder werd zo snel zo vaak gescoord. Het oude 'record' stond op naam van Borussia Dortmund - Legia Warschau, vijf goals na 24 minuten in november 2016. Dat duel eindigde in 8-4.</p><p>Met vier doelpunten in de eerste 11 minuten was al een record gebroken in Manchester. De stand was na 11 minuten 2-2. Dat record stond op naam van het Hongaarse Debrecen tegen het Italiaanse Fiorentina, vier doelpunten na 20 minuten in oktober 2009. Die ontmoeting eindigde in 3-4.</p><p>Klik op onderstaande link voor video’s van alle doelpunten:</p>
