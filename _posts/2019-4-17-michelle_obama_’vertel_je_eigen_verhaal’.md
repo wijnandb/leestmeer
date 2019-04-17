@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Michelle Obama: ’Vertel je eigen verhaal’"
+date: Wed, 17 Apr 2019 23:35:26 +0200
+categories: 
+- entertainment 
+- gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/3462244/michelle-obama-vertel-je-eigen-verhaal"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b725147e-6158-11e9-93c9-02c309bc01c1.jpg"
+---
+
+<p class="intro">Michelle Obama heeft woensdagavond haar fans in Amsterdam op het hart gedrukt hun eigen verhaal te vertellen. Duizenden mensen, onder wie veel vrouwen, waren naar de Ziggo Dome gekomen om het verhaal te horen van de voormalige first lady van de Verenigde Staten.</p> <p>Obama werd met luid gejuich onthaald en kreeg na afloop een staande ovatie. ’I love you’, klonk het tijdens het interview door CNN-journalist Isha Sesay door de zaal. De aanwezigen luisterden aandachtig naar de vrouw van oud-president Barack Obama. Een ’intiem gesprek’ werd de bezoekers vooraf beloofd en hoewel de omvang van de concerthal anders zou doen vermoeden, gaf ze de aanwezigen een kijkje in haar leven.</p><p>Zo vertelde ze - met veel privéfoto’s op de achtergrond - uitgebreid over haar jeugd, over hoe ze viel voor haar man, over hoe ze in het Witte Huis kwam en daar het personeel opdroeg haar dochters niet te bedienen, over de keuzes die ze maakte en over de strubbelingen die gepaard gaan met een huwelijk.</p><p>Kwetsbaar</p><p>Obama had ook een boodschap, vooral aan vrouwen en mensen met een andere huidskleur die zich volgens haar niet voldoende gezien voelen. Ze sloot af met de woorden: „Durf kwetsbaar te zijn. Zo vinden we een stem. Dit gaat niet om Michelle Obama. Dit gaat om ons allemaal. Wees niet bang om open te zijn. Wees moedig en hoopvol. Dat zijn we verplicht aan onze volgende generatie.”</p><p>De avond begon met vier vrouwen en een man die op het podium kort vertelden wie zij waren en wie ze wilden zijn, onder wie cardioloog Harriette Verweij uit Leiden, die een rolmodel wil zijn voor de nieuwe generatie.</p><p>De show in Amsterdam was de laatste van de zes steden in de Europese tour ter promotie van Michelle Obama’s autobiografie, de bestseller Becoming. De duurste kaartjes waren 1000 euro inclusief een ’meet en greet’, maar op dringend verzoek van de voormalige first lady waren er ook tickets vergeven aan minderbedeelden. Volgens organisator Mojo wilde ze iedereen in de gelegenheid stellen erbij te kunnen zijn.</p>
