@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Dit moet je weten van beursnotering Pinterest"
+date: Wed, 17 Apr 2019 15:25:29 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/3460088/dit-moet-je-weten-van-beursnotering-pinterest"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5cc0a2ac-6115-11e9-8c76-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Online plaatjesboek Pinterest gaat woensdagmiddag naar de beurs. En kan de belegger dinsdagmiddag verrassen: de prijs van het aandeel pakt mogelijk liefst $2 hoger uit dan de oorspronkelijke $15, een teken van vertrouwen noteringen van start-ups in technologie.</p> <p>Pinterest, dat al twee miljard keer per maand wordt bezocht voor foto’s van mode, tuinieren, interieurinrichting of reistips, wil voor uitbreiding, en uitbetaling van eerste aandeelhouders, zo’n $1,28 miljard bij beleggers op de beurs ophalen in ruil voor aandelen.</p><p>Daarmee zou het concern ruim meer dan op Wall Street virtueel direct $9 miljard waard worden. Dat is wel ruim onder de $12 miljard waarde die Pinterest kreeg opgespeld bij een vorige kapitaalinjectie.</p><p>Verhoogt Pinterest de introductieprijs naar $17, zoals de Wall Street Journal meldt, dan schroeft de markt de waardering van het bedrijf direct hoger.</p><p>Vanmiddag gaat ook Zoom de exacte , leverancier van videoconferencing, tegen een prijs van $35 per aandeel. Het is een van de weinige winstgevende bedrijven die naar de beurs trekt, taxi-app Uber boekt fors verlies, net als concurrent Lyft - dat sinds de recente beursnotering ruim 30% aan waarde verloor.</p><p>De markt kijkt vooral hoeveel start-ups waard kunnen worden. De bedrijven nemen vaak fors verlies voor lief om snel in markten te kunnen groeien.</p><p>Pinterest, met 95% van alle omzet in de Verenigde Staten uit advertenties, staat voor een iets andere groei dan grote voorgangers als Facebook, Twitter en Snap probeerden, met agressieve groei. Het heeft aangegeven niet ten koste van alles gebruikers toe te willen voegen in nieuwe landen.</p><p>De markt kijkt daarom zeker naar Ubers $100 miljard beurswaardering, als dé ultieme groeier dit jaar voor een notering. De introductie van beide bedrijven kan een waterscheiding in noteringen betekenen voor de komende kwartalen.</p><p>Wall Street staat voor een licht hogere opening van de beurzen.</p>
