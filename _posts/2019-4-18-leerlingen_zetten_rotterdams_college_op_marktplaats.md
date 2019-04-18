@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Leerlingen zetten Rotterdams college op Marktplaats"
+date: Thu, 18 Apr 2019 18:46:53 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3467439/leerlingen-zetten-rotterdams-college-op-marktplaats"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/999014d0-61f9-11e9-a27a-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">’Als je iets niet meer gaat gebruiken, verkoop het dan: dat is wat wij als examenkandidaten dachten over onze school. Nu de laatste lesdag voor de examenklassen is aangebroken, hebben wij niet meer zo veel aan dit gebouw en besluiten hem daarom te verkopen, inclusief de docenten en leerlingen. Kom hem vandaag nog ophalen, dan krijg je hem gratis mee!’, zo luidt de tekst. De examenleerlingen van het Rotterdamse Emmauscollege spreken duidelijke taal: de school is te koop. Donderdag 18 april is de laatste lesdag voor vijf havo en zes vwo.</p> <p>De examenleerlingen weten de school en de omgeving in geuren en kleuren te beschrijven: ’Dit prachtige pand staat midden in een woonwijk waarvan iedereen het gevoel van heeft dat ze de school verschrikkelijk haten. Daarnaast zijn de wegen rondom nu al bijna een jaar aan het verbouwen en iedereen wordt er helemaal gek van. Het gebouw is in goede staat, maar bedenk dat de muren sowieso een likje verf nodig hebben, want de kleuren die ze nu hebben geven je kotsneigingen.’</p><p>Ook de conrectoren moeten het ontgelden in de advertentie: ’De deal is inclusief ongeveer 80 lokalen, 125 docenten en 1700 leerlingen. Binnen de leraren vallen ook de conrectoren, die nooit maar dan ook nooit in hun kantoortje te vinden zijn en alle docenten die laatst aangegeven zijn bij 'Meldpunt Links Indoctrinatie'.</p><p>Het verkooppraatje wordt toch op lieve wijze afgesloten: ’Al met al is dit een verschrikkelijke plek, maar de meeste van ons hebben er wel 5/6/7 jaar moeten uitzitten dus heeft het een bijzonder plekje in ons hart. Laten we daarom van de laatste dag, de beste dag maken!’</p>
