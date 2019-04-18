@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Vermiste Ivan zat twee jaar geboeid aan boom"
+date: Thu, 18 Apr 2019 14:29:33 +0200
+category: buitenland
+externe_link: "https://www.telegraaf.nl/nieuws/3465499/vermiste-ivan-zat-twee-jaar-geboeid-aan-boom"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9f1dac24-61d5-11e9-8d9b-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Het raadsel rond de vermiste Rus Ivan Klyucharev is opgelost. Hoewel? De man werd onder raadselachtige omstandigheden dood teruggevonden in de bossen rond Moskou.</p> <p>Hij zat met handboeien vastgeketend aan een boom en er stond een camera op hem gericht.</p><p>Wandelaar en survivalspecialist Klyucharev verdween in 2017 op 20-jarige leeftijd in de dichte bossen rond de Russische hoofdstad. Meerdere zoektochten leverden niks op.</p><p>Russische media melden nu dat Ivan eindelijk is gevonden. Toevallige voorbijgangers hebben zijn skelet gevonden. Ze zagen een schedel, in een hoodie, deels bedekt onder afgevallen bladeren.</p><p>In zijn tentje vlakbij vonden ze handboeien, sloten, kettingen, videocamera’s en een boek over het maken van knopen.</p><p>De politie heeft een aantal scenario’s bekeken. Ontvoering lijkt ze niet aannemelijk. Beroving ook niet omdat al zijn bezittingen er nog lagen. Blijft over het bizarre verhaal dat hij zichzelf heeft vastgemaakt.</p><p>Met de camera zou hij een soort Houdini-act hebben willen filmen, zo denkt de politie. Dat lijkt een kloppend verhaal, want Ivan maakte deel uit van een groep die experimenteerde met survivallen onder extreme omstandigheden.</p><p>Een vriend van hem zegt tegen lokale media dat hij ook niet uitsluit dat Ivan zichzelf heeft vastgeketend als een soort grote gok: komt iemand mij bevrijden. „Het was een rarer gast”.</p><p>Een andere theorie is dat hij kan zijn overleden na een SM-spel. Op zijn computer zijn beelden gevonden waaruit bleek dat hij wel geïnteresseerd was in seksspelletjes.</p><p>De politie onderzoekt de geheugenkaart van de camera in de hoop nieuwe invalshoeken te vinden.</p>
