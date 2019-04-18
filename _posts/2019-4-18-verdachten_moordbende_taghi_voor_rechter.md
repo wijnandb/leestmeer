@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Verdachten moordbende Taghi voor rechter"
+date: Thu, 18 Apr 2019 07:25:38 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3462581/verdachten-moordbende-taghi-voor-rechter"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/aaa0c070-619b-11e9-ab5f-0218eaf05005.jpg"
+---
+
+<p class="intro">In de extra-beveiligde rechtszaal op Schiphol vindt donderdag opnieuw een inleidende zitting plaats tegen elf verdachten, in een grootscheeps onderzoek naar een reeks liquidaties in het criminele milieu. Grote afwezige is Ridouan Taghi, de vermoedelijke leider van de veronderstelde moordbende.</p> <p>Rechtbankverslaggever Saskia Belleman is bij de zaak aanwezig en doet live verslag via Twitter. Volg vanaf 09.00 uur haar tweets onderaan dit artikel. </p><p>Taghi (41) is nog steeds voortvluchtig, evenals zijn vermeende rechterhand Saïd Razzouki (46). Als zij spoorloos blijven, is het niet uitgesloten dat zij bij verstek zullen worden berecht. Eind maart zou een vertrouweling van Taghi zijn opgepakt. Naar verwachting maakt het Openbaar Ministerie donderdag details bekend over deze arrestatie.</p><p>Het proces tegen de bende lijkt de proporties aan te nemen van de megazaak Passage, waarin eveneens een groep criminelen werd berecht voor een reeks moorden. Justitie is meer dan tien jaar bezig geweest met deze zaak.</p><p>Marengo</p><p>In het huidige onderzoek, Marengo geheten, staan er vooralsnog drie liquidaties op de aanklacht. Het gaat om de moorden op Samir Erraghib (IJsselstein, april 2016), Ranko Scekic (Utrecht, juni 2016) en Hakim Changachi (Utrecht, januari 2017). De laatste betreft een zogeheten vergismoord.</p><p>Net als in Passage werkt justitie in Marengo met een kroongetuige. Diens broer werd vorig jaar doodgeschoten, vermoedelijk uit wraak voor het ’verraad’ van de getuige.</p><p>Rechtbankverslaggever Saskia Belleman is bij de zaak aanwezig en doet live verslag via Twitter.</p>
