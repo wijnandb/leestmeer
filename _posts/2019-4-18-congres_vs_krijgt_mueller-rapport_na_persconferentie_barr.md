@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Congres VS krijgt Mueller-rapport na persconferentie Barr"
+date: Thu, 18 Apr 2019 06:53:00 +0200
+category: buitenland
+externe_link: "https://www.telegraaf.nl/nieuws/3462238/congres-vs-krijgt-mueller-rapport-na-persconferentie-barr"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1cfcc0fc-6196-11e9-84d4-02c309bc01c1.jpg"
+---
+
+<p class="intro">De Amerikaanse minister van Justitie, William Barr, houdt donderdag om 15.30 uur onze tijd een persconferentie over het rapport van de speciale onderzoeker Robert Mueller. Pas na de persconferentie, ergens tussen 16.00 en 17.30 uur, wordt het rapport voor het eerst aan het Congres gepresenteerd, maar delen zijn onleesbaar gemaakt.</p> <p>Hoeveel informatie is afgeschermd wordt pas duidelijk als het rapport openbaar wordt. Barr heeft beloofd met speciale kleurcodes aan te geven waarom bepaalde passages onleesbaar zijn gemaakt. Ook beloofde de minister dat na overhandiging aan het Congres het rapport ook publiekelijk beschikbaar wordt via de website van de onderzoekscommissie.</p><p>Mueller werd twee jaar geleden aangesteld door toenmalig viceminister van Justitie Rod Rosenstein om beweerde Russische bemoeienissen met de Amerikaanse verkiezingscampagnes te onderzoeken. Rosenstein is donderdag ook aanwezig op de persconferentie, aldus het ministerie van Justitie.</p><p>Samenzwering</p><p>Het onderzoek richtte zich vooral op de stelling dat de entourage van presidentskandidaat Trump samenzwoer met Russen om Trump in het zadel te helpen. Dat is volgens een zeer beknopte samenvatting van het rapport niet aantoonbaar het geval geweest. Trump vierde dat als een grote overwinning en bestempelde het onderzoek naar hem als een ’heksenjacht’.</p><p>President Trump denkt erover om donderdag na de persconferentie van Barr er zelf ook een te geven. De oppositie hoopt dat het rapport toch nog aanknopingspunten biedt om het Trump over deze zaak lastig te maken.</p>
