@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Noord-Korea doet eerste openbare rakettest sinds mislukte top met Trump"
+date: Thu, 18 Apr 2019 03:49:00 GMT
+category: nieuws
+externe_link: "https://www.volkskrant.nl/nieuws-achtergrond/noord-korea-doet-eerste-openbare-rakettest-sinds-mislukte-top-met-trump~b829aba5/"
+feature_image: "https://images0.persgroep.net/rcs/eBeZvpi4n_ML2mJzd3TpIGlgufU/diocontent/145738035/_focus/0.5/0.5/_fill/320/320?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.85"
+---
+
+Noord-Korea heeft naar eigen zeggen een succesvolle test gedaan met een nieuw geleid tactisch wapen. Dat meldt het Noord-Koreaanse staatspersbureau KCNA.
