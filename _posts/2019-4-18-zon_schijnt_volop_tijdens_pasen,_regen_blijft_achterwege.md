@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Zon schijnt volop tijdens Pasen, regen blijft achterwege"
+date: Thu, 18 Apr 2019 07:48:53 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3462719/zon-schijnt-volop-tijdens-pasen-regen-blijft-achterwege"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a5d3a056-619d-11e9-a00c-02c309bc01c1.jpg"
+---
+
+<p class="intro">Goed nieuws voor iedereen die eropuit wil tijdens Pasen. Ons land staat aan het begin van een serie warme paasdagen. De zon blijft volop schijnen in het weekend. In de middagen kan de temperatuur veelal boven de 20 graden uitkomen.</p> <p>Donderdag is de eerste dag van een reeks warme en droge dagen. De temperatuur stijgt in de middag tot wel 22 graden, meldt Weerplaza. Eerst zijn er nog wel enkele wolkenvelden, maar gedurende de dag krijgt de zon steeds meer ruimte om het paasweekend in te luiden.</p><p>Goede vrijdag en het paasweekend pakken nóg zonniger en warmer uit. Wel is het op eerste en tweede paasdag in de eerste ochtenduren aan de frisse kant met de temperatuur tussen de 4 en de 7 graden. In de middag loopt de temperatuur uiteen van 20 graden in het noorden van het land tot 23 in Limburg.</p><p>25 graden</p><p>Op een enkele plek bereikt het kwik misschien de zomerse waarde van 25 graden. De lucht is vaak strakblauw, alleen in de middag ontstaan enkele stapelwolken. De wind waait zwak tot matig uit het oosten tot zuidoosten, hooguit met windkracht 3. Zelfs op de stranden is het komend weekend aangenaam, maar in de middag is wel kans op een frisse zeewind.</p><p>Goede berichten dus voor dagjesmensen en toeristen die eropuit gaan tijdens Pasen. Minder gunstig is het weer voor mensen met hooikoorts. Door het droge, warme weer en een oostenwind zijn er veel pollen in de lucht. De natuur is ook vrij droog doordat er in april amper regen is gevallen. Voorlopig staat er nog geen regen in de verwachting, want ook na Pasen lijkt het nog een paar dagen warm te blijven in ons land.</p>
