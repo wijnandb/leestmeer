@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Zuid-Korea valt over documentaire Ewout Genemans"
+date: Thu, 18 Apr 2019 14:49:59 +0200
+categories: 
+- entertainment 
+- gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/3465696/zuid-korea-valt-over-documentaire-ewout-genemans"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/797d00fc-61d8-11e9-af84-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Zuid-Korea is weinig gecharmeerd van de aflevering van Ewout &amp; van afgelopen dinsdag waarin Ewout Genemans de keerzijde van een Koreaanse popcarrière toont. The Korea Times schrijft dat kijkers de presentator veel te onbeleefd vinden in zijn interview met een artieste.</p> <p>Genemans bezocht in Zuid-Korea een signeersessie van de K-popband GWSN en vroeg bandlid Seoryoung of zij plastische chirurgie heeft ondergaan. Ook benaderde de presentator bandlid Lena met de vraag wat zij van alle schandalen rondom K-popsterren vindt.</p><p>Twitteraars noemden Ewout ’pushy’ en vonden onder meer dat hij alleen de negatieve aspecten van de K-popcultuur belichtte.</p><p>Verdraaid beeld</p><p>Het artiestenbureau van de band, Kiwi Pop, beklaagde zich in The Korea Times dat het interview van Genemans onverwachts was en dat hij er geen toestemming voor had gekregen. „Wij betreuren dat het programma het imago van de groep heeft beschadigd door een verdraaid beeld te schetsen, terwijl aanvankelijk het idee was om inzicht te geven in de K-popcultuur.”</p><p>In het nieuwe RTL-programma Ewout &amp; legt hij diverse problemen bloot. Zo is Ewout eerder afgereisd naar Las Vegas waar hij in een ondergronds tunnelsysteem filmde hoe daar honderden gokverslaafde daklozen wonen.</p><p>Controversieel</p><p>RTL reageert op de controverse met de volgende statement: „De reportageserie Ewout &amp; bij RTL 5 legt verborgen werelden bloot en belicht daarbij alle facetten. De onderwerpen die Ewout Genemans kiest zijn vaak onbekend bij het grote publiek en op zichzelf vaak al controversieel. Sommige onderwerpen hebben zowel sterke voor- als tegenstanders.” RTL vindt het daarom weinig verrassend dat dit discussies oproept.</p><p>„We willen benadrukken dat Ewout en zijn team toestemming hadden om op verschillende locaties opnamen te maken en mensen uit de K-popwereld te spreken. Het was geenszins de bedoeling om mensen of fans te kwetsen, maar wel om een beeld te schetsen van de extremen die deze wereld kent. Het is aan de kijker zelf om daarover een mening te vormen”, aldus de zender.</p>
