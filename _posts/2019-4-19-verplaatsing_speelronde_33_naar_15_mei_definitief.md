@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Verplaatsing speelronde 33 naar 15 mei definitief"
+date: Fri, 19 Apr 2019 17:46:50 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3472593/verplaatsing-speelronde-33-naar-15-mei-definitief"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f9e6da0a-62ba-11e9-aac4-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Het plan van de KNVB om speelronde 33 van de Eredivisie te verplaatsen van zondag 28 april naar 15 mei (19.30 uur) gaat definitief door.</p> <p>De KNVB meldt dat alle thuisspelende clubs inmiddels de benodigde instemming hebben gekregen van de betreffende lokale autoriteiten. Komende week buigt de Nederlandse voetbalbond zijn hoofd over de mogelijke scenario’s voor de playoffs om promotie/degradatie en de playoffs om Europees voetbal.</p><p>Ajax</p><p>De reden dat de KNVB in het speelschema van de Eredivisie schuift is omdat Ajax anders met een overvolle kalender te maken krijgt. De Amsterdammers behalen namelijk veel successen in de nationale -en internationale bekertoernooien.</p><p>De ploeg van Erik ten Hag staat op 5 mei tegenover Willem II voor de bekerfinale en moet het in de halve finale van de Champions League opnemen tegen Tottenham (30 april en 7 mei).</p><p>Gudde</p><p>„We begrijpen heel goed dat deze verplaatsing voor supporters tot problemen kan leiden. Dat hebben we ook zoveel mogelijk trachten te voorkomen. Een oplossing was nodig maar helaas konden we niet kiezen uit een optie die nergens pijn zou gaan doen. Dat neemt echter zeker niet weg dat wij dit bijzonder vervelend vinden”, aldus directeur betaald voetbal Eric Gudde op de website van de KNVB.</p><p>„De KNVB wil verder alle clubs, gemeentes en politiekorpsen bedanken voor hun snelle handelen”, vervolgt Gudde. „Zonder hun slagvaardigheid zou het niet mogelijk zijn om zo snel tot een oplossing te komen. Nu dat alle betrokkenen en de fans hierdoor duidelijkheid hebben en de sportieve uitgangspunten gewaarborgd zijn, hopen we op een spannend slot aan een mooi en vooral uniek voetbalseizoen.”</p>
