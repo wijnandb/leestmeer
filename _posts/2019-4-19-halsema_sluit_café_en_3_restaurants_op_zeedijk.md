@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Halsema sluit café en 3 restaurants op Zeedijk"
+date: Fri, 19 Apr 2019 09:00:00 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3469019/halsema-sluit-cafe-en-3-restaurants-op-zeedijk"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7d0ff8e8-6262-11e9-966f-0217670beecd.jpg"
+---
+
+<p class="intro">Burgemeester Halsema van Amsterdam heeft in een keer vier horecagelegenheden op de Zeedijk gesloten.</p> <p>De cafés en restaurants op de nummers 14A, 28A, 55 en 56H zijn volgens Halsema gebruikt voor criminele activiteiten. Daaronder zit onder andere de jarenlang zeer populaire kroeg De Barderij die enkele jaren geleden door buitenlandse investeerders is overgenomen.</p><p>Ook Italiaans restaurant Santa Vergine, het Braziliaanse grill-adres Rodizio en steakhouse Maria zijn dicht. Tussen deze vier zaken bestaat een zakelijk samenwerkingsverband.</p><p>Steun rechter</p><p>De zaken konden gesloten worden op basis van de Wet Bibob. Halsema heeft onderzoek laten doen naar aanleiding van de verlening van de vergunningen. Ze concludeerde dat de wijze van bedrijfsvoering een gevaar oplevert voor de openbare orde en een bedreiging vormt voor het woon- en leefklimaat in de buurt.</p><p>De voorzieningenrechter oordeelde dat dat burgemeester in haar recht staat. De vennoten hebben hun bedrijfsvoering niet op orde en is sprake van „slecht levensgedrag”.</p><p>„Los daarvan blijkt uit de gang van zaken van een structureel patroon in de wijze van bedrijfsvoering door de jaren heen dat de vennoten het niet zo nauw nemen met het nakomen van (wettelijke) regels.”</p><p>’Drugs’</p><p>Buren laten weten al jaren overlast te hebben van nachtelijke bevoorradingen. Ook denken zij dat er in drugs gehandeld wordt en dat de gesloten zaken onderdeel zijn van een groter crimineel geheel.</p><p>Vorig jaar heeft de Belastingdienst al boetes aan de vier zaken opgelegd vanwege te laag opgegeven omzetten.</p>
