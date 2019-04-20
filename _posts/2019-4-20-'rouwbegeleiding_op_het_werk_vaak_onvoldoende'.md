@@ -1,0 +1,23 @@
+---
+layout: post
+title: "'Rouwbegeleiding op het werk vaak onvoldoende'"
+date: Sat, 20 Apr 2019 17:44:19 +0200
+category: nieuws
+externe_link: "https://nos.nl/l/2281312"
+feature_image: "https://nos.nl/data/image/2019/04/20/544929/1008x567.jpg"
+---
+
+<p>Werkgevers en leidinggevenden gaan vaak niet goed om met rouwende werknemers. Daardoor is het ziekteverzuim onder mensen die een naaste hebben verloren hoger dan noodzakelijk, zeggen rouwdeskundigen.</p>
+<p>"Het is heel simpel: werkgevers zitten op winst en niet op verlies", zegt Klaas-Jan Rodenburg van het Landelijk Steunpunt Verlies (LSV). Uit een enquête van het LSV op verzoek van Nieuwsuur onder ruim 350 nabestaanden blijkt dat een werknemer na een sterfgeval van een kind, partner of ouder gemiddeld 143 dag niet werkt.</p>
+<p>Volgens Rodenburg kan goede begeleiding het verzuim met zeker een kwart terugdringen. Dat is niet alleen gunstig voor de werkgever die het verzuim ziet afnemen, maar ook voor de werknemer want thuis zitten blijkt niet per se gunstig voor het verwerkingsproces. De meeste mensen die met een verlies worden geconfronteerd ervaren de steun van collega's en werkgevers in eerste instantie als goed of voldoende. Maar op de langere termijn geeft een meerderheid van de ondervraagden de steun van de werkgever een onvoldoende.</p>
+<p>"Kennis over rouw is volstrekt onvoldoende", zegt leiderschapscoach en rouwdeskundige Jakob van Wielink van coachingsbureau School voor Transitie. In de meeste gevallen is het geen onwil maar onvermogen onkunde." Van Wielink ziet het bij bedrijven vaak verkeerd gaan. "De meest gemaakte fout, zeker bij rouw, is dat je gaat invullen voor de ander. De leidinggevende zegt dan: 'Ga maar naar huis en kom terug wanneer je wil'. Dat moet je juist niet doen. Laat iemand niet thuis zitten zonder contact te houden."</p>
+<p>De rouwdeskundige benadrukt dat rouw niet via een vast stramien verloopt. "We hebben de afgelopen 15 jaar geleerd dat de pijn van het verlies en het gemis een slingerbeweging is. Dat is niet ongezond, dat hoort erbij."</p>
+<p>Van Wielink adviseert organisaties van te voren na te denken over dat waar je je niet op kan voorbereiden. "Als je het moeilijk vindt om met rouw om te gaan schakel dan een collega of coach in. Het domste wat je kan doen is vaststellen dat je er niet mee om kan gaan en daar niet op handelen."</p>
+<p>Jaarlijks overlijden in Nederland 150.000 mensen. De kans is groot dat iedereen in zijn werkende leven een keer geconfronteerd wordt met het overlijden van een naaste. Elk mens gaat daar anders mee om, maar vaak zijn mensen langer uitgeschakeld op het werk dan de één tot drie dagen rouwverzuim die er voor staan.</p>
+<p>De zoon van Joke Roelfsema verongelukte in oktober 2017. Ze werkte toen als manager in een zorgcentrum. "Mijn eerste reactie was: ik ga stoppen met werken. Ik dacht: hoe kan ik überhaupt nog naar een vergadering of bezig zijn met een deadline, terwijl mijn kind dood is?"</p>
+<p>De dochter van Aart Harder en zijn vrouw overleed op haar geboortedag. Een paar jaar later overleed ook zijn 7-jarige zoon. Beide kinderen hadden ernstige afwijkingen. Harder ging na een paar weken weer aan de slag als manager in de zorg. "Ik heb me altijd redelijk sterk gevoeld en dacht dat ik het wel aan kon. Niet dus."</p>
+<p>Na een jaar stortte hij in. "Mijn baas was heel wantrouwend. Hij had mij nodig en geloofde niet dat ik ziek was. Dat was heel pijnlijk."</p>
+<p>Na bijna een jaar thuis moest Harder op gesprek komen op over zijn verzuim te praten. Dat gesprek werd precies twee jaar na het overlijden van zijn zoon gepland. "Toen ik mijn werkgever dat vertelde, zei hij dat hij dat toch niet allemaal kon onthouden. Dat was killing. Ik ben de deur uitgegaan en heb thuis heel hard gehuild."</p>
+<p>Uiteindelijk werkte Harder anderhalf jaar niet. Hij is ervan overtuigd dat hij met meer begrip en betere begeleiding veel sneller weer had kunnen werken. "Dat was ook voor de werkgever beter geweest want die was nu veel tijd kwijt aan gesprekken met en over mij. Zij waren gefrustreerd en ik ook."</p>
+<p>Joke Roelfsema kreeg juist veel steun van collega's en haar leidinggevende. Dat hielp enorm. "Ik merkte ook dat thuis zijn niets oploste. Op een ander plek zijn is ook heel goed. Bovendien was mijn passie voor mijn werk niet weg."</p>
+<p>Roelfsema keerde drie maanden na het overlijden van haar zoon weer terug op de werkvloer. In goed overleg met haar leidinggevende volgde ze een opleiding. Ze werkt nog steeds bij het zorgcentrum. Niet meer als manager maar als coach. Ze pleit voor meer aandacht voor rouw en hoe daar mee om te gaan op de werkvloer: "Rouw is onderdeel van het leven. Maar ook onderdeel van het werk."</p>
