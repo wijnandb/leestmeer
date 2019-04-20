@@ -1,0 +1,10 @@
+---
+layout: post
+title: "’Hiphop past juist heel goed bij The Passion’"
+date: Sat, 20 Apr 2019 12:15:00 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3474109/hiphop-past-juist-heel-goed-bij-the-passion"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/27adecd6-6355-11e9-a27a-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Een van de artiesten die gaat optreden tijdens The Passion in Concert is rapper Brainpower. Gerrit-Jan Mulder, zoals Brainpower echt heet, vertelt voor de camera van het ANP dat hiphop heel goed bij The Passion past. „Hiphop is eigenlijk veel inhoudelijker dan veel populaire rap vandaag is. The Passion ligt veel dichter bij hiphop dan men zou denken.”</p> <p>Het concert van The Passion is op 20 april in Rotterdam Ahoy. Het verhaal wordt voor het eerst verteld vanuit het perspectief van Maria (gespeeld door Simone Kleinsma). Brainpower is de eerste hiphopartiest die gevraagd is voor de vertelling van het Bijbelse verhaal. „Ik vond het een hele eer”, zegt de artiest die in de rol van Petrus gaat kruipen. Wat Gerrit-Jan ook „te gek” vindt is dat hij zijn eigen teksten mag schrijven en rappen. „Daar stop je tijd in en zorg in zodat je als MC, als meester van de ceremonie, de betekenis pakt van het verhaal en het voor mensen breed neerlegt op een ritmisch interessante manier. Dat is wat ik doe en dat hoop ik op de avond zelf ook nog meer te mogen doen.”</p><p>De rapper vertelt dat hiphop is ontstaan uit pure passie. „De oorspronkelijke hiphopcultuur waaruit alles vandaan gegroeid is qua rap vandaag de dag, is eigenlijk een cultuur die ook normen en waarden had van vrede, saamhorigheid, liefde en eenheid en lol hebben omdat heel veel mensen uit ellendige verhalen komen.”</p><p>Volgens de artiest gaat het in hiphop om je hart uit te spreken. „De liefde voor muziek die ik heb maar ook de liefde voor mensen en ik denk dat dat heel veel mensen ook aanspreekt. Dat je gewoon opnieuw mag beginnen, dat is gewoon The Passion. En The Passion is vuur weet je, het is passie. Daarom vond ik het heel erg matchen met wat ik doe.”</p>
