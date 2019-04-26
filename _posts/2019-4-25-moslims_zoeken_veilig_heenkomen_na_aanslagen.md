@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Moslims zoeken veilig heenkomen na aanslagen"
+date: Thu, 25 Apr 2019 14:30:47 +0200
+category: buitenland
+externe_link: "https://www.telegraaf.nl/nieuws/3494857/moslims-zoeken-veilig-heenkomen-na-aanslagen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/fd1f3204-6755-11e9-a2cf-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Veel moslims vertrekken in de nasleep van de zelfmoordaanslagen in Sri Lanka uit de kuststad Negombo. Daar zijn de spanningen de afgelopen dagen flink opgelopen.</p> <p>Honderden moslims stapten woensdag op bussen die waren geregeld door lokale leiders en de autoriteiten. Ze vrezen voor hun veiligheid na de bomaanslagen. De daders sloegen onder meer toe in een kerk in Negombo.</p><p>„Vanwege de bomexplosies die hier plaatsvonden, hebben de lokale Sri Lankanen onze huizen aangevallen”, zegt Adnan Ali, die op het punt stond om in een bus te stappen. „Op dit moment weten we nog niet waar we heen zullen gaan.”</p><p>Weggestuurd</p><p>Farah Jameel, die bij een moskee stond te wachten op een bus, vertelt dat ze van haar huisbaas moest vertrekken. „Ze zei: je moet weg en mag overal heen gaan, zolang je maar niet hier woont”, blikt de vrouw terug.</p><p>Ruki Fernando van mensenrechtenorganisatie Inform zegt dat bussen ook weer zijn omgekeerd vanwege zorgen over de veiligheid. Hij stelt dat vele honderden moslims een veilig heenkomen hebben gezocht in moskeeën en een politiebureau. Sommige mensen zouden in hun woningen in Negombo zijn afgetuigd.</p><p>Extremisten</p><p>De aanslagen zijn opgeëist door de soennitische extremisten van Islamitische Staat. Veel moslims die wegvluchten uit Negombo behoren tot de ahmadiyya-gemeenschap, die door traditioneel ingestelde soennieten niet als islamitisch wordt gezien. Zij waren daarom juist naar Sri Lanka gevlucht.</p><p>„Vandaag zijn deze vluchtelingen weer vluchtelingen geworden in Sri Lanka”, zegt Fernando. „Ze zijn voor de tweede keer ontheemd geraakt.”</p>

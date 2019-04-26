@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Het 'niet-linkse' geluid van Jensen stopt, waar is de rechtse televisie?"
+date: Wed, 24 Apr 2019 15:39:46 +0200
+category: cultuur
+externe_link: "https://nos.nl/l/2281864"
+feature_image: "https://nos.nl/data/image/2019/04/24/545765/1008x567.jpg"
+---
+
+<p>De talkshow van Robert Jensen op RTL stopt. Met het einde van de talkshow verdwijnt het "niet-linkse geluid" van Jensen op televisie, zei hij gisteravond tijdens de laatste uitzending. Ook is de toekomst van omroep PowNed onzeker door het lage ledenaantal, meldt De Telegraaf vandaag. De vraag dient zich aan wat er zo blijft nog overblijft van het rechtse geluid op televisie.</p>
+<p>Zorgelijk, vindt mediajournalist Rob Goossens van De Telegraaf. "Eigenlijk blijft aan de rechterkant alleen WNL over, en dat is bijna een softe versie van niet-linkse televisie."</p>
+<p>De laatste aflevering van Jensen werd gisteren uitgezonden en trok 122.000 kijkers. RTL geeft de lage kijkcijfers als reden voor het einde van het programma. "Jensen heeft een trouwe schare fans meegebracht die wekelijks afstemmen op het programma, maar helaas is die groep niet groot genoeg en blijft groei van de fanbase uit", laat een woordvoerder weten.</p>
+<h2>Frustratie</h2>
+<p>De zender zegt het einde jammer te vinden, omdat het idee van Jensen om "een talkshow te maken met een ander geluid" en zijn persoonlijkheid perfect pasten bij de doelgroep van RTL 5.</p>
+<p>Jensen benadrukte gisteravond dat zijn talkshow goed ontvangen werd. "Als ik een euro zou krijgen voor de keren dat mensen mijn show een verademing hebben genoemd, dan was ik miljardair geweest. De frustratie van mensen dat dit geluid zo weinig te horen is in de traditionele media is overduidelijk bewezen en aanwezig."</p>
+<p>Ook op social media zijn er reacties van teleurgestelde fans:</p>
+<p>Mediajournalisten zijn niet erg te spreken over de talkshow, vooral door de 'kritiekloze Jensen-manier' waarop de host zijn gasten interviewde. "Het waren rechtse gasten, over rechtse dingen om op die manier een rechts geluid te laten horen", zegt mediajournalist Gudo Tienhooven (AD). "Het was veel interessanter geweest als Jensen linkse mensen had uitgenodigd en die rechtse vragen had gesteld. Zo had het niets meer met journalistiek te maken."</p>
+<p>Dat beaamt mediajournalist Ron Vergouwen. "Jensen had een fris geluid kunnen opleveren, maar dit was de Jensen-methode. Als je een talkshow leidt met politici moet je wel tegengas geven, of je het nou met ze eens bent of niet. Jensen liet zijn gasten leeglopen. Dat leverde geen spannende televisie op, terwijl de gasten wel interessant waren."</p>
+<h2>Echoput</h2>
+<p>Volgens Rob Goossens is er wel degelijk behoefte aan een rechts geluid op televisie. "Maar Jensen is 24 weken lang een echoput gebleken met een zeer beperkt publiek. De rechtse televisie is zeker nodig, maar kijkers in die hoek verwachten inmiddels niet eens meer dat er iets voor hun op televisie is. WNL moet gaan doen waar de omroep voor is opgericht, want alleen dan is het een grotere bijdrage aan 'niet-links' op televisie."</p>
+<p>WNL ontstond in 2009 om tegenwicht te bieden aan "een eenzijdig links geluid", dat volgens de oprichters domineert op de Nederlandse publieke zenders. De omroep werd destijds opgericht door Sjuul Paradijs, die toen nog hoofdredacteur was van De Telegraaf. WNL is belangrijk, zegt Goossens. "Dat vindt ook de raad van bestuur van NPO: WNL is nodig om bij de omroep aandacht te geven aan het hele spectrum, van links tot rechts."</p>
+<p>Maar de talkshows van de NPO zijn ook niet zomaar 'links' te noemen, zegt mediajournalist Ron Vergouwen. "De talkshows zijn minder links geworden. Sinds de rechtse politiek zoveel groter is geworden in Nederland, is er wel wat veranderd op de televisie. Er is wel geluisterd naar het publiek. Alleen De Wereld Draait Door is nog echt links, de rest is meer richting midden."</p>
+<p>Dat beaamt Guido Tienhooven. "Je ziet dat programma's als Pauw of Jinek nu meer inzien dat ze beide geluiden een plek aan tafel moeten geven. Trump was er vroeger om te bashen in de Nederlandse talkshows, het valt gelijk op als er iemand aanschuift die dat niet doet. Maar in Jinek gebeurt dat nu vaker."</p>
+<p>Daarnaast heeft een programma als De Wereld Draait Door wel een tegenhanger nodig, zegt Vergouwen. "Je moet daar wel een ander geluid tegenover zetten."</p>
+<p>Het is volgens Goossens daarom belangrijk dat er extra wordt geïnvesteerd in een rechtse omroep of programma. "Het duurt een tijdje voordat mensen door zullen hebben dat rechts wordt vertegenwoordigd op televisie, omdat mensen er niet mee geconfronteerd worden. Een programma op RTL 5 om 21.30 uur springt minder in het oog dan een programma om 20.30 uur op NPO1. Pas als je dat doet, weet je zeker of de behoefte aan een rechts geluid zo groot is als figuren als Jensen beweren", zegt Goossens.</p>
+<p>Jensen stopt zelf niet met zijn uitzendingen: hij gaat online verder. "Het geluid dat wij hier vertellen, het licht dat wij hier laten schijnen, daar ga ik mee door. (...) Ik blijf committed, ik ga niet de komende twee jaar op een strand zitten. En waarom? Omdat ik dit echt persoonlijk heel erg belangrijk vind", zei hij gisteren.</p>
+<p>Volgens Goossens is dat een goede stap. "Als zijn achterban bereid is de portemonnee te trekken, dan kan Jensen met 50.000 abonnees op zijn eigen kanaal machtiger worden dan hij nu is met 122.000 kijkers."</p>
+<p>Jensen keert na de zomer niet terug op televisie. Ook zijn er nog geen plannen om het gat in de programmering dat hij achterlaat, op te vullen. RTL heeft wel oren naar nieuwe samenwerking. "Als hij met een goed idee komt, staan we altijd open voor een gesprek."</p>

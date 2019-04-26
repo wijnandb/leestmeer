@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Recept van de dag: mosselen geheel anders"
+date: Wed, 24 Apr 2019 10:20:00 +0200
+category: overig
+externe_link: "https://www.telegraaf.nl/vrij/3487546/recept-van-de-dag-mosselen-geheel-anders"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/615554e8-666a-11e9-8d7a-0218eaf05005.jpg"
+---
+
+<p class="intro">Mevrouw Wilbrink houdt niet van mosselen. Eigenlijk is alles wat in schelpen zit kansloos bij haar. Een half jaar geleden heeft ze haar eerste oester gegeten, nee, niet gegeten, heel even geproefd en uitgespuugd. Haring, nou, nee. Het wildste dat ik aan haar kwijt kan is kibbeling. Maar ik hou vol. En met deze bereiding maak ik misschien een kans.</p> <p>Dit is een belachelijk lekker recept, dus wees voorzichtig. Nodig geen vrienden uit want die trekken bij je in en gaan zitten wachten tot je het nog een keer maakt. Neem zo groot mogelijke mosselen.</p><p>Nodig voor 4 personen</p><p>•1 ½ k mosselen</p><p>•100 gr verse gember in plakjes</p><p>•10 tenen knoflook met een klap er op</p><p>•6 laurierblaadjes</p><p>•1 eetl zwarte peperkorrels</p><p>•3 1/3 dl sake</p><p>•1 theel szechuanpeper</p><p>•1 kilo ijsblokjes</p><p>•450 gr waterkers en veldkers, gemengd</p><p>•2 ½ dl citroensap</p><p>•3 eetl honing</p><p>•5 ½ eetl olijfolie</p><p>•½ bosje koriander, fijn gesnipperd</p><p>Bereiden</p><p>Breng gember, knoflook, laurierblaadjes, peperkorrels, szechuanpeper en sake aan de kook. Doe er de schoongemaakt mosselen bij. Laat stomen. Af en toe schudden en als alle mosselen open zijn, laten uitlekken in een vergiet. Stort er ijsblokjes bij om deze snel af te laten koelen. Haal als ze afgekoeld zijn de mosselen uit de schelp</p><p>Maak nu de waterkers aan met een dressing van de citroensap, honing, en olijfolie. Daar leg je mosselen op. Nog wat koriander heel fijnsnijden en als een zachte voorjaarsregen over je gerecht laten vallen. Serveer er een milde IPA bij. De Vedett extra session IPA bijvoorbeeld. Maar 2,7 % alcohol.</p>

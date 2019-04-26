@@ -1,0 +1,10 @@
+---
+layout: post
+title: "MMA-vechtster slaat ’masturberende’ man weg bij sexy shoot"
+date: Tue, 23 Apr 2019 18:35:08 +0200
+category: opmerkelijk
+externe_link: "https://www.telegraaf.nl/nieuws/3485489/mma-vechtster-slaat-masturberende-man-weg-bij-sexy-shoot"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/245d2a40-65e6-11e9-8d0e-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Een vrouwelijke sportster krijgt de handen op elkaar voor haar reactie op een ’vieze man’ die haar photoshoot op het strand onderbrak. De Braziliaanse Joyce Vieira is namelijk MMA-vechtster. Ze sloeg de man eigenhandig het strand af. Hij zou schreeuwend zijn gevlucht.</p> <p>Dat meldt een Braziliaanse krant. Vieira (27) stond deze maand te poseren in een badpak op het strand van Rio de Janeiro toen ze een meneer zag toekijken die zijn genitaliën uit zijn broek had hangen, en die aanraakte.</p><p>„Zijn broek zat omlaag. Hij stond op een pad waar allemaal mensen langskwamen, ook kinderen”, zo vertelt de vechtster. „Hij had duidelijk een erectie en kreunde.”</p><p>Toen de Braziliaanse vroeg om te stoppen, weigerde de man dat, en vroeg cynisch of ze het niet leuk vond om te zien. Vieira: „Mensen die zoiets doen, ontkennen het normaal gesproken. Hij ging door.” Ze besloot eieren voor haar geld te kiezen. Op foto’s is te zien hoe ze de man klappen uitdeelt.</p><p>De man zou hebben teruggeslagen, maar dat ’maakte me alleen nog bozer’, vertelde Vieira, die claimt dat de man na enige tijd ’begon te schreeuwen’ en uiteindelijk wegvluchtte.</p><p>Alles voor niets</p><p>De MMA-vechtster lichtte de politie in, die de man arresteerde. Hij ontkende vervolgens alles en zei dat hij aan het plassen was.</p><p>De zaak is uiteindelijk onbevredigend afgelopen. Inmiddels is de man weer vrij, waardoor Vieira boos is op de Braziliaanse autoriteiten en zich machteloos zegt te voelen. „Het is heel gek. Hij is straks in dezelfde stad als ik, kan naar dezelfde plekken gaan. Ik heb talloze berichtjes gehad van vrouwen die zoiets hebben meegemaakt en geen aangifte doen, omdat ze weten dat de verdachte toch weer vrijkomt.”</p>

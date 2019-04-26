@@ -1,0 +1,12 @@
+---
+layout: post
+title: "KPN voelt stevige concurrentie in cijfers"
+date: Fri, 26 Apr 2019 07:59:42 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/3498611/kpn-voelt-stevige-concurrentie-in-cijfers"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/fe1b7096-67fa-11e9-966f-0217670beecd.jpg"
+---
+
+<p class="intro">KPN kampte in het eerste kwartaal wederom met dalende omzetcijfers. Het telecomconcern houdt last van een stevige concurrentie op de mobiele markt. Verder was sprake van hogere herstructureringskosten, waardoor ook de winst lager uitkwam.</p> <p>De opbrengsten bedroegen afgelopen kwartaal afgerond 1,4 miljard euro. Dat is bijna 3 procent minder dan in dezelfde periode vorig jaar. Het aangepaste bedrijfsresultaat zakte een fractie tot 563 miljoen euro. Onder de streep bleef 89 miljoen euro over, tegen een nettowinst van van 99 miljoen euro een jaar eerder.</p><p>KPN-topman Maximo Ibarra benadrukt dat de cijfers worden gekleurd door de strategische keuzes van het bedrijf. Maar hij wijst erop dat KPN goede voortgang boekt met het versimpelen van de bedrijfsstructuur en het verder digitaliseren van bedrijfsprocessen. Dat leverde volgens hem in het eerste kwartaal al significante kostenbesparingen op. Ibarra heeft er nog altijd vertrouwen in dat KPN zijn financiële doelstellingen voor het hele jaar kan halen.</p><p>Banen weg</p><p>Wanneer er een einde komt aan de dalende omzettrend durft de KPN-baas niet te zeggen. Het gaat volgens hem om een belangrijk thema in de bestuurskamer van het telecomconcern, maar het bedrijf vindt het momenteel het belangrijkst dat er gewerkt wordt aan het opkrikken van de marges. Daarom worden bij de zakelijke tak momenteel veel klanten overgezet naar KPN ÉÉN, een geïntegreerde oplossing voor vast en mobiel bellen, internet en online software.</p><p>KPN is bezig om zijn omvorming van een telefoonbedrijf naar een modern telecombedrijf te versnellen. De onderneming maakte op een beleggersdag in november bekend nog eens 350 miljoen euro te willen besparen, onder meer op arbeidskosten. Hoeveel banen er geschrapt worden, is nog altijd niet duidelijk. Financieel directeur Jan Kees de Jager erkent dat er waarschijnlijk wel arbeidsplaatsen gaan verdwijnen, maar volgens hem kan er ook op arbeidskosten bespaard worden door minder externe krachten in te huren.</p>

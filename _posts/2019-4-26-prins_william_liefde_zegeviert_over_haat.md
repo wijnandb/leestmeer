@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Prins William: liefde zegeviert over haat"
+date: Fri, 26 Apr 2019 10:50:14 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3499648/prins-william-liefde-zegeviert-over-haat"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6cc8d754-6800-11e9-9157-0255c322e81b.jpg"
+---
+
+<p class="intro">Prins William had in Nieuw-Zeeland een heldere boodschap voor de slachtoffers en nabestaanden van de aanslagen. „Liefde zegeviert altijd over haat”, sprak de prins in een van de moskeeën in Christchurch waar vorige maand tientallen mensen werden doodgeschoten door een rechts-extremistische Australiër.</p> <p>De 28-jarige terrorist, die vijftig mensen doodde, bereikte volgens William dan ook niets. „De wereldwijde ideologie van haat zal ons niet verdelen”, sprak de prins in de Majid al-Noor-moskee. „Extremisme in al zijn vormen moet worden verslagen.”</p><p>William, die later ook de getroffen Linwood moskee bezocht, liet nogmaals weten mee te leven met de slachtoffers en nabestaanden. De prins bedankte hen voor „wat u de wereld de afgelopen weken heeft geleerd.” „Mensen van alle geloofsovertuigingen en achtergronden kunnen veel leren van hoe de getroffen moslimfamilies zich achter hun geliefden hebben geschaard.”</p><p>Boekdelen</p><p>Voordat William vrijdag speechte in de moskee sprak hij met enkele nabestaanden. Ook ontmoette de hertog van Cambridge hulpdienstmedewerkers die op 15 maart als eerste ter plaatse waren. William prees hun snelle handelen „in de meest uitdagende omstandigheden.” Ook de Nieuw-Zeelandse premier Jacinda Ardern kreeg een pluim van de prins. Ardern toonde volgens William „buitengewoon leiderschap van mededogen en vastberadenheid.”</p><p>Ardern, die William donderdag en vrijdag vergezelde, liet Australische media weten blij te zijn met het bezoek van de prins. „Het is veelbetekenend dat zo’n belangrijk lid van de koninklijke familie zijn condoleances persoonlijk komt overbrengen. Dat spreekt boekdelen.”</p>

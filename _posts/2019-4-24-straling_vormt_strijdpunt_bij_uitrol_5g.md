@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Straling vormt strijdpunt bij uitrol 5G"
+date: Wed, 24 Apr 2019 12:24:42 +0200
+category: nieuws
+externe_link: "https://nos.nl/l/2281832"
+feature_image: "https://nos.nl/data/image/2018/03/27/462238/1008x567.jpg"
+---
+
+<p>Er is geen onweerlegbaar bewijs dat het schadelijk is voor de gezondheid, maar het lijkt ook niet zeker dat het veilig is. Toch begint Nederland in 2020 met de uitrol ervan: 5G.</p>
+<p>Met deze opvolger van het huidige 4G netwerk kunnen veel grotere hoeveelheden data sneller worden verwerkt. Hiermee is het geschikt voor een heel scala aan nieuwe toepassingen, van zelfrijdende busjes in Groningen tot verfijnde crowd control-technieken in de Amsterdam Arena.</p>
+<p>Telecom operators als KPN en VodafoneZiggo doen testen in samenwerking met gemeentes, onderzoekers en technici in proeftuinen verspreid over het land. Maar ook tegenstanders van 5G verzamelen zich. Zij maken zich zorgen over mogelijke straling die vrijkomt bij 5G en protesteren tegen de uitrol ervan in internationale petities en in lokale actiegroepen.</p>
+<h2>Stralingsgevoelig</h2>
+<p>Hugo Schooneveld zegt, net als veel andere tegenstanders van 5G, elektrogevoelig te zijn. Bij deze niet erkende aandoening worden mensen ziek en zij menen dat het komt door de elektromagnetische straling. De gepensioneerde neurobioloog kreeg er voor het eerst last van toen hij 30 jaar geleden met een computer moest werken. "Als ik s'avonds met zo'n ding gewerkt had, dan werd ik duizelig. Slaapproblemen, slecht functioneren in de maatschappij. Anderen krijgen andere problemen."</p>
+<p>Ook Maroesja van den Berg zegt dat zij stralingsgevoelig is. Zij begon een petitie waarmee ze oproept tot meer onderzoek voordat 5G wordt uitgerold in de Noordoostpolder. "Ik maak me echt enorme zorgen," zegt ze over de aanstaande uitrol van 5G. "Over de gezondheid van kinderen, van mensen, van de natuur, van de dieren. En omdat het niet goed is onderzocht, twijfel ik of het wel veilig is. Niemand heeft kunnen zeggen tot nu toe: het is veilig, er zijn geen gezondheidsrisico's aan verbonden."</p>
+<h2>Internationale norm</h2>
+<p>Staatssecretaris van Economische Zaken en Klimaat, Mona Keijzer, stuurde onlangs een brief over veiligheid van 5G in een poging om de onrust in de samenleving én in de Tweede Kamer weg te nemen. In Nederland houdt het Agentschap Telecom in de gaten of internationale veiligheidslimieten niet worden overschreden. Keijzer benadrukt dat Nederland zich overal netjes aan de internationale normen houdt.</p>
+<p>Ze begrijpt dat mensen zich zorgen maken over hun gezondheid, maar "al sinds 2006 wordt er onderzoek gedaan bij groepen mensen om te kijken wat gezondheidseffecten zijn. En dan blijkt, en dat heeft de gezondheidsraad ook vastgesteld, dat zolang je onder de vastgestelde normen blijft, er geen gezondheidseffecten zijn," aldus de Staatssecretaris.</p>
+<h2>Meer onderzoek</h2>
+<p>Hoogleraar Hans Kromhout van de Universiteit Utrecht onderzoekt de lange termijn effecten van mobiele straling op de mens. Hij kan niet garanderen dat de straling van mobiele telefonie gevaarlijk is, maar ook niet dat het veilig is. Hoe kan het dat we nog steeds geen uitsluitsel hebben over straling? In de eerste plaats, zijn "de effecten niet zo sterk. Dan hadden we ze al lang opgepikt," aldus Kromhout.</p>
+<p>Mobiele telefoonstraling wordt soms vergeleken met asbest. Ook Schooneveld ziet overeenkomsten. Maar volgens onderzoeker Kromhout is die vergelijking totaal overtrokken. Wel vindt Kromhout dat er meer onderzoek moet worden gedaan naar mogelijke gezondheidseffecten van straling. De uitrol van 5G hoeft hier niet voor stopgezet worden, zegt hij.</p>
+<p>Van den Berg wil wél dat er eerst meer onderzoek om uit te sluiten dat 5G gevaarlijk is, voordat het uitgerold wordt. "De lange termijn effecten zijn niet bekend," zegt Van den Berg. "Moeten we onszelf blootstellen aan zoiets en maar zien hoe het eindigt? Als het eenmaal is uitgerold, is het niet meer terug te draaien."</p>
+<h2>Verschil</h2>
+<p>Stralingsgevoeligen zeggen dat ze ook al last hadden van eerdere netwerken, bijvoorbeeld van 3G en het huidige 4G. Toch maken zij zich extra zorgen over 5G, omdat die op een hogere frequentie draait. Daarnaast moet er voor goede dekking een groot aantal antennes worden opgehangen. Maar ook hiervan is niet bewezen dat ze schadelijk zijn. "Nóg niet. Want op lange termijn hebben ze er nog niet naar gekeken," zegt Van den Berg.</p>
+<p>Rob Bongenaar geeft voorlichting over de plaatsing van antennes namens de mobiele operators KPN, T-Mobile, VodafoneZiggo en Tele-2. Het verschil in straling tussen het huidige 4G en 5G zal klein zijn, voorspelt hij. "Het systeem is erg efficiënt." Als je naar de straling van de eerste GSM kijkt tot aan de smartphone van nu, is de straling juist minder geworden.</p>
+<p>Dat ziet ook onderzoeker Kromhout: "Meer masten, meer zenders, betekent lagere blootstelling, het is gerichter." Met de uitrol van 5G moet de hele infrastructuur vernieuwd worden. Hoe groot de blootstelling aan straling gaat zijn, kunnen we nog niet zeggen. "Ik denk dat we een vinger aan de pols moeten houden. Hoe gaat het met de blootstelling? We moeten dierproeven en epidemiologisch onderzoek doen."</p>

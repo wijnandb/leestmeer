@@ -1,0 +1,10 @@
+---
+layout: post
+title: "’Politie deels aansprakelijk drama Alphen’"
+date: Fri, 26 Apr 2019 10:53:52 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3499666/politie-deels-aansprakelijk-drama-alphen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7f414cc4-6803-11e9-a27a-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">De politie is deels aansprakelijk voor het schietdrama in het winkelcentrum De Ridderhof in Alphen aan den Rijn in 2011. De procureur-generaal adviseert de Hoge Raad om het eerdere vonnis van het gerechtshof in stand te laten.</p> <p>De zaak gaat over een verlof voor het houden van vuurwapens en daarbij behorende munitie dat de korpschef van het politiekorps Hollands Midden verleende aan de schutter Tristan van der V. Het hof bepaalde vorig jaar dat de politie daarom letsel- en overlijdensschade moet vergoeden. De politie tekende hiertegen cassatie aan. Tegen een vonnis van de Hoge Raad is geen beroep meer mogelijk.</p><p>In april 2011 schoot de 24-jarige Alphenaar Van der V. in winkelcentrum De Ridderhof om zich heen, zes mensen overleden daarbij, tientallen anderen raakten gewond. Daarna schoot hij zichzelf dood.</p><p>Wapenverlof</p><p>Onder anderen gewonden en nabestaanden hadden de politie aansprakelijk gesteld voor het drama. Volgens hen had de korpschef Van der V. in 2008 nooit een wapenverlof mogen verlenen. Het was toen namelijk al bekend dat hij met zware psychische problemen kampte.</p><p>De Haagse rechtbank had de klacht eerder afgewezen, maar het hof vond wel dat de politie deels verantwoordelijk kon worden gehouden. Het hof beperkte echter de schadevergoedingsplicht tot letselschade en overlijdensschade omdat niet alle schade rechtstreeks is veroorzaakt door het verlenen van de vergunning.</p><p>De conclusie van de procureur-generaal is een onafhankelijk advies aan de Hoge Raad, die daarna zelf een beslissing neemt. De uitspraak wordt op 6 september verwacht.</p>

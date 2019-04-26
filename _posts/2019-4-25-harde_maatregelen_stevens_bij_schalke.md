@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Harde maatregelen Stevens bij Schalke"
+date: Thu, 25 Apr 2019 13:45:37 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3494532/harde-maatregelen-stevens-bij-schalke"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f86d04dc-6757-11e9-aac4-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Schalke ’04 verkeert nog altijd in zwaar weer in de Bundesliga en dan mag het komend weekeinde ook nog aantreden in de Kohlenpottderby tegen Borussia Dortmund. Interim-trainer Huub Stevens heeft zijn selectie in ieder geval op scherp gesteld.</p> <p>De oefenmeester heeft Nabil Bentaleb wederom verbannen uit zijn team. De middenvelder is disciplinair geschorst door de Duitse club en mag opdraven bij het beloftenelftal. Wat de exacte reden is, brengt Schalke niet naar buiten.</p><p>De 21-jarige Bentaleb was juist onlangs nog in genade aangenomen door Stevens. Volgens verscheidene Duitse media zou de middenvelder niet zijn op komen dagen bij een taalcursus, zonder geldige reden. De verwachting is dat Bentaleb niet meer voor het eerste van Schalke in actie zal komen.</p><p>,Er zijn verschillende soorten problemen bij Schalke. Ik kan hier verder nog niet zoveel over zeggen”, liet Stevens weten bij de persconferentie.</p><p>„Ik heb mijn beslissing over Bentaleb overlegd met anderen en ik kon niets anders doen in deze situatie. Het is een teamsport, niet alles draait om één speler.”</p><p>Schalke strijdt om lijfsbehoud in de Bundesliga terwijl tegenstander Dortmund nog kans maakt op de titel. Vlak voor de Kohlenpott-derby gaf Stevens aan dat hij enigszins verrast is over de problemen binnen de ploeg. „Pas als trainer hoor en zie je dingen die je eerst niet opvielen. We gaan hier intern mee aan de slag, maar misschien zullen we er binnenkort ook publiekelijk mee naar buiten komen”, aldus de mysterieuze Stevens.</p><p>In maart werd de Algerijn ook al geschorst door Stevens, vanwege ’een gebrek aan groepsgevoel’.</p><p>Borussia Dortmund - Schalke 04 wordt zaterdag om 15.30 uur gespeeld.</p>

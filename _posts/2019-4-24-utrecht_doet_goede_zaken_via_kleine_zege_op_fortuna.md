@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Utrecht doet goede zaken via kleine zege op Fortuna"
+date: Wed, 24 Apr 2019 21:38:33 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3491772/utrecht-doet-goede-zaken-via-kleine-zege-op-fortuna"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8bc40fa4-66c8-11e9-8459-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">FC Utrecht heeft via een 2-1 overwinning op Fortuna Sittard goede zaken gedaan in de strijd om een ticket voor de play-offs.</p> <p>De ploeg van Dick Advocaat passeerde door de krappe zege concurrent Heracles Almelo en staat nu weer vijfde in de Eredivisie. Fortuna is door de nederlaag nog niet helemaal veilig.</p><p>Een bliksemstart hielp FC Utrecht goed op weg in de kletsnatte Galgenwaard. Nicolas Gavory gaf al in de vierde minuut een prima voorzet, die door Gyrano Kerk artistiek werd afgerond. De aanvaller verlengde de bal met een subtiele voetbeweging achter de kansloze Alexei Koselev.</p><p>Blunder Jensen</p><p>De bezoekers, die zich bij een overwinning veilig zouden spelen, verstopten zich echter niet in de Galgenwaard en waren via Mark Diemers en Finn Stokkers gevaarlijk. Kort voor rust kwam de ploeg langszij via Andrija Balic. De middenvelder nam de bal over van de zich vastlopende Diemers en zag zijn schot via de blunderende Utrecht-keeper David Jensen in de touwen belanden.</p><p>Na rust kreeg Fortuna de beste kansen, maar ontbrak het de Limburgers aan geluk in de afronding. Jorrit Smeets zag zijn schot na een knappe aanval nog net geblokt door Joris van Overeem, terwijl Jensen de kopbal van Ahmed El Messaoudi uit de daaropvolgende corner uit zijn goal ranselde.</p><p>Kerk matchwinnaar</p><p>Aan de overkant sloeg de thuisclub wel toe. Een schot van Jean-Christophe Bahebeck uit een hoekschop kon door Koselev niet afdoende worden gekeerd, waarna Kerk er als de kippen bij was om de rebound binnen te tikken. Het was de tweede goal in de wedstrijd van de aanvaller, iets wat hem nog niet eerder in de Eredivisie was gelukt.</p><p>Bekijk hier de uitslagen, stand en het programma in de Eredivisie</p>

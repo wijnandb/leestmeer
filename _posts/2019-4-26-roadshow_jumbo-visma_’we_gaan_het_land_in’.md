@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Roadshow Jumbo-Visma: ’We gaan het land in’"
+date: Fri, 26 Apr 2019 12:55:33 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3500562/roadshow-jumbo-visma-we-gaan-het-land-in"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ea1bf434-6814-11e9-af69-0255c322e81b.jpg"
+---
+
+<p class="intro">Wielerploeg Jumbo-Visma heeft officieel bekendgemaakt dat het met een eigen ploeg meer jongeren aan het wielrennen wil krijgen en op die manier talenten wil ontwikkelen tot profrenners, zoals Telesport donderdag al meldde.</p> <p>De opleidingsploeg voor beloftevolle renners onder de 23 jaar zal bestaan uit twaalf tot zestien Nederlandse en buitenlandse talenten en start op 1 januari 2020. Het plan bevat ook scholenprojecten en verenigingsondersteuning.</p><p>„We zijn sinds een paar jaar bezig met een plan om meer jeugd over te halen om op de fiets te stappen”, zei manager Richard Plugge van Team Jumbo-Visma bij de presentatie in Valkenburg.</p><p>„Ons plan steunt op twee pijlers: opleiding en aanwas. Niet vissen uit dezelfde vijver, maar de vijver vergroten. Het moet een piramide worden. Van onder naar boven: scholen, daarboven de wielerclubs, de opleidingsploeg en voor een enkeling misschien onze World Tour-ploeg.”</p><p>De grootste Nederlandse wielerploeg zoekt scholen en wielerclubs op om de jeugd te inspireren met behulp van hedendaagse middelen als virtual reality. „Er komt een soort roadshow, we gaan het land in”, aldus Merijn Zeeman, sportief directeur van Team Jumbo-Visma.</p><p>„Voor ons is talentontwikkeling belangrijk: we zijn een Nederlandse ploeg, we willen goede Nederlandse renners opleiden. Tegelijkertijd bestaan we bij de gratie van fans, van iedereen die wielrennen een warm hart toedraagt.”</p><p>Zeeman wil dat het hele Nederlandse wielrennen hier iets aan heeft. „Dit is de aftrap van een project met veel ambitie. We hebben niet de pretentie dat wij het probleem rond de aanwas eventjes helemaal oplossen. We juichen ieder initiatief van wielerstimulering toe. Dit is de manier waarop wij verantwoordelijkheid nemen.”</p>
