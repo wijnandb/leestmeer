@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Eigenaar verdrietig na diefstal broedende vogels: ’Ik ben witheet’"
+date: Fri, 26 Apr 2019 16:47:00 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3500896/eigenaar-verdrietig-na-diefstal-broedende-vogels-ik-ben-witheet"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/390a52a8-6832-11e9-847b-0218eaf05005.jpg"
+---
+
+<p class="intro">Update - De diefstal van meer dan tien bijzondere vogels heeft er flink ingehakt bij de eigenaar van Vogelpark Ruinen. Sommige vogels waren juist aan het broeden. Hun eieren zullen nooit meer uitkomen.</p> <p>Henk Dietz trof vrijdagochtend een volière leeg aan. De sloten waren doorgeknipt. „Eerst zag ik een vogel rondvliegen. Ik denk: jij hoort hier niet. Toen zag ik een deur loszitten. En daarna nog een. En nog een...”, zegt hij.</p><p>Onder de tientallen verdwenen vogels zijn zwartborstlangstaartgaaien, rode kardinalen, Europese scharrelaars en witkuifgaailijsters. Een deel van de vogels is gestolen, anderen konden daarna wegvliegen, vermoedt hij.</p><p>De daders begeven zich op de zwarte handel, zo is zijn stellige overtuiging. „Ze hebben zich duidelijk gericht op een bepaald soort vogels. Die gaaien zijn echt kostbaar, de scharrelaars ook. Die zijn echt zeldzaam.”</p><p>Eieren</p><p>In Vogelpark Ruinen zaten 700 vogels, verdeeld over 130 soorten. Zes à zeven soorten zijn helemaal weg, zegt Dietz. De totale schade bedraagt 25.000 a 26.000 euro.</p><p>Maar Dietz is ook persoonlijk geraakt, vooral omdat sommige vogels aan het broeden waren. „Ik had een koppel zwartborstlangstaartgaaien dat hun jongen zelf grootbracht. Dat zie je zelden. Ze hadden drie eieren. Die zijn nu steenkoud.”</p><p>Hij is woest en verdrietig. „Nou, ik ben witheet. Laat me er niet achterkomen wie het gedaan heeft. Je staat dag en nacht voor die beesten klaar. En nu ben je ze kwijt.” Dietz heeft aangifte gedaan en hoopt dat vogelliefhebbers hem tippen als ze zijn vogels zien of krijgen aangeboden.</p>
