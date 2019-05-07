@@ -1,0 +1,20 @@
+---
+layout: post
+title: "CU, PvdA en GL willen opheldering van Harbers over uitzetten jezidi's"
+date: Sat, 27 Apr 2019 19:53:12 +0200
+category: politiek
+externe_link: "https://nos.nl/l/2282330"
+feature_image: "https://nos.nl/data/image/2019/04/27/546458/1008x567.jpg"
+---
+
+<p>Coalitiepartij ChristenUnie, de PvdA en GroenLinks willen opheldering van staatssecretaris Harbers over het beleid voor jezidi's. Vanmorgen werd bekend dat de IND jezidi's terugstuurt naar vluchtelingenkampen in Noord-Irak.</p>
+<p>In een reactie aan de NOS laat Kamerlid Joel Voordewind van de ChristenUnie weten dat er geen sprake kan zijn van gedwongen terugkeer zolang de situatie van de jezidi's niet wijzigt. Hij wijst erop dat VN-vluchtelingenorganisatie UNHCR aangeeft dat er grote zorgen zijn over de terugkeer van de jezidi's.</p>
+<p>Dat moet volgens de ChristenUnie leidend zijn bij het inschatten van de mogelijkheid tot terugkeren. Bovendien heeft juist deze groep enorm geleden onder de gruwelijkheden van de islamitische terreurgroep IS. "Ze zijn alles kwijt en vaak getraumatiseerd. Hen moet recht worden aangedaan", aldus Voordewind.</p>
+<p>Ook de PvdA zegt zich grote zorgen te maken over de veiligheid van jezidi's en stelt Kamervragen. GroenLinks noemt het onverantwoord om deze mensen uit te zetten. Jasper van Dijk laat namens de SP weten dat ze het terugsturen van jezidi's opmerkelijk vinden, omdat de VN dat onveilig noemt. "Nederland kan beter werk maken van het terugsturen van overlastgevende asielzoekers uit veilige landen."</p>
+<h2>VVD: niet aan politiek</h2>
+<p>De VVD zegt in een reactie dat het niet aan de politiek is om zelf over individuele gevallen te oordelen. "De IND weegt per individu op basis van zorgvuldig verkregen informatie over de veiligheid in het land en het betreffende gebied of iemand terug kan keren. Daartegen is altijd beroep en dus toetsing door een rechter mogelijk."</p>
+<p>Ook binnen de jezidi-gemeenschap in Nederland zijn grote zorgen. Dat zegt de jezidische Wahhab Hassoo, die in 2012 vanuit Sinjar naar Nederland kwam. Hassoo, die veel evenementen organiseert voor de jezidi-gemeenschap, schat dat er tussen de 100 en 200 mensen in afwachting zijn van een verblijfsvergunning. Zij bestoken hem met vragen. "Ik was van plan om met vrienden Koningsdag te vieren toen ik het nieuws zag. Maar ik kreeg alleen maar bezorgde reacties. Een jongen die hier pas net woont vroeg me of hij nu teruggestuurd wordt, maar ik kon hem geen antwoord geven."</p>
+<p>Hij vindt het pijnlijk dat dit nieuws nu naar buiten komt. "De IND wil jezidi's naar de kampen terugsturen, terwijl ik juist probeerde om druk uit te oefenen op politici om jezidi's uit de kampen naar Nederland te halen." Dat zegt ook Tineke Ceelen van Stichting Vluchteling: "Duitsland haalt vrouwen uit de kampen naar Duitsland om ze daar tot rust te laten komen en te behandelen voor hun trauma's. Dat zou Nederland moeten doen in plaats van terugsturen." Ze noemt het "godgeklaagd". "Als dit al geen kwetsbare groep meer is, wie dan wel?"</p>
+<p>Brenda Stoter, journaliste en bezig met een boek over de jezidi's, deelt die verontwaardiging. Bovendien kunnen ze helemaal niet terug, stelt ze. "De jezidi's om wie het gaat komen uit Sinjar. Er is daar niks. Niemand garandeert dat het daar veilig is. Bovendien zijn ze in Sinjar juist bezig met het ontmantelen van massagraven. Ga je dan mensen terugsturen naar een gebied waar hun familieleden misschien wel in zo'n massagraf liggen?"</p>
+<p>Hassoo benadrukt ook dat de situatie volgens hem niet veilig is. "Er wordt gevochten, onder meer het Turkse leger en de PKK bevechten elkaar daar, er zijn luchtaanvallen en bovendien is er veel haat tussen de verschillende bevolkingsgroepen, die wraak op elkaar willen."</p>
+<p>Stoter en Hassoo denken dat teruggestuurde jezidi's om die redenen terechtkomen in vluchtelingenkampen in Iraaks-Koerdistan. Stoter: "Dat zijn armzalige kampen en bovendien worden jezidi's ook daar gediscrimineerd." Bovendien, dat is niet 'terugsturen', vindt Hassoo: "Wij komen uit Sinjar, het lijkt erop dat de IND alleen maar kijkt naar uit welk kamp mensen zijn gevlucht."</p>
