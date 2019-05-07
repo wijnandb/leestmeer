@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Lichaam Julie (23) gevonden in kanaal, man verdacht van moord"
+date: Mon, 06 May 2019 17:27:02 +0200
+category: buitenland
+externe_link: "https://www.telegraaf.nl/nieuws/3544178/lichaam-julie-23-gevonden-in-kanaal-man-verdacht-van-moord"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ad91fc96-703b-11e9-9489-02c309bc01c1.jpg"
+---
+
+<p class="intro">Update 18.11 uur - De man die aanvankelijk als ’belangrijke getuige’ werd gehoord rondom de verdwijning van de 23-jarige Julie Van Espen, is door justitie nu aangemerkt als moordverdachte. Het lichaam van de Vlaamse is maandagavond gelokaliseerd in het Albertkanaal, ergens tussen de plaatsen Schilde, Merksem en Antwerpen.</p> <p>Julie, een studente uit Schilde, verdween op zaterdag 4 mei om 18.30 uur toen ze met de fiets op weg was naar vriendinnen in Antwerpen. Daar zou ze nooit aankomen. Vrienden hadden vervolgens een grote zoekactie op touw gezet, waarbij onder meer kleren werden gevonden met bloedsporen erop.</p><p>Behalve de kleren werden ook haar telefoon en een fietsmandje gevonden, op andere plekken. Julie’s ov-kaart lag in een prullenbak. Al snel hield justitie daarom sterk rekening met het scenario dat de blondine het pad van een moordenaar had gekruist.</p><p>Verkrachtingen</p><p>De politie heeft inmiddels een 39-jarige man aangehouden wiens signalement eerder werd verspreid. Hij heeft een ’zwaar gerechtelijk verleden’ en is onder meer twee keer veroordeeld voor verkrachting, schrijft Het Nieuwsblad.</p><p>De verdachte was gezien op bewakingsbeelden. De politie had zondagnacht foto’s van hem gedeeld en een opsporingsbericht verspreid, waarbij hij nog als ’belangrijke getuige’ werd aangeduid. Daarop kwamen ruim tweehonderd tips binnen.</p><p>De man kon vervolgens worden getraceerd dankzij de gps in zijn mobiele telefoon. Hij is verhoord en wordt maandag voorgeleid op verdenking van moord, meldt het Openbaar Ministerie van Antwerpen.</p>

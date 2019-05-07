@@ -1,0 +1,10 @@
+---
+layout: post
+title: "100 snelheidsmaniakken verrassen Duitse politie"
+date: Thu, 02 May 2019 17:08:31 +0200
+category: opmerkelijk
+externe_link: "https://www.telegraaf.nl/nieuws/3528429/100-snelheidsmaniakken-verrassen-duitse-politie"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6a075af0-6cf5-11e9-bf44-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Snelheidsmaniakken die kennelijk in een gecoördineerde race met 250 kilometer per uur over de A20 raasden in het noordoosten van Duitsland hebben de politie donderdag voor problemen gesteld. Het ging om een groep van ongeveer honderd sportwagens. Bij het wegrestaurant Fuchsberg ten oosten van Wismar konden er veertig die daar even pauzeerden uit het verkeer worden gehaald, zei een woordvoerster van het district Rostock.</p> <p>De politie richtte mobiele en stationaire controleposten in om de andere wagens te lokaliseren en op overtredingen te betrappen. Twee helikopters ondersteunden de opsporingsactie. De racekaravaan reed, zonder ongelukken te veroorzaken, in oostelijke richting. Het is onduidelijk waar de coureurs, naar verluidt aan het stuur van onder meer Porsches, Ferrari’s en Lamborghini’s, zijn gestart.</p><p>Een getuige zei op de NDR-radio een aantal Noorse kentekens te hebben gezien. Het zou kunnen gaan om deelnemers aan de ’Eurorally’ van Oslo naar Praag waar reclame voor is gemaakt. De etappe van donderdag ging volgens de informatie van de Duitse stad Kiel naar Szczecin net over de grens in Polen.</p><p>Milieu</p><p>Op verscheidene delen van de Duitse autobanen geldt overigens geen snelheidslimiet. Het idee het maximum op 120 km/u te stellen om de verkeersveiligheid te bevorderen en het klimaat te beschermen, vond geen gehoor. Minister van Verkeer Andreas Scheuer (CSU) zei onlangs dat geen zinnig mens zo’n voorstel zal steunen. Verbieden en beperken hebben volgens hem geen zin. Ook zijn collega van Milieu Svenja Schulze (SPD) noemde die discussie achterhaalde symboolpolitiek.</p>

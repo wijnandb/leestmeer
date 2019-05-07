@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Valencia geeft strijd niet op in Spanje"
+date: Sun, 05 May 2019 22:52:29 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3540612/valencia-geeft-strijd-niet-op-in-spanje"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c6433e0e-6f77-11e9-ab5f-0218eaf05005.jpg"
+---
+
+<p class="intro">Valencia geeft de strijd om een eindklassering in de top vier van La Liga, goed voor een ticket voor de Champions League, nog niet op.</p> <p>De subtopper won met grote cijfers (2-6) bij hekkensluiter SD Huesca, dat nu officieel is gedegradeerd. Ook nummer negentien Rayo Vallecano kan de afdaling niet meer voorkomen.</p><p>Valencia leidde bij de rust al met 0-5. Na de rust deden de bezoekers het wat rustiger aan. Santi Mina was met twee treffers en twee assists de belangrijkste man bij de bezoekers.</p><p>Valencia staat op de vijfde plek, met drie punten minder dan nummer vier Getafe. Er zijn nog twee speelronden te gaan in La Liga.</p><p>Valencia kan zich ook nog via de Europa League kwalificeren voor de Champions League. De titel is daarvoor noodzakelijk. De Spaanse ploeg ontvangt donderdag in de return van de halve finales Arsenal, dat in de thuiswedstrijd afgelopen donderdag in Engeland met 3-1 zegevierde.</p><p>Serie A</p><p>Napoli heeft op eigen veld op de valreep gewonnen van Cagliari. De nummer twee van de Serie A zegevierde met 2-1 over de middenmoter. De winnende treffer viel in de achtste minuut van de extra tijd en kwam op naam van Lorenzo Insigne.</p><p>Hij scoorde uit een strafschop, die na interventie van de VAR was toegekend vanwege een handsbal. Wegens protesteren tegen deze gang van zaken werd Artur Ionita van Cagliari door de arbiter uit het veld gestuurd.</p><p>Cagliari was in de 63e minuut door een doelpunt van Leonardo Pavoletti op voorsprong gekomen. De Belg Dries Mertens bracht vijf minuten voor tijd met een kopbal de gelijkmaker op zijn naam.</p><p>Met nog drie duels te spelen, is Napoli verzekerd van de tweede plaats in de Serie A achter kampioen Juventus.</p>

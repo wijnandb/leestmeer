@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Engelse titelstrijd naar climax; wat zijn de scenario’s?"
+date: Tue, 07 May 2019 00:03:36 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/sport/3545367/engelse-titelstrijd-naar-climax-wat-zijn-de-scenario-s"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/cc288396-704a-11e9-85a2-02c309bc01c1.jpg"
+---
+
+<p class="intro">Pep Guardiola haalde maandagavond opgelucht adem, terwijl de spelers en inwoners van Liverpool hun handen stuksloegen van frustratie. Manchester City won met 1-0 van Leicester City, en dat belooft een spannende climax van de Engelse Premier League zondagmiddag.</p> <p>De prachtige treffer van Vincent Kompany zorgde ervoor dat City met nog één speelronde te gaan de dans weer leidt in de Premier League. Het was allesbehalve groots wat de formatie van Guardiola liet zien, maar door de overwinning staat de ploeg wel op poleposition voor de Engelse landstitel. De voorsprong van The Citizens op Liverpool is één punt, waardoor de ploeg bij een zege op Brighton &amp; Hove Albion de landstitel sowieso prolongeert.</p><p>Gelijkspel City</p><p>Ook een gelijkspel tegen de ploeg van Jürgen Locadia kan genoeg zijn, maar in dat geval mag concurrent Liverpool op eigen veld niet winnen van Wolverhampton Wanderers. Wanneer dat dan wel gebeurt, finishen Virgil van Dijk en Georginio Wijnaldum één punt boven City. Als dat scenario zich voltrekt, pakt Liverpool de eerste landstitel sinds 1990.</p><p>Nederlaag City</p><p>Verliest Manchester bij Brighton, dan mag vanuit City-optiek Liverpool dus sowieso niet winnen van de Wolves. Als Liverpool in dat geval gelijk speelt, eindigen beide ploegen op 95 punten. De grootte van de nederlaag van City én het aantal goals dat Liverpool maakt in de remise tegen de Wolves zijn in dat geval bepalend. Het doelsaldo van Liverpool blijft sowieso plus 65, terwijl Manchester City op dit moment een doelsaldo van plus 69 heeft. Zowel het doelsaldo als het aantal gemaakte doelpunten kan dan nog een rol gaan spelen.</p><p>Brighton, de tegenstander van City, is veilig en speelt nergens meer voor. De ploeg kan hooguit nog een plaatsje stijgen, als het zelf wint en Southampton verliest van Huddersfield Town. In dat geval eindigt de ploeg als zestiende. De Wolves, die dus afreizen naar Anfield Road, kunnen niet meer omhoog en omlaag en eindigen dit seizoen op een razend knappe zevende plaats.</p><p>Bekijk hier de uitslagen, stand en het programma in de Premier League</p>

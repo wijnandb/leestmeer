@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Jarige prinses Benedikte in de schijnwerpers gezet"
+date: Sun, 28 Apr 2019 19:24:36 +0200
+categories: 
+- entertainment 
+- royalty 
+externe_link: "https://www.telegraaf.nl/entertainment/3507617/jarige-prinses-benedikte-in-de-schijnwerpers-gezet"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8520378a-69da-11e9-b72b-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Denemarken viert maandag de 75e verjaardag van prinses Benedikte. Haar zus koningin Margrethe biedt haar in paleis Amalienborg een feestelijk diner aan, er verschijnt een biografie en zaterdag kreeg Benedikte in de stad Kolding al een bijzonder feestprogramma aangeboden. Ook opende ze in museum Koldinghus een tentoonstelling over de sociale ontwikkeling in Denemarken in de afgelopen 75 jaar en haar plaats in die recente geschiedenis.</p> <p>De festiviteiten voor de populaire zus van de koningin bevatten voor haar een aantal verrassende elementen. Zo kreeg de als paardenliefhebber en -kenner bekendstaande Benedikte een show van de Koninklijke Lijfgarde, met aan het slot een optreden van haar eigen jongste dochter prinses Nathalie. Zij is een ervaren amazone die bij de Olympische Spelen in 2008 voor Denemarken een bronzen medaille won.</p><p>Bijzonder was dat Nathalie verscheen op het door Benedikte zelf grootgebrachte paard Digby, waarop Nathalie aan het Olympisch toernooi had deelgenomen. Digby was zes jaar geleden met pensioen gestuurd maar maakte voor deze speciale gelegenheid een korte rentree, tot vreugde van prinses Benedikte.</p><p>Inval-regent</p><p>Aansluitend ging ze naar het museum om de tentoonstelling waarvoor ze veel persoonlijke voorwerpen uitleende, te openen en te bekijken. Zo zag de prinses haar eigen trouwjurk, haar versierselen van de hoogste Deense Orde, de Orde van de Olifant, maar ook haar unieke Groenlandse outfit.</p><p>Prinses Benedikte speelt een belangrijke rol in het openbare leven, met een lange reeks patronages en veel invalbeurten voor haar zus Margrethe. Die heeft haar ook nodig wanneer ze een keer samen met haar zoons het land uit wil. De Deense grondwet schrijft namelijk voor dat er altijd een volwassen troongerechtigd lid van de koninklijke familie als een soort regent in het land aanwezig moet zijn. Deze persoon heeft dan ook het recht om wetten te tekenen. Als de koningin met haar gezin op reis is, dan is alleen Benedikte over.</p>

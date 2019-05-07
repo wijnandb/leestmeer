@@ -1,0 +1,12 @@
+---
+layout: post
+title: "'Lagere omzet voor PostNL'"
+date: Mon, 06 May 2019 13:16:41 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/3542550/lagere-omzet-voor-post-nl"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a22f8170-6ff0-11e9-9157-0255c322e81b.jpg"
+---
+
+<p class="intro">De omzet van PostNL is in het eerste kwartaal waarschijnlijk gedaald ten opzichte van een jaar eerder, op een iets hogere winst. Dat blijkt uit een rondgang door PostNL zelf langs analisten die het bezorgbedrijf volgen. Beleggers zullen bij het kwartaalbericht op dinsdag tevens geïnteresseerd zijn in opmerkingen over de fusieplannen met Sandd.</p> <p>De traditionele postmarkt blijft onder druk staan en kenners rekenen dan ook op een volumedaling van 10 procent de afgelopen periode. Bij de pakketbezorging is waarschijnlijk wel weer sprake van stevige groei. De opbrengsten worden in doorsnee geraamd op 690 miljoen euro, tegen 875 miljoen euro in eerste kwartaal van vorig jaar.</p><p>Belangrijkste reden voor de omzetdaling is dat de cijfers van de internationale activiteiten in de schattingen niet meer zijn meegenomen. PostNL zette vorig jaar de buitenlandse dochters Nexive en Postcon in de etalage. Mogelijk komt het de onderneming nu met nieuws over een deal naar buiten.</p><p>Het onderliggende bedrijfsresultaat schatten de kenners op 40 miljoen euro. Dat was een jaar terug nog 38 miljoen euro. De winst bij de post- en pakketonderdelen zal waarschijnlijk wel iets zijn gedaald, maar vorig jaar kampte PostNL daarnaast nog met een operationeel verlies bij de internationale activiteiten.</p><p>Risico</p><p>PostNL heeft in februari aangekondigd branchegenoot Sandd te willen overnemen. Maar voor de deal is goedkeuring nodig van de Autoriteit Consument &amp; Markt (ACM). Die toezichthouder vindt dat er een risico is dat de consument door middel van hogere prijzen de dupe wordt van de samensmelting en wil daarom nader onderzoek doen naar de plannen van de postbedrijven.</p><p>Kenners voorspelden eerder al dat de deal weleens op concurrentiebezwaren zou kunnen stuiten, aangezien PostNL en Sandd gezamenlijk vrijwel de hele markt voor briefbezorging in handen hebben. Politiek is er echter veel steun voor de consolidatie. Verantwoordelijk staatssecretaris Mona Keijzer (Economische Zaken) liet vorig jaar al doorschemeren dat zij bereid is haar bevoegdheid te gebruiken om een eventueel verbod terug te draaien.</p>

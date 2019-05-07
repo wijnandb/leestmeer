@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Olieprijs veert plots op"
+date: Mon, 06 May 2019 21:21:27 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/financieel/3545042/olieprijs-veert-plots-op"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8f5036d0-7036-11e9-bc2d-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">De prijzen van ruwe olie zijn maandagavond laat in herstel gegaan, na een forse duikeling in de ochtend. Amerikaanse troepen zijn richting de Straat van Hormuz gestuurd om de sancties tegen Iran kracht bij te zetten.</p> <p>De Verenigde Staten hebben volgens de Financial Times het vliegdekschip USS Abraham Lincoln en enkele bommenwerpers richting Iran gezonden.</p><p>De Iraniërs hebben vorige week gedreigd, kort nadat de laatste sancties van kracht werden, om de belangrijke Straat van Hormuz af te grendelen voor olietransporten.</p><p>Minister van Defensie Patrick Shanahan stelde een „geloofwaardige dreiging van de Iraanse strijdkrachten” te zien.</p><p>De markt zoekt naar meer oorzaken voor de stijgende olieprijs, omdat de spanningen in de Straat van Hormuz vorige week zijn begonnen.</p><p>Meerdere handelaren vinden de prijsdaling in reactie op de aangekondigde extra importheffing voor Chinese goederen naar de VS te overdreven, zo meldden zij tegenover Bloomberg.</p><p>Zakenzender CNBC meldt dat een Chinese delegatie naar de Verenigde Staten komt om alsnog over de handelsovereenkomst met Washington te praten.</p><p>Nadat president Trump aankondigde het importtarief op $200 miljard aan Chinese producten te willen verhogen van 10% naar 25%, waren die gesprekken onzeker geworden.</p><p>Amerikaanse WTI-olie veerde op tot 1,1% winst, de in Europa veel gebruikte ruwe olie werd 0,9% meer waard voor het equivalent van een vat van 159 liter. De schommeling was fors: in de ochtend koerste Brent-olie op $68,80, in de avond was Brent $71,50 waard.</p><p>Aanval op gasveld Israël</p><p>China blijkt vorige maand ook veel meer olie te hebben aangeschaft uit Saoedi-Arabië dan tot nu toe werd aangenomen. Verondersteld werd dat China veel langer gebruik zou kunnen maken van zijn grote voorraden.</p><p>Tegelijkertijd meldde Rusland zijn export van ruwe olie verder te zullen beperken. Dat zou bij een gelijke vraag tot prijsstijgingen moeten leiden.</p><p>Israël bevestigde maandagavond zijn eigen voorraad met gas te hebben afgesloten na aanvallen met raketten vanuit de Gaza-strook.</p>

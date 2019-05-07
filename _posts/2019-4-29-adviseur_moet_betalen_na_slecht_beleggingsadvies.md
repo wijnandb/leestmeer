@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Adviseur moet betalen na slecht beleggingsadvies"
+date: Mon, 29 Apr 2019 14:58:26 +0200
+categories: 
+- financieel 
+- geld 
+externe_link: "https://www.telegraaf.nl/financieel/3510558/adviseur-moet-betalen-na-slecht-beleggingsadvies"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4ffd8d66-6a82-11e9-9da7-0255c322e81b.jpg"
+---
+
+<p class="intro">Een verzekeringstussenpersoon die klanten had geadviseerd in een risicovol vastgoedproject te investeren, is aansprakelijk voor een deel van de schade die zij hebben gelopen. Hij had dit advies nooit mogen geven.</p> <p>Dat blijkt uit een uitspraak van het Kifid.</p><p>Een man stapt in 2008 om gezondheidsredenen uit de familiemaatschap en krijgt bijna vier ton mee als afkoopsom. Met de verzekeringstussenpersoon, de vaste financieel adviseur van de maatschap, overlegt hij over wat hij het beste met dit geld kan doen. Voor de man is het zijn pensioenvoorziening. Hij wil gaan beleggen. Uiteindelijk kiest hij er op aanraden van de adviseur voor om te investeren in een vastgoedproject, Future Home. Hier stopt hij €270.000 in en zijn moeder ook nog eens €50.000.</p><p>In 2010 gaat het project Future Home failliet. De tussenpersoon doet met andere tussenpersonen nog pogingen om het project te herstarten. Dit loopt allemaal op niets uit.</p><p>Aansprakelijk</p><p>De investeringen van de man en zijn moeder gaan in rook op. Zij stellen in 2016 de adviseur aansprakelijk. Het Kifid gaat hierin mee. De adviseur moet beiden het geld vergoeden dat zij hadden kunnen verdienen als zij hun geld in een obligatie-index hadden gestoken. Voor de man is dit ruim €380.000 en voor zijn moeder €70.000. Maar omdat het Kifid geen bindende uitspraken doet over bedragen hoger dan een ton, heeft de man er vrijwillig voor gekozen zijn schade vast te stellen op €100.000. De adviseur moet hen dit vergoeden, en ruim €5000 aan proceskosten betalen.</p><p>Volgens het Kifid had de adviseur nooit mogen adviseren zoveel geld in een risicovol en kortlopend project te stoppen. Nergens blijkt dat de adviseur de man heeft gevraagd wat zijn doel van de investering was (pensioenvoorziening) en hoeveel risico hij bereid was te nemen. Dan had hij geweten dat het vastgoedproject ongeschikt was voor de man en zijn moeder. Ook had de adviseur moeten adviseren de investering te spreiden. De Geschillencommissie van het Kifid verwierp het beroep op verjaring en het beroep op eigen schuld van betrokken consumenten.</p>

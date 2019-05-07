@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Bitcoin schiet door naar $6000"
+date: Tue, 07 May 2019 13:53:04 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/financieel/3548001/bitcoin-schiet-door-naar-6000"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5c8e8f78-70c0-11e9-992a-0255c322e81b.jpg"
+---
+
+<p class="intro">De waarde van cryptomunt bitcoin heeft dinsdag op grote beurzen bijna $6000 per stuk aangeraakt. De crypto koerst daarmee rond zijn hoogste punt dit jaar.</p> <p>Beleggers beleven goede tijden aan de munt die uiterst volatiel beweegt en risicovol is als belegging. Drie dagen geleden was bitcoin nog $400 per stuk minder waard, dinsdag al $5961 bij dataverzamelaar Bloomberg.</p><p>Een belangrijke verklaring voor de prijsstijging is een mogelijk verbod deze week op het produceren of ’mijnen’ van nieuwe bitcoins in China.</p><p>Zijn Nationale Commissie voor Ontwikkeling en Hervorming zette crypto-mining eerder op een voorlopige lijst met overigens meerdere, honderden activiteiten die Peking niet langer wenselijk vindt. De termijn om daartegen bezwaar te maken loopt deze week af.</p><p>Grote energiekosten</p><p>China bespaart op zijn energiekosten en zou het daarom gemunt hebben op de energieslurpende bitcoin-makers. Nergens worden zoveel munten gemaakt als in China.</p><p>Zijn goedkope lichte computers zijn afgelopen jaren vervangen door de zware mijn-pc’s, die met duizenden tegelijk dag en nacht in hallen doordraaien om de maximaal 21 miljoen bitcoins dankzij speciale software te maken.</p><p>In november vorig jaar werd een bitcoin al eens voor $6000 verkocht. Maar daarna zakte de belangrijkste van de cryptomunt ineen, net als de rest van de markt.</p><p>Op een enkele beurs stootte de koers dinsdag nog verder door dan $6000 per stuk.</p><p>’Technische grens getest’</p><p>De enorme prijsveranderingen horen bij deze markt die voor economen en centrale banken als een volgende luchtbel is.</p><p>Eind 2019 noteerde bicoin bijna $20.000, maar ging in enkele maanden terug tot rond $3000.</p><p>Fondsen die beleggen in bitcoins en andere cryptomunten meldden dinsdag dat de tien jaar oude digitale munt bij $6000 „technische grenzen test” waar het lang op strandde, nu grotere beleggers met miljarden aan vermogen meer interesse zouden tonen.</p><p>Dat zou een vervolgstap voor bitcoin naar boven mogelijk maken.</p>

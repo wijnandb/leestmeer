@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Fuglsang schiet in Luik eindelijk raak"
+date: Sun, 28 Apr 2019 17:01:21 +0200
+categories: 
+- sport 
+- wielrennen 
+externe_link: "https://www.telegraaf.nl/sport/3507192/fuglsang-schiet-in-luik-eindelijk-raak"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d5bb0814-69e9-11e9-9405-0218eaf05005.jpg"
+---
+
+<p class="intro">Jakob Fuglsang heeft eindelijk zijn grote zege van het voorjaar te pakken. De Deen van Astana schreef zondag de 105e editie van Luik-Bastenaken-Luik op zijn naam.</p> <p>Fuglsang reed het hele voorjaar ereplaatsen bij elkaar, maar een zege in een aansprekende eendagskoers bleef uit. In zowel de Strade Bianche als de Waalse Pijl zat Julian Alaphilippe hem dwars. In de Amstel Gold Race, waarin hij derde werd, moest hij zijn meerdere erkennen in Mathieu van der Poel.</p><p>Fuglsang kwam solo aan in Luik. In een natte afdaling op 4,5 kilometer van de streep ging het nog bijna mis in een afdaling, maar ondanks een wegslippend achterwiel bleef hij nipt overeind.</p><p>Davide Formolo van Bora-Hansgrohe finishte op 27 seconden als tweede. Zijn teamgenoot Maximilian Schachmann won de sprint van een achtervolgend groepje, met onder anderen Vincenzo Nibali en Adam Yates, en mocht als nummer drie mee naar het podium. Wout Poels, de winnaar van 2016, was op de tiende plaats de beste Nederlander.</p><p>Luik-Bastenaken-Luik begon om 10.10 uur onder barre omstandigheden. Met nog ruim 100 kilometer te gaan kneep viervoudig winnaar, wereldkampioen Alejandro Valverde in de remmen. Kort daarna was ook Robert Gesink uit koers. De wielrenner van Jumbo-Visma kwam in de afdaling ten val en werd overgebracht naar het ziekenhuis.</p><p>Op twintig kilometer van de finish reden er nog vier sterke renners op kop: Tim Wellens, Daryl Impey, Tangel Kangert en Patrick Konrad. Astana, de ploeg van Fuglsang, werd gedwongen om de achtervolging te leidden, aangezien de teamgenoten van topfavoriet Alaphillipe allemaal waren opgerookt.</p><p>De brigade uit Kazachstan greep de vluchters terug op Roche-aux-Faucons, de laatste beklimming van de dag, op ongeveer vijftien kilometer van de meet. Fuglsang bespeurde zwakte bij zijn grote concurrent Alaphilippe en besloot te versnellen. De Deen kreeg Michael Woods en Davide Formolo met zich mee, maar al snel bleek de Deen het meeste over te hebben. Hij trok keihard door, waardoor het drietal uit elkaar viel en Fuglsang in Luik in zijn eentje op de foto stond.</p>

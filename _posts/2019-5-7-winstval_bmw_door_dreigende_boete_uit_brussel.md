@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Winstval BMW door dreigende boete uit Brussel"
+date: Tue, 07 May 2019 08:24:33 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/3545694/winstval-bmw-door-dreigende-boete-uit-brussel"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/16321de6-7094-11e9-bc8b-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">BMW heeft in het eerste kwartaal van het jaar fors minder winst gemaakt. Het resultaat werd vooral gedrukt door een voorziening van 1,4 miljard euro die de Duitse automaker alvast nam voor een mogelijke boete uit Brussel. Daarnaast kampte BMW bij het begin van dit jaar ook met prijsdruk, handelsspanningen en problemen met nieuwe Europese emissietesten.</p> <p>Het autobedrijf uit München ligt onder een vergrootglas van de Europese Commissie omdat het tegen de regels in afspraken zou hebben gemaakt over uitstoottechnologie met branchegenoten Volkswagen en Daimler. De exacte hoogte van de geldstraf is nog niet bekend. BMW waarschuwde eerder wel voor een forse impact op de resultaten in het eerste kwartaal vanwege de voorziening, maar zegt ook de aantijgingen te zullen betwisten.</p><p>De brutowinst van de automaker zakte op jaarbasis met 78 procent tot 589 miljoen euro. De omzet op jaarbasis viel krap 1 procent lager uit met 22,5 miljard euro. Het aantal auto's en motoren dat het bedrijf in de meetperiode afleverde, is een fractie gestegen.</p><p>Kostenbesparingen</p><p>BMW verwacht met name in de tweede helft van dit jaar de prestaties te verbeteren. Op dat moment zijn tal van nieuwe modellen van de automaker beschikbaar. Verder maakt BMW werk van verdere kostenbesparingen.</p><p>De automaker had in maart dit jaar al aangekondigd dat het 12 miljard euro aan kosten wilde besparen. Die ingreep is volgens het bedrijf ook nodig in het licht van extra investeringen die nodig zijn op het gebied van elektrisch en autonoom rijden. Het onderzoek en ontwikkelingsbudget van BMW steeg op jaarbasis met 8,4 procent tot 1,4 miljard euro.</p><p>De oplopende spanningen tussen de VS en China betekent verder slecht nieuws voor onder meer BMW. Als Peking besluit om importtarieven op auto's uit de VS van 15 naar 40 procent te verhogen, kost dit de automaker mogelijk tot wel 600 miljoen euro per jaar. Samen met Daimler behoort BMW namelijk tot de grootste exporteurs van auto's van de VS naar China.</p>

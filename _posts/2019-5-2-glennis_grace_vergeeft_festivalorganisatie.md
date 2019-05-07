@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Glennis Grace vergeeft festivalorganisatie"
+date: Thu, 02 May 2019 18:33:00 +0200
+categories: 
+- entertainment 
+- gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/3529053/glennis-grace-vergeeft-festivalorganisatie"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f347ed72-6cf8-11e9-af69-0255c322e81b.jpg"
+---
+
+<p class="intro">Woensdag liet een woedende Glennis Grace nog weten dat ze nog niet klaar was met de organisatie van het festival Vier het Leven! dat een optreden van de zangeres annuleerde wegens een gebrek aan exclusiviteit. Na een reactie van de organisatie, is alles echter vergeven en vergeten.</p> <p>De organisatie van het festival stelde woensdag dat ze Glennis exclusief hadden geboekt en geen andere optredens zou doen. Nu de zangeres door haar succes in America’s Got Talent „overal” geboekt werd, besloten zij haar optreden te annuleren uit angst niet uit de kosten komen.</p><p>Grace haalde vervolgens flink uit naar de organisatie, omdat haar naam door het slijk zou worden gehaald. „Ik ben er klaar mee dat boekers op deze manier omgaan met de naam van een artiest terwijl ze zelf hun eigen hachje proberen te redden door maar de artiest te blamen”, schrijft ze haar woede van zich af. „Heel makkelijk maar vooral heel DOM. Ik pik het namelijk niet dat mijn naam door het slijk gehaald wordt. Wordt vervolgd....”</p><p>Donderdag besloot de organisatie op alle commotie te reageren: „Deze rectificatie schrijven wij omdat er vandaag veel ophef is geweest over waarom het optreden van Glennis Grace aanstaande juni te Dalfsen niet doorgaat. De ophef is ontstaan door verkeerde berichten vanuit de media. We hebben nooit naar buiten gebracht dat er op Glennis Grace een boeking stop zat naar aanleiding van haar succes in Amerika”, laten zijn weten.</p><p>„We betreuren het dat de indruk is ontstaan dat Glennis Grace zich niet aan een afspraak over exclusiviteit heeft gehouden, terwijl hier dus helemaal geen afspraak over was gemaakt. Wij vinden het vervelend dat dit persbericht zo’n ophef heeft gecreëerd en we wensen Glennis en haar team het aller beste voor de toekomst. We hopen dat hierdoor de rust wederkeert.”</p><p>Daarmee is voor Glennis de kous af. „Dank je wel voor dit bericht. Zand erover en door”, reageert ze op de rectificatie.</p><p>Op de hoogte blijven van al het nieuws over de sterren? Schrijf je hier in voor onze nieuwsbrief.</p>

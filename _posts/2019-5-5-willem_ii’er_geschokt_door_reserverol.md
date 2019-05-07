@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Willem II’er geschokt door reserverol"
+date: Sun, 05 May 2019 21:35:27 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3540336/willem-ii-er-geschokt-door-reserverol"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a218f20c-6f6e-11e9-adb9-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Voor Willem II-middenvelder Daniel Crowley kwam zijn rol als invaller in de bekerfinale tegen Ajax (4-0 verlies) als een donderslag bij heldere hemel.</p> <p>„Ik was heel erg verrast en natuurlijk bijzonder teleurgesteld”, vertelde de 21-jarige Engelsman aan FOX Sports. Pas halverwege maakte Crowley zijn opwachting. Toen was het Willem II-schip al lang gezonken.</p><p>Willem II-trainer Adrie Koster kwam een dag voor het duel in De Kuip met het slechte nieuws voor Crowley. „Hij vroeg me in zijn kantoor te komen en zei: ’Ik heb slecht nieuws voor je. Je gaat niet starten morgen.’ Ik was geschokt en erg teleurgesteld.”</p><p>Crawley, die dit seizoen de meeste minuten maakte voor de Tilburgers, vervolgt: ’De trainer zei dat hij Ajax wilde verrassen met een meer fysieke aanpak. Hij dacht dat ik daarvoor niet geschikt was. Ik ben het er niet mee eens, maar hij is de baas. Het is zijn beslissing. Als je tegen Ajax inkomt bij een 2-0 achterstand is het heel lastig. Maar ik ben mentaal sterk en kan er wel tegen.”</p><p>Koster stond na de verloren bekerfinale nog steeds achter zijn speelplan. „Ik denk dat we het bijna een helft goed hebben gedaan”, zei hij. „Maar dan maken zij 1-0 en meteen 2-0. Dan gaat het te snel. Ajax is gewoon een topploeg. Zij waren de betere.”</p><p>Willem II startte behalve zonder Crowley ook zonder Marios Vrousai. Ze kwamen in de 62e minuut in het veld. „Maar toen viel meteen de 3-0”, zei Koster. „Toen was het helemaal gespeeld. Maar het heeft niet aan onze tactiek gelegen. Ajax is te sterk. Ik hoop dat dit niet gaat doorwerken in de eredivisie. Dit is toch wel een klap. We hadden op veel meer gehoopt.”</p>
