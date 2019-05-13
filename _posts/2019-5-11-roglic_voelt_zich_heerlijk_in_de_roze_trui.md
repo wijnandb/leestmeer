@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Roglic voelt zich heerlijk in de roze trui"
+date: Sat, 11 May 2019 21:43:40 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3572691/roglic-voelt-zich-heerlijk-in-de-roze-trui"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/13c0340a-7425-11e9-ad86-0218eaf05005.jpg"
+---
+
+<p class="intro">Primoz Roglic bezorgde zichzelf en zijn ploeg Jumbo-Visma zaterdag in Bologna een groot succes met het winnen van de openingstijdrit in de Giro d’Italia. De Sloveen was over acht kilometer, waarvan de laatste twee flink omhoog, veruit de snelste.</p> <p>„Ik heb nu de roze trui waar iedereen voor vecht”, vertelde de winnaar. „Ik ben superblij dat het gelukt is en dat ik hem morgen kan dragen.” Na zijn uitmuntende race, waarin hij meteen de als eerste gestarte Tom Dumoulin op 28 seconden zette, uitte hij zich al zeer tevreden. „Ik heb me de hele dag geprobeerd te focussen. Ik had na de verkenning elke bocht in mijn hoofd zitten. Veel tactiek kwam er trouwens niet bij kijken. Het was niet heel technisch. Het was een eerlijk parcours.”</p><p>Snel vertrokken</p><p>Roglic zei niet te weten waar hij het verschil met de concurrenten - de Brit Simon Yates kwam op 19 seconden het dichtst bij - had gemaakt. „Ik ben gewoon snel vertrokken en heb geprobeerd mijn tempo vast te houden.”</p><p>De 29-jarige voormalig schansspringer kwam pas drie jaar geleden bij - toen nog - Lotto-Jumbo de WorldTour binnenwandelen. Inmiddels, met bijvoorbeeld de vierde plaats in het eindklassement van de Tour de France van vorig jaar op zak, is hij een gevestigde renner die dit jaar al drie rittenkoersen won. Een week geleden was hij nog de beste in de Ronde van Romandië.</p><p>Gelukkigste man</p><p>„Ik ben in goede vorm, al een tijdje”, was de logische conclusie van de eerste Sloveen die het roze in de Giro mag dragen. „Daar ben ik trots op. Maar de gelukkigste is de man die de trui over drie weken in Verona draagt. We zijn goed begonnen en kijken uit naar de komende dagen.”</p>

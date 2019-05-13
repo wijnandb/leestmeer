@@ -1,0 +1,10 @@
+---
+layout: post
+title: "’Patiënt dupe van falend zorgbeleid’"
+date: Fri, 10 May 2019 07:05:00 +0200
+category: overig
+externe_link: "https://www.telegraaf.nl/watuzegt/3562637/patient-dupe-van-falend-zorgbeleid"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/da0031aa-726e-11e9-9c2d-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Een lezer klaagt dat het moeilijk afspraken maken is met de huisarts (WUZ, 8/5). De abominabele situatie rond de huisartsengeneeskunde is een direct gevolg van het falende zorgbeleid van vorige kabinetten, inclusief het huidige brekebeenkabinet Rutte III, stelt R. Vermeer.</p> <p>De uitrol van de, zoals we nu weten, totaal mislukte marktwerking laat desastreuze littekens achter. Vele westerse landen keken jarenlang met jaloerse blikken naar ons zorgstelsel. De huisarts loste toen 85% van alle medische problemen op tegen 10 % van de totale zorgkosten.  De ’marktwerking’ heeft dit alles structureel gesloopt.</p><p>Bijv. door het verbieden van de uiterst functionele huisartsenapotheek op het platteland, de overheidsbemoeizucht bij het vestigingsbeleid, de honorering en vergoeding, de opleiding, de vrijbrief aan verzekeraars en het geknoei met amateuristische (triage) protocollen en bureaucratie.</p><p>Vele patiënten hebben geen eigen huisarts meer en de persoonlijke relatie huisarts-patiënt, medisch gezien van groot belang, ging daarmee vrijwel verloren. De huisartsenpopulatie bestaat inmiddels overwegend uit parttimers en  urenschrijvende waarnemers/zzp’ers. Mijn huisarts vertelde me dat hij het merendeel van zijn patiënten niet eens meer kent. Het is duidelijk dat de zorgkwaliteit daar zwaar onder lijdt. Het is ook de belangrijkste oorzaak waarom steeds meer patiënten zich direct bij de SEH melden, hetgeen leidt tot onnodig hogere kosten.</p><p>Ook in deze kwestie wordt feilloos geëtaleerd dat de politieke besluitvorming, ook in de eerstelijnszorg, nauwelijks steunt op kennis en enig inzicht over de gevolgen daarvan. Een beschamende constatering.</p><p>R. Vermeer, Uden</p>

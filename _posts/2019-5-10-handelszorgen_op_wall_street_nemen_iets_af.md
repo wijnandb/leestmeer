@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Handelszorgen op Wall Street nemen iets af"
+date: Fri, 10 May 2019 22:20:55 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/3570799/handelszorgen-op-wall-street-nemen-iets-af"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/272b3cca-7361-11e9-8689-0218eaf05005.jpg"
+---
+
+<p class="intro">De Amerikaanse aandelenbeurzen zijn vrijdag met winsten de handel uitgegaan. De handelszorgen namen iets af, nadat president Donald Trump de laatste onderhandelingen met China ,,constructief'' noemde. Uber Technologies beleefde wel een zeer teleurstellend beursdebuut.</p> <p>De Dow-Jonesindex sloot 0,4 procent in de plus op 25.942,37 punten. De breder samengestelde S&amp;P 500 won eveneens 0,4 procent, tot 2881,40 punten, en technologiebeurs Nasdaq steeg 0,1 procent naar 7916,94 punten.</p><p>Het handelsoverleg tussen de VS en China gaat komende tijd verder. Trump kwam eerder op vrijdag nog met allerlei dreigende tweets. Inmiddels is de Amerikaanse verhoging van importtarieven op Chinese producten ingegaan. China liet al weten met tegenmaatregelen te komen. Waarschijnlijk is de handelsvete voorlopig dus nog niet voorbij.</p><p>Uber omlaag</p><p>Uber ging op zijn eerste handelsdag bijna 8 procent omlaag. Aandelen van het technologiebedrijf achter de populaire taxi-app openden met een koers van 42 dollar. Dat is lager dan de introductieprijs van 45 dollar waarvoor Uber de stukken in de markt had gezet.</p><p>Uber haalde bij de beursgang niettemin meer dan 8 miljard dollar op. Topman Dara Khosrowshahi benadrukte dat het uiteindelijk toch gaat om hoe de beurskoers zich op de langere termijn ontwikkelt. Branchegenoot Lyft beleefde onlangs wel een glansrijk beursdebuut, maar de koers zakte later flink weg. Lyft speelde vrijdag rond de 7 procent kwijt.</p><p>Kwartaalcijfers</p><p>Verder kwamen nog enkele bedrijven met kwartaalcijfers. Telecom- en mediabedrijf Viacom werd daarop een kleine 3 procent hoger gezet. Softwarebedrijf Symantec ging juist 12,5 procent onderuit na tegenvallende winstcijfers en een minder positieve prognose. Ook vertrekt topman Greg Clark bij de maker van antivirussoftware.</p><p>De euro was 1,1232 waard, tegen 1,1243 dollar bij het slot van de Europese beurzen eerder op de dag. De prijs van een vat Amerikaanse olie daalde 0,1 procent tot 61,66 dollar. Brentolie kostte 0,5 procent meer op 70,72 dollar per vat.</p>

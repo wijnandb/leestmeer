@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Advocaat: ’Sommige spelers Utrecht wel erg gemakkelijk ziek’"
+date: Sat, 11 May 2019 07:29:20 +0200
+categories: 
+- sport 
+- voetbal 
+externe_link: "https://www.telegraaf.nl/sport/3571191/advocaat-sommige-spelers-utrecht-wel-erg-gemakkelijk-ziek"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c584b30a-73ad-11e9-ac87-0217670beecd.jpg"
+---
+
+<p class="intro">FC Utrecht-trainer Dick Advocaat denkt dat de schlemielige uitschakeling van Ajax in de Champions League nog wel door de koppies van de spelers zal spelen, maar verwacht dat de impact ervan op Ajax-FC Utrecht niet groot zal zijn.</p> <p>„Voor de spelers zelf is het heel negatief, heel moeilijk om te accepteren. In plaats van vrolijke gezichten op de training te hebben, zie je geen lachebek meer lopen. Na zo’n afloop heb je wel een paar dagen een negatieve sfeer. Maar Ten Hag is verstandig genoeg om daarmee om te gaan. Er staat wel een kampioenschap op het spel.”</p><p>Als tv-analyticus was Advocaat zelf aangedaan door de tragische afloop van de meeslepende halve finale. „Als er een Nederlandse ploeg bij betrokken is die het zo goed heeft gedaan, dan moeten we daar met z’n allen trots op zijn. Als ik dan na afloop zie hoe de spelers zich gedragen, dan word ik geëmotioneerd.”</p><p>Advocaat beseft dat het een loodzwaar karwei wordt voor FC Utrecht, dat zes spelers mist (onder wie ook spits Jean-Christophe Bahebeck) en ook nog in onzekerheid verkeert over de inzetbaarheid van Timo Letschert.</p><p>„Het grote voordeel is dat wij ons al gekwalificeerd hebben voor de play-offs, wat ook de doelstelling was toen wij kwamen. Wij kunnen zonder druk spelen. De druk zit wel bij Ajax. Die moeten. Maar deze club heeft zo overtuigend gespeeld in de Champions League. Wij moeten zorgen dat ze niet in hun spel komen, maar dat hebben Real Madrid en Juventus ook geprobeerd zonder dat het ze is gelukt”, aldus Advocaat, die zich ergert aan het gemak waarmee sommige spelers afhaken, met name Leon Guwara en Jean-Christophe Bahebeck.</p><p>„We kwamen binnen met een groep die niet van ons is en waarvan je ook de mentaliteit niet kent. Er staat een goede groep, maar de eerste zes, zeven weken van het seizoen kun je selecteren. Als ik vanaf het begin hier was geweest, dan waren er een paar gesneuveld. Je moet een bepaalde hiërarchie krijgen in je groep en je niet continu hoeven te ergeren aan jongens die niet zo graag willen. Van sommigen denk ik dat ze wel erg gemakkelijk ziek worden.”</p>

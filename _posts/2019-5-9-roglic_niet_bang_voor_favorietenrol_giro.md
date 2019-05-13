@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Roglic niet bang voor favorietenrol Giro"
+date: Thu, 09 May 2019 14:24:05 +0200
+categories: 
+- sport 
+- wielrennen 
+externe_link: "https://www.telegraaf.nl/sport/3561925/roglic-niet-bang-voor-favorietenrol-giro"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1edfc760-729f-11e9-8873-0218eaf05005.jpg"
+---
+
+<p class="intro">Primoz Roglic heeft er geen moeite mee dat hij zaterdag als een van de topfavorieten van start gaat in de Ronde van Italië.</p> <p>„Dat hoort erbij als je de beste wilt zijn”, zei de Sloveen, die voor Jumbo-Visma dit jaar al drie rittenkoersen won. Vorige week was hij nog de beste in de Ronde van Romandië.</p><p>Hij won de rittenkoers met overmacht. Terwijl vooraf was bepaald dat hij zich niet te veel in de kijker zou rijden, won Roglic drie etappes. „Als je goed bent en een goed resultaat kunt behalen, moet je je niet verstoppen”, verklaarde hij zijn opmerkelijke optreden.</p><p>De ploegleiders, Jan Boven en Addy Engels konden zich daarin vinden. Engels: „Toen Primoz aan de leiding kwam op de tweede dag zaten we meteen op één lijn. Als je er zo goed voorstaat, is het niet verstandig om het te laten lopen.”</p><p>Roze trui</p><p>De Giro begint met een individuele tijdrit over 8 kilometer in Bologna. De laatste 2000 meter gaan fors omhoog. „Een mooie start van de Giro, een echte uitdaging”, keek Roglic vooruit. Voor de tijdrit en de strijd om de eerste roze trui is hij de uitgesproken kanshebber. „We zijn klaar om de trui te verdedigen, we hebben dit jaar laten zien dat we een sterk team hebben.”</p><p>Nog maar drie jaar geleden was de Giro zijn eerste grote ronde. Hij was de voormalig skispringer, zonder verleden als wielrenner. „Als je begint als renner denk je over wat je kunt en wilt bereiken. Het roze, de gele trui, maar het is een weg vol hindernissen. Er is veel gebeurd sinds die tijd. We hebben hard gewerkt om op dit niveau te komen. We zijn al trots op wat we hebben bereikt.”</p><p>Kanshebbers</p><p>Over andere kanshebbers liet de 29-jarige Sloveen niets los. „Het is niet aan mij over anderen te oordelen. We beginnen zaterdag in ieder geval allemaal op nul. Het wordt een groot gevecht vanaf dag één. We hebben een perfecte voorbereiding gehad. Nu moeten we drie weken gefocust zijn, maar er ook van genieten. Proberen plezier te maken. Anders zijn het drie hele lange weken.”</p>

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "BMX’ers Kimmann en Baauw zegevieren op Papendal"
+date: Sat, 11 May 2019 22:44:37 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3572780/bmx-ers-kimmann-en-baauw-zegevieren-op-papendal"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/97abaac6-742d-11e9-bc09-0255c322e81b.jpg"
+---
+
+<p class="intro">De wereldbekerwedstrijden BMX op Papendal hebben twee Nederlandse winnaars opgeleverd. Niek Kimmann zegevierde met groot machtsvertoon bij de mannen, Judy Baauw was de beste bij de vrouwen.</p> <p>Voor de 25-jarige Gelderse betekende het haar eerste wereldbekerzege. „Op Papendal haal ik steeds nieuwe mijlpalen”, zei Baauw, die vorig jaar achter de zussen Laura en Merel Smulders brons pakte op het WK. „Ik haalde hier voor het eerst de finale en stond hier voor het eerst op het podium. Nu haal ik hier ook mijn eerste wereldbekeroverwinning.”</p><p>Baauw profiteerde slim van de felle strijd vooraan tussen wereldkampioene Laura Smulders, die vorig jaar ook de wereldbeker won, en de Amerikaanse Alise Willoughby. Ze kroop na de laatste bocht slim binnendoor en reed naar de winst. „Die meiden zijn ongeveer even goed, ze gunnen elkaar niets. Ze zoeken elkaar elke keer op. Dan moet je slim rijden”, zei Baauw. Willoughby eindigde als tweede, Smulders moest genoegen nemen met de derde plaats. Ruby Huisman werd vijfde en Merel Smulders kwam als zevende over de streep.</p><p>Mannen</p><p>Bij de mannen was Kimmann oppermachtig op de thuisbaan van de Oranje-ploeg. „Het ging supergoed. Al lijkt het op het oog vaak makkelijker dan het daadwerkelijk voelt”, zei de 22-jarige BMX’er. „Het moet allemaal kloppen op zo’n moment.”</p><p>Kimmann pakte vorig seizoen de eindzege in de wereldbeker. Bij de eerste wereldbekerwedstrijden van dit seizoen, vorige maand in Manchester, eindigde hij als achtste en tweede. Na zijn zege op Papendal gaat Kimmann weer aan kop van het klassement. Zondag staat voor zowel de mannen als vrouwen op dezelfde baan de vierde wereldbekerrace op het programma.</p>

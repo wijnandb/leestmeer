@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Nieuws uit Brazilië schokt Vettel"
+date: Fri, 10 May 2019 11:26:53 +0200
+categories: 
+- sport 
+- autosport 
+externe_link: "https://www.telegraaf.nl/sport/3566622/nieuws-uit-brazilie-schokt-vettel"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bfaf8d18-7305-11e9-ad86-0218eaf05005.jpg"
+---
+
+<p class="intro">Sebastian Vettel werd donderdag tijdens de persconferentie in aanloop naar de Grand Prix van Spanje overvallen door het nieuws dat de race in Brazilië waarschijnlijk verhuist van São Paulo naar Rio de Janeiro.</p> <p>President Jair M. Bolsonaro kondigde eerder deze week aan dat hij de race gaat verplaatsen. De Formule 1-leiding heeft het nieuws nog niet bevestigd. „De F1 zou Brazilië verlaten, maar de race blijft. En dat niet alleen, we gaan zelfs een nieuwe baan bouwen”, aldus Bolsonaro. „In Rio komt een circuit dat de naam van Ayrton Senna zal dragen. Met dit project zullen duizenden banen worden gecreëerd.”</p><p>Viervoudig wereldkampioen Sebastian Vettel reageerde geschokt. „Ik wist niet dat dit ging gebeuren. Ik heb geruchten gehoord, maar dit komt als een schok. Interlagos is een fantastisch circuit met veel historie. Heel erg jammer. Ik ben iemand die dingen graag bij het oude laat. Misschien kunnen we twee races houden in Brazilië, aangezien de fans helemaal gek zijn van de sport.”</p><p>Carlos Sainz is eveneens een fan van São Paulo, maar is desondanks benieuwd naar wat men in Rio voor ogen heeft. „Als ze een mooie baan bouwen, waarop wij als coureurs goed kunnen inhalen, zou ik Interlagos misschien niet missen.”</p><p>Rio ontving de Formule 1 al eerder. Tussen 1978 en en 1989 werden elf GP’s gehouden op het inmiddels gesloopte Autódromo Internacional Jacarepagua.</p><p>Het Autódromo José Carlos Pace in Saõ Paulo is sinds 1990 een vast gezicht op de Formule 1-kalender en geldt als een historisch circuit. Denk aan de zenuwslopende titelstrijd in 2008 tussen Felipe Massa en Lewis Hamilton, die pas in de voorlaatste bocht in Engels voordeel werd beslist.</p><p>Of de sensationele overwinning van Senna in 1991. De Braziliaan had alles gegeven en moest na afloop uit zijn auto worden getild. Op het podium kreeg hij zijn trofee amper de lucht in.</p><p>En wat te denken van de masterclass van Max Verstappen in 2016. Met nog zestien ronden te rijden knokte de Nederlander zich naar voren. Hij won maar liefst elf posities en eindigde uiteindelijk als derde.</p>

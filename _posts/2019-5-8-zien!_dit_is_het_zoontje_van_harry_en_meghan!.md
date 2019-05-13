@@ -1,0 +1,12 @@
+---
+layout: post
+title: "ZIEN! Dit is het zoontje van Harry en Meghan!"
+date: Wed, 08 May 2019 13:43:20 +0200
+categories: 
+- entertainment 
+- royalty 
+externe_link: "https://www.telegraaf.nl/entertainment/3555207/zien-dit-is-het-zoontje-van-harry-en-meghan"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f02e4dda-719d-11e9-a03e-0217670beecd.jpg"
+---
+
+<p class="intro">Daar zijn ze dan! De eerste foto’s van het zoontje van prins Harry en Meghan. De naam van het mannetje is nog altijd niet bekendgemaakt.</p> <p>De Sussexes gaven begin april al aan om vlak na de bevalling – geheel tegen de traditie in – geen fotomoment te doen. De twee wilden de geboorte eerst ’in de privésfeer van hun nieuwe gezin vieren’. Woensdag was het moment daar en mochten twee fotografen en een cameraploeg op kraamvisite.</p><p>„Het is magisch!”, vertelt een stralende Meghan aan The Sun. „Ik heb de twee beste mannen ter wereld, dus ik ben heel gelukkig. De baby is superlief, heel kalm.” Harry grapt: „Ik weet niet van wie hij dat heeft.” Meghan noemt de kleine baby ’een echte droom’.</p><p>Ze kunnen nog niet zeggen op wie de baby lijkt. „Hij verandert nog elke dag”, legt Harry uit.„Het is geweldig om vader en moeder te zijn”, gaat hij verder. „We zijn het pas een paar dagen, maar het is geweldig. We zijn dolgelukkig met ons kleine bundeltje geluk.”</p><p>Na het persmoment zullen koningin Elizabeth en prins Philip hun achterkleinzoon voor het eerst ontmoeten. „Ze hebben nog een geweldig achterkleinkind erbij", zegt Harry. Ook Meghans moeder Doria Ragland komt woensdag langs om de baby te zien.</p><p>De zoon van de hertog en hertogin werd afgelopen maandag om 05.26 uur geboren. Moeder en zoonmaken het allebei ’bijzonder goed’. Harry, die Meghan bijstond tijdens de bevalling, vertelde maandagmiddag ’heel trots te zijn’ op zijn echtgenote. Hij noemde de geboorte een geweldige ervaring.</p><p>De zoon van de 37-jarige voormalige actrice en haar 34-jarige prins is zevende in de lijn van de Britse troonopvolging. Anders dan het kroost van Harry’s broer William, krijgen de kinderen van de Sussexes niet de titel prins of prinses. Het kind krijgt, omdat hij een jongen is, de titel graaf van Dumbarton, naar de Schotse titel die Harry kreeg bij zijn huwelijk.</p><p>Op de hoogte blijven van al het nieuws over de royals en sterren? Schrijf je hier in voor onze nieuwsbrief.</p>

@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Giro-renners: ’Liever startblok dan hostess’"
+date: Sat, 11 May 2019 13:30:17 +0200
+categories: 
+- sport 
+- wielrennen 
+externe_link: "https://www.telegraaf.nl/sport/3571751/giro-renners-liever-startblok-dan-hostess"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/82909ee2-7425-11e9-9abf-0255c322e81b.jpg"
+---
+
+<p class="intro">De renners in de Giro d’Italia vertrekken vanavond in de proloog met de hulp van een hostess. Zij houdt aan de start de fiets van de tijdrijders vast, die al vastgeklikt zitten en zo een vliegende start kunnen maken. Maar daar zijn niet alle renners blij mee.</p> <p>Niet dat ze bang zijn dat ze uit hun lood geslagen worden door een Italiaanse schone, maar omdat een startblok eerlijker is.</p><p>Met name werelduurrecordhouder Victor Campenaerts en tijdritspecialist Jos van Emden pleiten voor een tijdritstart vanuit een startblok, zoals op de skipiste.</p><p>Hostess</p><p>„Op het startpodium wordt onze fiets nu vastgehouden door een hostess, waarna je mag vertrekken als de official vijf seconden heeft afgeteld. Geen enkele tijdrijder wacht effectief tot de go!, maar vertrekt al één seconde op voorhand”, zegt Campenaerts tegen Het Nieuwsblad.</p><p>Hij vervolgt: „Zeker omdat er daarvoor bij mijn weten nog nooit een boete is uitgedeeld. Als je weet dat sommige tijdritten worden beslist met honderdsten van een seconde, is zoiets niet meer van deze tijd. Vorig jaar verloor Castroviejo het EK tegen mij met een halve seconde. Die moet achteraf ook hebben gedacht: ’Was ik maar een halve seconde vroeger vertrokken’.”</p><p>Regen</p><p>De proloog bestaat uit twee delen: 5.900 meter vlak met zes bochten en dan 2.100 meter omhoog via smalle en bochtige wegen. De klim naar San Luca telt mee voor het bergklassement en is gemiddeld 9,7 procent steil. Het steilste stuk volgt halfweg: een knik van 16 procent. De favorieten zijn vooral Primoz Roglic en Tom Dumoulin.</p><p>De Limburger start vandaag als eerste, Zakarin als derde, Lopez als vijfde, Campenaerts als achtste, Nibali als negende en Roglic als twaalfde. Ze willen de voorspelde regen tussen 17 en 20 uur te snel af zijn. Op één favoriet na: Simon Yates. De kopman van Mitchelton-Scott start als 174ste van de 176 renners. „Er is een hele dag kans op regen en ik wil graag de tijden van mijn concurrenten weten voor ik start”, aldus Yates.</p>
