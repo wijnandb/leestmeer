@@ -1,0 +1,12 @@
+---
+layout: post
+title: "'Herstel Wall Street na zware verliesbeurt'"
+date: Tue, 14 May 2019 14:44:05 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/3584689/herstel-wall-street-na-zware-verliesbeurt"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1ce3ed74-7646-11e9-ad86-0218eaf05005.jpg"
+---
+
+<p class="intro">De aandelenbeurzen in New York staan dinsdag naar verwachting voor een hogere opening, waarmee ze herstellen van een grote verliesbeurt een dag eerder. Waar angst voor een escalerend handelsconflict tussen China en de Verenigde Staten maandag nog zorgde voor dieprode koersenborden, lijken de twee grootmachten nu een enigszins verzoenende toon aan te slaan.</p> <p>De Amerikaanse president Donald Trump verklaarde via Twitter een deal te sluiten als "het juiste moment daar is''. Hij kondigde bovendien aan zijn Chinese ambtsgenoot Xi Jinping over enkele weken te spreken op de G20-top. Van Chinese zijde klonk de hoop dat een win-win-situatie mogelijk is als "beide kanten slim genoeg zijn om aan elkaars eisen te voldoen''.</p><p>Maandag tekenden de belangrijkste beursgraadmeters in New York nog hun grootste verliezen op van de afgelopen maanden. China voegde de daad bij het woord en voerde nieuwe importheffingen in als vergelding voor de tarieven die de VS vrijdag invoerden, wat mogelijk weer tot een Amerikaanse tegenactie leidt.</p><p>Honeywell</p><p>De Dow-Jonesindex eindigde daarop 2,4 procent lager op 25.324,99 punten en de breder samengestelde S&amp;P 500 sloot ook 2,4 procent in de min, op 2811,87 punten. Technologiebeurs Nasdaq leverde zelfs 3,4 procent in tot 7647,02 punten.</p><p>Bij de bedrijven zijn de ogen gericht op industrieel concern Honeywell. Het bedrijf hield op zijn beleggersdag vast aan de eerder afgegeven verwachtingen voor het lopende jaar. Ralph Lauren kwam met kwartaalcijfers en rapporteerde een gedaalde winst en omzet. De resultaten waren wel beter dan analisten in doorsnee hadden verwacht.</p><p>Tegelijkertijd staan olieprijzen hoger, nadat de Saudische minister van energie heeft gezegd dat olie-installaties zijn aangevallen door drones. Eerder meldden Saudi-Arabië en de Verenigde Arabische Emiraten al dat olietankers zijn gesaboteerd. Naar verluidt is een belangrijke pijpleiding van Rusland naar Europa ook nog steeds belemmerd.</p>
