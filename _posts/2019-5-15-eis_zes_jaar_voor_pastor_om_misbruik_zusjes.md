@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Eis: zes jaar voor pastor om misbruik zusjes"
+date: Wed, 15 May 2019 17:38:14 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/3592971/eis-zes-jaar-voor-pastor-om-misbruik-zusjes"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4a0f0958-7729-11e9-9af2-0217670beecd.jpg"
+---
+
+<p class="intro">De 58-jarige pastor Rans D. van een Ghanese kerk in Den Haag moet zes jaar cel krijgen omdat hij twee buurmeisjes jarenlang zou hebben misbruikt. Dat eiste het Openbaar Ministerie woensdag voor de rechtbank in Den Haag.</p> <p>Een van de meisjes zou hij tussen 2001 en 2016 hebben misbruikt, haar zusje van 2004 tot 2011. Het gebeurde bij de een vanaf haar zesde, de ander was elf toen het misbruik begon. De meisjes hoorden bij zijn kerkgemeenschap.</p><p>De zussen kwamen in het huis van D. om klusjes voor hem te doen. Hij zou de meisjes geregeld hebben betast en ook bij ze zijn binnengedrongen. Hij zou een van hen hebben "behandeld omdat er een boze geest in haar buik zat" en hebben gezegd dat er anders een vloek op haar zou rusten.</p><p>D. ontkent stellig en zegt dat de zussen liegen. "Ik ben dominee, ik kan niet in de kerk preken over wat goed en slecht is en dan zoiets doen." Zijn advocaat vroeg om vrijspraak wegens gebrek aan bewijs.</p><p>De advocaat verzette zich tegen de vertaling van opnames die zijn gemaakt van een gesprek tussen de pastor, de zussen en hun moeder. Verschillende tolken begrepen daaruit dat in de Ghanese Twi-taal het woord 'vagina' werd gebruikt en dat D. bekende dat hij de meisjes had aangerand. Hij bood toen ook zijn excuses aan. Volgens de advocaat klopt die vertaling niet, maar de rechtbank wees dat bezwaar af.</p><p>De geloofsgemeenschap, die samenkomt in de Lukaskerk in Den Haag, heeft zich achter D. geschaard en steunt hem gedurende het proces.</p><p>In een emotionele slachtofferverklaring zei een van de zussen dat de kerkleiding niet wilde dat ze aangifte zouden doen toen het misbruik uitkwam. "Mijn zus en ik moesten eraan werken om hem te vergeven. Ze wilden het in doofpot stoppen." Hun moeder ondernam jarenlang geen actie nadat een van de meisjes haar in vertrouwen had genomen. De Ghanese gemeenschap zou de inmiddels volwassen vrouwen bedreigen en hebben uitgestoten.</p><p>Het OM vroeg ook om een beroepsverbod voor D. voor de duur van negen jaar vanaf zijn veroordeling.</p><p>De uitspraak is op 29 mei.</p>
