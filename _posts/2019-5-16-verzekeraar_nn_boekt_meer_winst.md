@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Verzekeraar NN boekt meer winst"
+date: Thu, 16 May 2019 07:18:47 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/3595241/verzekeraar-nn-boekt-meer-winst"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d91a55b8-77be-11e9-a089-0255c322e81b.jpg"
+---
+
+<p class="intro">NN Group heeft in het eerste kwartaal de winst zien stijgen. De verzekeraar deed onder meer goede zaken in eigen land en met zijn levensverzekeringentak in Japan. Ook werd een jaar eerder de winst nog gedrukt door een flinke storm, waarvoor veel schade moest worden vergoed.</p> <p>De nettowinst kwam uit op 512 miljoen euro, tegenover 399 miljoen euro een jaar eerder in dezelfde periode. Analisten hadden gemiddeld juist gerekend op een wat lagere winst.</p><p>De operationele winst steeg van 313 miljoen naar 468 miljoen euro. De winst pakte ook hoger uit door een winstuitkering van een belang in het voormalige ING Life Korea.</p><p>De verzekeraar sneed ook verder in de uitgaven. De kostenbesparingen in het voorbije kwartaal door verbetering van de efficiëntie kwamen uit op 20 miljoen euro.</p><p>In vergelijking met het ijkjaar 2016 zijn de kosten al met 310 miljoen terug geschroefd. Eind 2020 moet dan uitkomen op 400 miljoen euro.</p><p>Dit vindt DFT-verslaggever Thijs Rösken:</p><p>„Hoe heftig een storm impact heeft op NN’s cijfers, is te zien nu de verzekeraar een flinke winststijging boekt. In de schadetak ging het operationeel resultaat van €32 miljoen verlies vorig jaar naar plus €29 miljoen nu. Met mooie resultaten en een nette kaspositie, is het de vraag in welke aankoop de verzekeraar het meeste trek heeft. Wordt het Vivat, dat ruim €2 miljard moet kosten en waar NN veel concurrentie heeft, of toch het goedkopere Spaanse Caser Seguros?”</p><p>Volg @ThijsRosken</p><p>Samenvoeging</p><p>De belangrijke kapitaalbuffer Solvency II kwam uit op 213 procent. Dat was een jaar eerder nog 230 procent. Die daling hing samen met onder meer ongunstige renteontwikkelingen en de afschrijving van 500 miljoen euro voor een aandeleninkoopprogramma.</p><p>NN is nog steeds bezig met de samenvoeging van de eigen leven- en schadeverzekeringstakken met die van Delta Lloyd.</p><p>Verder ligt de focus nu op groei en verbetering van de klantervaring. NN is van plan aandeelhouders over de strategie bij te praten op een zogeheten capital markets day op 4 december.</p>

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Duncan Laurence rekent zich nog niet rijk"
+date: Thu, 16 May 2019 14:39:49 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3597910/duncan-laurence-rekent-zich-nog-niet-rijk"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bb611192-77d7-11e9-9657-0255c322e81b.jpg"
+---
+
+<p class="intro">Een groot deel van Europa denkt dat Nederland de overwinning op het Eurovisiesongfestival al binnen handbereik heeft maar Duncan Laurence wil het daar absoluut nog niet over hebben. „Nee, het is zeker nog geen gelopen race”, zei de zanger donderdag bij vertrek van het hotel richting de Expo Tel Aviv, waar hij donderdagavond in de tweede halve finale staat.</p> <p>Volgens de bookmakers heeft Duncan met zijn Arcade inmiddels een winkans van liefst 37 procent. „Een bookmaker is een voorspeller en voorspellingen zeggen niets. Ook niet iets, anders is het ook geen voorspelling en is het al een feit”, aldus de zanger rustig. „Ik ga er nog niet van uit dat ik win, nee. Het is geen gelopen race anders hadden we vanavond niet hoeven optreden.”</p><p>Duncan heeft naar eigen zeggen goed geslapen, heeft zijn geluksonderbroek mee en heeft zin om te gaan knallen in de tweede halve finale. „Dit is het moment, de dagen, waar het om gaat, waar ik al naar uitkijk sinds ik weet dat ik mag gaan.”</p><p>Zoals het moest gaan</p><p>De juryshow van woensdag, de ’generale’, ging zoals het moest gaan. De lichtbal werkte, de juiste visuals waren te zien en het was donker genoeg. „Zeker, het voelde gewoon heel fijn”, aldus Duncan. „Met een ontlading aan het einde. Ik had echt een gevoel van: ’yes, yes, we gaan het vanaf nu gewoon echt doen zoals we het helemaal voorgesteld hebben’.”</p><p>Duncan stapte na zijn woordje met de Nederlandse pers samen met de Nederlandse delegatie de bus in om zich voor te bereiden op de halve finale. Donderdagmiddag vindt er nog één doorloop plaats waarin de hele show nog een keer gerepeteerd wordt.</p>

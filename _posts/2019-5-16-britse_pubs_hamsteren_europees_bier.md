@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Britse pubs hamsteren Europees bier"
+date: Thu, 16 May 2019 14:46:35 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/financieel/3597950/britse-pubs-hamsteren-europees-bier"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2e0aa5fc-77db-11e9-8a65-0217670beecd.jpg"
+---
+
+<p class="intro">Britse pubs en brouwerijen hebben op grote schaal voorraden Europees bier ingeslagen uit vrees voor een chaotische Brexit.</p> <p>Pubs voorzien volgens de Financial Times dat ze straks alleen nog met grote douaneproblemen bij hun speciaalbieren zoals Estrella kunnen komen.</p><p>Britten zijn gek op hun lager, maar drinken ook steeds meer Europese bieren.</p><p>Pub-toeleverancier Marston heeft al voor zes miljoen pond aan Estrella-bier ingeslagen. Daar doen Britse pub-klanten zo’n drie maanden over.</p><p>Wanordelijke Brexit</p><p>Zijn topman Ralph Findlay zegt hiermee „te anticiperen op een wanordelijke Brexit”, het vertrek van het Verenigd Koninkrijk uit de Europese Unie na het referendum in 2016.</p><p>De Brexit, gepland op 29 maart, is uitgesteld tot eind oktober.</p><p>Als het Britse parlement komende maanden geen oplossing vindt voor de definitieve Brexit - premier May brengt haar voorstel in juni voor de vierde keer in stemming - dan moet Marston opnieuw hamsteren, erkent Findlay.</p><p>Deze keten verkoopt per jaar ongeveer 250 miljoen vaten met Estrella-bier, naast Peroni en Birra Moretti, waarvoor het sinds 2017 een vergunning heeft gekregen. Het Brexit-probleem lijkt klein bier, maar de groei van de markt van Marston vorig jaar met 30% draaide vooral op verkopen van Estrella’s.</p><p>Marston is niet de enige: BrewDog merkt als „zware schade voor de lange termijn” door verzwakking van de Britse economie.</p><p>Deze Britse brouwer kocht Stone Brewing in Berlijn om er zeker van te zijn ook na de Brexit te kunnen blijven leveren aan zijn klanten in Europa.</p><p>De Britten lijden voorlopig overigens nauwelijks onder de Brexit, als het om het wegzetten van biertjes gaat: de omzet van alle grote brouwers is afgelopen jaar alleen maar gestegen.</p><p>Wel boeken Britten minder vakanties buiten het eiland. Ze stellen die, vooral vanwege de zorgen om de naderende afscheiding van de EU uit, aldus reisorganisatie Thomas Cook donderdag.</p><p>Meer van zulk financieel nieuws in je mail? Schrijf je hier in voor onze nieuwsbrief.</p>

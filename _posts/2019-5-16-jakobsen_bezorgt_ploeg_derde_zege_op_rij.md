@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Jakobsen bezorgt ploeg derde zege op rij"
+date: Thu, 16 May 2019 07:44:22 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3595307/jakobsen-bezorgt-ploeg-derde-zege-op-rij"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a1e622c8-77a2-11e9-9abf-0255c322e81b.jpg"
+---
+
+<p class="intro">Wielrenner Fabio Jakobsen heeft de vierde etappe in de Ronde van Californië gewonnen. De 22-jarige Nederlander bezorgde zijn ploeg Deceuninck - Quick-Step de derde dagzege op rij in de Amerikaanse rittenkoers uit de UCI WorldTour.</p> <p>De Belg Jasper Philipsen ging de sprint van ver aan en dacht te gaan winnen, maar in de laatste meters kwam Jakobsen nog voorbij stuiven. De Slowaak Peter Sagan, winnaar van de eerste etappe, eindigde als derde.</p><p>Jakobsen vierde zijn vierde overwinning van dit seizoen. De Gelderlander won eerder al de Scheldeprijs en etappes in de Algarve en Turkije. ,,Ik had sterke benen, maar ook een formidabele 'lead-out'. Mijn ploeggenoten hielden me uit de wind, beschermden me in de hectische laatste kilometers en zetten me in de sprint precies af waar ik zijn moest'', zei Jakobsen, die vanuit het wiel van Sagan zijn 'jump' naar de finish plaatste. ,,Ik wachtte op het perfecte moment en kon het team zo weer een overwinning bezorgen.'' Met Kasper Asgreen en Rémi Cavagna had Deceuninck - Quick-Step de voorgaande twee ritten ook al gewonnen.</p><p>De vierde etappe ging over 214,5 kilometer, van racecircuit Laguna Seca naar Morro Bay. Op iets meer dan 3 kilometer van de streep vond een valpartij in het peloton plaats. Tejay van Garderen, de leider in het klassement, werd daardoor opgehouden. De Amerikaan was eerder in de etappe zelf ook onderuit gegaan en even later miste hij op een fiets van een ploeggenoot een bocht. Toen Van Garderen weer bijna was aangesloten bij het peloton, verloor hij door de valpartij voor zich weer heel wat tijd. Hij leek zijn gele leiderstrui daardoor kwijt te raken, maar de jury besloot uiteindelijk om hem in dezelfde tijd te klasseren als de rest.</p>
