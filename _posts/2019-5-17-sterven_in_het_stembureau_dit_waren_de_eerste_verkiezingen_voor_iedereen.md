@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Sterven in het stembureau: dit waren de eerste verkiezingen voor iedereen"
+date: Fri, 17 May 2019 11:46:13 +0200
+category: binnenland
+externe_link: "http://feeds.nos.nl/~r/nosnieuwsbinnenland/~3/Q634XYvdFbw/2285088"
+feature_image: "https://nos.nl/data/image/2019/05/17/550629/1008x567.jpg"
+---
+
+<p>Lange rijen bij de stembureaus, zenuwachtige echtparen en gestuntel in de stemhokjes. Het is 5 juli 1922, verkiezingsdag. Een hele speciale, want voor het eerst mogen alle volwassenen van 25 jaar en ouder - mannen én vrouwen - de gang naar de stembus maken. En dat is nog best even wennen.</p>
+<p>Niet zo gek, want lange tijd had maar een heel klein deel van de mensen stemrecht.</p>
+<p>In onze interactieve special 'Stemmenstrijd' kun je kijken of jij bij de kleine groep mensen hoorde die al vóór het algemeen kiesrecht naar de stembus mocht:</p>
+<p>In 1917 kregen mannen al algemeen kiesrecht, in 1919 - precies honderd jaar geleden - kwamen vrouwen daarbij. Omdat er in 1918 ook verkiezingen waren, hadden mannen al een keer kunnen oefenen met het stembiljet. Maar vrouwen nog niet. En bovendien was het stemmen ook voor veel mannen nog lang geen tweede natuur. Hoe ging dat, op die verkiezingsdag in de zomer van 1922?</p>
+<p>Een reconstructie lees je in dit artikel. Bekijk de video hieronder voor unieke historische beelden van de verkiezingsdag:</p>
+<p>Het is acht uur 's ochtends, de stembureaus gaan open. "De mensen maken queue", schrijft het Limburgsch Dagblad daar drie dagen later over. "Nooit zoveele echtparen bij elkander gezien." Veel stelletjes gingen namelijk samen naar de stembus, nu dat voor het eerst kon. "De vrouwen zouden wenschen, dat het iedere week stemming was, zegt iemand, want nu laat de man zijn vrouw niet tehuis."</p>
+<p>Maar er kwamen ook veel vrouwen alleen stemmen, haast de Limburgse krant zich te zeggen, "gewapend met het stembiljet, het vasthoudend alsof het iets kostbaars was". In Den Haag bekenden sommige vrouwen dat ze de hele nacht niet hadden geslapen van de zenuwen, schrijft het Haagse avondblad Het Vaderland.</p>
+<h2>Stemspijbelaars</h2>
+<p>Er waren in 1922 ruim drie miljoen kiesgerechtigden, een verdubbeling ten opzichte van vier jaar daarvoor, toen alleen mannen mochten stemmen.</p>
+<p>Het kiesrecht ging trouwens iets verder dan mogen stemmen: je moest. Er gold een stemplicht, dus je was verplicht om naar de stembus te gaan en je stem uit te brengen (of blanco te stemmen). Deed je dat niet, dan moest je bij de burgemeester van je woonplaats melden waarom je had verzuimd. Als hij akkoord ging met je verklaring, was er niks aan de hand. Maar 'stemspijbelaars' konden in het uiterste geval een berisping krijgen of een boete van maximaal drie gulden.</p>
+<h2>Tragische sterfgevallen</h2>
+<p>Iedereen moest dus bij het stembureau komen opdagen. Ook mensen die dat zonder die verplichting misschien niet hadden gedaan. De Delftsche Courant maakt twee dagen na de verkiezingen van 1922 bijvoorbeeld melding van een tragisch incident in het Zuid-Hollandse dorp Slikkerveer. Daar "is een man in het stembureau, nadat hij gestemd had, dood neergevallen".</p>
+<p>Deze man kon zijn stem nog net uitbrengen. Maar dat gold niet voor iedereen. "Te Enkhuizen werd een bejaard en ziekelijk man per auto gehaald om te stemmen", meldt bijvoorbeeld het socialistische dagblad Het Volk. "Hij werd in het stemlokaal gedragen, maar voor hij gestemd had, zakte hij in elkander en even daarna was hij een lijk."</p>
+<h2>Rood potlood en een groot stembiljet</h2>
+<p>Dit soort beklagenswaardige gevallen ten spijt, verliep de verkiezingsdag over het algemeen goed. Van tevoren waren er op sommige plekken dan ook 'proefstemmingen' georganiseerd, waar mensen konden oefenen met het invullen van het stembiljet.</p>
+<p>Dat mocht niet altijd baten. Er zijn voorbeelden van mensen die alle stemvakjes inkleurden. Dat gebeurde in 1922 trouwens voor het eerst met een rood potlood, omdat het zwarte potlood dat tot die tijd werd gebruikt te weinig contrast bood. Het idee kwam van een liberale burgemeester. Hij was geïnspireerd door de slogan van de socialistische SDAP in 1918: "Stem rood door Troelstra zwart te maken."</p>
+<p>Er waren ook kiezers "wien de schrik om het hart sloeg als zij het groote stembiljet met de honderden namen hadden opengeslagen", lezen we op 5 juli 1922 in de Provinciale Geldersche en Nijmeegsche Courant. Voor deze "weinig snuggere kiezers" had de katholieke krant De Tijd geen goed woord over. "En dat zulk een massa vrouwen, die natuurlijk een menigte ongeschoolden in het verkiezingswerk in de stemlokalen bracht, de risico's nog grooter maakte, ligt voor de hand."</p>
+<p>Na gelezen te hebben over de stembiljetfrustraties en sterfgevallen van 5 juli 1922 wil je misschien ook nog weten hoe die verkiezingen afliepen. Aan de eerste Tweede Kamerverkiezingen waarbij iedere volwassene boven de 25 jaar mocht stemmen, deden 48 (!) partijen mee. Daarvan kwamen er twaalf in de Tweede Kamer, waarvan twee gecombineerde. Hier vind je de uitslag.</p>
+<p>Confessionele partijen, zoals de Rooms-Katholieke Staatspartij (RKSP) en de Christelijk-Historische Unie (CHU), behaalden bij de verkiezingen meer dan de helft van alle Tweede Kamerzetels. "Dat is de ironie van het geheel", zegt Ron de Jong, kiesrechtdeskundige en onderzoeker bij de Kiesraad. "Vooral linkse partijen hadden zich ingezet voor het vrouwenkiesrecht, maar degenen die er met de winst vandoor gingen waren hun tegenstanders: de confessionelen." Voor een deel kwam dat waarschijnlijk doordat vrouwen in die tijd kerkelijker en conservatiever stemden dan mannen.</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbinnenland/~4/Q634XYvdFbw" height="1" width="1" alt=""/>
