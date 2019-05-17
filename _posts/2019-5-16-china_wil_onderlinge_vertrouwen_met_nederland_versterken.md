@@ -1,0 +1,24 @@
+---
+layout: post
+title: "China wil onderlinge vertrouwen met Nederland versterken"
+date: Thu, 16 May 2019 11:17:02 +0200
+category: nieuws
+externe_link: "https://nos.nl/l/2284904"
+feature_image: "https://nos.nl/data/image/2019/05/16/550333/1008x567.jpg"
+---
+
+<p>Nederland moet zich niet laten leiden door 'externe druk' en zou 'objectief' moeten kijken naar de opbrengsten van de relatie met China. Dat zegt buitenlandwoordvoerder Lu Kang in een reactie op de Nederlandse China-strategie, die gisteren werd gelanceerd.</p>
+<p>"China vindt dat beide partijen haar best moeten doen om het onderlinge te vertrouwen in elkaar te versterken", aldus Lu. "Dat is beter dan te buigen voor externe druk en invloed, die de onderlinge relatie negatief beïnvloeden." Daarmee lijkt de zegsman vooral te verwijzen naar de Verenigde Staten, dat onder Donald Trump op ramkoers is met China en daarin actief zoekt naar medestanders.</p>
+<h2>Verkeerde richting</h2>
+<p>Dat Nederland er geen goed aan heeft gedaan met een China-strategie te komen, vindt ook Wang Huiyao, president bij het China Centre for Globalization in Peking. "Het Koude Oorlog-denken keert terug", zegt Wang over de toenemende weerstand in Washington, Brussel, en nu dus ook Den Haag.</p>
+<p>Wang, adviseur van de Chinese premier Li Keqiang en daarmee een invloedrijk denker in China, meent dat een specifieke China-strategie een stap in de verkeerde richting is. "In het Westen werd China lang gezien als een ontwikkelingsland. De bestaande supermachten voelen zich nu oncomfortabel bij de snelle opkomst van deze nieuwe supermacht. In plaats van met vingers te gaan wijzen of met unilaterale rapporten te komen die wantrouwen aanwakkeren, is het beter om samen te werken."</p>
+<h2>Cyberspionage</h2>
+<p>Het kabinet kwam gisteren met de honderd pagina's tellende China-strategie, waarin economische kansen worden geschetst, maar ook zorgen over China geuit. Zo staat in het document: "Het is logisch dat China zijn plek in de wereld inneemt, maar het kabinet vindt dat dit op een eerlijke manier, op een gelijk speelveld en volgens internationaal afgesproken regels zou moeten gebeuren".</p>
+<p>Nederland wil met China samenwerken op het gebied van onder meer klimaat, handel, landbouw en transport, vindt het kabinet. Maar er moet ook oog zijn voor "cyberspionage en beïnvloeding van onze waarden en normen". Eerder waarschuwde de AIVD al voor Nederlandse afhankelijkheid van Chinese apparatuur.</p>
+<p>Eerder reageerden de Chinezen al fel op de nieuwste China-strategie van de Europese Commissie. Vooral de keuze om China neer te zetten als 'systemische rivaal', dat alternatieve manieren van leiderschap nastreeft, zorgde voor wrevel bij de Chinezen. "Er is veel strategische concurrentie tussen de Verenigde Staten en China. De Europese Unie zou zich meer moeten opstellen als een balancerende macht", meent Wang.</p>
+<p>Minister Stef Blok van Buitenlandse Zaken zegt dat in het document het 'evenwicht mooi is gevonden' tussen samenwerking enerzijds en een kritische houding anderzijds. Wang meent echter dat Nederland zijn hand met de nationale China-strategie overspeelt. "China draagt sterk bij aan de wereldwijde economische groei. Bedrijven als Philips, en ook Shell profiteren sterk van de omvang van de Chinese markt. Als er problemen zijn, bespreek je die met elkaar en los je die op, bijvoorbeeld in intentieverklaringen."</p>
+<p>Hij waarschuwt Nederland zich niet te laten leiden door de Verenigde Staten. "Ik denk dat het zeer onverstandig is voor landen als Nederland om de VS achterna te lopen en mee te doen aan het bashen van China." De Amerikaanse ambassadeur Pete Hoekstra riep Nederland onlangs op om Huawei in de ban te doen. Een Trojaans paard, noemde hij de Chinese telecomreus bij Buitenhof.</p>
+<h2>Open vizier</h2>
+<p>Hoe het volgens Wang wel zou moeten? "De Italiaanse regering doet het beter. Zij hebben het Gordel- en Weginitiatief bijvoorbeeld wel erkend, en maken daar actief onderdeel van uit", zegt hij over wat ook wel de 'Nieuwe Zijderoute' wordt genoemd, een gigantisch infrastructuurproject om handelsstromen veilig te stellen en de wereldwijde invloed van China te vergroten.</p>
+<p>Wang zegt begrip te hebben voor de onevenwichtigheden in de Chinese economie, maar vindt ook dat de Nederlands-Chinese relatie gebaat is bij een open vizier. "China is niet perfect", zegt hij. "Er is genoeg werk aan de winkel. Maar juist daarom is het belangrijk om over ideologische tegenstellingen heen te kijken. Nederlandse bedrijven doen het goed in China, voor velen is China de grootste markt. Waarom zou je die de rug toekeren omdat er sprake is van ideologische verschillen?"</p>
+<p>Dat klinkt ook door in de woorden van buitenlandwoordvoerder Lu. "De samenwerking met Nederland heeft beide landen veel gebracht. We willen graag samenwerken, maar hopen wel dat Nederland de Chinese ontwikkeling op een objectieve en juiste manier blijft benaderen."</p>

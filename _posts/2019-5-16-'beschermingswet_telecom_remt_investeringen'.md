@@ -1,0 +1,12 @@
+---
+layout: post
+title: "'Beschermingswet telecom remt investeringen'"
+date: Thu, 16 May 2019 11:35:31 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/3596472/beschermingswet-telecom-remt-investeringen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2d312a1c-77e4-11e9-a93e-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Telecombedrijven zijn helemaal niet te spreken over een wetsvoorstel van staatssecretaris Mona Keijzer (Economische Zaken) dat hen beter moet gaan beschermen tegen ongewenste overnames. Het voorstel is overbodig en zal broodnodige buitenlandse investeringen in de weg staan, waarschuwen vertegenwoordigers uit de sector in een gesprek met de Tweede Kamer.</p> <p>Keijzer wil dat het mogelijk wordt overnames van telecombedrijven tegen te houden of zelfs achteraf terug te draaien als de nationale veiligheid of openbare orde in gevaar kan komen. KPN, dat zelf zes jaar geleden te maken kreeg met een vijandige overnamepoging door het Mexicaanse América Móvil, heeft daar grote bedenkingen bij. Ook concurrenten VodafoneZiggo en T-Mobile zijn kritisch.</p><p>De telecombranche staat de komende jaren voor grote investeringen in bijvoorbeeld 5G-technologie. Daarom is het van groot belang dat bedrijven makkelijk financiering kunnen blijven aantrekken, zegt operationeel directeur Joost Farwerck van KPN. Hij vreest dat de wet zoals die nu op tafel ligt daar een rem op zal zetten. KPN vindt bovendien dat bedrijven al voldoende beschermingsmogelijkheden hebben.</p><p>Extra obstakels</p><p>Strategiedirecteur Robin Kroes van VodafoneZiggo begrijpt de Haagse zorgen om de veiligheid van cruciale netwerken. Maar wijst er ook op dat buitenlandse investeerders al decennia actief zijn in de Nederlandse telecommarkt. Hun investeringen hebben volgens hem een belangrijke bijdrage geleverd aan hoe de sector er nu voorstaat. "Deze wet werpt extra obstakels op", vreest hij.</p><p>Ook juridisch directeur Margreet Hoekstra van T-Mobile wil het kabinet terugsturen naar de tekentafel. Het huidige voorstel "levert ongekende en onwerkbare bureaucratie op, bedreigt het ondernemerschap en het investeringsklimaat in Nederland en zet de overheid op onze stoel".</p><p>De Raad van State was eerder ook al kritisch. Het wetsvoorstel is volgens het belangrijke adviesorgaan veel te vaag, waarschijnlijk niet erg effectief en mogelijk in strijd met het Europese eigendomsrecht.</p>

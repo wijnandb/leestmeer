@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Diabetespatiënten Freek en Shagita pasten hun levensstijl aan"
+date: Thu, 16 May 2019 21:01:58 +0200
+category: binnenland
+externe_link: "http://feeds.nos.nl/~r/nosnieuwsbinnenland/~3/iX2aH8hltEk/2285020"
+feature_image: "https://nos.nl/data/image/2019/05/16/550534/1008x567.jpg"
+---
+
+<p>Ongeveer een miljoen Nederlanders hebben diabetes type 2 en voor veel van hen betekent dat dagelijks medicijnen slikken of insuline inspuiten. Uit verschillende onderzoeken blijkt dat niet die medicijnen, maar juist een leefstijlverandering voor een deel van de patiënten een veel betere manier is om met diabetes om te gaan.</p>
+<p>Twee 59-jarige diabetespatiënten, Freek Posthuma en Shagita Soedamah, kunnen dat beamen: "Ik was eerder de hele dag bezig met eten en meten: maar ondanks alle inspanningen nam mijn gewicht alleen maar toe", zegt Posthuma.</p>
+<p>"Mijn eetpatroon", noemt hij de voornaamste reden voor het hebben van diabetes. "Dat samen met te weinig rust, want 'suiker' zit bij ons niet in de familie." Met een gewicht van zo'n 110 kilo is sporten voor Posthuma een te grote uitdaging.</p>
+<p>Begin dit jaar gooit hij het over een andere boeg. Hij neemt deel aan het programma Keer Diabetes 2 Om, waarmee hij onder begeleiding van doktoren in drie dagen zijn medicijnen (verschillende pillen en insuline-shots) volledig af weet te bouwen. Tegelijkertijd krijgt hij advies over een andere levensstijl: gericht op voeding, bewegen, slaap en ontspanning.</p>
+<h2>'Verbluffend'</h2>
+<p>"Verbluffend", noemt Posthuma het resultaat. Hij weegt inmiddels zo'n 97 kilo en voelt zich veel beter. De nieuwe levensstijl draait bij hem voor een groot deel om een nieuw eetpatroon. Daarbij zijn koolhydraten en daarmee aardappelen, rijst en brood, volledig uitgebannen. Hij eet nu veel groente en maakt alles vers. "Het is best veel werk, dat moet ik toegeven. Ik begin tegenwoordig een uur later met werken, dat komt omdat ik de dag start met wandelen en daarna met verse groenten een ontbijt ga maken."</p>
+<p>Voor Shagita Soedamah ging de weg naar een andere leefstijl anders. Ze kreeg diabetes op haar 44e en werd steeds zwaarder. Experimenten met verschillende eetpatronen hielpen niet en toen de dokter haar een tweede pilletje wilde voorschrijven ging ze op zoek naar een alternatief en kwam net als Posthuma terecht bij Keer Diabetes 2 Om.</p>
+<p>Inmiddels is Soedamah een jaar verder en ze gebruikt nooit meer medicijnen. Ze is niet zo streng als Posthuma en stelt in de supermarkt een grens van maximaal 4 gram koolhydraten per 100 gram. Producten met minder kunnen in het mandje, de rest blijft er uit. "In sommige gangpaden van de supermarkt kom ik nooit meer."</p>
+<h2>Sporten en ontspanning</h2>
+<p>Het programma dat Posthuma en Soedamah volgden, gaat niet alleen over eetpatronen, maar ook over bewegen en voldoende ontspanning. Het heeft er bij Soedamah toe geleid dat ze haar abonnement op de sportschool heeft opgezegd. "Ik moest opletten dat ik niet te hard van stapel liep en voldoende rust kreeg. Nu sport ik met collega's, want er is een bootcamples direct na het werk." Thuis doet ze yoga en meditatie om tot rust te komen.</p>
+<p>Ook Posthuma is weer aan het sporten geslagen: twee keer in de week trekt hij baantjes in het zwembad. "Het bewegen zit 'm verder ook in kleine dingen: ik pak nu minder de auto en vaker de fiets."</p>
+<h2>Impact</h2>
+<p>Je levensstijl is nog relatief gemakkelijk aan te passen als het alleen om jezelf draait, het lastige zit 'm vooral in de sociale activiteiten: eten met je partner, lunchen op het werk en uit eten tijdens vakanties. Bij Posthuma gaat het vooralsnog goed: "Mijn vrouw eet soms wel pasta bij een verder koolhydraat-arme maaltijd en als ik een zakenlunch heb, eet ik alleen het beleg en laat ik het brood liggen."</p>
+<p>Ook de lekkere paella, onlangs op de vakantie in Valencia, liet hij staan. "Het is een kwestie van willen, dus dan neem ik gewoon een salade." Als Posthuma dan toch iets moet noemen wat lastig is in de nieuwe leefstijl, dan is het "even snel iets kunnen eten". "Dat kan nu niet meer, want ik maak alles vers. Ik hoop over een paar jaar weer eens even snel een frietje te kunnen halen, dat is iets wat ik nu niet meer doe."</p>
+<p>De grootste uitdaging voor Soedamah was in eerste instantie wel het eten op vakanties en bij sociale gelegenheden. Om haar eetpatroon te kunnen handhaven vond ze een oplossing en neemt nu bij restaurants altijd vooraf contact op. "Ik mail of bel ze met de vraag of ze kunnen rekening houden met mijn dieet. Dat lukte zelfs op vakantie in Azië, de koks in de hotels kwamen dan aan onze tafel staan om te overleggen wat ik wel en niet wilde. Mensen denken heel graag met je mee, dat is fantastisch."</p>
+<h2>Discipline</h2>
+<p>Zowel Posthuma en Soedamah erkennen: de nieuwe leefstijl draait voor een groot deel om discipline. Soedamah: "Ik heb in mijn familie veel ziekte gezien en dat wil ik gewoon echt niet, dat maakt mij gemotiveerd het vol te houden. Ik heb ook veel steun van mijn man."</p>
+<p>Er zijn leuke bijkomstigheden: het koken zonder koolhydraten, sporten en voldoende rust heeft inmiddels niet alleen effect bij Soedamah. Ook haar man neemt de nieuwe levensstijl over. "Hij is nu ook geïnspireerd, want hij ziet de voordelen die het mij heeft opgeleverd. Dat is mooi, want een gezonde levensstijl is eigenlijk voor iedereen belangrijk."</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbinnenland/~4/iX2aH8hltEk" height="1" width="1" alt=""/>
