@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Citrustelers in Zuid-Europa vrezen schimmel"
+date: Sun, 19 May 2019 14:28:01 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/3610862/citrustelers-in-zuid-europa-vrezen-schimmel"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9e44e122-7a31-11e9-bdd0-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Telers van citrusvruchten in Zuid-Europa vrezen de opmars van een schimmel die zwarte vlekjes op de schil veroorzaakt. De zogeheten Citrus Black Spot is ongevaarlijk, maar onder producenten berucht. „Mensen kopen met hun ogen”, zegt de Italiaanse teler Gerardo Diana. „Als de schil van een sinaasappel of een citroen is bezaaid is met zwarte vlekken, wil niemand die meer hebben.”</p> <p>In maart en april zijn in Italië zeven ladingen citrusvruchten uit Tunesië onderschept die waren aangetast. Dat blijkt uit gegevens van het Europese waarschuwingssysteem Europhyt. De onderscheppingen bevestigen waarvoor Spaanse citrusvruchtentelers eerder dit jaar waarschuwden: de schimmel heeft het Middellandse Zeegebied bereikt.</p><p>Phyllosticta citricarpa, zoals hij officieel heet, werd in de negentiende eeuw voor het eerst in Australië geconstateerd. Sindsdien is de schimmel de hele wereld over gegaan, maar het Middellandse Zeegebied en Europa bleven tot nog toe gevrijwaard. Naast het veroorzaken van de vlekjes verzwakt de schimmel de boom.</p><p>De Nederlandse branchevereniging Groente en Fruithuis verwacht voor de Nederlandse markt geen gevolgen van de schimmel. Vruchten die niet meer geschikt zouden zijn voor de Europese markt, kunnen volgens directeur Gert Mulder elders worden afgezet, bijvoorbeeld in Rusland. Mulder beaamt dat het een vervelende schimmel is en denkt dat telers mogelijk naar meer bestrijdingsmiddelen zullen grijpen om verspreiding tegen te gaan.</p><p>Teler Gerardo Diana, tevens voorzitter van de Italiaanse vereniging van citrustelers, is er niet zo gerust op. Hij pleit in navolging van Spaanse telers voor een algehele Europese blokkade van citrusfruit uit Tunesië om verspreiding te voorkomen. „Voor de citrusteelt in Italië zou het de doodsteek betekenen”, zegt hij. „De afgelopen jaren hebben we al te maken gehad met het citrus-tritezavirus, dit kunnen we er niet bij hebben.” Italië is met zo’n 3 miljoen ton na Spanje de grootste producent in Europa. „Voor Sicilië en Calabrië is de citrusteelt als FIAT voor Turijn”, zegt Diana.</p>

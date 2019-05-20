@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Bol klopt Sagan laat ploeg Dumoulin weer eens lachen"
+date: Sun, 19 May 2019 07:14:47 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3609957/bol-klopt-sagan-laat-ploeg-dumoulin-weer-eens-lachen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/054c34de-79f5-11e9-ab9b-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Cees Bol heeft de laatste etappe in de Ronde van Californië op zijn naam geschreven. De 23-jarige Zaankanter van Sunweb won de sprint na 141 kilometer in Pasadena. De eindzege in Californië ging naar Tadej Pogacar.</p> <p>De 20-jarige Sloveen van UAE-Team Emirates zag zijn leidende positie in de afsluitende etappe van Santa Clarita naar Pasadena niet meer in gevaar komen. Zijn ploeg moest in de finale nog flink aan het werk om een aanval van de Deense nummer drie van het klassement, Kasper Asgreen, te neutraliseren. Na het ingaan van de laatste lokale ronde werd de Deen samen met Lennard Hofstede van Jumbo-Visma teruggepakt. Op acht kilometer van de streep werden ook de laatst overgebleven vluchters teruggepakt en was het aan de sprinters.</p><p>Voor Pogacar is het de tweede overwinning van een etappekoers in 2019. De jonge Sloveen won eerder de Ronde van de Algarve. Hij nam de leiding in de Ronde van Californië over van de Amerikaan Tejay van Garderen door de zesde etappe naar Mount Baldy te winnen. Dat was ook zijn tweede ritzege dit jaar.</p><p>Cees Bol boekte eveneens zijn tweede zege in 2019. De wielrenner van Sunweb was eerder de snelste in Nokere Koerse. In Pasadena troefde hij de Slowaak Peter Sagan en de Belg Jasper Philipsen af.</p><p>Het was voor Sunweb pas de vierde zege van het seizoen. De ploeg kon na het afstappen van Tom Dumoulin in de Giro d’Italia wel een succesje gebruiken. De Limburger startte als een van de favorieten, maar moest na een val opgeven.</p><p>Bij de vrouwen was het Anne van der Breggen die voor de tweede keer in haar carrière met de eindzege aan de haal ging. De wereldkampioene bleef haar Amerikaanse ploeggenote Katie Hall en Ashleigh Moolman vn CCC-Liv voor.</p>

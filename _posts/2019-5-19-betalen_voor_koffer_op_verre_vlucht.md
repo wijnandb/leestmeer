@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Betalen voor koffer op verre vlucht"
+date: Sun, 19 May 2019 23:18:39 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/financieel/3613041/betalen-voor-koffer-op-verre-vlucht"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e3f9b674-7abe-11e9-98d5-0217670beecd.jpg"
+---
+
+<p class="intro">Op alle verre KLM-vluchten is de ruimbagage vanaf deze week niet meer inbegrepen in de prijs. Althans, niet in het ’light-tarief’. Deze tickets kunnen daardoor gemiddeld 10 tot 15 procent goedkoper worden. Volgens KLM Nederland-topman Harm Kreulen is de aanpassing nodig in de moordende concurrentiestrijd om de vliegtoerist.</p> <p>„Binnen Europa en naar Amerika hebben we de ruimbagage al stapsgewijs uit de laagste prijzen gehaald. Nu volgt de rest van de wereld, op een paar uitzonderingen na”, legt Kreulen uit.</p><p>Wie toch een koffer wil inchecken, moet honderd euro bijbetalen. In het flex-tarief is alles nog wel ’gratis’, maar dat is 150 euro duurder. „Ook veelvliegers op de hoogste niveaus van spaarprogramma Flying Blue hoeven niet voor hun koffer te betalen. In beperkte afmetingen en gewicht blijft handbagage op de lange afstand kosteloos.”</p><p>Volgens Kreulen reist de helft van de KLM-passagiers op verre vluchten zonder ruimkoffers. Mits niet te zwaar, mag handbagage, zoals een rugzak of rolkoffertje, voor niets mee in de cabine. „Dat is op die vluchten in grotere vliegtuigen met genoeg ruimte geen probleem, op Europese bestemmingen wel. De uitgeklede prijzen leiden op vluchten in Europa vaak tot vertragingen en irritaties, omdat de handbagage niet meer aan boord past.”</p><p>Over die handbagage neemt KLM binnenkort een besluit. Eén van de scenario’s, ook bij budgetdochter Transavia, is om grotere stukken handbagage op Europese vluchten te gaan belasten. Mogelijk gaat dit op intercontinentale routes straks ook gebeuren, omdat deze aanvullende inkomsten voor vliegmaatschappijen een verdienmodel zijn. Volgens onderzoek van IdeaWorks incasseert de mondiale luchtvaart al circa 30 miljard dollar op jaarbasis aan het in rekening brengen van bagagekosten.</p><p>Traditionele maatschappijen als KLM volgen met dit soort trucjes de prijsvechters, stelt vervoerseconoom Jaap de Wit. „Het wordt onduidelijker voor de reiziger wat wel of niet in de prijs zit. Het lijkt erop dat prijzen omlaag gaan, maar als je niet oppast ben je duurder uit.”</p>

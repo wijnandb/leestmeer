@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Vegetarisch nieuwe credo tijdens feestjes gemeente Amsterdam"
+date: Sat, 18 May 2019 16:53:15 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3608253/vegetarisch-nieuwe-credo-tijdens-feestjes-gemeente-amsterdam"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e8c219ec-79a3-11e9-8eb3-02c309bc01c1.jpg"
+---
+
+<p class="intro">Medewerkers van de gemeente Amsterdam die houden van snoeptomaatjes, selderij, bitterballen van doperwtjes en biologische wortelsap maken vanaf 2020 de dienst uit tijdens borrels, evenementen en vergaderlunches. Tijdens deze gelegenheden zal alleen nog maar vegetarisch gecaterd worden, tenzij van tevoren expliciet om vlees wordt gevraagd.</p> <p>Dat meldt AT5. Het initiatief is afkomstig van de Partij voor de Dieren. In januari 2019 diende de partij een initiatiefvoorstel in getiteld ’Carnivoor?, Geeft het door!’. Daarin staat dat bij alle door de gemeente georganiseerde bijeenkomsten plantaardig - dat betekent in de praktijk veganistisch - eten en drinken de nieuwe standaard moet zijn. Mensen die toch graag in vrijheid van een stukje vlees of vis willen genieten, moeten dat van tevoren aangeven.</p><p>Het linkse stadsbestuur neemt het voorstel nu gedeeltelijk over en kiest voor de vegetarische variant. De gemeenteraad moet het voorstel nog wel steunen. In 2020 wordt de ’raamovereenkomst cateringdienstverlening’ opnieuw aanbesteed. In dat contract wordt geregeld welke cateraar de lunches, feesten en partijen van de gemeente mag verzorgen. In de aanbesteding zal de nieuwe ’veganorm’ worden opgenomen.</p><p>Verboden</p><p>Amsterdam kent naast het paternalisme over vlees, ook barbecueverboden, rookverboden en drinkverboden. Daarnaast wil het stadsbestuur vanaf 2030 diesel- en benzineauto’s weren.</p><p>Minister Grapperhaus (Justitie) toonde op Twitter met een knipoog aan dat de gemeente de prioriteiten niet zo op orde heeft. Bij een link naar het nieuws hierover schreef hij: „Ok, Gemeente Amsterdam, en festivals worden dan drugs-loos?”</p>

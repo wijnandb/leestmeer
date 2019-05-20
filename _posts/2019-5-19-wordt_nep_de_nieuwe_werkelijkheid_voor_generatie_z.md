@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Wordt nep de nieuwe werkelijkheid voor Generatie Z?"
+date: Sun, 19 May 2019 07:00:00 +0000
+category: tech
+externe_link: "http://feedproxy.google.com/~r/frankwatching/~3/28NTTTMG4do/"
+feature_image: "https://cdn.frankwatching.com/app/uploads/2019/05/jongere-aziatisch-rood-blauw-kleuren-214x155.jpg"
+---
+
+Generatie Z zijn de leiders van de toekomst. Ze groeien op in een wereld waar echt en onecht steeds moeilijker zijn te onderscheiden. In deze wereld moeten we hen meer begeleiden en coachen op het gebied van ethiek in de digitale wereld. Zodat zij zelf de juiste keuzes kunnen maken voor hun generatie. In dit [&#8230;]<img src="http://feeds.feedburner.com/~r/frankwatching/~4/28NTTTMG4do" height="1" width="1" alt=""/>

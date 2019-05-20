@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Duncan Laurence ’misselijk’ bij puntentelling"
+date: Sun, 19 May 2019 18:47:14 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/entertainment/3611859/duncan-laurence-misselijk-bij-puntentelling"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ea86bdfc-7a5a-11e9-8779-0255c322e81b.jpg"
+---
+
+<p class="intro">Songfestivalwinnaar Duncan Laurence werd bijna misselijk van de spanning tijdens de puntentelling in Tel Aviv. Dit vertelde de zanger tijdens de persconferentie op Schiphol, kort na zijn aankomst in Nederland.</p> <p>Duncan vertelde dat hij niet veel had geslapen, hij lag pas rond 5.00 uur nog vol adrenaline in zijn bed. „Maar ik ben wel fit”, aldus Duncan, die naar eigen zeggen nog niet beseft dat hij songfestivalgeschiedenis heeft geschreven. „Dat is nog niet ingedaald.”</p><p>Hij heeft ook nog geen idee wat op hem afkomt in Nederland. „Af en toe kreeg ik een appje van familie over de gekte, dat er een hamburger naar me was vernoemd. Ik laat het allemaal op me afkomen.”</p><p>De puntentelling was spannend. „Het hele proces flitste door mijn hoofd, vanaf het telefoontje van Ilse DeLange met de vraag mee te doen tot de plannen concreet waren. Het slot van de puntentelling, dat ik alleen nog met Zweden over was, ga ik nooit vergeten. Ze wisten de spanning goed op te voeren. Ik dacht ’kom op, kom op’. Ik was niet te houden.”</p><p>Bijzonder vond de songfestivalwinnaar dat hij in Tel Aviv een telefoontje kreeg van premier Mark Rutte die hem feliciteerde met de overwinning. Ook de tweet van de koning en koningin maakten indruk bij de zanger die aan het begin van zijn carrière staat. Hij staat dit najaar voor vrijwel uitverkochte zalen tijdens zijn clubtournee door Nederland. In december maakt hij zijn opwachting in Londen, Keulen, München, Wenen, Berlijn, Hamburg, Kopenhagen en Stockholm. „Ik focus me heel erg op mijn muziek. Ik ben blij dat ik nu mag gaan toeren. Dat de tournee staat, dat ik mijn band mag meenemen en nieuw werk, mijn eigen muziek mag laten horen aan het publiek in Europa.”</p><p>Duncan wordt in de aankomsthal verwelkomd door een paar honderd fans, die zijn naam roepen en zijn lied Arcade zingen. Hij werd onder luid gejuich onthaald door supporters en familie, die bloemen en cadeaus voor hem hadden meegebracht. Als eerste begroette Duncan zijn oma in de afgeladen aankomsthal, zij kreeg van haar kleinzoon een dikke knuffel.</p>

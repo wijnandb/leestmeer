@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Van Bommel in beeld bij Bayern München"
+date: Sat, 18 May 2019 06:15:00 +0200
+categories: 
+- sport 
+- voetbal 
+externe_link: "https://www.telegraaf.nl/sport/3607029/van-bommel-in-beeld-bij-bayern-munchen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5cec9ed6-7928-11e9-af67-0255c322e81b.jpg"
+---
+
+<p class="intro">Mark van Bommel heeft in zijn debuutjaar als hoofdtrainer weliswaar naast alle prijzen gegrepen, de coach van PSV staat er in het buitenland goed op. Zijn oude club Bayern München heeft de 79-voudig international van Oranje hoog op de verlanglijst staan om komend seizoen al voor de groep te staan.</p> <p>De huidige Bayern-trainer Niko Kovac zit op de schopstoel in Beieren. Hoewel de Kroaat – net als Van Bommel oud-speler van Der Rekordmeister – vandaag de landstitel kan binnenhalen en Bayern ook naar de bekerfinale heeft geloodst, wordt algemeen aangenomen dat er afscheid wordt genomen van de 47-jarige trainer.</p><p>De clubleiding is ontevreden over de ontwikkeling die het elftal doormaakt onder de oud-trainer van Eintracht Frankfurt. Tegen die ploeg heeft Bayern vandaag aan een gelijkspel genoeg om het 29e kampioenschap te vieren. In de bekerfinale is RB Leipzig volgende week de tegenstander. Het Champions League-avontuur eindigde al in de achtste finales tegen Liverpool.</p><p>Van Bommel is een van de topkandidaten bij Bayern. Hij heeft stevige concurrentie van onder anderen de clubloze Arsene Wenger (69) en Spurs-coach Mauricio Pochettino (47). De Argentijn heeft in Londen nog een contract tot medio 2023. Van Bommel ligt bij PSV nog twee jaar vast.</p><p>De 42-jarige Limburger heeft veel minder ervaring als hoofdtrainer, maar als voordeel dat hij de club Bayern door en door kent. Van Bommel speelde tussen 2006 en 2011 123 wedstrijden voor de Duitse topclub. In 2010 leidde hij Bayern als aanvoerder naar de uiteindelijk verloren Champions League-finale in Madrid.</p><p>Van Bommel weet dat zijn naam wordt genoemd bij Bayern. Dat is ook het geval bij een andere oud-werkgever van de middenvelder, AC Milan, maar de Duitse flirt is een stuk serieuzer. De coach van PSV laat weten niet benaderd te zijn door Bayern. Datzelfde geldt voor PSV. Als Bayern daadwerkelijk voor Van Bommel gaat, zal het gezien het doorlopende contract van de coach ook eerst moeten aankloppen bij zijn huidige werkgever.</p>
