@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Sport Kort: Kroos langer bij Real"
+date: Mon, 20 May 2019 10:27:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3613314/sport-kort-kroos-langer-bij-real"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/808f768a-7ad9-11e9-b87a-02c309bc01c1.jpg"
+---
+
+<p class="intro">In de rubriek Sport Kort hebben we aandacht voor de overige sportgebeurtenissen. Dagelijks brengen we hier in een korte samenvatting de andere hoogtepunten.</p> <p>10.21 uur: Toni Kroos heeft zijn contract bij Real Madrid met een jaar verlengd. De Duitse middenvelder ligt nu tot medio 2023 vast in de Spaanse hoofdstad. Kroos (29) speelt sinds 2014 in het witte shirt van De Koninklijke. Nadat de Duitser met zijn land in Brazilië de wereldtitel had veroverd, verhuisde hij van Bayern München naar Real Madrid. Kroos won met de Spaanse grootmacht drie keer op rij de Champions League (2016, 2017 en 2018). Kroos vulde zijn erelijst in Madrid de afgelopen jaren ook met een Spaanse titel (2017), twee keer de Europese Supercup, een Spaanse Supercup en viermaal winst van het WK voor clubs.</p><p>07.34 uur: Toronto Raptors heeft de spanning teruggebracht in de finale van de oostelijke divisie in de NBA tegen Milwaukee Bucks. Voor eigen publiek won de Canadese basketbalploeg het derde duel met 118-112. De beslissing viel pas in de tweede verlenging. Milwaukee Bucks, de best presterende ploeg uit de competitie, had de eerste twee thuiswedstrijden in de oostelijke finale van de play-offs in winst omgezet. . Dinsdag is het vierde duel in de best-of-sevenserie, weer in Toronto.</p><p>07.22 uur: Voor het tweede jaar op rij heeft golfer Brooks Koepka het PGA Championship gewonnen. De 29-jarige Amerikaan maakte het tijdens de slotronde zelf nog even spannend, maar zijn voorsprong was groot genoeg om de tweede major van het jaar opnieuw te winnen. Hij hield landgenoot Dustin Johnson twee slagen achter zich en nam tevens de eerste plaats op de wereldranglijst van hem over. In 2017 en 2018 won hij de US Open.</p>
