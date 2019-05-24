@@ -1,0 +1,10 @@
+---
+layout: post
+title: "VS en China helpen Bols omhoog"
+date: Thu, 23 May 2019 08:00:45 +0200
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3633964/vs-en-china-helpen-bols-omhoog"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1ecbc6a6-7d22-11e9-ac9c-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Drankenproducent Lucas Bols heeft in zijn gebroken boekjaar, dat tot eind maart liep, de omzet opgevoerd. In de tweede helft van het jaar werden de tegenvallende resultaten uit de eerste zes maanden grotendeels goedgemaakt. Met name in de Verenigde Staten en China presteerde het beursgenoteerde bedrijf goed. In Europa ging het juist minder.</p> <p>De omzetgroei van 1,2 procent op eigen kracht tot 92,5 miljoen euro kwam dan ook grotendeels op het conto van de globale merken als Passoa, Bols jenever en Damrak gin. De regionale merken, die maar in één of enkele markten worden verkocht, deden het slechter. De afname van de verkoop van jenever en vieux op de Nederlandse markt vertraagde. Dat kwam onder meer omdat de kopstoot, een combinatie van een biertje en een glaasje jenever, aan populariteit wint.</p><p>Op de West-Afrikaanse markt kreeg Lucas Bols ook weer wat lucht. Daar had de drankmaker in de eerste zes maanden nog te maken met tijdelijke importrestricties, maar die zijn weer opgeheven.</p><p>Wisselkoersverschillen</p><p>De nettowinst van Lucas Bols kwam uit op 16,6 miljoen euro. Dat was een afname ten opzichte van de 20,4 miljoen euro vorig jaar, onder meer veroorzaakt door wisselkoersverschillen en meer verkopen in markten waar de marges lager liggen en juist minder verkopen in markten met een hoge marge.</p><p>Voor komend jaar verwacht Lucas Bols dat de markt voor mixdrankjes ondanks de wereldwijde handelsspanningen gezond blijft. Daarbij voorziet het bedrijf wel dat de West-Europese uitdagend blijft. De prijzen voor grondstoffen en vervoer gaan vermoedelijk omhoog, maar dat effect wil Bols tegengaan door prijzen te verhogen. Het bedrijf wil zijn merken 'hoger' in de markt zetten.</p>

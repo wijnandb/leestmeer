@@ -1,0 +1,10 @@
+---
+layout: post
+title: "’Roglic heeft nooit iets met hem te maken gehad’"
+date: Thu, 23 May 2019 13:03:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3634327/roglic-heeft-nooit-iets-met-hem-te-maken-gehad"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/65549f94-7d4a-11e9-ba0b-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">De internationale wielrenunie UCI onderzoekt de handel en wandel van Milan Erzen, niet alleen algemeen manager van wielerploeg Bahrain, maar daarnaast ook ontdekker van tal van Sloveense talenten. Dat heeft de UCI bevestigd tegenover wielerwebsite Cyclingnews.</p> <p>Erzen zou mogelijk banden hebben met de Duitse dopingarts Mark Schmidt, de hoofdrolspeler in een omvangrijk Oostenrijks dopingschandaal.</p><p>Vorige week schorste de UCI als gevolg van de zogenoemde Operatie Aderlass nog enkele (oud-)renners, onder wie de Italiaan Alessandro Petacchi en de Slovenen Kristijan Koren en Borut Bozic, allen klant van Schmidt.</p><p>Erzen is een van de oprichters van wielerploeg Bahrain dankzij zijn contacten met prins Nasser bin Hamad Al Khalifa, de grote geldschieter. Daarvoor leidde hij het kleine Adria Mobil, waar Primoz Roglic zich van schansspringer tot talentvol wielrenner ontwikkelde. Inmiddels is Roglic kopman van Jumbo-Visma en topfavoriet voor de eindzege in de Giro d'Italia.</p><p>Ploegleider Addy Engels weet hoe het werkt in de wielrennerij. Roglic presteert uitstekend en als er vervolgens onderzoek blijkt te worden verricht, levert dat vragen op.</p><p>„Maar wij voelen ons niet aangesproken”, reageerde Engels voor de start van de twaalfde etappe in Cuneo op berichten dat de ’ontdekker’ van Roglic banden zou hebben met de Duitse dopingarts Mark Schmidt.</p><p>Engels hoorde al van UCI-voorzitter David Lappartient dat bij de zaak geen renners betrokken zijn die nu nog in de Giro fietsen. „Ook het in diverse media gemelde feit dat deze man de ontdekker is van Roglic is onjuist. Primoz heeft nooit iets met hem te maken gehad.”</p>

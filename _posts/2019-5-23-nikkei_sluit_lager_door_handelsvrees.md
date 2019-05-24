@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Nikkei sluit lager door handelsvrees"
+date: Thu, 23 May 2019 08:14:27 +0200
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/3633981/nikkei-sluit-lager-door-handelsvrees"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3bad87f0-7d22-11e9-8145-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">De Japanse aandelenbeurs is donderdag lager gesloten. De oplopende handelsspanningen tussen de Verenigde Staten en China zorgden voor verliezen onder de technologiebedrijven, die het middelpunt van de strijd zijn geworden na de aankondiging van Amerikaanse sancties tegen het Chinese technologieconcern Huawei. Beleggers vrezen dat Washington meer Chinese bedrijven op de zwarte lijst zal zetten.</p> <p>De Nikkei in Tokio eindigde 0,6 procent in de min op 21.151,14 punten. Panasonic daalde 0,9 procent. De elektronicaproducent heeft bepaalde leveringen aan Huawei opgeschort. Technologiebedrijven als TDK, Advantest, Tokyo Electron en Sony zakten tussen 2,5 en 6,5 procent. SoftBank verloor 5,3 procent na berichten dat de Amerikaanse autoriteiten de fusie tussen T-Mobile US en Sprint zullen blokkeren. Het Japanse conglomeraat heeft een belang in Sprint.</p><p>De andere Aziatische beurzen gingen eveneens omlaag. De Hang Seng-index in Hongkong raakte tussentijds 1,6 procent kwijt en de beurs in Shanghai leverde 1,1 procent in. De Amerikaanse minister van Financiën Steven Mnuchin liet weten dat er nog geen nieuwe handelsgesprekken tussen de VS en China op het programma staan. De Zuid-Koreaanse Kospi daalde 0,1 procent. In Australië verloor de All Ordinaries 0,3 procent.</p><p>De Nifty 50 in Mumbai klom 1,2 procent en bereikte een nieuw tussentijds hoogtepunt. India is begonnen met het tellen van de ruim 600 miljoen stemmen die zijn uitgebracht tijdens de algemene verkiezingen. Verwacht wordt dat de coalitie geleid door de partij van zittend premier Narendra Modi met ruime meerderheid gaat winnen.</p>

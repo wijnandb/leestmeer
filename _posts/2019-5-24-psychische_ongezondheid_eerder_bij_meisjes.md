@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Psychische ongezondheid eerder bij meisjes"
+date: Fri, 24 May 2019 12:55:27 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/3642108/psychische-ongezondheid-eerder-bij-meisjes"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3a12f5d6-7e19-11e9-87df-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Vooral meisjes tussen de 14 en 17 jaar en mannen vanaf 22 jaar veroorzaken de stijging van het aantal jongeren tot 25 jaar dat psychisch ongezond is. Dat het aantal psychisch ongezonde jongeren van 12 tot 25 jaar de afgelopen tien jaar steeg van 7 naar 8 procent, werd vorig jaar al vastgesteld door het Centraal Bureau voor de Statistiek. Het Rijksinstituut voor Volksgezondheid en Milieu (RIVM) meldt nu dat de stijging vooral zit bij genoemde meisjes op havo, vwo en mbo en bij de jongemannen vanaf 22.</p> <p>Aan de analyse werkten ook het Trimbos-instituut en het Amsterdam UMC mee.</p><p>Bij meisjes op havo, vwo en mbo lijken de psychische problemen op jongere leeftijd te beginnen dan tien jaar geleden, zeggen de onderzoekers. Bij jongens is de stijging gelijkmatiger verdeeld over opleidingsniveaus en leeftijdsgroepen, stellen ze. Rond 25 jaar is er geen verschil in psychische ongezondheid tussen mannen en vrouwen, maar daarvoor en daarna wel.</p><p>Hoog- en middelopgeleiden kampen het meest met psychische ongezondheid tussen de twintig en de dertig jaar. Vanaf ongeveer dertig jaar krijgen juist laagopgeleiden er „significant” vaker mee te maken.</p><p>Hoewel er veel wordt gesproken over prestatiedruk, de rol van sociale media en het leenstelsel als mogelijk oorzaken, is op basis van de huidige cijfers niet te zeggen of, hoe en op wie deze ontwikkelingen ook echt van invloed zijn. De onderzoekers geven alleen cijfers, geen verklaringen.</p><p>Het onderwijsministerie gaat het RIVM opdracht geven voor een omvangrijk vervolgonderzoek onder studenten, laat minister Ingrid van Engelshoven weten. „Deze signalen neem ik serieus. Het onderzoek van het RIVM geeft goed inzicht in hoe stress kan leiden tot psychische problemen bij jongeren. Duidelijk wordt dat er niet exclusief één factor te noemen is die zorgt voor stress en psychische klachten bij jongeren en studenten. Het gaat vooral om een opstapeling van factoren zoals prestatiedruk van ouders en omgeving, het nastreven van ’het perfecte plaatje’ zoals sociale media dat presenteren, spanningen thuis en financiële druk”, aldus de bewindsvrouw.</p>

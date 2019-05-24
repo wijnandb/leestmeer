@@ -1,0 +1,32 @@
+---
+layout: post
+title: "De EU 'gooit alle normen en waarden overboord' bij samenwerking met Libië"
+date: Tue, 21 May 2019 12:30:18 +0200
+category: nieuws
+externe_link: "https://nos.nl/l/2285664"
+feature_image: "https://nos.nl/data/image/2019/05/21/551525/1008x567.jpg"
+---
+
+<p>Twee maanden geleden besloot de Europese Unie dat alle Europese patrouilleschepen voor de Libische kust moesten verdwijnen. Dit waren de schepen die mensensmokkel moesten aanpakken en migranten in nood moesten redden. De Libische kustwacht heeft alle taken overgenomen.</p>
+<p>Europa heeft nu geen zicht meer op wat er met opgepikte migranten gebeurt, terwijl de EU de Libische kustwacht wel traint en financiert. Volgens de VN verdwijnen migranten onder erbarmelijke omstandigheden in Libische detentiecentra. Is Libië voor de EU wel een geschikte partner?</p>
+<h2>Morele klap</h2>
+<p>De Ierse kapitein Brian Fitzgerald stond op het punt om namens de Europese Unie met zijn schip de Middellandse Zee op te gaan. Met zijn bemanning zou hij daar mensensmokkelaars opsporen en migranten in nood redden. De beslissing van de EU om de schepen van zee te halen, was voor hem 'een morele klap'. "Wat is een maritieme missie zonder boten? Dat is een grote vraag voor mij als marinier."</p>
+<p>"We haalden veel voldoening uit deze missie," zegt Fitzgerald. Hij doelt vooral op de migranten die hij met zijn bemanning op zee heeft gered. "Deze mensen doen niet meer dan vragen om een helpende hand. Ik heb meegemaakt dat toen we 713 migranten aan boord hadden, ik te horen kreeg: we hebben er nu 714. Er bleek een baby geboren. Die nacht ben ik het dek op gegaan. Ik heb de baby vastgehouden, en zei: ik weet niet waar je moeder vandaan komt, ik weet niet waar je naartoe gaat, maar op dit moment ben je in Europese handen, je bent veilig."</p>
+<h2>Operatie Sophia</h2>
+<p>Het schip van kapitein Fitzgerald maakte deel uit van 'Operatie Sophia', een Europese militaire missie op de Middellandse Zee. De operatie begon in 2015 toen er een sterke stijging was van het aantal migranten dat naar Europa kwam. Na verschillende incidenten waarbij boten met vluchtelingen kapseisden en er veel mensen verdronken, besloot de EU om een militaire operatie op de Middellandse Zee te beginnen.</p>
+<p>Belangrijkste doel van de missie: het aanpakken van mensensmokkelaars. Wapens moesten in beslag worden genomen en boten vernietigd. Later kwam daar ook de training en financiering van de Libische kustwacht bij. Die moest zoveel mogelijk Afrikaanse migranten tegenhouden.</p>
+<p>Maar in praktijk pikten de Europese patrouilleschepen nog veel migranten op; volgens de laatste cijfers ruim 45 duizend in vier jaar. Die migranten werden vervolgens naar Italië gebracht. Daar ontstonden bezwaren tegen de missie.</p>
+<h2>'Italië is alleen gelaten'</h2>
+<p>Volgens de Italiaanse oud-minister van Binnenlandse Zaken, Marco Minitti, ontbreekt het in Europa aan solidariteit. "Men heeft gedacht dat het migratieprobleem hier in het Middellandse Zeegebied een Italiaans probleem was. Italië is alleen gelaten, dat hebben bijna alle Europese landen erkend. En daarmee is het anti-EU gevoel hier toegenomen."</p>
+<p>Italië - van waaruit operatie Sophia wordt aangestuurd - dreigde de voortzetting van de hele missie te blokkeren, als migranten niet ook in andere landen zouden worden opgevangen. Andere Europese lidstaten weigerden dat: zij vinden dat het eerste land waar migranten aankomen verantwoordelijk is.</p>
+<p>Na lang gesteggel tussen de EU-lidstaten werd de missie niet volledig stopgezet, maar ingeperkt. Operatie Sophia voert alleen nog luchtpatrouilles uit en de Libische kustwacht wordt getraind en gefinancierd.</p>
+<h2>Mensenhandel en oorlog </h2>
+<p>Nu alle Europese marineschepen voor de kust van Libië zijn weggehaald en er vrijwel geen schepen van hulporganisaties meer aanwezig zijn, ligt de regie op de Middellandse Zee bij de Libische kustwacht. Hoe mensen worden gered en waar mensen naartoe worden gebracht, ligt buiten het zicht van Europa. Berichten die doorsijpelen vanuit Libië zijn alarmerend.</p>
+<p>Volgens een VN-rapport dat eind december verscheen, is er sprake van grove schendingen van mensenrechten en verdwijnen migranten onder erbarmelijke omstandigheden in Libische detentiecentra. In het rapport wordt gesproken over marteling, seksueel geweld, afpersing, uithongering en slavernij van vrouwen, mannen en kinderen. De Britse zender Channel 4 toonde amateurbeelden van de omstandigheden in de Libische detentiecentra.</p>
+<p>Met het oplaaien van de oorlog in Libië wordt de situatie voor migranten alleen maar slechter en gevaarlijker. Advocate Giulia Tranchina is zeer kritisch over de Europese steun aan de Libische kustwacht. Ze heeft bijna dagelijks contact met migranten in Libië. "Ik krijg wanhopige oproepen om hulp. Door de oorlog verlaten bewakers de detentiecentra en blijven de migranten achter zonder water, voedsel en elektriciteit."</p>
+<h2>Migranten beschoten</h2>
+<p>Migranten worden bovendien zelf doelwit. Tranchina toont videobeelden die ze heeft gekregen van mensen in detentiecentra. Te zien is hoe migranten worden beschoten. Ook Artsen zonder Grenzen maakt daar melding van.</p>
+<p>Advocate Giulia Tranchina: "Alle Europese landen hebben dezelfde instelling, ze proberen ervoor te zorgen dat vluchtelingen in Libië blijven vastzitten of omkomen. Zolang ze maar niet naar Europa komen. We gooien daarbij alle normen en waarden overboord waarop de EU is gebaseerd".</p>
+<p>Ook de Italiaanse oud-minister van Binnenlandse Zaken, Minitti, is verbijsterd dat het werk op zee voortaan aan Libië wordt overgelaten. Tijdens zijn ministerschap sloot hij als eerste deals met de Libiërs en hij kent het land en de risico's. "Een belangrijk controlewapen dat we in handen hadden, hebben we [met het inperken van operatie Sophia] stopgezet. We leggen een enorm gewicht op de schouders van een kustwacht die niet in staat is dat gewicht te dragen."</p>
+<p>Met de oorlog in Libië vreest ook hij het ergste. "We beseffen niet welke uitdaging er voor ons ligt. Libië en Noord-Afrika kunnen weer een gigantisch probleem voor Europa worden. We riskeren een grote humanitaire crisis op enkele tientallen kilometers voor de Europese kust."</p>
+<p>"We hebben niet alleen de migranten die vastzitten in Libië; als de situatie escaleert kunnen de Libiërs zelf migranten worden en dat kan helemaal uit de hand lopen."</p>

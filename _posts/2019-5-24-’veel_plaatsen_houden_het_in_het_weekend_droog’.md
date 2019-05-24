@@ -1,0 +1,12 @@
+---
+layout: post
+title: "’Veel plaatsen houden het in het weekend droog’"
+date: Fri, 24 May 2019 09:00:07 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/3640653/veel-plaatsen-houden-het-in-het-weekend-droog"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8d1c1e6a-7e00-11e9-a983-02c309bc01c1.jpg"
+---
+
+<p class="intro">Geniet vandaag nog maar van het weer, want in de loop van het weekend loopt de temperatuur iets terug. Vrijdag kan het met veel zon tot wel meer dan 20 graden worden.</p> <p>Het weekend wordt daarentegen iets koeler. De maximumtemperatuur komt op veel plekken niet boven de 20 graden uit, meldt Yannick Damen van Weeronline. „Toch is de temperatuur met gemiddeld een graad of 18 normaal voor deze tijd van het jaar. Er zit wat regen in de verwachting, maar veel plaatsen houden het zaterdag en zondag droog.”</p><p>In het noorden en noordoosten van het land wordt het 19-20 graden. In het midden en zuiden komt de maximumtemperatuur uit op 21-23 graden. „In het zuidoosten kan het zelfs ruim 24 graden worden! Daarmee is het warmer dan normaal. Maxima van 16-20 graden zijn gebruikelijk. Het is een vrij zonnige dag”, aldus Damen.</p><p>Overwegend droge zaterdag</p><p>Zaterdagochtend kan in het westen en zuidwesten af en toe lichte regen vallen en ook het noorden maakt kans op een spatje. ’s Ochtends is er vrij veel bewolking, maar in de middag breekt vanuit het noordwesten de zon door. Damen: „Heerlijk weer om naar buiten te gaan. Daarbij is het verstandig om je in te smeren, want dit weekend is de zonkracht 6-7. Een onbeschermde huid kan dan al na circa 20 minuten verbranden.”</p><p>In de avond is het nog een tijdje zonnig en staat er weinig wind. Rond zonsondergang is het 10-14 graden. Vanuit het westen trekken sluierwolken over het land.</p><p>Zondag maximaal 21 graden</p><p>Zondagochtend zijn er wolkenvelden, maar is er ook nog wel wat ruimte voor de zon. De meeste zon is voor het zuiden van het land. Het noorden maakt kans op een spatje regen.</p><p>In de middag is er wederom een afwisseling van bewolking en zon. In het binnenland kan een lokale bui ontstaan, maar veel plaatsen houden het droog. De zon schijnt regelmatig en de maxima komen uit op een graad of 16 in het Waddengebied en 17-19 in de kustprovincies en 19-21 in het binnenland.</p>

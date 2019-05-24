@@ -1,0 +1,10 @@
+---
+layout: post
+title: "NPO schrapt Smaakt naar meer van Omroep MAX"
+date: Thu, 23 May 2019 10:30:52 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3634541/npo-schrapt-smaakt-naar-meer-van-omroep-max"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/13a7b6fa-7d35-11e9-8595-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">De NPO gaat een aantal programma’s van de buis halen. De reden is dat ze te weinig jonge kijkers trekken. Het gaat onder meer om de succesvolle show Smaakt naar meer van Omroep MAX.</p> <p>„Dit is gewoon leeftijdsdiscriminatie. Het moet weg omdat er toevallig alleen ouderen naar kijken”, aldus een boze Jan Slagter. „Het is belachelijk. De NPO kan er overigens niets aan doen, want het staat in de wet.” Volgens de programmabaas een verschrikkelijke wet, die aangepast moet worden. Hij stapte al naar Thierry Aartsen in de hoop dat de VVD’er actie onderneemt. „Maar of dat gaat gebeuren...”</p><p>Slagter belooft met ’een nieuw programma voor een breder publiek’ te komen. „Want dan mag het wel hè. Dan maken we een totaal ander programma. Iets wat lijkt op Mol Talk. Iets van Heel Holland Bakt Talk”, besluit de Omroep MAX-baas.</p><p>Andere slachtoffers</p><p>Naast de nabeschouwing van Heel Holland Bakt, sneuvelen ook The Graham Norton Show en Dynamo Live At The O2 op BNNVARA. Een tegen 100 moest ook geschrapt worden. Maar doordat Caroline Tensen overstapte naar RTL, loste dit probleem zichzelf op. „Het is natuurlijk hartstikke mooi dat dit programma een ander huis heeft gevonden”, zegt een woordvoerder van de NPO hierover.</p><p>Het zijn de eerste zichtbare consequenties van de nieuwe regels die onder voormalig staatssecretaris Sander Dekker (Media, VVD) zijn ingevoerd. Dekker wilde een eind maken aan ’plat vermaak’. Hij wilde af van programma’s als Ranking the Stars en van Bananasplit. De publieke omroep zou met amusement oneerlijke concurrentie bieden aan de commerciële omroepen, die leven van vermaak.</p>

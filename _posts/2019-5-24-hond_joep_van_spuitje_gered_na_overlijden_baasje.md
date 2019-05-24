@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Hond Joep van spuitje gered na overlijden baasje"
+date: Fri, 24 May 2019 16:25:47 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/3643969/hond-joep-van-spuitje-gered-na-overlijden-baasje"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f6d023f4-7e2f-11e9-8c0c-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Goed nieuws voor het doodzieke hondje Joep uit Veenendaal: nadat zijn baasje afgelopen week overleed, was het de bedoeling dat het veertien jaar oude hondje ook een spuitje zou krijgen zodat ze samen in een urn terecht zouden komen. Dat was de wens van het oude baasje. Maar: een nieuw mandje dient zich aan voor Joep.</p> <p>„Ik heb er speciaal een Twitter-account voor aangemaakt”, vertelt Anne van Akkeren uit Heemstede. „Ik zag een bericht online staan waarin ik las dat dit zou gebeuren. Ik voelde me verantwoordelijk voor het hondje.” Cindy Albers had namelijk een Twitter-bericht verplaatst waarin ze openhartig vertelde over het lot van Joep. Elke weekend liet ze de hond van baasje Frans uit, omdat hij slecht ter been was. „Maar Frans overleed, en de wens van Frans was dat ze samen in een urn terecht zouden komen.” Joep heeft abcessen en loopt moeilijk. „Niemand kon verder voor hem zorgen en dat leek dus de enige optie. Hij is al erg oud en behoorlijk ziek, al is het met medicijnen goed te doen.”</p><p>Moeite waard</p><p>Maar Anne van Akkeren wilde dat niet laten gebeuren. „Ik heb ervaring met oude, zieke hondjes. Ik heb er drie gehad, waar er nu helaas nog maar één van over is. Al heeft Joep nog een paar maanden veel plezier zonder pijn, is dat de moeite toch al waard?” Ze schreef Cindy aan en vanavond volgt er een kennismaking. „Met de nabestaanden van het oude baasje. Ze gaan kijken of het klikt en waar Joep terecht komt. Als ze er vertrouwen in hebben, blijft hij gelijk het hele weekend. Ik heb al gezegd dat ze Joeps spullen maar gelijk mee moeten nemen.”</p><p>De nabestaanden van Joeps baasje zijn ’erg ontdaan van de ophef die ontstond na het eerste bericht’. Van Akkeren: „Ze hebben berichten gezien als ’die mensen moeten zelf een spuitje krijgen’. Dat lijkt me niet bepaald constructief”, aldus de hondenliefhebster uit Heemstede. „Ik hoop dat Joep bij mij mag blijven, dan kunnen we hem een mooi einde van zijn leven geven.”</p>

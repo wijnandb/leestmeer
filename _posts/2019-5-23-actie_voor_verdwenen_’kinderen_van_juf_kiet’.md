@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Actie voor verdwenen ’kinderen van juf Kiet’"
+date: Thu, 23 May 2019 18:20:54 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3638867/actie-voor-verdwenen-kinderen-van-juf-kiet"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d0003cbe-7d76-11e9-87df-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Het kabinet gaat scholen extra wijzen op ouders die hun kinderen tegen hun wil naar hun land van herkomst brengen en daar achterlaten. Dat gebeurt na een noodkreet van de Brabantse juf Kiet.</p> <p>Juf Kiet, die lesgeeft aan kinderen van migranten op een basisschool, kwam eind maart in het nieuws. Volgens haar worden jonge kinderen tegen hun zin in meegenomen naar hun land van herkomst, daar verkocht, uitgehuwelijkt en soms raken ze dan op jonge leeftijd zwanger. „Je denkt dat het wel meevalt, maar het gebeurt waar je bij staat.”</p><p>De VVD stelde er vragen over aan minister De Jonge (Volksgezondheid). Hij zegt ’geen concrete aanwijzing te hebben’ dat scholen het probleem onderschatten. Toch heeft hij onderwijsorganisatie Beweging tegen Kindermishandeling gevraagd om het bij scholen extra onder de aandacht te brengen.</p><p>De CDA-bewindsman heeft navraag gedaan bij het Landelijk Knooppunt Huwelijksdwang (LKHA) en Achterlating over het aantal meldingen dat daar afgelopen jaar is binnengekomen. In 2018 betrof het 39 meldingen van achterlating. In elf gevallen daarvan ging het om een minderjarige, zeventien een jong volwassene en elf meldingen betroffen een ouder met minderjarige kinderen.</p><p>Het LKHA kreeg vorig jaar tien meldingen over huwelijksdwang in het buitenland. In vier gevallen ging dat om minderjarigen. Daarvan zijn twee kinderen teruggekeerd naar Nederland, van de andere twee weet men het niet.</p><p>Landen die het vaakst in de meldingen opduiken zijn Somalië (11) en Marokko (10 meldingen), maar ook Irak (4), Turkije (3), Soedan (3) en Iran (3).</p>

@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Handelsvete duwt olie flink onder $70"
+date: Thu, 23 May 2019 17:04:00 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/3636790/handelsvete-duwt-olie-flink-onder-70"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/188fd18e-7d6c-11e9-ba0b-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">De prijs van Brentolie is donderdagmiddag fors onder $70 per vat gezakt. WTI ging onder $60. Een onverwacht grote voorraadopbouw van de brandstof gecombineerd met zorgen over uitval van vraag vanwege de handelsoorlog duwen de prijs omlaag.</p> <p>De voorraden voor Amerikaanse ruwe olie en verwante producten zijn sinds augustus vorig jaar niet zo groot geworden, zo bleek uit tellingen van energieagentschap EIA.</p><p>Wereldwijd zijn voorraden al uitgedijd tot het niveau van de zomer van 2017, zo’n 476 miljoen vaten.</p><p>De Amerikaanse import van ruwe olie zakte bovendien half mei met zo’n 8% afgezet tegen de week ervoor. De verrassing zat erin dat ook de Amerikaanse export van zijn olieproducten met 13% is gedaald.</p><p>Zorgen om een productiebeperking door oliekartel OPEC verminderden bij dat grote aanbod.</p><p>Volgens zakenbank Standard Chartered weegt de uitval van de vraag van grote opkopers van olie zwaarder. De stijging van de voorraad was in zes jaar niet zo slecht.</p><p>„We hebben kunnen soortgelijke slechte cijfers pas tien jaar terug in onze data aangetroffen”, aldus zijn analist.</p><p>Wereldwijde daling</p><p>De prijs van Brent is de wereldwijde norm voor olieprijzen, waarop weer benzineprijzen zijn gebaseerd. Sinds april is de prijsdaling niet zo snel gegaan.</p><p>Met de oorlogsdreiging tussen Iran en de Verenigde Staten, bij een serie lopende conflicten tussen olieproducenten, gokten beleggers eerder op uitval van de productie en dus een prijsstijging.</p><p>Daarbij kwam dat de Amerikaanse sanctie tegen Teheran maakt dat alle olie uit Iran niet gekocht mag worden. Productie in Venezuela en Libië is deels al uitgevallen door interne problemen in die landen.</p><p>Ook de Amerikaanse WTI-oliesoort daalde donderdag onder zijn tweehonderd daags gemiddeld, een norm voor veel analisten.</p><p>Voor Amerikanen is de al langer durende prijsdaling een welkome afwisseling: dit weekend begint hun holiday weekend, inclusief Memorial Day, de periode in het jaar dat consumenten en masse kans grijpen om de weg op gaan.</p>

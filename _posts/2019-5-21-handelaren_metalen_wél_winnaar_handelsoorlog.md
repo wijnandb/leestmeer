@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Handelaren metalen wél winnaar handelsoorlog"
+date: Tue, 21 May 2019 14:44:51 +0200
+category: buitenland
+externe_link: "https://www.telegraaf.nl/financieel/3622782/handelaren-metalen-wel-winnaar-handelsoorlog"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/39a6986e-7bc6-11e9-9d09-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">De handelsoorlog tussen de VS, China en Europa zou geen winnaars hebben. Maar handelaren in bijzondere metalen plukken momenteel de vruchten van nieuwe dreigementen.</p> <p>Aandelen van Chinese bedrijven als Yantai Zhenghai Magnetic, JL MAG Rare-Earth, Chengdu Galaxy Magnets en Jiangmen Kanhoo Industry ging dinsdag met bijna 10% omhoog. Innuovo Technology won in een maand ruim 54% aan beurswaarde.</p><p>President Xi Jinping bezocht maandag MAG Rare Earth in Jiangxi. Hij zint op tegenmaatregelen nadat de Amerikaanse president technologiebedrijf Huawei in de ban heeft gedaan, als uitloper van recent verhoogde importheffingen op Chinese goederen richting de VS.</p><p>Kwetsbaar</p><p>China is de verbruiker van 80% van de zogeheten bijzondere grondstoffen, waarmee zo’n 17 chemische elementen worden benoemd. Ze zijn cruciaal in industriële productie, en sommige zijn schaars.</p><p>Peking had voor de meeste van de Amerikaanse grondstoffenimport per 1 juni al een importheffing van 25% gelegd, na de eerste tariefronde met 10% betalingsheffing.</p><p>Chinese analisten vermoeden dat Xi Jinping de zeldzame metalen, bijvoorbeeld voor batterijauto’s, als speerpunt van de handelsoorlog gaat inzetten. Amerikaanse bedrijven zouden niet lang zonder kunnen.</p><p>Winst metalenmakers</p><p>China zou specifiek met deze metalen, hoewel klein in omvang, de kwetsbaarheid van de Amerikaanse industrie willen aantonen,</p><p>In Nederland valt het bedrijf AMG in dezelfde categorie. Op het Damrak won de specialist in verwerking van lithium voor batterijen in stekkerauto’s en vanadium en kobalt 4%.</p>
