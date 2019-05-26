@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Leegloop bij Sunweb in Giro: ook Oomen stapt af"
+date: Sat, 25 May 2019 14:21:44 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/sport/3646543/leegloop-bij-sunweb-in-giro-ook-oomen-stapt-af"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6dc105b0-7eed-11e9-9730-0218eaf05005.jpg"
+---
+
+<p class="intro">Het zit Team Sunweb deze Ronde van Italië niet mee. In de veertiende etappe moest ook Sam Oomen de strijd staken. Daardoor heeft de ploeg nog vier van de acht renners over.</p> <p>Oomen kwam zaterdag in het begin van de tweede bergrit van deze Giro ten val. Hij was de Italiaanse ronde gestart als meesterknecht van Tom Dumoulin. Oomen stond in het algemeen klassement 32e. Vorig jaar eindigde hij als negende in het algemeen klassement.</p><p>Het ging al een paar dagen helemaal niet lekker met Oomen, na het vroegtijdige afscheid van kopman Dumoulin de man bij Team Sunweb op wie de hoop was gevestigd. Maar kort na het begin van de veertiende etappe in de Giro, met vijf beklimmingen in goed 130 kilometer wedstrijd, staakte de 23-jarige Tilburger de strijd. Overal zat de pijn, van zijn dik ingepakte linkerknie tot zijn pols, allemaal het gevolg van een geforceerde houding op de fiets.</p><p>De kleine allrounder arriveerde vrijdag op 20.15 minuten van dagwinnaar Ilnur Zakarin in Ceresole Reale. Tot aan de voet van de slotbeklimming had hij dapper weerstand geboden en de fysieke ellende proberen te vergeten, maar de resterende twintig kilometer naar de top waren er te veel aan. De pedalen kreeg hij bijna niet meer rond. De precieze oorzaak van de problemen? Ploegleider Marc Reef moest het antwoord voor de start schuldig blijven. Om zijn gehavende lichaam een beetje te ontzien, besloot Oomen zaterdagochtend wat aan zijn positie te sleutelen. Het laatste redmiddel mocht ook niet baten. Nog voor het eerste koersuur voorbij was, kneep hij na zijn val in de remmen. Een illusie armer.</p><p>Dumoulin moest al in de eerste week na een zware valpartij noodgedwongen naar huis. De 28-jarige Limburger liep flinke schade aan zijn knie op. Dumoulin won twee jaar geleden de Giro, eindigde vorig jaar als tweede en behoorde deze editie opnieuw tot de favorieten voor de eindzege.</p><p>De Giro verloopt voor Team Sunweb dus dramatisch. Naast Dumoulin en Oomen zijn ook Louis Vervaeke en Robert Power er al niet meer bij.</p>

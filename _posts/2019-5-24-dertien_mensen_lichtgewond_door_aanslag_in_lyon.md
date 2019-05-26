@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Dertien mensen lichtgewond door aanslag in Lyon"
+date: Fri, 24 May 2019 18:37:01 +0200
+category: buitenland
+externe_link: "https://www.telegraaf.nl/nieuws/3644892/dertien-mensen-lichtgewond-door-aanslag-in-lyon"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5a3a0ed2-7e5d-11e9-87df-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Update - Door een bomaanslag op een doorgaans drukke wandelpromenade in het centrum van Lyon zijn vrijdagmiddag laat dertien lichtgewonden gevallen, onder wie een meisje van acht. Volgens de autoriteiten verkeert niemand in levensgevaar. De dienst terreurbestrijding van het parket in Parijs heeft de coördinatie van het onderzoek overgenomen van de lokale politie.</p> <p>Een zak, pakket of koffer gevuld met schroeven, bouten of spijkers ontplofte voor een bakkerswinkel in de autovrije rue Victor-Hugo, vlak bij Place Bellecour.</p><p>In verband met de zaak, door president Emmanuel Macron omschreven als een „aanslag zonder dodelijke slachtoffers”, is de politie op zoek naar een man van 30 à 35 jaar die vlak voor de explosie daar rijdend op een fiets is gezien. De verdachte staat op beelden van bewakingscamera’s.</p><p>Het voetgangersgebied rond de plek is ontruimd en afgezet. Elf slachtoffers zijn uit voorzorg naar een nabijgelegen ziekenhuis gebracht. Niemand liep ernstig letsel op.</p><p>Ook de materiële schade valt mee. Ooggetuigen spreken tegenover Franse media van ’een harde knal’, die overigens ’geen paniek veroorzaakte’.</p><p>Waakzaam</p><p>Minister van Binnenlandse Zaken Christophe Castaner is onderweg naar Lyon om zich op de hoogte stellen. Hij meldt op Twitter dat er ’waakzaamheidsinstructies’ zijn verspreid op ministeries. Premier Edouard Philippe zegde een bijeenkomst voor de Europese verkiezingen af. De Fransen gaan zondag naar de stembus.</p><p>Burgemeester David Kimelfeld van de metropool Lyon heeft de inwoners gevraagd om ‘waakzaam en voorzichtig te zijn’ en ‘het hoofd koel te houden'.</p>

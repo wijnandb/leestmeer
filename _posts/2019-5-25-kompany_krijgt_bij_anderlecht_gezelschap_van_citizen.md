@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Kompany krijgt bij Anderlecht gezelschap van Citizen"
+date: Sat, 25 May 2019 09:46:35 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3646111/kompany-krijgt-bij-anderlecht-gezelschap-van-citizen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7eee080e-7ec2-11e9-9d09-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">De Belgische club Anderlecht heeft Simon Davies als coach aangetrokken.</p> <p>De 45-jarige Welshman komt over van Manchester City, waar hij leiding gaf aan de jeugdacademie. Hij moet speler-trainer Vincent Kompany bijstaan. Davies, zelf oud-speler van onder meer Manchester United, heeft getekend tot medio 2022.</p><p>Kompany nam vorige week zaterdag met winst van de FA Cup afscheid van Manchester City, de club waarvoor hij 11 jaar speelde. De 33-jarige international keert terug bij Anderlecht, de club waar hij werd opgeleid en doorbrak. Hij kreeg onlangs de kans om als speler-trainer aan de slag te gaan in Brussel en zei ja.</p><p>Anderlecht trok Davies aan op advies van Kompany. „Ze werken al een tijdje samen en willen het succesverhaal van Manchester City naar RSC Anderlecht brengen”, licht sportief directeur Michael Verschueren toe op de website van Anderlecht.</p><p>De Brusselse club heeft een van de slechtste seizoenen ooit achter de rug en is als zesde geëindigd in de Jupiler Pro League. ’Paars-wit’ speelt daardoor komend seizoen geen Europees voetbal. Kompany moet de club weer naar het gewenste niveau tillen en krijgt een uitgebreide staf. Davies krijgt daarin een sleutelrol. „Toen Vincent mij vroeg om met hem naar Anderlecht te komen, heb ik niet getwijfeld. We starten hier een prachtig project: Anderlecht opnieuw brengen waar het thuishoort, met een accent op de ontwikkeling van talentvolle jeugdspelers”, aldus Davies.</p><p>In de technische staf is ook Karim Belhocine opgenomen, als assistent van Kompany. Belhocine was de laatste weken van dit seizoen tijdelijk hoofdtrainer, na het vertrek van Fred Rutten in april.</p>
