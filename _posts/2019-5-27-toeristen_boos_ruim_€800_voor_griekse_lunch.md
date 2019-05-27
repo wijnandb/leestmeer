@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Toeristen boos: Ruim €800 voor Griekse lunch"
+date: Mon, 27 May 2019 13:42:15 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/financieel/3653536/toeristen-boos-ruim-800-voor-griekse-lunch"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7a9694f2-8074-11e9-aaf2-0255c322e81b.jpg"
+---
+
+<p class="intro">Het is altijd oppassen geblazen als je iets wil eten of drinken op een toeristische bestemming, en je weet vooraf niet wat de prijzen zijn. Daar kwam een Amerikaanse militair op pijnlijke manier achter tijdens een vakantie naar het Griekse Mykonos.</p> <p>Francisco Tajeda (38) uit Brooklyn uit zijn ongenoegen op Tripadvisor. Hij bezocht met een gezelschap de strandtent DK Oyster in het zuiden van Mykonos. De militair laat weten dat zijn gezelschap vroeg om menukaarten, maar die niet kreeg. Daarop gingen ze ervan uit ’normale prijzen’ te moeten betalen. Dat viel tegen.</p><p>Tomatensap</p><p>Tajeda deelt een foto van een kassabon met daarop zes bordjes calamari à €98,50, zes lokale biertjes voor €30 per stuk, drie Caesarsalades die iets minder kostten dan €20, twee flessen water voor €8,90 per stuk en een glas tomatensap van maar liefst €18. In totaal moest hij ruim €800 aftikken.</p><p>Het restaurant laat in een reactie weten dat de getoonde prijzen correct zijn. Volgens de eigenaar is het eten dat hij serveert namelijk van topkwaliteit.</p><p>Op Tripadvisor laten meer ontevreden klanten van zich horen: een glas wijn voor €20, een frisdrank voor €15. Een toerist laat weten binnen te zijn gelopen nadat hij een advertentie had gezien voor een menu met glas wijn voor €14, en toch meer dan €100 moest betalen voor een bordje eten en een drankje. Het eten wordt ook nog eens slecht beoordeeld.</p><p>Recensies</p><p>Hoewel vrijwel alle recensies op Tripadvisor extreem negatief zijn, een van de vijf sterren geven en in hoofdletters waarschuwen om hier niet naartoe te gaan, heeft het restaurant een gemiddelde van vier sterren.</p><p>Af en toe zitten er vijfsterrenrecensies tussen van mensen die €30 voor een biertje blijkbaar wel heel redelijk vinden. De positieve recensies zijn allemaal ouder, en doorgaans in het Grieks. Sommige bezoekers melden ook dat het restaurant werkt met verschillende menukaarten, met verschillende prijsniveaus. Vooral Amerikanen zouden de hoofdprijs moeten betalen.</p>
