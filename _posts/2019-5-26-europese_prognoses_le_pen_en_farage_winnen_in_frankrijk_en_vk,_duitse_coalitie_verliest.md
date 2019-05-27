@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Europese prognoses: Le Pen en Farage winnen in Frankrijk en VK, Duitse coalitie verliest"
+date: Sun, 26 May 2019 18:22:40 +0200
+category: buitenland
+externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/xwqaFOTCy5M/2286398"
+feature_image: "https://nos.nl/data/image/2019/05/26/552677/1008x567.jpg"
+---
+
+<p>Uit de eerste prognoses voor de EU-verkiezingen komt naar voren dat de grote fracties in het Europees Parlement verliezen en de populisten, groenen en liberalen winnen. Opvallend is dat de opkomst op gemiddeld 51 procent lijkt uit te komen, dat is fors meer dan vier jaar geleden.</p>
+<p>In Frankrijk lijkt Rassemblement National (RN), de partij van Marine Le Pen, de Franse president Macron te hebben verslagen. In de exitpoll ligt RN met zo'n 24 procent iets voor op Macrons partij. Le Pen heeft de overwinning al geclaimd. Volgens haar is het een teken van de nieuwe scheiding tussen nationalisten en globalisten. Le Pen wil dat Macron het Franse parlement ontbindt, wat nieuwe verkiezingen zou betekenen.</p>
+<p>Correspondent Frank Renout zegt dat een overwinning van de rechts-populistische partij van Le Pen een enorme dreun zou zijn voor Macron. "Macron heeft er zelf een soort tweestrijd met Le Pen van gemaakt, die wedstrijd heeft hij verloren." De traditionele partijen in Frankrijk, de Republikeinen en de socialisten, blijven onder de 10 procent. De Groenen zijn de derde partij van het land geworden.</p>
+<h2>Brexit en nederlaag Duitse coalitie</h2>
+<p>In het Verenigd Koninkrijk is de brexit-partij van Nigel Farage de grote winnaar geworden. Die laatste zou 31 procent van de stemmen hebben gekregen. De Conservatieve Partij van de vertrekkende premier May lijkt volgens de prognose gehalveerd. De Liberaal-Democraten en Labour maken onderling uit wie de tweede partij van het land wordt,</p>
+<p>Uit de eerste Duitse prognoses komt naar voren dat de regeringspartijen CDU/CSU en SPD flink hebben verloren en de Groenen hebben gewonnen. Die Grünen zouden op 22 procent van de stemmen uitkomen, een winst van 10 procentpunt. Daarmee is de partij achter de combinatie CDU/CSU Merkel de tweede partij geworden.</p>
+<p>Zowel CDU/CSU als de SPD verliest fors met een daling van respectievelijk 7,3 en 11,8 procentpunt. De combinatie CDU/CSU komt uit op 28 procent van de stemmen, coalitiepartner SPD komt uit op 15,5. Correspondent Judith van de Hulsbeek zegt dat vooral het verlies van de SPD opvalt. "Het verlies was wel al ingeschat in de peilingen, maar dat het zoveel zou zijn dat komt toch echt wel als een schok voor de SPD."</p>
+<p>Alternative für Deutschland wint 3,4 procentpunt en komt uit op 10,5. De Duitse Groenen zeggen dat de forse winst een signaal is dat er meer klimaatbeleid moet komen. "We zullen de stem van de klimaatbeweging op straat in het parlement vertegenwoordigen."</p>
+<h2>Italië en Spanje</h2>
+<p>In Italië heeft Salvini's partij Lega de verkiezingen volgens de exitpolls gewonnen, voor de centrumlinkse PD. Lega's coalitiepartner Vijfsterrenbeweging krijgt rond de 20 procent en eindigt waarschijnlijk als derde partij.</p>
+<p>De Spanjaarden hebben volgens de prognoses vooral op de socialistische partij van premier Pedro Sanchez gestemd. De Partido Popular verloor bijna 9 procent. Het links-populistische Podemos en het rechts-nationalistische VOX wonnen ook.</p>
+<p>Ook Carles Puigdemont, de voormalige leider van de Catalanen, had zich verkiesbaar gesteld voor het Europees Parlement. Volgens correspondent Rop Zoutberg lijkt zijn partij een zetel te halen, Brussel kan zich dus opmaken voor de komst van Puigdemont.</p>
+<h2>Oostenrijk</h2>
+<p>In Oostenrijk wint de christendemocratische ÖVP van kanselier Kurz volgens de eerste prognose en krijgt ruim een derde van de stemmen. Zijn voormalige regeringspartner FPÖ, die uiteindelijk uit de coalitie stapte na een omstreden video met vice-kanselier Strache, daalt ten opzichte van de EU-verkiezingen in 2014 met 2,2 procentpunt naar 17,5 procent van de stemmen.</p>
+<p>"Als je kijkt naar hoe de FPÖ in de peilingen stond voordat het hele schandaal aan het rollen kwam, dan hebben ze toch wel flink in moeten leveren. Die hebben het effect van die video wel gevoeld", zegt Van de Hulsbeek. De sociaaldemocratische SPÖ blijft stabiel met 23,5 procent van de stemmen, de Groenen blijven in Oostenrijk de liberale partij Neos voor.</p>
+<p>In Hongarije haalt de regerende Fidesz-partij van premier Órban de absolute meerderheid, zegt de regeringsgezinde staatstelevisie. De partij van Orban werd onlangs nog geschorst als lid van de Europese christendemocratische EVP-fractie. Onder anderen Frans Timmermans moest het ontgelden.</p>
+<p>In Polen heeft de regeringspartij Recht en Rechtvaardigheid ruim 42 procent gehaald volgens de exitpolls. De pro-Europese coalitie van onder andere de partij van de voorzitter van de Europese raad Donald Tusk krijgt ruim 39 procent. In Bulgarije wordt volgens de exitpolls de centrum-rechtse partij GERB de grootste, voor de sociaaldemocraten. De Bulgaarse president Rumen Radev zei dat er een verenigd en sterk Europa nodig is, gebaseerd op solidariteit.</p>
+<h2>Tsipras lijkt te verliezen in Griekenland</h2>
+<p>In Griekenland verliest volgens de exitpoll van de publieke omroep ERT de regeringspartij Syriza van premier Tsipras. De partij zou uitkomen tussen de 25,5 en 28,5 procent. De centrum-rechtse Nieuwe Democratie wint en zou de grootste worden, met 30,5 tot 33,5 procent van de stemmen. Premier Tsipras riep na de nederlaag vervroegde verkiezingen uit. </p>
+<p>De extreemrechtse Gouden Dageraad en KINAL, het voormalige socialistische Polak komen beide uit op ongeveer 7 procent. Mogelijk halen twee kleinere Griekse partijen de drempel om in het Europees parlement te komen waaronder Mera25 van de voormalige Griekse minister van Finaniciën Varoufakis.</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbuitenland/~4/xwqaFOTCy5M" height="1" width="1" alt=""/>

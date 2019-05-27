@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Plasstop ploegleiders toen Roglic nieuwe fiets wilde"
+date: Sun, 26 May 2019 18:19:27 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3649370/plasstop-ploegleiders-toen-roglic-nieuwe-fiets-wilde"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/970324ce-7fd5-11e9-b60b-0217670beecd.jpg"
+---
+
+<p class="intro">Ploegleider Addy Engels van Jumbo-Visma zag zondag in de vijftiende etappe van de Ronde van Italië zijn kopman Primoz Roglic 40 seconden verliezen op voorname concurrenten voor het klassement. „Alles kwam vandaag op het verkeerde moment”, vatte de Drent de gebeurtenissen in de finale samen. „Dit is een zware tik.”</p> <p>„We hadden aan het einde van een afdaling Primoz net bevoorraad, toen we een plekje rechts van de weg zagen voor een snelle sanitaire stop. Net toen we weer instapten hoorden we op de wedstrijdradio dat Primoz een nieuwe fiets nodig had”, vertelde Engels, die op dat moment net ploeggenoot Antwan Tolhoek voorbij zag komen. „Primoz heeft diens fiets overgenomen en was redelijk snel terug in de groep. Maar het ging op dat moment te snel om hem zijn reservefiets te geven.”</p><p>Die gelegenheid kwam ook niet meer waarna Roglic tot overmaat van ramp in de afdaling richting Como nog een bocht miste en tegen de vangrail belandde. Engels: „Dit was een dag die niet slechter kon. Knap dat Primoz zo kon doorvechten, we moeten even zien wat de schade is. Maar dit is een zware tik.”</p><p>Roglic nam het verlies minder zwaar op. De Sloveen, tweede in het algemeen klassement op nu 47 seconden van de Ecuadoriaan Richard Carapaz, vertelde na de rit dat een probleem met de schakelhendel van zijn versnellingsapparaat hem van fiets had doen verwisselen. „Omdat ik op een andere fiets reed werd het iets lastiger, maar volgens mij had ik op de top van de klim helemaal niet zo veel achterstand. Ja, die val had er misschien ook mee te maken, ik ging iets te snel die bocht in. Maar al met al valt de schade mee. En de Giro duurt bovendien nog lang.”</p>

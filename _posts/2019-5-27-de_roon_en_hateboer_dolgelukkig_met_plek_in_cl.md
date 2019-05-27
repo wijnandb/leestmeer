@@ -1,0 +1,10 @@
+---
+layout: post
+title: "De Roon en Hateboer dolgelukkig met plek in CL"
+date: Mon, 27 May 2019 07:54:01 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3651529/de-roon-en-hateboer-dolgelukkig-met-plek-in-cl"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d3c33eda-8043-11e9-a7b6-0255c322e81b.jpg"
+---
+
+<p class="intro">Marten de Roon en Hans Hateboer kunnen het zelf nog amper geloven. De twee Nederlandse internationals gaan met Atalanta Bergamo de Champions League in.</p> <p>„Je hebt Juventus, Napoli en dan komen wij. Ongelooflijk toch”, zei Hateboer na de laatste competitiewedstrijd van het seizoen op het tv-kanaal van zijn Italiaanse club, die nog nooit op het hoogste Europese podium speelde.</p><p>Atalanta stelde de derde plaats in de Serie A veilig met een zege op Sassuolo (3-1). De geschorste Hateboer zag vanaf de tribune hoe zijn ploeggenoten de wedstrijd in de tweede helft naar zich toetrokken. „Wat een ongelooflijk seizoen”, zei De Roon. „Dit is een beloning voor alle spelers, de staf en onze fans.”</p><p>Atalanta vierde het bereiken van de Champions League alsof het kampioen was geworden. Voorzitter Antonio Percassi liep huilend van vreugde over het veld en trainer Gian Piero Gasperini danste erop los met de 18.000 fans die vanuit Bergamo waren meegereisd naar Reggio Emilia. Bij terugkomst ’s nachts in eigen stad werd de spelersbus opgewacht door een uitzinnige menigte, die met vuurwerk de historische prestatie van de blauw-zwarte formatie vierde.</p><p>„Ik denk dat we het ook in de Champions League heel goed gaan doen”, zei Gasperini. „De jongens waren geweldig, buitengewoon. We hebben volledig terecht voor het eerst een plek in de Champions League veroverd. We konden hier alleen maar van dromen, maar nu is het echt.” Het is wel de vraag of Atalanta met Gasperini de Champions League in gaat. De 61-jarige Italiaan is in beeld bij AS Roma, dat een nieuwe trainer zoekt.</p>

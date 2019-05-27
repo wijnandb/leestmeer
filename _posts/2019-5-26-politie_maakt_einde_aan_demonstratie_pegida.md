@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Politie maakt einde aan demonstratie Pegida"
+date: Sun, 26 May 2019 21:05:00 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/3649955/politie-maakt-einde-aan-demonstratie-pegida"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/05e985fc-7ffb-11e9-8145-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">De politie maakt een einde aan de demonstratie van Pegida in Eindhoven, omdat ze de veiligheid van de betogers en de omwonenden niet meer kan garanderen. Een grote groep tegendemonstranten, bestaande uit honderden allochtone jongeren, gooit met stenen en andere voorwerpen.</p> <p>De enkele tientallen demonstranten van Pegida werden door de politie in veiligheid gebracht. Intussen zijn vijf tegendemonstranten gearresteerd. De politie zegt voorlopig nog in de wijk te blijven om op te treden als het nodig is. Rond 22.00 uur was het nog steeds onrustig in Eindhoven. Groepen jongeren rijden rond in auto’s en schreeuwen daarbij ’allahu akbar’.</p><p>De mobiele eenheid voerde eerder charges uit toen betogers met stenen gooiden naar de politie en naar aanhangers van Pegida. Dat gebeurde vlakbij de Al-Fourqaan Moskee aan de Otterstraat tijdens een demonstratie van Pegida tegen de Ramadan. De uiterst rechtse beweging kreeg toestemming voor de demonstratie bij het gebedshuis.</p><p>De sfeer rond die demonstratie van Pegida werd steeds grimmiger, liet de politie weten. Een groep allochtone jongeren zorgde voor ongeregeldheden en bekogelde politie en demonstranten.</p><p>Volgens een woordvoerder van de gemeente was een kleine groep aanhangers van Pegida rond 19.25 uur begonnen aan een voettocht naar de Al-Fourqaan Moskee aan de Otterstraat. Rondom deze kleine optocht verzamelde zich een grote groep tegendemonstranten achter een Turkse vlag, die woedend reageren op Pegida.</p><p>Gefrituurde varkenslap</p><p>Pegida kondigde eerder aan voor de moskee demonstratief een gefrituurde varkenslap te gaan eten. De uiterst rechtse beweging demonstreert naar eigen zeggen tegen de Ramadan en de invloed van moslims in Nederland. Er was geen tegendemonstratie aangemeld.</p><p>Pegida-voorman Edwin Wagensveld klaagde net voordat de demonstratie werd beëindigd in een zelfgemaakte video dat hij en zijn mededemonstranten niet verder mochten lopen. „Vanwege zwaar geweld, moslims die met stenen en met hekken en weet ik wat gooien.”</p>

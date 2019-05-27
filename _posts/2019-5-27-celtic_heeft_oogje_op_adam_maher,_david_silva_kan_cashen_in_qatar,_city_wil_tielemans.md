@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Celtic heeft oogje op Adam Maher, David Silva kan cashen in Qatar, City wil Tielemans"
+date: Mon, 27 May 2019 07:24:00 GMT
+categories: 
+- sport 
+- voetbal 
+externe_link: "https://www.ad.nl/transfer-talk/celtic-heeft-oogje-op-adam-maher-david-silva-kan-cashen-in-qatar-city-wil-tielemans~a5483cab/"
+feature_image: "https://images4.persgroep.net/rcs/VClwawHTRRQuOYiB9slzAAsSIcc/diocontent/148823216/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
+---
+
+Het transferwindow is in Engeland inmiddels geopend, Nederland en andere Europese competities volgen begin juni. Mis de komende maanden niets van alle geruchten en voltooide transfers in onze dagelijkse rubriek TransferTalk.
