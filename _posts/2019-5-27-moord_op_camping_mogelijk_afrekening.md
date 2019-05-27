@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Moord op camping mogelijk afrekening"
+date: Mon, 27 May 2019 15:52:57 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/3654964/moord-op-camping-mogelijk-afrekening"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bba1f4d4-8086-11e9-8145-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">De dood van de 38-jarige Ramon op een camping in het Limburgse Meerlo in januari is mogelijk een afrekening geweest. Dat zeggen bewoners van de camping. De man kwam om het leven toen zijn caravan in de nacht van 23 op 24 januari in brand werd gestoken.</p> <p>Maandagmorgen is een 38-jarige man aangehouden op verdenking van betrokkenheid bij moord c.q. doodslag en brandstichting.</p><p>Het slachtoffer uit het Brabantse Maashees woonde al enige tijd op camping ’t Karrewiel. Hij vertelde dat hij in een scheiding lag en ook financiële problemen had. “Voorafgaand aan zijn dood met nieuwjaar zou zijn dochter naar Gran Canaria gaan. Die maakte zich ongerust over haar vader. Ze was bang dat hem iets zou overkomen,” zegt een omwonende terwijl hij een snijdende beweging over zijn keel maakt. “Maar wij wisten van niets. Pas later hoorden we dat hij zich mogelijk met minder frisse zaken bezig zou hebben gehouden”, vertelt een bewoner die net als anderen anoniem zijn verhaal wil doen.</p><p>Mogelijk dader gezien</p><p>Een andere campingbewoner denkt dat hij de latere moordenaar gezien heeft. “Het was een Nederlander. Die liep voorbij en ik vroeg hem of hij iets zocht. Zijn antwoord was dat hij ‘die klootzak al had gevonden’. De nacht erna ging de caravan in brand. Mogelijk is hij al eerder omgebracht in de caravan of in elk geval buiten bewustzijn gebracht, want we hebben niets gehoord toen het afbrandde. En zo snel staat een caravan ook weer niet vanzelf in lichterlaaie. Dus daar is mogelijk ook iets voor gebruikt. Je kunt je dus afvragen of Ramon toen al niet meer leefde en de caravan in brand is gestoken om sporen te wissen.”</p><p>De voormalige buurman van Ramon zegt dat hij een normaal contact had met hem. “Een praatje, verder niets. Hij zou zijn huis hebben verhuurd aan Oostblokkers en daarmee een financieel conflict hebben gehad. Meer weet ik niet, maar ik ben blij dat ze iemand hebben opgepakt. Hopelijk de goede, want het gaf toch wel iets van onrust hier bij de mensen. Ondanks dat het echt een op hem gerichte actie leek.”</p>
