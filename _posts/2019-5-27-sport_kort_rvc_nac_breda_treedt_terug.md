@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Sport Kort: Rvc NAC Breda treedt terug"
+date: Mon, 27 May 2019 21:43:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3652441/sport-kort-rvc-nac-breda-treedt-terug"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0b38c174-80c0-11e9-bc08-0217670beecd.jpg"
+---
+
+<p class="intro">In de rubriek Sport Kort hebben we aandacht voor de overige sportgebeurtenissen. Dagelijks brengen we hier in een korte samenvatting de andere hoogtepunten.</p> <p>21.41 uur De raad van commissarissen van het gedegradeerde NAC Breda heeft besloten af te treden. Joost Gielen (voorzitter) en Joost van Mierlo (supportersvertegenwoordiging) vertrekken per 1 juni, de andere leden blijven voorlopig aan tot geschikte vervangers zijn gevonden. Nicole Edelenbos, onlangs nog actief als interim-algemeen directeur van de Brabantse club, is voorlopig aangesteld als voorzitter van de rvc.</p><p>18.27 uur: De levenslange schorsing van oud-voorzitter Marco Polo Del Nero van de Braziliaanse voetbalbond blijft gehandhaafd. Dat heeft de beroepscommissie van de FIFA bepaald. De 78-jarige Del Nero moet nog een boete van 1 miljoen Zwitserse franken betalen, omgerekend 890.000 euro.</p><p>16.50 uur: In de selectie van de Nederlandse voetbalsters zit geen enkele speler van PSV, maar toch is de club uit Eindhoven vertegenwoordigd op het WK. Dominique Bond-Flasza behoort tot de 23-koppige groep van Jamaica, dat komende maand in Frankrijk debuteert op de mondiale eindronde.</p><p>16.35 uur: Naby Keïta moet de finale van de Champions League komende zaterdag aan zich voorbij laten gaan, maar is wél opgenomen in de voorlopige selectie van Guinee voor de Afrika Cup. Liverpool-coach Jürgen Klopp meldde eerder dat Keïta acht weken uit de roulatie zou zijn, maar de Guineese bond hoopt dat hij bij de start van het toernooi voldoende hersteld is.</p><p>11.31 uur: Hockeyclub Kampong heeft zich versterkt met Jonas de Geus. De 21-jarige middenvelder komt in navolging van Terrance Pieters over van Almere. De Geus speelde al 54 interlands voor Oranje.</p>

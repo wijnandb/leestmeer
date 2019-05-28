@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Wat staat nieuwe Eerste Kamerleden te wachten?"
+date: Mon, 27 May 2019 23:21:53 +0200
+category: nieuws
+externe_link: "https://nos.nl/l/2286605"
+feature_image: "https://nos.nl/data/image/2019/05/27/553020/1008x567.jpg"
+---
+
+<p>De leden van Provinciale Staten hebben 75 Eerste Kamerleden gekozen, onder wie veel nieuwkomers. Die zullen niet precies weten wat hen te wachten staat als zij straks, op 11 juni, aan de slag gaan. Wij vroegen het aan drie senatoren die volgende week afscheid nemen. CDA-fractieleider Brinkman: "Op de uitersten wordt niet vaak een compromis gevonden. Of je nou SP'er of CDA'er bent, je moet elkaar een beetje opzoeken."</p>
+<p>Margo Andriessen is pas sinds eind september Eerste Kamerlid voor D66. Zij volgde Thom de Graaf op, die vice-president werd van de Raad van State. Andriessen krijgt vaak de vraag wat een senator nou eigenlijk doet. </p>
+<p>Vaak reageren mensen verbaasd dat een lid van de Eerste Kamer alleen op dinsdag vergadert:</p>
+<p>Op woensdag kunnen de senatoren weer even ademhalen, vertelt Andriesse. "Donderdag komen vanuit de griffie alweer mededelingen over wat we in de commissies gaan behandelen en moet je je afvragen wat je daarmee gaat doen. En dan is het weekend, het moment waarop je overlegt met fractiegenoten."</p>
+<p>Hans-Martin Don, in het dagelijks leven directeur van het Leger des Heils in Limburg en Noord-Brabant, zit sinds 2015 voor de SP in de Eerste Kamer. Hij heeft ervoor gekozen om zich niet meer kandidaat te stellen, mede omdat het in de praktijk zwaar is om die twee functies met elkaar te combineren.</p>
+<p>Maar hij heeft het werk voor de Eerste Kamer altijd met veel plezier gedaan. Het belangrijkste vindt hij om steeds voor ogen te houden: wat betekent een wetsvoorstel in de praktijk?</p>
+<p>Don en andere vertrekkende senatoren hameren op het contact met de praktijk:</p>
+<p>Als woordvoerder zorg en sociale zaken voor de SP hield Hans-Martin Don altijd contact met de mensen die ermee te maken krijgen. "We hebben hier bijvoorbeeld de wet Verplichte GGZ gehad en dan stond ik in nauw contact met Mind, een organisatie die de belangen vertegenwoordigt van mensen met een psychiatrisch probleem. En dan stel ik steeds van: goh, ik ben maar senator, ik ben niet inhoudsdeskundig op alle onderwerpen en het is goed als ik wat vragen mee krijg die ik kan stellen."</p>
+<p>Daarnaast moet je als senator ook met mensen uit andere fracties spreken, zegt oudgediende Elco Brinkman. Hij is sinds 2011 fractievoorzitter van het CDA in de Eerste Kamer. Eerder was de oud-minister dat ook in de Tweede Kamer. Hij ziet een groot verschil tussen de twee delen van het Nederlandse parlement. "In de Tweede Kamer gaat het meer om de opvatting van dag of het compromis dat in een regeringscoalitie is gevonden. Maar hier zitten we uiteindelijk toch voor het algemeen belang."</p>
+<p>"Het uiteindelijke 'ja' of 'nee' tegen een wetsvoorstel is natuurlijk een politiek oordeel", zegt hij. "Maar wij hebben wel de stelling - niet alleen bij het CDA, maar Kamerbreed - dat het algemeen belang ook vereist dat je zo nu en dan over de schaduw van je eigen oordeel heen stapt, Je moet niet proberen er een meerderheid doorheen te persen, maar pogen een breder draagvlak bij elkaar te polderen. Op de uitersten wordt niet vaak een compromis gevonden. Je moet elkaar ook een beetje opzoeken."</p>
+<p>Alle drie de vertrekkende senatoren adviseren hun opvolgers om altijd goed te blijven nadenken over hoe een wet in de dagelijkse praktijk werkt. "Soms is het ook handig om een tegengesteld advies te vragen", tipt Don zijn opvolgers. "Iets waar je zelf een andere mening over hebt. Dat houdt je scherp. Zorg in elk geval dat je in verbinding blijft met de samenleving."</p>
+<p>Andriessen pleit ervoor om soms ook politieke tegenstanders op te zoeken. "Hier komt eigenlijk alles samen", zegt ze. "Als we er hier niet met elkaar uitkomen, hoe moet het dan verder met het land? Dat gevoel houd ik er aan over. Hier moeten echt al die verschillende stromingen en gedachten en meningen en ervaringen samenkomen."</p>
+<p>Brinkman richt zich nog even tot leden van de oppositie die het kabinet willen laten merken dat ze de meerderheid hebben. "Dan hadden ze zich moeten kandideren voor de Tweede Kamer, denk ik. Ik waarschuw voor het oplopen van frustraties. Een senaat die het ene wetsvoorstel na het andere verwerpt, zaagt aan zijn eigen stoelpoten. Maar daar komen ze nog wel achter."</p>

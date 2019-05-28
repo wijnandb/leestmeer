@@ -1,0 +1,12 @@
+---
+layout: post
+title: "’Renault beslist volgende week over autodeal met Fiat Chrysler’"
+date: Mon, 27 May 2019 20:56:00 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/financieel/3651465/renault-beslist-volgende-week-over-autodeal-met-fiat-chrysler"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/db007dbc-80b5-11e9-9403-0217670beecd.jpg"
+---
+
+<p class="intro">Renault neemt naar verwachting volgende week pas een beslissing over het fusievoorstel van de Italiaanse-Amerikaanse branchegenoot Fiat Chrysler. Volgens ingewijden komt de leiding van de Franse automaker binnenkort bijeen om over het plan te praten. Dan wordt ook beslist over het al dan niet ondertekenen van een niet-bindende overeenkomst om tot een fusie te komen.</p> <p>Fiat Chrysler stuurde eerder een fusievoorstel aan het bestuur van het Franse bedrijf. De stap volgt na gesprekken tussen de twee bedrijven, waarbij werd gekeken naar samenwerkingen op het vlak van bijvoorbeeld het ontwikkelen en verkopen van nieuwe technologieën. Als Fiat Chrysler en Renault samensmelten, ontstaat er een autofabrikant die jaarlijks circa 8,7 miljoen wagens verkoopt.</p><p>Het hoofdkwartier van de combinatie, de op twee na grootste autobouwer ter wereld, zou bij een akkoord officieel in Nederland komen en het bestuur krijgt elf leden. Daarvan zijn er vijf van Fiat Chrysler en vijf van Renault. Voor de restzetel staat een Nissan-vertegenwoordiger op de rol. Renault maakt onderdeel uit van een alliantie met de Japanse automakers Nissan en Mitsubishi. Fiat Chrysler is bekend van merken als Fiat, Alfa Romeo, Lancia, Chrysler, Dodge en Jeep.</p><p>Een samenvoeging van Fiat Chrysler en Renault levert naar verwachting 5 miljard euro per jaar aan kostenbesparingen op, onder meer op het gebied van inkoop. Er zullen waarschijnlijk geen fabrieken gesloten worden. De twee hebben een gezamenlijke marktwaarde van 32,6 miljard euro. Het moederbedrijf krijgt een notering op de beurs in Milaan, in Parijs en in New York.</p><p>De Franse overheid staat als aandeelhouder niet onwelwillend tegenover een fusie. Frankrijk heeft een belang van 15 procent in Renault. Evengoed wil ook Parijs een eventueel samengaan van de bedrijven nader bestuderen. Daarbij wordt door de Fransen vooral gekeken naar de industriële ontwikkeling en de gevolgen voor Renault-werknemers als geheel.</p><p>Het concern zou per jaar 8,7 miljoen auto’s kunnen produceren.</p>
