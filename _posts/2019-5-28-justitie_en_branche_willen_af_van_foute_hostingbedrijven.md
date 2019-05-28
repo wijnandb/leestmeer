@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Justitie en branche willen af van foute hostingbedrijven"
+date: Tue, 28 May 2019 06:00:02 +0200
+category: nieuws
+externe_link: "https://nos.nl/l/2286613"
+feature_image: "https://nos.nl/data/image/2019/05/28/553034/1008x567.jpg"
+---
+
+<p>Tientallen vaak buitenlandse hostingbedrijven stallen kinderporno, malware en gestolen gegevens op Nederlandse servers. Het Openbaar Ministerie wil deze bedrijven nu samen met de branche gaan weren.</p>
+<p>Ongewild is Nederland erg populair bij cybercriminelen. Dat heeft te maken met de goede digitale infrastructuur. Naar schatting zijn hier zo'n 2000 hostingbedrijven actief, jaarlijks goed voor een miljardenomzet.</p>
+<p>Zij verhuren ruimte op servers, bijvoorbeeld om websites te draaien of om grote hoeveelheden data te parkeren. Een lange keten van internationale resellers (bedrijven die de ruimte weer doorverkopen) en huurders maakt daarvan gebruik.</p>
+<h2>Sneller aanpakken</h2>
+<p>Via al die tussenschakels huren ook 'foute' hostingbedrijven ruimte op Nederlandse servers. Zij bieden vervolgens weer opslagruimte aan cybercriminelen. Ook al zitten die criminelen zelf aan de andere kant van de wereld, hun digitale aanvallen voeren ze uit vanaf Nederlandse servers en ook het uitwisselen van kinderporno verloopt vaak via ons land.</p>
+<p>Dat moet stoppen, vinden het Openbaar Ministerie en de branche van netwerk- en hostingbedrijven in Nederland. Daarom heeft de branche een nieuwe richtlijn ontwikkeld om illegale content buiten de deur te houden. Justitie gaat kijken of bedrijven die zich daar niet aan houden, sneller aangepakt kunnen worden.</p>
+<p>Het is nog erg lastig om bulletproof hosts te vervolgen. "Er is een Europese verordening, waar in staat dat je bedrijven in principe niet verantwoordelijk kan stellen voor de content die ze hosten", zegt cybercrime-officier van justitie Martijn Egberts. "Het is bijzonder moeilijk om aan te tonen dat ze opzettelijk de ogen sluiten voor wat er bij hen wordt opgeslagen of op hun netwerk wordt uitgewisseld."</p>
+<p>Hij hoopt dat de bonafide bedrijven daar verandering in kunnen brengen. Brancheorganisatie Stichting Digitale Infrastructuur Nederland (DINL) heeft onlangs met de aangesloten netwerk- en hostingbedrijven afgesproken dat zij beter hun best gaan doen om illegale content weg te halen.</p>
+<p>"Ze zullen dus druk moeten uitoefenen op hun klanten om het eraf te halen", zegt directeur Michiel Steltman van DINL. "En als bedrijven erop worden gewezen dat er rotzooi in hun netwerk staat en ze doen er niets aan, dan kunnen ze in het vizier van de opsporingsautoriteiten komen."</p>
+<h2>100.000 euro</h2>
+<p>Officier van justitie Egberts: "Als jij meldingen over kinderporno krijgt maar daar vervolgens niets tegen doet, terwijl de rest van de branche wél actie onderneemt, dan hopen wij makkelijker te kunnen bewijzen dat jij met opzet de andere kant op kijkt en zo criminelen faciliteert."</p>
+<p>Hij vergelijkt het met onderzoek naar witwassen. "Het is in Nederland niet strafbaar om rond te lopen met 100.000 euro op zak, maar het is wel een indicatie dat je je bezighoudt met criminaliteit. Een hostingbedrijf heeft nu nog de vrijheid om nergens op te letten, maar het kan ook een indicatie worden dat het zich richt op een publiek dat zich bezighoudt met strafbare feiten."</p>
+<p>De Technische Universiteit Delft brengt momenteel in kaart waar illegale content precies staat opgeslagen. Met speciale software worden de Nederlandse netwerken gescand op verboden data.</p>
+<p>Het heeft er volgens branchevertegenwoordiger Steltman al toe geleid dat een aantal bedrijven heel actief is geworden in het bestrijden van illegale content. Bij die bedrijven is het aantal meldingen over kinderporno flink naar beneden gebracht.</p>
+<h2>Teleurstelling</h2>
+<p>In de rechtszaal wordt vooralsnog minder succes geboekt. Vorig jaar haalde de Nederlandse politie de bulletproof hoster MaxiDed uit de lucht. Het bedrijf bood onder andere een systeem aan om anoniem bestanden uit te wisselen. Dat werd gebruikt om kinderporno te verspreiden.</p>
+<p>De zaak liep afgelopen maand uit op een teleurstelling voor het OM: in plaats van de gevraagde vijf jaar legde de rechtbank vijf maanden op aan een verdachte uit Moldavië. De zaak maakt volgens het OM duidelijk hoe moeilijk het is om zulke buitenlandse bedrijven effectief aan te pakken.</p>
