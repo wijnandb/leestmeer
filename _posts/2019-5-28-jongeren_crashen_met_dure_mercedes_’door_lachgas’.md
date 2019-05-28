@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Jongeren crashen met dure Mercedes ’door lachgas’"
+date: Tue, 28 May 2019 12:31:57 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/3659057/jongeren-crashen-met-dure-mercedes-door-lachgas"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ff5b96f0-8133-11e9-b60b-0217670beecd.jpg"
+---
+
+<p class="intro">Vier jongeren zijn afgelopen nacht rond 03.45 uur tegen een boom geknald in Rijswijk na mogelijk gebruik van lachgas. Het gebruik daarvan loopt de spuigaten uit. De politie worstelt ermee.</p> <p>De jongeren knalden met hun Mercedes GLA, met een nieuwprijs van zo’n 42.000 euro, tegen de boom op de Sir Winston Churchillaan, waarna getuigen zagen dat ze iets in de bosjes gooiden. Daar zou later een grote fles lachgas zijn gevonden. De politie ’onderzoekt of de inzittenden onder invloed waren van lachgas’, bevestigt een woordvoerder.</p><p>De jongeren waren lichtgewond. Zij hoefden niet naar het ziekenhuis, aldus de politie. De auto is weggesleept door een berger. Of de jongeren mogelijk nog een boete kunnen krijgen, kan de politie niet zeggen.</p><p>Groot probleem</p><p>Agenten zitten met het lachgas in hun maag. Steeds meer automobilisten gebruiken lachgas achter het stuur, waarschuwde ’Team Hoofdwegen’ van de politie eerder op Twitter. Ook de politie in Eindhoven meldde dat afgelopen maand op Facebook. Cijfers over lachgas in het verkeer worden niet bijgehouden, maar de signalen uit het veld zijn evident.</p><p>Lachgas valt niet onder drugs. De politie bevestigt dat lachgas ’niet verboden is, maar in het verkeer wél gevaarlijk’. Ferry Goossens van het Trimbos-instituut beaamt dat. „Je kunt echt ’out’ gaan. Dat is levensgevaarlijk.”</p><p>Bijkomend probleem is dat je, nadat het effect is uitgewerkt, nog urenlang onoplettend blijft, zo meldt verslavingsinstelling Jellinek.</p><p>Boete</p><p>Omdat het niet direct strafbaar is, kunnen bestuurders nu alleen via een omweg een boete krijgen. „Als we iemand slingerend over de weg aantreffen, beboeten we die met artikel 5 voor gevaarlijk rijgedrag”, aldus de politie. Mensen bij wie lachgas wordt aangetroffen in de auto blijven vaak buiten schot.</p><p>Wie daadwerkelijk iemand dodelijk zou verwonden, kan wel rekenen op een flinke straf, vermoedt Goossens van het Trimbos-instituut. „Ik denk dat je bij de rechter een groot probleem hebt als blijkt dat je iemand hebt aangereden onder invloed van lachgas.”</p>
