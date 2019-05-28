@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Drie gewonden naar ziekenhuis na grote brand in pakhuis Vlaardingen"
+date: Tue, 28 May 2019 06:50:00 GMT
+categories: 
+- zuid-holland 
+- rotterdam 
+externe_link: "https://www.ad.nl/waterweg/drie-gewonden-naar-ziekenhuis-na-grote-brand-in-pakhuis-vlaardingen~a735547c/"
+feature_image: "https://images1.persgroep.net/rcs/WpL4jiJCvrRcgTmv_HNpffcUHw8/diocontent/149545083/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
+---
+
+In een groot pakhuis aan de Koningin Wilhelminahaven in Vlaardingen woedt sinds vanochtend vroeg een grote brand. De brand ontstond bij een garagebedrijf aan de achterkant van het verzamelpand. Er komt veel rook vrij.
