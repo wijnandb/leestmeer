@@ -1,0 +1,12 @@
+---
+layout: post
+title: "’China stopt import soja uit VS’"
+date: Thu, 30 May 2019 13:15:24 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/financieel/3669852/china-stopt-import-soja-uit-vs"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/25ee305a-82d0-11e9-8fe2-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Amerikaanse boeren raken hun sojabonen niet meer kwijt op de grote Chinese markt. Peking heeft de import geblokkeerd, meldt persbureau Bloomberg.</p> <p>Het zou een volgende maatregel in de escalerende handelsoorlog zijn.</p><p>Het gaat om een bevriezing van orders van sojabonen, een van de meest eiwitrijke producten en veel gebruikt voor krachtig veevoer. Jaarlijks kocht China voor $12 miljard aan soja.</p><p>De eerdere orders van soja uit de VS zullen gewoon worden afgehandeld, aldus bronnen tegen Bloomberg.</p><p>Als gevolg van het bericht zakte de prijs van sojabonen op de termijnmarkt 10% in waarde. De op twee na grootste soja-oogst ooit is vanaf maart in de VS ingeplant.</p><p>De export van Amerikaanse sojabonen is belangrijk voor president Trump. Soja wordt verbouwd door boeren in typische Republikeinse Trump-staten. Het is het belangrijkste landbouwproduct geworden. Deze boeren waren vaak na moeilijke jaren juist overgestapt op sojabonen om financieel te kunnen overleven.</p><p>Importheffingen zou bij de boeren hard aankomen, en kan voor Trump politieke gevolgen krijgen bij volgende verkiezingen. Trump meldde eerder het belang van soja voor deze boeren: „Sojabonen zijn een ’big deal’.”</p><p>De VS heeft vorig jaar al een noodpakket voor Amerikaansen boeren van $12 miljard gereed gemaakt.</p><p>Boeren blijven soja inplanten, meldden zij tegen Reuters: er is voor hen geen alternatief.</p><p>Matrassen belast</p><p>In de ochtend van Hemelvaartsdag meldden bronnen dat Washington van zijn kant weer zware importheffingen heeft gesteld op Chinese matrassen, die onder kostprijs op de Amerikaanse markt zouden zijn gekomen.</p><p>China dreigde woensdag met een blokkade van de levering van zeldzame metalen aan Amerikaanse bedrijven. Dat volgde weer op de sancties die president Trump tegen China’s grootste technologiebedrijf Huawei heeft doorgezet.</p><p>Begin deze maand werden door de VS voor $200 miljard aan importtarieven op Chinese goederen opgelegd.</p><p>Eind juni komen de VS en China bijeen tijdens de G20-bijeenkomst in Osaka in Japan om te proberen een einde te maken aan hun tarievenoorlog.</p>

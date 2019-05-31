@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Opmerkelijke opponent voor Federer"
+date: Wed, 29 May 2019 18:07:57 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3667650/opmerkelijke-opponent-voor-federer"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/51a9a4ce-822e-11e9-bed5-02c309bc01c1.jpg"
+---
+
+<p class="intro">Roger Federer heeft ook zijn tweede wedstrijd op Roland Garros zonder problemen gewonnen.</p> <p>De 37-jarige Zwitser rekende op het Centre Court af met de Duitse qualifier Oscar Otte. Feder hoefde zich niet overmatig in te spannen. Hij zegevierde met 6-4, 6-3 en 6-4.</p><p>Federer goed op belangrijke momenten</p><p>De 25-jarige Otte, die plek 144 bezet op de wereldranglijst, leek in de grootste wedstrijd uit zijn loopbaan niet geplaagd door plankenkoorts. Hij won zijn eerste servicegame op love en zette Federer in de eerste games met agressief tennis bij vlagen onder druk. Federer liet de Duitser uitrazen en plaatste op 5-4 de eerste break.</p><p>Dat was ook het verhaal in de tweede en derde set: Otte kon aardig meekomen, maar Federer stond er op de belangrijke momenten. Hij had in alle sets aan één break genoeg voor setwinst.</p><p>In de volgende treft Federer de Noor Casper Ruud. De eerste keer dat Federer aan Roland Garros deelnam, twintig jaar geleden, deed er een andere Noor mee met de naam Ruud. Christian, de nu 46-jarige vader van Casper, die in 1999 een half jaar oud was.</p><p>Van de spelers in het speelschema van 1999 in Parijs zijn alle mannen gestopt behalve Federer. Destijds ging de in Basel geboren tennisser in de eerste ronde onderuit tegen Patrick Rafter. In 2009 won Federer Roland Garros. In 2006, 2007, 2008 en 2011 ging hij in de finale onderuit, telkens bleek Rafael Nadal te sterk.</p><p>De Spanjaard jaagt op zijn twaalfde titel in Parijs. Nadal maakte woensdagmiddag korte metten met Yannick Maden, de mondiale nummer 114. Het werd 6-1, 6-2 en 6-4 voor de topfavoriet van Mallorca.</p>

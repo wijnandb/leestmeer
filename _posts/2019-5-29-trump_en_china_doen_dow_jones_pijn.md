@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Trump en China doen Dow Jones pijn"
+date: Wed, 29 May 2019 19:31:37 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/3667982/trump-en-china-doen-dow-jones-pijn"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0dd1c050-8239-11e9-8cea-0218eaf05005.jpg"
+---
+
+<p class="intro">De aandelenbeurzen in New York stonden woensdag in het rood. De handelsspanningen bleven boven de markt hangen. China overweegt zijn sterke machtspositie op het vlak van zeldzame metalen tegen de Verenigde Staten te gebruiken om druk uit te oefenen in het slepende handelsconflict tussen de twee economische grootmachten.</p> <p>De toonaangevende Dow-Jonesindex noteerde tussentijds 1,1 procent lager op 25.061 punten. De breed samengestelde S&amp;P 500 zakte 0,8 procent tot 2778 punten en de technologiegraadmeter Nasdaq verloor 0,8 procent tot 7544 punten.</p><p>Bedrijven die gevoelig zijn voor de Chinees-Amerikaanse handelsstrijd moesten inleveren, met minnen voor machinebouwer Caterpillar en vliegtuigfabrikant Boeing tot 1,8 procent. In de chipsector waren verliezen voor Nvidia en AMD tot 3,3 procent te zien. Apple ging 0,2 procent omlaag.</p><p>Winkelketens</p><p>Sportartikelenverkoper Dick's Sporting Goods zakte meer dan 6 procent, na een licht positief begin. Het bedrijf kwam met beter dan verwachte resultaten in het eerste kwartaal, maar het aandeel werd desondanks lager gezet door beleggers.</p><p>Kledingmerk Abercrombie &amp; Fitch kelderde bijna 25 procent in waarde. De vergelijkbare winkelverkopen stegen minder hard dan waar analisten op hadden gerekend. Wel viel het verlies lager uit dan verwacht. Capri duikelde 10,5 procent. Het moederbedrijf van modemerken Michael Kors, Jimmy Choo en Versace verlaagde de omzetverwachting voor dit jaar.</p><p>Johnson &amp; Johnson</p><p>Medisch concern Johnson &amp; Johnson (J&amp;J) moest een koersverlies slikken van 5,6 procent. J&amp;J is een rechtszaak verwikkeld over diens rol in de opiatencrisis in de VS. Jaarlijks overlijden duizenden Amerikanen door overdoses van verslavende pijnstillers.</p><p>De euro was 1,1127 dollar waard tegenover 1,1129 dollar bij het slot in Europa. De prijs van een vat Amerikaanse olie zakte 1,2 procent tot 58,45 dollar. Brentolie werd 1,3 procent minder waard op 69,21 dollar per vat.</p>

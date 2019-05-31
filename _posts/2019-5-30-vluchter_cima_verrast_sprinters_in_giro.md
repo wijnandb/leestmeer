@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Vluchter Cima verrast sprinters in Giro"
+date: Thu, 30 May 2019 17:16:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3670680/vluchter-cima-verrast-sprinters-in-giro"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4fd109b0-82f8-11e9-ad27-0217670beecd.JPG"
+---
+
+<p class="intro">Damiano Cima heeft verrassend de achttiende etappe van de Giro d'Italia op zijn naam geschreven. De Italiaan van Vini Fantini, de kleinste ploeg in deze Giro, wist in Santa Maria di Sala net uit de greep van het sprintende peloton te blijven.</p> <p>In het algemeen klassement vonden geen ingrijpende verschuivingen plaats. De roze trui blijft om de schouders van Richard Carapaz uit Ecuador. Vrijdag volgt een bergetappe met aankomst in San Martino du Castrozza. Carapaz heeft 1 minuut en 54 seconden voorsprong op de Italiaan Vincenzo Nibali en 2.16 minuten op Primoz Roglic van Jumbo-Visma. Bauke Mollema blijft vijfde.</p><p>Cima lukte het samen met Nico Denz en Mirco Maestri na bijna vijftig kilometer weg te rijden van de andere coureurs. Het peloton verrekende zich en kwam te laat ondanks de inspanningen van met name Bora-hansgrohe, de ploeg van sprinter Pascal Ackermann uit Duitsland. Die kwam net te laat en werd tweede.</p><p>Cima boekte de grootste zege uit zijn carrière. De 25-jarige Italiaan won in 2018 een rit en het eindklassement in de Ronde van Xingtai en een rit in de Ronde van China. Hij wachtte in de sprint net wat langer dan zijn medevluchters Denz en Maestri, die werden voorbij gespurt door de sprinters.</p><p>Ackermann pakte met zijn tweede plaats wel veel meer punten voor het puntenklassement dan zijn Franse concurrent Arnaud Démare die achtste werd. De Duitse wielrenner nam de paarse puntentrui over van de sprinter van Groupama-FDJ en is met nog twee bergetappes en een tijdrit te gaan vrijwel zeker van de zege van het puntenklassement als hij de Giro uitrijdt.</p>

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Video: Noorse spits scoort negen keer op WK"
+date: Fri, 31 May 2019 08:45:49 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3672049/video-noorse-spits-scoort-negen-keer-op-wk"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ba21319c-836f-11e9-bfc9-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Erling Braut Haaland was donderdag de grote man tijdens de 12-0 overwinning van Noorwegen Onder 20 op de leeftijdsgenoten van Honduras.</p> <p>De spits maakte tijdens het derde en laatste groepsduel op het WK in Polen maar liefst negen goals. Het zou echter goed kunnen dat de negen treffers van Haaland, die in de eerste twee duels droog was blijven staan, voor niets zijn geweest.</p><p>Noorwegen is ondanks de monsterzege op Honduras als derde geëindigd in de WK-kwalificatiereeks, achter Uruguay en Nieuw Zeeland. Alleen de eerste twee plaatsen zich automatisch voor het eindtoernooi.</p><p>De Noren moeten hopen dat ze uiteindelijk bij de beste nummers drie behoren om nog een kans op een ticket voor de achtste finales te maken. Vrijdag worden de laatste groepsduels gespeeld.</p><p>De 18-jarige Haaland, die onder contract staat bij Red Bull Salzburg, is de zoon van oud-verdediger Alf-Inge Haaland. Hij is geboren in Leeds, waar zijn vader destijds speelde. „Ik vond het altijd maar saai om te verdedigen en dus ben ik aanvaller”, aldus Haaland junior met een lach. „Ik praat elke dag met mijn vader. Hij geeft me advies over hoe ik verdedigers voorbij moet spelen.”</p><p>Mocht Noorwegen doorgaan naar de achtste finales dan moet Javier Saviola vrezen. De Argentijn maakte in 2001 elf goals op het WK Onder 20 en is daarmee recordhouder. „Het is een lastig toernooi geweest”, weet Haaland.</p><p>„We verloren onze eerste twee duels, maar gelukkig hebben we de derde wedstrijd weten te weten. Als we nu naar huis moeten, doen we dat in ieder geval met opgeheven hoofd. Helaas hebben we het niet meer in eigen hand. We kunnen niets anders doen dan televisie kijken.”</p><p>Bekijk hieronder de beelden van de wedstrijd:</p>

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Alle ‘blokkeermoslims’ op vrije voeten"
+date: Wed, 29 May 2019 17:50:34 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3667580/alle-blokkeermoslims-op-vrije-voeten"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6092091a-8231-11e9-a442-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Zeven ‘blokkeermoslims’ die werden aangehouden na de gewelddadig verstoorde demonstratie van Pegida, zondagavond, zijn op vrije voeten gesteld.</p> <p>Dat meldt het Openbaar Ministerie woensdagmiddag. Het zevental heeft ook geen dagvaarding gekregen nadat ze werden gearresteerd nabij de Al Fourqaan-moskee, waar Pegida voornamelijk zijn betoging wilde houden.</p><p>Eerder werden al drie minderjarige jongens na hun voorgeleiding heengezonden; tegen twee van hen bleek al snel onvoldoende verdenking.</p><p>Honderden veelal allochtone jongeren versperden zondag de weg naar het islamitische gebedshuis, waarop uiteindelijk werd besloten de demonstratie af te blazen omdat de veiligheid van de aanwezigen niet meer kon worden gegarandeerd. Er werd met stenen, stokken vuurwerk en andere voorwerpen naar leden van de uiterst rechtse beweging en politie gegooid. Vier agenten raakten daarbij gewond. Een deel van de jonge menigte schreeuwde ‘allahu akbar’.</p><p>Beelden</p><p>Hoewel de arrestanten weer kunnen gaan en staan waar ze willen, loopt het onderzoek nog wel, laat een woordvoerster weten. ,,Er zijn veel beelden beschikbaar, maar het lukte nog niet om te bepalen welk individu welke daad van geweld pleegde.”</p><p>Ze sluit niet dat er alsnog vervolging komt. ,,Dat geldt ook voor eventuele andere personen die een strafbaar feit hebben gepleegd.”</p><p>Pegida, dat toestemming had voor de demonstratie, heeft inmiddels aangekondigd komende zondag opnieuw te gaan demonstreren in Eindhoven, en bezwoer eerder zich niet gewonnen te geven. ,,Al moeten we het tien keer proberen, we gaan voor die moskee demonstreren.”</p>

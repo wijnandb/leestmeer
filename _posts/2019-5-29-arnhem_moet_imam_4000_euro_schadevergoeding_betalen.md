@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Arnhem moet imam 4000 euro schadevergoeding betalen"
+date: Wed, 29 May 2019 17:14:48 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/3667278/arnhem-moet-imam-4000-euro-schadevergoeding-betalen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7ff527cc-8224-11e9-ae61-02d2fb1aa1d7.JPG"
+---
+
+<p class="intro">Burgemeester Ahmed Marcouch van Arnhem is in de fout gegaan met uitspraken over een nieuwe imam van een moskee in de stad. Hij had in een artikel in de Gelderlander gezegd dat het salafisme problematisch en gevaarlijk is. De imam vond dat de beweringen hem verdacht maakten en spande een kort geding aan. De rechter gaf de islamitische voorganger gelijk. De gemeente Arnhem moet het artikel rectificeren en de imam 4000 euro schadevergoeding betalen.</p> <p>Marcouch had verklaard dat het salafisme streeft naar de heilstaat van het kalifaat, iedereen verkettert die de leer niet aanvaardt, zeer intolerant is tegen andersdenkenden en geweld ziet als middel om het heilige doel te realiseren. Maar volgens de kortgedingrechter heeft de gemeente Arnhem geen bewijzen aangevoerd waaruit blijkt dat de imam zo’n gewelddadig gedachtegoed zou aanhangen. Ook bleek niet dat de imam in zijn preken haatdragende of strafbare uitspraken deed. De imam noemt zichzelf salafist, maar als iemand die recht in de leer is, en vredelievend en verdraagzaam.</p><p>De rechter vindt dat de burgemeester de eer en goede naam van de imam heeft beschadigd, zonder dat daar goede redenen voor waren. De gemeente is niet verantwoordelijk voor andere berichtgeving in de media over de imam als problematische salafist, stelt de rechter. Ook valt de gemeente niet te verwijten dat het moskeebestuur de imam niet aannam na zijn proefperiode. De gemeente mag bij een moskee haar twijfels overbrengen over een salafistische imam, bijvoorbeeld omdat dit mogelijk onbedoeld kan leiden tot radicalisering van jongeren.</p>

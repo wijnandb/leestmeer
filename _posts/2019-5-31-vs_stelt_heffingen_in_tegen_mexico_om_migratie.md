@@ -1,0 +1,12 @@
+---
+layout: post
+title: "VS stelt heffingen in tegen Mexico om migratie"
+date: Fri, 31 May 2019 07:14:18 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/3671806/vs-stelt-heffingen-in-tegen-mexico-om-migratie"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/15bf2bf2-8376-11e9-94a5-0218eaf05005.jpg"
+---
+
+<p class="intro">De Amerikaanse president Donald Trump heeft Mexico economische sancties opgelegd omdat hij vindt dat het land onvoldoende optreedt tegen illegale immigratie. De Verenigde Staten hanteren vanaf 10 juni importtarieven van 5 procent op alle goederen die uit het land komen.</p> <p>De handelstarieven worden geleidelijk aan verhoogd, meldt Trump op Twitter. „Het tarief zal geleidelijk toenemen totdat het probleem van de illegale immigratie is verholpen, waarna de tarieven worden opgeheven.” Het Witte Huis laat in een verklaring weten dat op 1 juli het tarief wordt verhoogd tot 10 procent. Iedere maand zal de importheffing met 5 procent verder stijgen tot op 1 oktober de 25 procent is bereikt.</p><p>Trump riep eerder de noodtoestand uit om zo geld te regelen voor de bouw van een muur aan de grens. Dat bouwwerk moet de stroom illegale immigranten en drugssmokkel beperken.</p><p>De president van Mexico, Andrés Manuel López Obrador, wil met Trump in gesprek naar aanleiding van de sancties. „Meneer Trump, de sociale problemen laten zich niet oplossen door tarieven en dwangmaatregelen”, zei hij. Hij kondigde aan dat vrijdag nog een delegatie onder leiding van zijn minister van Buitenlandse Zaken richting Washington zal gaan om te proberen een oplossing te vinden. Volgens López Obrador voldoet zijn land aan zijn verplichtingen om migratie naar de VS tegen te gaan.</p><p>Door de sancties tegen Mexico nemen de internationale handelsspanningen weer verder toe, wat beleggers zenuwachtig maakt. Het nieuws zorgde op de beurs in Japan vrijdag direct voor stevige verliezen onder autobouwers die veel productiefaciliteiten hebben in Mexico.</p><p>Daarnaast heeft Trump met deze actie mogelijk een bom gelegd onder het door hem zelf geregelde nieuwe Noord-Amerikaanse handelsverdrag dat het oude NAFTA moet vervangen. Die deal, ook wel United States-Mexico-Canada Agreement oftewel USMCA genoemd, moet nog altijd door de parlementen van Mexico, Canada en de VS zelf worden geratificeerd.</p>

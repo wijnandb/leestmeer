@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Dauphiné logische keuze voor Dumoulin"
+date: Wed, 29 May 2019 13:58:23 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3665519/dauphine-logische-keuze-voor-dumoulin"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0f2661ac-8209-11e9-a442-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Tom Dumoulin beslist deze week in overleg met zijn ploeg Team Sunweb hoe zijn programma richting de Tour de France er uit gaat zien.</p> <p>Waar hij tot vorige week nog niet voluit kon trainen omdat hij nog last had van zijn knieblessure uit de Giro d’Italia, lijkt hij deze week in zijn trainingstochten door de Ardennen en Limburgse heuvels wel weer kracht op zijn pedalen te kunnen zetten.</p><p>In de opbouw naar de Tour de France moet hij nu kiezen tussen het Criterium du Dauphiné en de Ronde van Zwitserland. Wanneer hij de eerste rittenkoers rijdt zal hij vervolgens een hoogtestage plannen waarbij hij enkele bergritten van de Tour in de Alpen kan verkennen. Kiest hij voor de Zwitserse variant dan zal hij zijn hoogtestage en eventuele verkenning van bergritten komende week moeten plannen. Mentaal weegt de laatste optie het zwaarst. Voor de Giro d’Italia zat hij immers ook al een kleine drie weken op hoogtestage op Tenerife. Nadien heeft hij slechts vier echte koersdagen in de benen.</p><p>Logischer lijkt het dat Dumoulin de competitie eerst hervat met de Franse rittenkoers die ook wel de kleine Tour de France wordt genoemd. In de Dauphiné zal hij waarschijnlijk iets te kort gaan komen tegenover mannen als Chris Froome, Romain Bardet en Steven Kruijswijk die momenteel verder in hun opbouw richting de Tour zijn. In die Franse rittenkoers weet de Maastrichtenaar echter wel dat er nog drie weken tot de Tourstart in Brussel zijn, waarin hij een hoogtestage belegt. Hij weet dus dat er nog genoeg tijd is om zijn vorm aan te scherpen. Daardoor lijkt de Dauphiné de meest logische keuze voor Dumoulin.</p>
