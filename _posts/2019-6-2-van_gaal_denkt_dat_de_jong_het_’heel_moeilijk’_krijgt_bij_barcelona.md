@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Van Gaal denkt dat De Jong het ’heel moeilijk’ krijgt bij Barcelona"
+date: Sun, 02 Jun 2019 11:25:22 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3679314/van-gaal-denkt-dat-de-jong-het-heel-moeilijk-krijgt-bij-barcelona"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4907bbb0-8555-11e9-ae35-02c309bc01c1.jpg"
+---
+
+<p class="intro">Louis van Gaal liet zondag desgevraagd zijn licht schijnen over de overgang van Frenkie de Jong van Ajax naar FC Barcelona, waar een maximale transfersom van 86 miljoen euro mee gemoeid is. „Ik denk dat hij het daar heel moeilijk krijgt’, stelde de oud-bondscoach.</p> <p>„Niet alleen vanwege misschien een andere rol. Hij moet eerst die spelers daar uit de basis spelen”, vervolgde Van Gaal bij Fox Sports. „Hij heeft wel het geluk dat Barcelona in de halve finales is uitgeschakeld, want dan is de status van die spelers ook anders.” Daarmee doelde hij op het verlies van de Catalanen tegen Liverpool bij de laatste vier in de Champions League.</p><p>Overigens is Van Gaal wel vol lof over De Jong, die bij Barcelona natuurlijk gaat samenspelen met Lionel Messi. „Ik vind Frenkie ook een geweldige speler en ik denk dat hij wat kan bijdragen aan Barcelona. Maar ik vind Rakitic ook een geweldige speler. En Vidal heb ik nog willen kopen bij Manchester United en dat is vijf jaar terug.”</p><p>Van Gaal is er nog niet van overtuigd dat De Jong bij Barcelona zomaar een vaste waarde wordt. „Ik vind dat je als speler keuzes moet maken waar je altijd kan spelen. En de vraag bij Barcelona is, of dat gerechtvaardigd is. Dat moeten we afwachten. Ik hoop het voor hem, want op die leeftijd moet je elke wedstrijd spelen. Hij had betere keuzes kunnen maken in mijn ogen. Ik denk dat de hele wereld op Frenkie de Jong zit te wachten, zo positief ben ik wel over hem.”</p><p>De Jong nam bij Ajax afscheid met de landstitel en de nationale beker. Verder baarde de 22-jarige middenvelder met de Amsterdammers opzien in de Champions League. Daarin werd Ajax pas in de halve finales uitgeschakeld door Tottenham Hotspur.</p>

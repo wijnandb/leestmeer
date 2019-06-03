@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Voetbalwereld fileert mentaliteit Özil"
+date: Fri, 31 May 2019 19:52:30 +0200
+categories: 
+- sport 
+- voetbal 
+externe_link: "https://www.telegraaf.nl/sport/3676100/voetbalwereld-fileert-mentaliteit-ozil"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/dc7cb65a-83cc-11e9-8a2a-02c309bc01c1.jpg"
+---
+
+<p class="intro">Veel voetballers lieten zich kritisch uit over Mesut Özil na de voor de Duitser dramatisch verlopen Europa League-finale.</p> <p>Arsenal, waar Özil al sinds 2013 onder contract staat, verloor de finale met ruime cijfers van stadsgenoot Chelsea. In Baku werd het maar liefst 4-1 voor The Blues.</p><p>Daar had de Duitse middenvelder zich wel iets anders bij voorgesteld. Hij liep er de hele wedstrijd verloren bij en kon zijn teleurstelling, zeker toen hij naar de kant werd gehaald door trainer Unai Emery, moeilijk verbergen.</p><p>Fabregas</p><p>De houding van Özil was veel voetballers opgevallen, vooral in negatieve zin. „Soms heb je het en soms heb je het niet”, zegt Cecs Fabregas tegen BT Sport. „Toen hij bij Real Madrid voetbalde had hij geweldige spelers om zich heen. Ik wil hem niet tekort doen, maar als je een stapje terug doet, moet je meer van jezelf vragen om op hetzelfde niveau te blijven spelen”, gaat de Spanjaard verder. „Arsenal kocht hem om een leider te zijn, maar ik denk niet dat hij dat in zich heeft.”</p><p>Gudjohnson</p><p>Fabregas is niet de enige die zich kritisch uitliet jegens Özil. Eidur Gudjohnsen, oud-voetballer van onder andere Chelsea, Barcelona en PSV sloot zich volledig bij de middenvelder van het Franse AS Monaco aan. „Bij zijn wissel liep hij vloekend naar de kant. Alsof hij wachtte op een staande ovatie. Sorry, maar als ik in zijn schoenen stond, was ik door de grond gezakt van schaamte na zo’n prestatie”, aldus de 88-voudig IJslands international. „Normaal is hij een geweldige speler, maar ik zou dit in mijn team nooit accepteren.”</p><p>De Jong</p><p>Nigel de Jong, die als analist voor beIN Sports bij de wedstrijd aanwezig was, heeft tevens weinig goede woorden over voor de oud-Wereldkampioen. „Zijn lichaamstaal, hoe hij daar in de dug-out zat en ook na de wedstrijd. Dat zegt genoeg”, aldus De Jong, die twijfelt aan de mentaliteit van Özil. „Je vraagt je af of hij daar wel echt wilt zijn en of hij wel echt wilt winnen. Het is een geweldige voetballer, maar nu dit weer. Het was weer zo’n dag waarop het niet voor hem gebeurde.”</p>

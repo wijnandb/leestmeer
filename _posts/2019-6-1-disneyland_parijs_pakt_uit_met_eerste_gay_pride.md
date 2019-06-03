@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Disneyland Parijs pakt uit met eerste Gay Pride"
+date: Sat, 01 Jun 2019 22:35:57 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3678853/disneyland-parijs-pakt-uit-met-eerste-gay-pride"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/dd7fb986-84ac-11e9-a110-0218eaf05005.jpg"
+---
+
+<p class="intro">Vele duizenden mensen hebben zaterdagavond de eerste Gay Pride in Disneyland Parijs bijgewoond. Met de parade en een grote feestavond wil Disney zich expliciet solidair verklaren aan diversiteit in het algemeen en de lhbt-gemeenschap in het bijzonder. Het is de bedoeling dat de Gay Pride in Disneyland Parijs een jaarlijkse traditie wordt.</p> <p>Het evenement trapte zaterdagavond af met een lange parade van honderden dansende lhbt-crewleden van Disney en bekende Disney-personages die uitzinnig werden toegejuicht door de duizenden fans. Onder anderen Mickey en Minnie, Buzz Lightyear en cowboy Woody, Lightning McQueen (de auto uit Cars), de Genie uit Aladdin en rat Remi uit Ratatouille deden mee aan de vrolijke optocht en spraken zo hun steun uit aan de lhbt-gemeenschap. Vrijwel alle aanwezigen droegen T-shirts of andere parafernalia met regenboogkleuren.</p><p>Tijdens de Magical Pride-avond zijn er onder meer optredens van de legendarische zanger Boy George en de populaire Britse synthpop-band Years &amp; Years. Boy George, die nooit een geheim maakte van zijn homoseksualiteit, brak in de jaren tachtig door als leadzanger van de band Culture Club. Years &amp; Years brak in 2015 door met haar debuutalbum Communion, in dat jaar het best verkopende album van een nieuwe band.</p><p>Bezoekers van de twee parken in Parijs is ook gevraagd dit weekend zich zo uitbundig en feestelijk als mogelijk te kleden om diversiteit en de lhbt-community. Het Magical Pride-weekend op deze schaal is een noviteit voor Disneyland Parijs; in de Amerikaanse parken vinden wel al een aantal jaar ‘gay days’ plaats.</p>

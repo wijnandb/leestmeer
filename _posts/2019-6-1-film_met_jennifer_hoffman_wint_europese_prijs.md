@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Film met Jennifer Hoffman wint Europese prijs"
+date: Sat, 01 Jun 2019 10:05:22 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/3677060/film-met-jennifer-hoffman-wint-europese-prijs"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/119e7522-8444-11e9-ad27-0217670beecd.jpg"
+---
+
+<p class="intro">De succesvolle Nederlandse film Mijn bijzonder rare week met Tess heeft dit weekend op het prestigieuze Zlín Filmfestival in Tsjechië de hoofdprijs gewonnen. Regisseur Steven van Wouterlood en hoofdrolspeler Sonny van Utteren ontvingen vrijdagavond laat de Golden Slipper voor de beste Europese jeugdfilm van het jaar.</p> <p>Dat maken producent BIND en distributeur September Film zaterdag bekend.</p><p>Het zijn niet de eerste prijzen voor Mijn bijzonder rare week met Tess, die in februari de wereldpremière beleefde op het prestigieuze festival van Berlijn. Hier werd Wouterlood onderscheiden met een Special Mention. Sindsdien is de jeugdfilm geselecteerd voor meerdere grote festivals en won hij diverse prijzen. Op het New York International Children’s Film Festival kreeg de film de Grand Prize Audience Award en in Zagreb ontving het de publieksprijs.</p><p>Mijn bijzonder rare week met Tess is gebaseerd op het boek van Anna Woltz en vertelt over Samuel die bang is om als jongste van het gezin alleen over te blijven. Daarom begint de jongen tijdens zijn vakantie op Terschelling vastberaden aan zijn zelfverzonnen alleenheidstraining. Door de ontmoeting met de ongrijpbare Tess, die een groot geheim met zich meedraagt, wordt hij een avontuur in getrokken dat hem doet inzien dat je je familie juist moet koesteren in plaats van ontvluchten.</p><p>Onder anderen Jennifer Hoffman, Hans Dagelet, Terrence Schreurs en Julian Ras zijn te zien in de familiefilm, die vanaf 4 juli in de Nederlandse bioscopen draait. De twee hoofdrollen zijn voor Sonny Coops van Utteren en Josephine Arendsen.</p>
