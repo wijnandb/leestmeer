@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Rutte schuift aan bij pensioenoverleg"
+date: Mon, 03 Jun 2019 21:29:43 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/3686204/rutte-schuift-aan-bij-pensioenoverleg"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6a82db94-8640-11e9-a06c-02c309bc01c1.jpg"
+---
+
+<p class="intro">Premier Mark Rutte is maandagavond aangeschoven bij het formele overleg over de hervorming van het pensioenstelsel. „Ik hoop dat we tot elkaar komen”, zei minister Wouter Koolmees (Sociale Zaken) vooraf.</p> <p>„We kijken wat het kabinet op tafel legt”, verklaarde Han Busker van het FNV. Het kabinet heeft aangegeven de bonden deels tegemoet te willen komen. „Maar of het voldoende is weet ik niet”, zei de vakbondsman.</p><p>Hans de Boer van de werkgeversorganisatie VNO-NCW zei dat „elk van de drie partijen veren moet laten.” Hij durft nog niet te zeggen of de partijen eruit gaan komen. Rutte wilde weinig kwijt. „Hopen dat we weer een stap verder komen.”</p><p>In november mislukte het overleg tussen kabinet, werkgevers en vakbonden over vernieuwing van het pensioenstelsel. Er wordt al negen jaar over gesproken. De hervorming van de oudedagvoorziening is een van de belangrijkste opdrachten die het kabinet zich heeft gesteld.</p><p>In de middag spraken Rutte en Koolmees al met de leiders van GroenLinks en de PvdA. Het kabinet wil zo breed mogelijke steun voor een pensioenakkoord. In de Eerste Kamer heeft de coalitie ook geen meerderheid. Bovendien is steun van de linkse partijen belangrijk voor het FNV.</p><p>GroenLinks-leider Jesse Klaver en PvdA-voorman Lodewijk Asscher waren na afloop van het gesprek in het Torentje enigszins optimistisch. Ze repten van een „goed gesprek.” Koolmees zei goed te hebben geluisterd naar hun wensen.</p><p>Er staat druk op de onderhandelingen. De Nederlandsche Bank (DNB) waarschuwde maandag nog dat volgend jaar al pensioenkortingen dreigen voor drie pensioenfondsen met 2 miljoen deelnemers. Een jaar later dreigt dat voor nog eens 7,7 miljoen Nederlanders.</p><p>Aan het overleg op het ministerie van Sociale Zaken zijn al veel gesprekken voorafgegaan. Ze waren het in november over veel zaken al met elkaar eens. Meest heikele punt is de verhoging van de pensioenleeftijd. Het kabinet zou bereid zijn die een paar jaar te bevriezen en daarna minder snel te laten stijgen.</p>

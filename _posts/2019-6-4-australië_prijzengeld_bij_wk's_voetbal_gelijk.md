@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Australië: prijzengeld bij WK's voetbal gelijk"
+date: Tue, 04 Jun 2019 09:16:01 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/3687232/australie-prijzengeld-bij-wk-s-voetbal-gelijk"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/14e8f99a-86a2-11e9-aa7c-0218eaf05005.jpg"
+---
+
+<p class="intro">De spelersvakbond in Australië (Professional Footballers Australia) heeft een campagne gelanceerd om het prijzengeld bij het wereldkampioenschap voetbal voor mannen en vrouwen gelijk te trekken. De PFA biedt de spelers en speelsters steun om actie te ondernemen tegen wereldvoetbalbond FIFA.</p> <p>De winnaar van het komende WK voor vrouwen in Frankrijk, dat vrijdag begint, ontvangt 4 miljoen Amerikaanse dollar. Dat is omgerekend ruim 3,5 miljoen euro. De totale prijzenpot bedraagt 30 miljoen dollar (26,6 miljoen euro). Vorig jaar, bij het WK voor mannen in Rusland, kreeg wereldkampioen Frankrijk 38 miljoen Amerikaanse dollar (33,7 miljoen euro). Dat is ruim meer dus dan het totaalbedrag bij het vrouwentoernooi.</p><p>De PFA, met voorzitter John Didulica, vroeg de FIFA vorige week het prijzengeld bij het WK voor vrouwen per direct te verdubbelen. ''Ze zijn slachtoffers van discriminatie'', schreef de PFA aan de wereldvoetbalbond.</p><p>De spelersvakbond is een website gestart (ourgoalisnow.com) en instrueert Australische voetbalsters hoe ze mee kunnen doen aan de actie. De vrouwelijke internationals van Australië hebben het logo en de video die bij de actie hoort de voorbije dagen al op sociale mediakanalen geplaatst.</p><p>In maart voerden de voetbalsters van de Verenigde Staten in eigen land al actie. Zij waren het oneens met het grote verschil qua prijzengeld in vergelijking met het mannenteam.</p><p>De FIFA organiseert donderdag en vrijdag in Parijs de 'Women's Football Convention', een congres waar politici en beleidsmakers uit de voetbalwereld de ontwikkelingen in het vrouwenvoetbal bespreken.</p>
