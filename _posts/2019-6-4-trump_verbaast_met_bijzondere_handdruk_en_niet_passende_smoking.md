@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Trump verbaast met bijzondere handdruk en niet passende smoking"
+date: Tue, 04 Jun 2019 11:34:00 GMT
+category: buitenland
+externe_link: "https://www.ad.nl/buitenland/trump-verbaast-met-bijzondere-handdruk-en-niet-passende-smoking~ae33c4c9/"
+feature_image: "https://images0.persgroep.net/rcs/v6vYx03OzRkfnOZrnAI-6bCaVbI/diocontent/149925349/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
+---
+
+Het bezoek van de Amerikaanse president Trump aan Groot-Brittannië ligt al onder een vergrootglas, toch krijgt The Donald het weer voor elkaar de aandacht te trekken. Ook de ontmoeting met koningin Elizabeth verliep op zijn Trumpiaans. Koren op de molen van de tegenstanders van zijn staatsbezoek.
