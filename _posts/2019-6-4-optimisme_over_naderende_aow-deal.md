@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Optimisme over naderende AOW-deal"
+date: Tue, 04 Jun 2019 11:22:16 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/financieel/3687884/optimisme-over-naderende-aow-deal"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1ebe41e6-86ac-11e9-a187-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">DEN HAAG - Politiek en polder zijn positief gestemd over de voortgang van de pensioenonderhandelingen. Na een nachtelijke onderhandelingsronde met vakbonden en werkgevers praat het kabinet nu opnieuw met de linkse oppositie.</p> <p>PvdA-leider Lodewijk Asscher en GroenLinks-voorman Jesse Klaver arriveerden vanmorgen bij het Torentje om met premier Mark Rutte en minister Wouter Koolmees van Sociale Zaken verder te praten over AOW en pensioenen.</p><p>„Blijkbaar is er nóg meer beweging, we gaan luisteren wat het kabinet te vertellen heeft”, zei Asscher voorafgaand aan dat overleg. „Het feit dat we nu al worden teruggevraagd, beschouw ik als een positief teken.”</p><p>Topoverleg</p><p>Gisteren was er ook al topoverleg in het Torentje met de twee linkse oppositiepartijen. Vannacht is tot drie uur onderhandeld tussen kabinet, werkgevers en vakbonden. Vandaag worden de achterbannen geraadpleegd en daarna kan het gesprek worden vervolgd.</p><p>De kans dat er vandaag al een deal wordt gesloten, wordt niet heel groot geacht. „Dat denk ik niet, dat lijkt me heel optimistisch”, zei Asscher.</p><p>’Goed gevoel’</p><p>De vakbonden hebben ’een goed gevoel’ overgehouden aan het pensioenoverleg, aldus een ingewijde. Volgens betrokkenen wordt er duidelijk meer voortgang gemaakt dan eind november het geval was. Toen klapten de onderhandelingen uiteindelijk omdat er geschillen waren over de AOW-leeftijd, over zware beroepen en over het nieuwe pensioencontract.</p><p>DFT-columnist Martin Visser over het pensioengat voor veertigers:</p><p>Ook Klaver was goed gestemd. „Ze zullen ons niet voor niets uitnodigen, dus er moet iets zijn waar ze ons van op de hoogte willen stellen.” De SP was er opnieuw niet bij. Gisteren werd besloten dat verder praten tussen kabinet en SP niet zinvol is omdat de SP de AOW-leeftijd permanent wil bevriezen.</p><p>Via twitter liet 50Plus weten dat fractieleider Henk Krol en Kamerleden Corrie van Brenk en Martin van Rooijen vanmiddag wel een overleg hebben met Koolmees over de pensioenen.</p>
