@@ -1,0 +1,12 @@
+---
+layout: post
+title: "RIVM: te veel metalen in grafietregen Tata Steel"
+date: Tue, 04 Jun 2019 14:44:43 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/1015922971/rivm-te-veel-metalen-in-grafietregen-tata-steel"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/936b5e7e-86c6-11e9-a187-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">De zogenoemde grafietregen rond de hoogovens van Tata Steel in IJmuiden bevat een voor jonge kinderen „ongewenste” hoeveelheid van de metalen lood, mangaan en vanadium. Dat meldt het Rijksinstituut voor Volksgezondheid en Milieu (RIVM).</p> <p>„Omdat mensen in hun dagelijks leven al blootgesteld worden aan zware metalen is het wenselijk om extra blootstelling zoveel mogelijk te beperken, vooral aan lood”, aldus het instituut.</p><p>Grafiet, de stof waar de regens naar zijn vernoemd, is koolstof. Hetzelfde spul zit bijvoorbeeld in potloden. Maar in de stofwolken zitten ook andere metalen. Die komen in de lucht terecht op het moment dat een restproduct van de staalproductie, dat slak heet, uit ketels wordt gekiept bij het verwerkingsbedrijf Harsco.</p><p>„We zien de ernst hiervan in en begrijpen de zorgen van omwonenden”, reageert een woordvoerder van Tata op de conclusies van het RIVM. Tata en Harsco voeren per direct maatregelen door die „grafietuitstoot in de omgeving maximaal voorkomen.” Zo stoppen de bedrijven met het vloeibaar gieten van slak. Het spul wordt voortaan eerst goed afgekoeld. Ook de hoeveelheid slak per ketel wordt beperkt.</p><p>Volgens het bedrijf zijn deze tijdelijke maatregelen gebaseerd op „recente inzichten.” Op het terrein is een fabriekshal in aanbouw. Zodra die klaar is, volgens de planning in april volgend jaar, behoren de grafietregens definitief tot het verleden.</p><p>Het RIVM heeft direct na een grafietregen veegmonsters onderzocht. Het instituut keek naar de blootstelling aan de stoffen van jonge kinderen via de huid of doordat vingers in de mond worden gestoken. Naar blootstelling van volwassenen is niet gekeken. „Die zal lager zijn dan bij een kind”, verwacht het instituut. Ook het effect van inademing is niet onderzocht.</p><p>Mensen die blootstelling aan de metalen zoveel mogelijk willen verminderen, kunnen dat doen door zo goed mogelijk schoon te maken en de handen te wassen.</p><p>Omwonenden, met name in Wijk aan Zee, klagen al lange tijd over de uitstoot.</p>
