@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Storing bij provider zorgt voor landelijke pinproblemen in Nederland"
+title: "Storing bij provider zorgt voor landelijke pinproblemen in Nederland - update"
 date: Thu, 06 Jun 2019 11:56:46 GMT
 category: tech
 externe_link: "https://tweakers.net/nieuws/153678/storing-bij-provider-zorgt-voor-landelijke-pinproblemen-in-nederland.html"
