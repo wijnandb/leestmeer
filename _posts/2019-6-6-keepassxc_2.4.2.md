@@ -1,0 +1,9 @@
+---
+layout: post
+title: "KeePassXC 2.4.2"
+date: Thu, 06 Jun 2019 12:33:39 GMT
+category: tech
+externe_link: "https://tweakers.net/downloads/48498/keepassxc-242.html"
+---
+
+KeePass Password Safe is een bekende opensourcewachtwoordmanager die oorspronkelijk voor het Windows-platform werd ontwikkeld, maar later met behulp van Mono ook op andere platformen zijn werk kan doen. KeePassXC wordt ontwikkeld in C++ met Qt voor het grafische deel waarmee het op Linux, macOS en Windows een passend uiterlijk biedt. Hiermee kunnen accounts worden opgeslagen, inclusief de bijbehorende gegevens, zoals gebruikersnaam, wachtwoord en url. Alle gegevens worden veilig in een met het aes, twofish of ChaCha20 versleutelde database opgeslagen. Verder kan het programma automatisch wachtwoorden genereren en lijsten im- en exporteren. Voor meer informatie verwijzen we jullie door naar deze pagina. De ontwikkelaars hebben versie 2.4.2 uitgebracht met de volgende aankondiging: KeePassXC 2.4.2 released We are happy to announce KeePassXC 2.4.2, the second maintenance release of the 2.4 series! This release fixes several bugs and introduces a memory wiping feature that will reduce the risk of secrets remaining in memory after a database is locked or being swapped to disk. Combined with the existing restrictions on memory access by non-administrators, this feature increases the security of KeePassXC. Other notable changes are fixes to entry editing, prevention of infinite save loops, ability to open non-http url’s, and preventing data loss when opening a database with duplicated attachment binaries. The new release can be downloaded from our downloads page, our Ubuntu PPA, and Snapcraft. Changelog Here is the full changelog for KeePassXC 2.4.2:<img src="http://feeds.feedburner.com/~r/tweakers/mixed/~4/hHt99TjUuWU" height="1" width="1" alt=""/>
