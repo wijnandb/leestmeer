@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Seizoen voorbij voor Oomen"
+date: Wed, 05 Jun 2019 13:21:28 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/502250529/seizoen-voorbij-voor-oomen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bf65bcd8-8787-11e9-8a38-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Sam Oomen heeft noodgedwongen zijn seizoen al moeten beëindigen.</p> <p>De renner van Team Sunweb kampt met een bekneld bloedvat in zijn linkerlies en moet daaraan operatief worden geholpen. Omdat de Tilburger eerst moet herstellen van een heupbreuk die hij opliep bij een val in de Ronde van Italië, kan de ingreep pas over een week of zes plaatsvinden.</p><p>Oomen kampte al langer met een onwillend linkerbeen, veroorzaakt door bloedvatproblemen. Het is een kwaal die vaker voorkomt bij wielrenners.„We kwamen er kort voor de Giro achter en dat gaf ook meteen een antwoord op vragen waar ik al een tijdje meezat. Ik kon nog steeds goed trainen en wedstrijden afwerken, maar met name in tijdritten merkte ik dat mijn been niet werkte zoals ik wilde”, vertelt Oomen, die in de veertiende etappe van de Giro moest opgeven. „Mijn seizoen zit erop, dat is een enorme tegenvaller. Maar dat we de oorzaak nu weten en dat we hopelijk een oplossing vinden is dan weer een opluchting.”</p><p>„Sam klaagde al langer over een gebrek aan power in zijn linkerbeen en pijn”, vertelt teamarts Camiel Aldershof. „We hebben verschillende behandelingen geprobeerd zoals fysio- en manuele therapie en ook met zijn houding geëxperimenteerd. Tijdens dat proces slaagde hij erin goede resultaten neer te zetten, reden ook dat we er vertrouwen in hadden dat hij in de Giro van waarde zou kunnen zijn. Nadat gebleken is dat de behandelingen niet het gewenste resultaat hebben opgeleverd is nu tot opereren besloten. Het zal een relatief lange periode van herstel opleveren, waardoor we dit seizoen als voorbij beschouwen.</p><p>Oomen legt zich er noodgedwongen bij neer: „Soms moet je één stap terugzetten om het mogelijk te maken er later twee vooruit te zetten. Ik hoop dat dat is wat we nu gaan doen.”</p>

@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Waarom mogen vakbondsleden eigenlijk stemmen over het pensioenakkoord?"
+date: Wed, 05 Jun 2019 20:50:32 +0200
+category: nieuws
+externe_link: "https://nos.nl/l/2287785"
+feature_image: "https://nos.nl/data/image/2018/11/10/512026/1008x567.jpg"
+---
+
+<p>Kabinet, werkgevers en het bestuur van de vakbonden hebben een principe-akkoord bereikt over de pensioenen. Maar voordat het een definitief akkoord wordt, mogen de grofweg 1,5 miljoen leden van verschillende bonden er nog over stemmen. Waarom mogen zij zich hier eigenlijk over uitspreken, en wie vertegenwoordigen de bonden (nog)?</p>
+<h2>Teruglopende ledenaantallen</h2>
+<p>Het aantal mensen dat bij een vakbond is aangesloten, loopt al tijden met tienduizenden per jaar terug, volgens cijfers van het Centraal Bureau voor Statistiek. Uit cijfers van het ministerie van Sociale Zaken en Werkgelegenheid blijkt dat afgelopen jaren gemiddeld ongeveer één op de vijf werknemers tussen de 15 en 75 jaar is aangesloten.</p>
+<p>Critici vragen zich daarom af waarom de bonden nog zoveel in de melk te brokkelen hebben bij onderhandelingen zoals die over de pensioenen, als ze slechts een klein deel van alle werknemers vertegenwoordigen.</p>
+<p>"In Nederland is het in de loop van de decennia zo gegroeid dat dit soort beslissingen door de polder worden genomen, zodat er draagvlak is", legt consultant en pensioenrechtadvocaat Cornelien Donner-Broersma van adviesbureau KWPS uit. Het is dus niet wettelijk verplicht dat de bonden instemmen, maar in de praktijk zal er niet snel een akkoord worden gesloten zonder ze.</p>
+<p>Dat heeft voor een belangrijk deel te maken met de manier waarop een nieuwe pensioenregeling straks in de praktijk moet worden ingevoerd. Zo is het volgens het akkoord dat nu op tafel ligt de bedoeling dat er een nieuwe regeling komt, waarin niet iedereen meer hetzelfde inlegt en opbouwt en waarbij risico's gedeeld worden.</p>
+<p>Donner-Broersma: "Wettelijk zal die mogelijkheid er dan komen. Maar blijft dan een keuze: het is dan aan de werkgevers en de vertegenwoordigers van werknemers om die regeling dan binnen hun organisatie in te voeren of niet." Stel dat werkgevers of werknemersorganisaties zoals de vakbonden nu niet achter het akkoord staan, dan creëer je eigenlijk de mogelijkheid voor een regeling waar waarschijnlijk niemand gebruik van gaat maken. Het is dus wel handig als vakbondsleden het zien zitten.</p>
+<p>Daarnaast is het zo dat de invloed van de vakbonden in sommige opzichten verder reikt dan hun leden. In sectoren waarin voldoende werknemers lid zijn van een vakbond, kan een akkoord met de bonden algemeen door het ministerie van Sociale Zaken en Werkgelegenheid bindend verklaard worden voor de hele sector.</p>
+<p>Zo zijn veel bedrijfstakcao's bindend verklaard. Dat betekent dat alle werkgevers en werknemers binnen die bedrijfstak zich dan aan de cao moeten houden, of ze nou lid zijn van de werkgevers- of werknemersorganisaties die daar over onderhandeld hebben of niet. Datzelfde geldt voor pensioenfondsen binnen sectoren, legt Donner-Broersma uit.</p>
+<p>Toch zijn er sectoren waarin de vakbonden bijna niet aanwezig zijn. Donner-Broersma: "Bijvoorbeeld in nieuwe sectoren, zoals in de IT. Daar zie je vaak ook dat er geen verplicht fonds is."</p>
+<h2>Voor wie staan de bonden?</h2>
+<p>Hoewel bonden dus invloed hebben tijdens de onderhandelingen over het pensioenakkoord, vertegenwoordigen zij vooral hun leden. En die leden zijn geen afspiegeling van de samenleving, blijkt uit het vorig jaar gepubliceerde CBS-rapport 'Wie is er nog lid van een vakbond?'.</p>
+<p>Zo is het aantal mannen dat is aangesloten aanzienlijk hoger dan het aantal vrouwen, is ruim de helft van alle leden tussen de 45 en 65 jaar oud en werken de meesten minimaal 12 uur per week en zijn ze vaker hoger opgeleid. Ook per regio zijn er verschillen. In Drenthe, Flevoland, Friesland, Groningen en Zeeland is een groter deel van de bevolking lid dan in de andere provincies.</p>
+<p>Deze scheve afspiegeling leidt er ook toe dat bonden de belangen van sommige groepen beter vertegenwoordigen dan van andere. Kijk maar naar de acties voor het bevriezen van de pensioenleeftijd van vorige week, zegt Donner-Broersma. "Dat is voor jongeren ongunstig, zij betalen de rekening."</p>
+<p>Er blijft bij de pensioenonderhandelingen een groep mensen die niet vertegenwoordigd zijn door een organisatie zoals een vakbond. "Wel heb je onafhankelijke kroonleden bij de Sociaal Economische Raad", aldus Donner-Broersma. "Dat zijn deskundigen op een bepaald gebied en zij kijken naar het algemeen belang. Zo is het van oorsprong ooit geregeld in Nederland, en daar is men op voortgegaan."</p>
+<h2>Komende week stemmen</h2>
+<p>Wie wel lid is van een vakbond krijgt komende week de mogelijkheid om van zich te laten horen. CNV, dat zo'n 335.000 mensen vertegenwoordigt, gaat volgende week op vier plekken in het land in gesprek met leden. Ze kunnen stemmen via de website.</p>
+<p>Ook de grofweg miljoen leden van FNV, de grootste vakbond in het land, krijgen binnenkort een brief in de bus waarmee ze online hun stem uit kunnen brengen. Dat is een raadpleging: uiteindelijk zal het ledenparlement van de bond definitief namens FNV een besluit nemen over het akkoord. In dat parlement zitten ruim honderd gekozen vertegenwoordigers.</p>
+<h2>Moeilijk dossier</h2>
+<p>Het is niet per definitie gezegd dat iedereen die lid is van de vakbonden zich achter het akkoord zal scharen. In het verleden bleek dat pensioenonderhandelingen binnen de FNV tot grote problemen leidden.</p>
+<p>In juni 2010 sloten werkgevers en werknemers een akkoord over de verhoging van de AOW-leeftijd naar 66 jaar. Toen de vakbond dat een maand later aan haar achterban voorlegde, stemde tachtig procent van de leden die stemden in met het akkoord. Maar dat was maar een klein deel van de leden, want slechts 14 procent bracht een stem uit.</p>
+<p>Dat er ook veel kritiek was op het plan binnen FNV bleek het jaar erop. Een groep kaderleden liet openlijk weten ontevreden te zijn met de manier waarop de top van de bond omging met de pensioenleeftijd, zegde het vertrouwen op in de leiding en eiste dat onder meer voorzitter Agnes Jongerius zou aftreden. De vakbond ging er bijna aan onderdoor.</p>

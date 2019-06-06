@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Ook bij ING reclame op basis van betaalgegevens"
+date: Wed, 05 Jun 2019 13:33:00 +0200
+categories: 
+- financieel 
+- geld 
+externe_link: "https://www.telegraaf.nl/financieel/1831880185/ook-bij-ing-reclame-op-basis-van-betaalgegevens"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2b3ed9ce-87ad-11e9-91aa-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">ING gaat zijn klanten reclame voorschotelen op basis van hun betaalgegevens. „Als mensen bijvoorbeeld kinderbijslag ontvangen, kunnen we ze wijzen op een spaarrekening voor kinderen”, zegt een woordvoerder.</p> <p>De woordvoerder stelt dat klanten niet hoeven te vrezen dat hun betaalinformatie weglekt. „Er is nog geen sprake van het delen van informatie met derde partijen. We delen alleen bij wettelijke verplichtingen, zoals voor de belastingdienst of opsporingsinstanties.”</p><p>Vijf jaar geleden speelde ING nog met plannen om het betaalgedrag van klanten met externe adverteerders te delen. Dat zorgde voor grote opschudding in politiek Den Haag. De plannen werden snel afgeschoten.</p><p>De mogelijkheid om gepersonaliseerde aanbiedingen te doen, staat in de nieuwe privacyverklaring van ING. Zo kan een klant die een ticket koopt een bericht ontvangen met de vraag of hij ook een reisverzekering wil afsluiten. „Nu doen wij via onze app al aanbiedingen, maar die zijn niet op basis van het persoonlijke betalingsbedrag”, legt de woordvoerder uit.</p><p>In de privacyverklaring staat: „We kunnen u op basis van uw persoonlijke situatie brieven, e-mails of sms-berichten sturen met een aanbieding van een product of dienst, of u een dergelijke aanbieding laten zien op onze websites of mobiele apps en sites en apps van anderen.”</p><p>Uit de privacyverklaringen bij de overige banken, blijkt dat het beleid van ING niet nieuw is. Rabobank, ABN Amro, SNS, ASN, Regiobank en Triodos gebruiken namelijk ook gegevens van klanten om hen aanbiedingen te doen. Rabobank voerde deze aanvulling al meer dan een jaar geleden door in het privacybeleid.</p><p>Volgens de ING-woordvoerder blijkt uit klantenonderzoek dat klanten gepersonaliseerde aanbiedingen op prijs stellen „Wij weten dat klanten het zelden als vervelend ervaren en dat ze juist het meedenken waarderen.”</p><p>Wie hier niet op zit te wachten, kan volgens de woordvoerder bij het internetbankieren deze optie uitschakelen of een mail sturen met het verzoek om gevrijwaard te blijven van de ongevraagde reclame.</p>

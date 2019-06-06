@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Durft Yvon Jaspers tweede tv-optreden niet aan?"
+date: Wed, 05 Jun 2019 13:25:59 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/1241227739/durft-yvon-jaspers-tweede-tv-optreden-niet-aan"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8daa11f2-878d-11e9-a792-02c309bc01c1.jpg"
+---
+
+<p class="intro">De eens zo gewaardeerde presentatrice van Boer zoekt Vrouw wil niet naar de talkshow Café Hendriks &amp; Genee. Dat liet Genee dinsdag weten in de radioshow Veronica Inside.</p> <p>„Dan kan zij reageren op wat Jeroen Pauw zei en wat de hele wereld over haar heeft gezegd”, vertelt Genee op het voorstel van een luisteraar om Yvon Jaspers uit te nodigen. Volgens Genee had de redactie van het programma Jaspers zelfs al gevraagd, waarbij ze Yvon aanboden ’een kans te geven om haar kant van het verhaal te vertellen’.</p><p>Jeroen Pauw liet zondag in de uitzending van Café Hendriks &amp; Genee weten dat hij zich, evenals veel kijkers, had geërgerd aan Yvon Jaspers’ optreden in zijn eigen talkshow. Zij beklaagde zich in de uitzending over wat haar was aangedaan; de publicaties over haar nevenwerk – met bijbehorende inkomsten – voor For Farmers, waardoor volgens haar ’25 jaar werken voor vertrouwen’ weg was. De ergernis bij kijkers en Pauw ontstond doordat tegelijk aan tafel de oom van de bruut vermoorde Anne Faber zat. Pauw zei zondag daarover: „Ik hoopte dat er een moment zou komen dat Yvon zou zeggen: ’Waar heb ik het eigenlijk over als ik naar deze mensen kijk?’</p><p>Haar management zou richting de redactie van Genee kort gereageerd hebben dat Yvon ’momenteel te druk is om op het verzoek in te gaan’. „Ze zal het dan ook niet doen.” Sidekick Niels van Baarlen vraagt zich af waarmee iemand het op ’zondagavond tien uur’ te druk mee kan hebben. Rick Romijn snapt haar wel, maar: „Ik vind het wel slap van d’r.”</p><p>Op de hoogte blijven van al het nieuws over de sterren? Schrijf je hier in voor onze nieuwsbrief.</p>

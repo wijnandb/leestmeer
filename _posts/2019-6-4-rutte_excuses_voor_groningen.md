@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Rutte: excuses voor Groningen"
+date: Tue, 04 Jun 2019 20:35:57 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/1467643991/rutte-excuses-voor-groningen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/212ff6c4-8713-11e9-a982-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Premier Rutte heeft namens de regering excuses gemaakt aan alle Groningers. Dat deed hij al eerder op televisie, vanavond voor het eerst in de Tweede Kamer tijdens een pittig debat over aardbevingen in de noordelijke provincie.</p> <p>„Het is een crisis in slow motion, het is een crisis anyway”, zei de minister-president. „Toen wij begonnen om deze verschrikkelijke ellende voor de mensen in Groningen aan te pakken hebben we volstrekt onderschat welke enorme opgave hier lag in schadeherstel en versterking van woningen. Het is niet goed ingeschat. Hier passen excuses.”</p><p>Snelheid</p><p>Rutte bood ook excuses aan voor wat Groningen is aangedaan: „We beseften te laat wat het betekende.” De premier maakte nog op een derde punt excuses met de erkenning dat Den Haag te veel op ’juridische elementen’ was gericht. „Dat heeft gevolgen gehad voor de snelheid. De balans is niet goed.”</p><p>Het kabinet heeft maandag maatregelen aangekondigd om de schadeaanpak en versterkingsoperatie te versnellen.</p><p>De Tweede Kamer maakte duidelijk dat de gaskraan nog sneller moet worden dichtgedraaid naar 12 miljard kuub. Toezichthouder SodM adviseert om volgend jaar al tot dit niveau te winnen, maar waarschuwt wel voor de leveringszekerheid. Minister Wiebes (Economische Zaken en Klimaat) gaat kijken of het nog sneller kan.</p><p>Blunder</p><p>Wiebes kreeg er weer flink van langs vanwege zijn ’bevinkje-blunder’. Ook de minister maakte daarom excuses tijdens het gasdebat. „Het was stom om een enorm domme verspreking te doen.”</p><p>De SP diende samen met PVV, PvdA, 50Plus en de dierenpartij een motie van afkeuring in tegen minister Wiebes. Een ruime meerderheid van de Tweede Kamer verwierp de motie.</p>
