@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Uniforme CO2-prijs schaadt bedrijven"
+date: Fri, 07 Jun 2019 13:43:17 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/financieel/250659333/uniforme-co2-prijs-schaadt-bedrijven"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a47c5cd0-891a-11e9-bb89-02c309bc01c1.jpg"
+---
+
+<p class="intro">Als Nederland op eigen houtje CO2-uitstoot uniform gaat belasten dreigt een deel van de industrie productie te verplaatsen naar andere landen. Het klimaat schiet daar helemaal niets mee op: fabrieken gaan op een andere plek broeikasgassen uitstoten.</p> <p>Dat concluderen het Planbureau voor de Leefomgeving en het Centraal Planbureau in een vrijdag verschenen rapport over CO2-beprijzing.</p><p>De planbureaus stellen verder dat als alle sectoren dezelfde prijs voor CO2-uitstoot zouden bepalen er ’relatief goedkoop’ minder uitstoot zal komen bij stroomproducenten en grote bedrijven die veel energie gebruiken.</p><p>De planbureaus stellen dat de overheid dan ook minder een beroep hoeft te doen op bijvoorbeeld huishoudens. Het belangrijkste nadeel van zogeheten uniforme CO2-beprijzing is dus het weglekken van uitstoot naar het buitenland. Vooral bij sectoren die internationaal opereren speelt dit risico.</p><p>Weglek</p><p>Sommige bedrijven concurreren niet met andere bedrijven in Nederland, maar met ondernemingen over de hele wereld. Als de productie in Nederland door CO2-beprijzing duurder gaat worden verliezen ze kan klanten die in een ander land hetzelfde product voor een lagere prijs kunnen krijgen.</p><p>„De productie in het buitenland kan daardoor toenemen”, schrijven de planbureaus. „Daarmee stijgen mogelijk ook de emissies buiten Nederland en is er sprake van CO2-weglek.”</p><p>Het risico voor het weglekken van CO2-uitstoot is minder als Nederland samen met andere landen tegelijk uitstoot gaat beprijzen. Het kabinet probeert binnen Europa een kopgroep te vormen van landen om bijvoorbeeld een CO2-heffing in te voeren.</p><p>Tegelijkertijd onderzoekt het kabinet nu voor het klimaatakkoord al een nationale heffing. Later deze maand moet duidelijk worden wat de industrie voor de kiezen krijgt.</p><p>De planbureaus zijn nu verschillende manieren van CO2-beprijzing aan het doorrekenen. Het kabinet wil deze informatie gebruiken om tot een keuze te komen. Premier Rutte heeft eerder aangegeven dat hij wil voorkomen dat bedrijven productie naar het buitenland verplaatsen.</p>

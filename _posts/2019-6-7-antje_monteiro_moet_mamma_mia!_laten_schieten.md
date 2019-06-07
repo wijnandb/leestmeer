@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Antje Monteiro moet Mamma Mia! laten schieten"
+date: Fri, 07 Jun 2019 13:40:24 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/1965681456/antje-monteiro-moet-mamma-mia-laten-schieten"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/124cbb4e-8919-11e9-a07f-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Antje Monteiro moet haar rentree in Mamma Mia! nog even uitstellen. De zangeres, die in de musical de hoofdrol speelt, is herstellende van een operatie en nog niet fit genoeg om weer terug te keren in het Utrechtse Beatrix Theater.</p> <p>Op Facebook schrijft ze: „Lieve allemaal. Twee weken geleden heb ik een kleine operatie gehad. Het herstel duurt helaas langer dan verwacht, waardoor ik ook dit weekend nog niet kan spelen bij Mamma Mia.”</p><p>Antje zou bovendien zaterdag de presentatie van het The Hague Rainbow Festival voor haar rekening nemen, maar ook dat moet ze aan zich voorbij laten gaan. De organisatie van het festival laat weten in Mariska van Kolck een vervanger te hebben gevonden.</p><p>„Sorry voor iedereen die voor mij zou komen kijken! Ik hoop vanaf volgende week weer te kunnen knallen!”, besluit Antje haar bericht.</p><p>Martine Bijl</p><p>De musicalster vertelde eerder deze week louter goede herinneringen te koesteren aan de op 30 mei overleden Martine Bijl. Antje speelde in de musical Aïda, die Martine vertaalde. „Martine was zo lief en zo behulpzaam tijdens de voorbereidingen”, vertelt Antje. „Ik was enorm onzeker over de komedie-kant van mijn rol. Zij heeft mij daar enorm in geholpen en gaf allemaal tips en tricks over hoe je op een podium komisch kan zijn.”</p><p>Martine gaf Monteiro ook haar 06-nummer; de actrice mocht altijd bellen als ze nog vragen had. „Een van de mooiste kaarten die ik kreeg na de première was van haar”, vertelt ze. „Er stond op: ’Lieve Antje. Je hebt de mooiste rol, de mooiste stem en het mooiste kind - wát een leven!’ Ze was zo lief en zo complimenteus. En zo zal ik haar ook altijd herinneren.”</p>

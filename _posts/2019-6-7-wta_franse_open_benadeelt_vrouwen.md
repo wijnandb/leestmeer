@@ -1,0 +1,10 @@
+---
+layout: post
+title: "WTA: Franse Open benadeelt vrouwen"
+date: Fri, 07 Jun 2019 09:36:32 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/325214117/wta-franse-open-benadeelt-vrouwen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/faa24c38-88f6-11e9-bb89-02c309bc01c1.JPG"
+---
+
+<p class="intro">Het besluit om de twee halve finales bij de vrouwen op Roland Garros niet op het centre court te laten spelen, is slecht gevallen bij de WTA, de organisatie die het vrouwentennis bestiert. „Oneerlijk en onfatsoenlijk”, noemde WTA-baas Steve Simon de verplaatsing van de twee partijen naar de minder belangrijke stadions Suzanne Lenglen en Simonne Mathieu.</p> <p>De regen heeft het speelschema van de Franse Open in Parijs danig verstoord. Op woensdag kon helemaal niet worden getennist. Het leidde tot een aanpassing voor de halve finales, waarbij de toernooileiding ervoor koos alleen de mannen te laten optreden op het centre court Philippe Chatrier.</p><p>„Ongetwijfeld heeft de regen het speelschema beïnvloed, maar deze vier vrouwen hebben zo geweldig gespeeld en hebben het volste recht ook te spelen op het grootste podium. Het is bijzonder teleurstellend dat zij naar de mindere banen zijn verwezen”, aldus Stevens. De Franse oud-topspeelster Amélie Mauresmo viel de WTA bij. „Dit is een schande”, zei ze.</p><p>Alle vier halve finales van Roland Garros zijn op vrijdag geprogrammeerd: Johanna Konta en Marketa Vondrousova spelen op Simonne Mathieu. Ashleigh Barty en Amanda Anisimova treffen elkaar op Suzanne Lenglen. Centre court Philippe Chatrier, met plaats voor 15.000 toeschouwers, is gereserveerd voor de kraker tussen elfvoudig kampioen Rafael Nadal en Roger Federer én voor de ontmoeting tussen Novak Djokovic en Dominic Thiem.</p><p>Toernooidirecteur Guy Forget is bang dat de verwachte regen nog meer vertraging zal opleveren. Het zou tot gevolg kunnen hebben dat de vrouwen hun finale op zondag moeten spelen en de mannen op maandag. „Dat hopen we natuurlijk niet, maar een andere keus hebben we niet.”</p>
