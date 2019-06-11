@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Sem Steijn wil met vader mee naar Al-Wahda"
+date: Tue, 11 Jun 2019 23:35:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/547507762/sem-steijn-wil-met-vader-mee-naar-al-wahda"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f1276416-8c90-11e9-a8f6-02c309bc01c1.jpg"
+---
+
+<p class="intro">In navolging van zijn vader Maurice Steijn wil ook zoon Sem Steijn VVV-Venlo verruilen voor Al-Wahda in de Verenigde Arabische Emiraten. Maurice Steijn (45) is al als hoofdtrainer vastgelegd, de 17-jarige middenvelder wacht nog op toestemming van ADO Den Haag, de club waar hij nog tot medio 2020 onder contract staat.</p> <p>Sem Steijn speelde het afgelopen seizoen op huurbasis voor VVV-Venlo. De Limburgse club meldde dinsdag zijn vertrek naar Al-Wahda, maar het bericht werd later door de Haagse club genuanceerd.</p><p>''De technische leiding van ADO Den Haag weet en begrijpt dat het een wens van Maurice Steijn is om zijn zoon opnieuw mee te nemen naar zijn nieuwe club. Maar op dit moment is er met onze club nog geen contact geweest over een tweede verhuurperiode van Sem Steijn. Er is dus nog geen sprake van een nieuwe overeenkomst. Dit houdt overigens niet in dat ADO Den Haag onwelwillend tegenover een nieuwe uitleenbeurt van Sem Steijn staat.''</p><p>VVV bevestigde dinsdag het afscheid van Steijn als hoofdtrainer. Het nieuws was afgelopen zondag al uitgelekt. Algemeen directeur Marco Bogers ziet Steijn met pijn in het hart vertrekken. ''De onderlinge band die we hadden was iets heel bijzonders. We werkten heel nauw samen. Natuurlijk is het zonde dat Maurice vertrekt, maar deze kans mogen we hem niet ontnemen.''</p><p>Ook manager voetbalzaken Stan Valckx betreurt het vertrek van Steijn, die sinds 2014 werkzaam was in Venlo. ''Hij heeft de afgelopen jaren laten zien fantastisch te kunnen presteren. Jammer dat hij ervoor kiest VVV te verlaten, maar een nieuwe stap in zijn carrière is geen onlogische keus.''</p>
