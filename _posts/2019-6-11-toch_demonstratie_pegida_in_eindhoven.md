@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Toch demonstratie Pegida in Eindhoven"
+date: Tue, 11 Jun 2019 14:32:40 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/1283933711/toch-demonstratie-pegida-in-eindhoven"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ef3aa026-8c51-11e9-a07f-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Anti-islamclub Pegida mag woensdag 19 juni in Eindhoven alsnog gaan demonstreren, ondanks de streep die afgelopen tijd door meerdere demonstratieplannen heenging. Dat heeft de gemeente bekendgemaakt.</p> <p>Afgelopen weekend werd een aangevraagde demonstratie van Pegida door burgemeester John Jorritsma afgelast. Hij kon de veiligheid van de deelnemers niet garanderen. Nu wijst hij 19 juni aan als datum waarop Pegida haar anti-islambetoging mag houden. Dat gebeurt om 19.00 uur op het Stadhuisplein, midden in het centrum van de stad. En niet, zoals aangevraagd, voor een moskee in Eindhoven.</p><p>Het Stadhuisplein biedt tevens ruimte aan tegendemonstraties en is voor de politie een beter beheersbare locatie, aldus de gemeente. Met de keuze voor deze datum en deze locatie hoopt burgemeester Jorritsma optimaal het demonstratierecht te faciliteren, terwijl ook de impact op de stad te overzien is.</p><p>Flyeren</p><p>Pegida wil bij de Al Fourqaan moskee staan en is nu van plan daar zaterdag demonstratief te gaan flyeren. Volgens voorman Edwin Wagensveld laat Pegida zich niet door de gemeente voorschrijven wanneer zijn club mag demonstreren. „Wij willen bij een moskee demonstreren, niet bij een stadhuis. Het plein daar is bovendien een grote bouwput, daar gaan we niet staan.”</p><p>In mei leidde een demonstratie „tegen de islamisering” door zo’n twintig aanhangers van Pegida tot rellen vlakbij de Al-Fourqaan moskee in Eindhoven. Daarbij richtte een groep van zo’n driehonderd Turkse mensen zich tegen de demonstranten. Pegida wilde een varkenslap voor de moskee roosteren.</p><p>Inmiddels heeft de islamitische organisatie Oemmah Nederland een vergunning aangevraagd voor een tegendemonstratie. „Voor elke demonstratie die Pegida in Eindhoven mag houden, kondigt de moslimorganisatie een grote tegendemonstratie aan”, laat zij op Facebook weten.</p><p>Nationale ombudsman Reinier van Zutphen zei eerder het geen goed argument te vinden dat een demonstratie wordt verboden omdat die uit de hand kan lopen. Dat schaadt volgens hem het recht op demonstratie.</p>

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Nederlandse vrouw verongelukt in Spanje"
+date: Sun, 09 Jun 2019 21:24:50 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/323549261/nederlandse-vrouw-verongelukt-in-spanje"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5510cfc4-8b76-11e9-b717-0255c322e81b.jpg"
+---
+
+<p class="intro">Een 63-jarige Nederlandse vrouw uit Utrecht is zondag om het leven gekomen nadat zij en haar 67-jarige reisgenote waren aangereden op een populaire wandelroute naar het Spaanse pelgrimsoord Santiago de Compostela. Dat bevestigt een woordvoerder van het ministerie van Buitenlandse Zaken.</p> <p>De vrouw overleed in het ziekenhuis aan haar verwondingen. De 67-jarige vrouw, ook een Nederlandse, verkeert in kritieke toestand, melden Spaanse media.</p><p>Het ongeluk gebeurde nabij de stad León. Bij een tunnel op weg naar Fresno del Camino werden ze door een auto aangereden.</p><p>Een klapband is de oorzaak van het ongeluk gisteren in de buurt van het Spaanse Leon, ter hoogte van Fresno de Camino. De 19-jarige bestuurder had pas enkele maanden zijn rijbewijs. Volgens lokale media zou onervarenheid van de bestuurder een rol kunnen hebben gespeeld bij het ongeluk.</p><p>De jongen was zondagochtend samen met twee vrienden op weg vanaf de stad Leon naar het dorpje Aldea de Valdoncina, toen hij een klapband kreeg aan zijn rechtervoorwiel, waardoor hij de macht over het stuur verloor.</p><p>Daardoor schoot de wagen de stoep op waar de Nederlandse wandelaarsters liepen, op weg naar Santiago de Compostella. Zij waren de avond ervoor uit Virgen de Camino vertrokken, op weg naar hun einddoel.</p><p>De vrouwen raakten zwaargewond. De 63-jarige vrouw overleed zondag in het ziekenhuis aan haar verwondingen. De 67-jarige vrouw ligt nog in het Hospital de Leon.</p><p>De bestuurder had geen drugs of alcohol gebruikt, zo blijkt uit tests. Wel onderzoekt de politie nog of de 19-jarige bestuurder mogelijk te hard heeft gereden.</p><p>Weet u meer? Dan komen we graag met u in contact via onze WhatsApp-tiplijn 0613650952.</p>

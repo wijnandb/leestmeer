@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Round-up FBK Games: Visser nog steeds niet onder WK-limiet"
+date: Sun, 09 Jun 2019 19:13:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/76931625/round-up-fbk-games-visser-nog-steeds-niet-onder-wk-limiet"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/30f2324e-8adc-11e9-91aa-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Er gebeurt een hoop tijdens de Fanny Blankers-Koen Games in Hengelo, de grootste atletiekwedstrijd van Nederlands. Telesport zet hier het belangrijkste nieuws op een rijtje.</p> <p>Nadine Visser moet de scherpte nog vinden. De Europees kampioene op de 60 meter horden kon zich bij FBK Games niet onderscheiden. Ze finishte als vijfde in de race over 100 meter horden in 13,10. Daarmee bleef ze boven de limiet voor de WK in Doha dit najaar van 12,98. Eefje Boons werd zesde in 13,23. De winst was voor de Amerikaanse Nia Ali in 12,75. Zij bleef haar landgenote én olympisch kampioene Brianna McNeal nipt voor. McNeal noteerde 12,76.</p><p>Het wereldrecord op de 5000 meter blijft ook na zondag in handen van Kenenisa Bekele. De Ethiopische hardlooplegende liep zijn mondiale recordtijd van 12.37,35 vijftien jaar geleden in het FBK-stadion van Hengelo (31 mei 2004). Een naamgenoot viel tijdens de 38e editie die tijd aan, maar Telahun Bekele brak het record niet. De 20-jarige Ethiopiër won de race in 12.57,56, de zesde tijd van dit jaar. Hij was afgelopen donderdag in Rome nog verantwoordelijk voor de beste tijd dit jaar in de wereld: 12.52,98. Regerend Nederlands kampioen Benjamin de Haan eindigde ver achter de winnaar als twaalfde in 14.00,66, ruim boven de limiet voor de WK in Doha (13.22,50).</p><p>Liemarvin Bonevacia en Tony van Diepen hebben een bijrol gespeeld op de 400 meter bij de FBK Games in Hengelo. Bonevacia eindigde in de race als zesde in 46,19, Van Diepen werd zevende in 46,44. Beide atleten bleven ver verwijderd van de limiet voor de WK dit najaar in Doha, die op 45,30 is gesteld. De winst op de afstand ging in het redelijk gevulde FBK-stadion naar de Amerikaan Michael Cherry in 45,15.</p>

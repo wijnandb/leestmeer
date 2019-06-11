@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Blind: ’Na zware tijd goed herpakt’"
+date: Sat, 08 Jun 2019 19:35:02 +0200
+categories: 
+- sport 
+- voetbal 
+externe_link: "https://www.telegraaf.nl/sport/805730207/blind-na-zware-tijd-goed-herpakt"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b18bc956-8a2d-11e9-983a-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Georginio Wijnaldum en Daley Blind hebben een lang seizoen achter de rug, maar kunnen zich nog eenmaal opladen voor de finale van de Nations League tegen Portugal.</p> <p>Het is bijna vanzelfsprekend dat de naam Cristiano Ronaldo valt als er over Portugal gesproken wordt. Vreemd is het niet. De Juventus-ster schoot met drie treffers tegen Zwitserland zijn Portugal vrijwel in zijn eentje naar de finale. „Dat is voor ons geen zorg”, vertelt Blind tijdens de persconferentie. „We spelen niet tegen Ronaldo, we spelen tegen Portugal.”</p><p>Blind wist dit seizoen Ronaldo al eens te slim af te zijn. Met Ajax schakelde de Oranje-international CR7 uit in de kwartfinale van de Champions League. „We weten wat zijn kwaliteiten zijn. We moeten hem constant onder controle zien te houden en op alles voorbereid zijn.”</p><p>Voor Wijnaldum is het alweer zijn tweede finale in een korte periode. Vorige week zaterdag won hij met Liverpool de Champions League. Nu staat hij met Oranje in de finale van de Nations League. Bij Oranje vervult Gini een iets andere rol dan bij The Reds. „Ik hou van aanvallen”, lacht Wijnaldum, die bij Liverpool meer een box-to-box-rol heeft. „Het maakt mij niet uit waar ik sta, maar ik denk dat elke speler het liefst wil aanvallen. Ik ben blij dat ik dat bij Nederland kan doen.”</p><p>Blind en Wijnaldum maakten samen het laatste grote landentoernooi mee waar Oranje aan meedeed, namelijk het WK van 2014 in Brazilië. Vervolgens volgde een duistere periode met het mislopen van het EK in Frankrijk en WK in Rusland. „We hebben ons goed herpakt”, zegt de Ajacied. „De successen in de Nations League werken als motivatie. We zijn goed bezig en we moeten dit gevoel niet loslaten en zo door blijven gaan.”</p><p>Wijnaldum ziet net zoals Blind kansen. „We zijn allebei favoriet”, zegt hij. „Natuurlijk spelen zij hier voor eigen publiek. Maar donderdag in de halve finale tegen Engeland speelden we ook een soort van uitwedstrijd”, verwees hij naar de ruim 20.000 Britten op de tribune van Estádio D. Afonso Henriques in Guimarães. „Het wordt een moeilijke finale.”</p>

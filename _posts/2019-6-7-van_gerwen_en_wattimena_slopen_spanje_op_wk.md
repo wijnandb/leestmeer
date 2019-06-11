@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Van Gerwen en Wattimena slopen Spanje op WK"
+date: Fri, 07 Jun 2019 22:47:30 +0200
+categories: 
+- sport 
+- darts 
+externe_link: "https://www.telegraaf.nl/sport/1462354040/van-gerwen-en-wattimena-slopen-spanje-op-wk"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b6697520-8967-11e9-90fc-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Bij de eerste ronde van de WK darts voor landenteams heeft titelverdediger Nederland afgerekend met Spanje (5-0).</p> <p>Michael van Gerwen vormde afgelopen zes edities een haast onverslaanbaar koppel met Raymond van Barneveld. Tot vier keer toe reikte het duo tot de finale en daarin ging het drie keer met de wereldtitel aan de haal.</p><p>Dit jaar vormt Mighty Mike geen koppel met Van Barneveld, maar met de 31-jarige Jermaine Wattimena, die in tegenstelling tot Van Barneveld, nog niet een rijke dartscarrière achter de rug heeft. Voorafgaan aan het WK in Hamburg lag de druk dus bij de nieuwkomer, waar hij na de eerste ronde te hebben gespeeld geen last van bleek te hebben.</p><p>Namens Spanje kwamen Cristo Reyes en Toni Alcinas in actie. In een ’first to 5’, wist Nederland meteen te breken, doordat Wattimena 108 uitgooide. Vervolgens hield het Nederlandse duo, dat als vierde geplaatst is achter Engeland, Schotland en Wales (werd verrassend uitgeschakeld door Singapore), huis. „We kunnen iedereen gewoon keihard slopen”, stelde Van Gerwen voorafgaand aan de partij al.</p><p>The Machine Gun en Mighty Mike kwamen niet in de problemen tegen de Spanjaarden. De dubbels vlogen er gemakkelijk in, mede dankzij een sterk optreden van Wattimena. Nederland liet geen leg toe en plaatst zich voor de tweede ronde. Daarin is Polen zaterdag de volgende tegenstander.</p><p>„We startten allebei slecht”, zei Wattimena na afloop tegen RTL 7 Darts. „Gelukkig gooide ik die 108 uit.” Het was voor Wattimena de eerste keer dat hij meedeed aan het WK voor landenteams. „Ik was wal gespannen, maar gezonde spanning. Die was weer snel weg en gelukkig heb ik Michael naast me.”</p><p>Van Gerwen was tevreden over zijn ploegmakker. „Ik gooi altijd veel energie in de wedstrijden en dan staat er eentje naast mij die er nog meer energie in stopt”, lacht de wereldkampioen uit Brabant. „We hebben al zoveel toernooien samen gespeeld, vooral in de jeugd. Het is mooi om nu hier samen te staan.” In de tweede ronde wacht Polen. „Dat moet goed haalbaar zijn”, knikken beide mannen. „Zeker als je 5-0 van Spanje wint”, sluit Van Gerwen af.</p>

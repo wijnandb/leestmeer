@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Fransen halen Nederlandse weeskinderen uit Syrië"
+date: Mon, 10 Jun 2019 12:56:18 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/408738181/fransen-halen-nederlandse-weeskinderen-uit-syrie"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7859dbde-8b70-11e9-b4d0-02c309bc01c1.jpg"
+---
+
+<p class="intro">Twee jonge Nederlandse weeskinderen uit Syrië zijn met hulp van Frankrijk naar ons land overgebracht. Dat bevestigen ministers Blok (Buitenlandse Zaken) en Grapperhaus (Justitie en Veiligheid). Het gaat volgens lokale autoriteiten om weeskinderen van IS-strijders.</p> <p>De Franse overheid heeft de kinderen uit Syrië overgebracht en aan hun Nederlandse voogd overgedragen. Het kabinet heeft Frankrijk officieel bedankt.</p><p>„Het betreft twee jonge Nederlandse weeskinderen, die onder erbarmelijke omstandigheden en zonder enige vorm van ouderlijk gezag verbleven in een kamp in Syrië en voor wie geen lokaal gezag aanwezig was om de zorg op zich te nemen”, leggen de bewindslieden uit in een brief aan de Tweede Kamer.</p><p>Het is kabinetsbeleid om niet actief IS-strijders of hun kinderen terug te halen naar Nederland. Het gebied is volgens Den Haag te onveilig voor het sturen van teams.</p><p>Uitspraak</p><p>De ministers spreken nu over een ’specifieke casus’ waarbij een uitspraak ligt van een Nederlandse rechter. Die heeft de weeskinderen toegewezen aan een Nederlandse voogd. Daarom is bestudeerd hoe deze kinderen naar Nederland overgebracht konden worden. „In contact tussen Frankrijk en Nederland deed de mogelijkheid zich voor om deze twee weeskinderen naar Nederland over te brengen.”</p><p>De ministers willen verder niets kwijt over de zaak: „In het belang van de veiligheid en de privacy van betrokkenen, ten behoeve van de bilaterale relaties met andere landen en gezien de noodzakelijke vertrouwelijkheid van dit soort operaties, kunnen wij geen verdere mededelingen doen over deze specifieke casus.”</p>

@@ -1,0 +1,23 @@
+---
+layout: post
+title: "'Er was hier helemaal niets en toen kwam Pinkpop'"
+date: Sat, 08 Jun 2019 10:54:19 +0200
+category: cultuur
+externe_link: "https://nos.nl/l/2288133"
+feature_image: "https://nos.nl/data/image/2019/06/08/555403/1008x567.jpg"
+---
+
+<p>Ze stonden niet op het oorspronkelijke affiche voor de allereerste Pinkpop, 18 mei 1970, in Geleen. Komende middag staan ze in Landgraaf als klassiek ensemble op de 50ste editie: Golden Earring. Voor Ruud van Wersch was het die pinksterdag in 1970 om de hoek, als inwoner van Geleen. Hij maakte de eerste beelden van wat het bekendste festival van Nederland zou worden en is er nog steeds bij.</p>
+<p>Aan de muur van zijn etage aan de Pastoor Vonckenstraat in Geleen heeft Van Wersch dat eerste affiche hangen. Keef Hartley staat bovenaan en daaronder The Gun en Yes.</p>
+<p>The Gun en Yes zegden telefonisch af, tot wanhoop van de ontwerper van de poster en organisator van het festival: Jan Smeets. Van Wersch herinnert het zich goed. "Smeets was in grote paniek: wat nu? De posters die hij zelf drukte moesten opnieuw gemaakt worden. Hij heeft Golden Earring weten te vinden. Die vulden dat mooi in."</p>
+<p>Op YouTube komt bij Van Wersch de tijd van toen terug. Gemoedelijke straatbeelden van Geleen, zijn buurt, waar gelet op de gevels weinig is veranderd. Dan gaat het naar het festivalterrein op het sportpark Burgemeester Damen, de oergrond van Pinkpop. Golden Earring speelt Back Home, in danig verfletste kleuren. Van Wersch filmde ze met een camera die hij in 1969 voor Sinterklaas had gekregen.</p>
+<p>Pinkpop-directeur Jan Smeets zag het festival in de loop der jaren steeds meer veranderen, vertelde hij vandaag: </p>
+<p>De band liet hem graag toe op het podium, kon het goed gebruiken als promotiemateriaal. Van Wersch, genietend: "Toevallig kon ik op de bühne komen. Alle aandacht was meegenomen. Het was wel een zooitje ongeregeld. De steigerplanken met het cement er nog aan van de afgelopen week werden neergelegd, met de steigerpijpen er tussendoor."</p>
+<p>In zijn filmpje is te zien hoe Earring-gitarist George Kooymans een microfoonstandaard weg trapt. Van Wersch: "De ironie is dat iedereen speelde op de geluidsinstallatie van Golden Earring. Jan Smeets had versterking besteld voor een sportpark, van die toeters. Het was zo krakkemikkig aangesloten dat de microfoonstandaard van Kooymans onder stroom stond. Woedend stampte hij hem weg toen ik stond te filmen."</p>
+<p>Kijk hier naar de historische beelden, met aan het eind de trap tegen de microfoon: </p>
+<p>Het was de tijd van hippies, van love, peace &amp; music, heel gemoedelijk, zo'n festival vol vrede en muziek, een dag met wat populaire groepen. Het voorzag in een behoefte in Limburg, waar het tot dan toe knap saai was, op Tweede Pinksterdag.</p>
+<p>Pinkpop groeide in no time uit tot een gebeurtenis voor heel Nederland. In 1987 moest het festival voor een keer verkassen naar Baarlo. Daarna streek het neer op de paardenrenbaan van Landgraaf, sindsdien de vaste locatie. Even wennen voor Van Wersch, als echte jongen van Geleen: "Het was in onze achtertuin. We kenden de gaten in het hek. Leden van de schutterij deden de beveiliging. Die keken de andere kant uit."</p>
+<p>In vijf decennia is alles veranderd. Het is al lang een driedaagse, met een andere sfeer, een ander publiek. Van Wersch beaamt het: "Jan heeft het zo genoemd: toentertijd was Pinkpop voor de hippies. Nu is het voor iedereen, voor drie generaties. Voor mij is het een soort Disneyland, waar iedereen zit. De bands komen toevallig langs, omdat ze aan het toeren zijn, en daarna gaan weer weg. Met de Stones was er sprake van drie generaties en nu nog."</p>
+<p>Met alle herinneringen aan vijftig jaar komende en gaande bands weet Van Wersch ook van de as van Pinkpop-fans die op het festivalterrein is verstrooid. "Jan Smeets is een enorme milieufreak. Hij heeft eens een verzoek gekregen van de familie van een man die jarenlang naar Pinkpop ging en een vast plekje had voor het podium."</p>
+<p>Zijn laatste wens was dat zijn as uitgestrooid zou worden op het Pinkpopterrein. "Daar kwam niks van in voor Jan. Toen zei iemand tegen hem dat zo'n beetje as niet veel uitmaakte. Op het laatst is het toch gebeurd, maar voor Jan mocht het geen gewoonte worden."</p>
+<p>Toch weet Van Wersch dat het inmiddels zeker vijf keer is gebeurd. "Een zoon of dochter ging dan met de as naar Pinkpop. Dan gingen zij tijdens het festival op het plekje staan, liefst tijdens het optreden van de favoriete band van de overledene en dan werd de as clandestien uitgestrooid. En elk jaar gaan ze naar hetzelfde plekje. De as is weg, maar het gevoel blijft."</p>

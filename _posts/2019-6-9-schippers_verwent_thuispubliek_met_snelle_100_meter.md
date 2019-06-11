@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Schippers verwent thuispubliek met snelle 100 meter"
+date: Sun, 09 Jun 2019 19:30:24 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1881141303/schippers-verwent-thuispubliek-met-snelle-100-meter"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4b1c87be-8adc-11e9-bb89-02c309bc01c1.jpg"
+---
+
+<p class="intro">Dafne Schippers heeft haar trouwe fans verwend met een overwinning op de 100 meter bij de FBK Games.</p> <p>De Utrechtse zegevierde in Hengelo in 11,06 en daarmee snelde ze niet alleen onder de limiet voor de WK in Doha, ze stelde ook al haar ticket voor de Olympische Spelen van 2020 in Tokio veilig. „Heerlijke race. Hier ben ik erg blij mee”, zei ze kort na de finish.</p><p>Schippers was prima weg uit de startblokken en won vrij afgetekend. Angela Gabriela Tenorio uit Ecuador finishte als tweede in 11,20 en de Braziliaanse Vitoria Cristina Rosa werd derde in 11,24. Jamile Samuel kwam nog wat te kort; de Amsterdams eindigde als vijfde in 11,28, Marije van Hunenstijn arriveerde als zesde in 11,33.</p><p>De tweevoudig wereldkampioene op de 200 meter loopt eigenlijk altijd goed in Hengelo. Ze liep er ooit voor het eerst onder 11 seconden op de 100 en zette ook al eens een lage 22 neer op de dubbele afstand. ’’Je weet dat het publiek hier ook komt om mij te zien en de sfeer is altijd geweldig hier. Ik krijg daar zoveel energie van. Ik had ook echt zin om hier te lopen en dan rolt deze tijd eruit en daar ben ik echt heel blij mee.”</p><p>Schippers kende een moeizame voorbereiding op het zomerseizoen door een rugblessure. Het duurde lang voordat ze pas echt op snelheid kon trainen. „Deze 100 meter voelde eigenlijk als de eerste echte 100 van dit seizoen. De start was goed en ook het laatste stuk was prima, alleen daartussen kan het nog beter. Ik voel dat er nog veel ruimte is en dat is erg fijn. Ik heb ook nog alle tijd om de zaken verder te verfijnen en aan te scherpen, want de WK in Doha is nog maanden weg.”</p>
