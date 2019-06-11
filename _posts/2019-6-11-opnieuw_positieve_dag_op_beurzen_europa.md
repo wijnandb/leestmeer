@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Opnieuw positieve dag op beurzen Europa"
+date: Tue, 11 Jun 2019 17:40:50 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/1097550302/opnieuw-positieve-dag-op-beurzen-europa"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5123761a-8c60-11e9-8037-0218eaf05005.jpg"
+---
+
+<p class="intro">De Europese aandelenbeurzen zijn dinsdag opnieuw met winst gesloten, na de plussen een dag eerder. Beleggers trokken zich op aan de aanhoudende winstreeks op Wall Street en hielden vooral de ontwikkelingen rond de handelsstrijd tussen de Verenigde Staten en China in de gaten. Op het Damrak waren metalenspecialist AMG en maritiem oliedienstverlener SBM Offshore in trek na positief bedrijfsnieuws.</p> <p>De AEX-index op Beursplein 5 eindigde 0,7 procent hoger op 557,22 punten. De MidKap dikte 1,8 procent aan tot 769,63 punten. Londen en Parijs wonnen tot 0,5 procent. De Duitse beurs, die maandag dicht was, klom 0,9 procent.</p><p>AMG was de grote winnaar in de MidKap met een winst van 7,3 procent. De metalenspecialist wil zijn divisie Technologies afsplitsen en apart naar de beurs brengen. SBM Offshore won 4,8 procent. De dienstverlener heeft een intentieverklaring getekend met het Braziliaanse staatsoliebedrijf Petrobras voor de inzet van een productie- en opslagschip (FPSO) dat momenteel wordt gebouwd.</p><p>Galapagos</p><p>Bedrijven die gevoelig zijn voor de handelsperikelen werden opgepikt. Staalconcern ArcelorMittal was de sterkste stijger in de AEX met een plus van 6,6 procent. Roestvrijstaalproducent Aperam klom 3,7 procent in de MidKap.</p><p>Galapagos won 1,9 procent aan waarde. De biotechnoloog en zijn Franse partner Servier kwamen met positief nieuws over het onderzoek van een kandidaatmedicijn bij patiënten met artrose in de knie. Verzekeraar NN Group klom 1,2 procent na een adviesverhoging door KBC Securities.</p><p>Commerzbank</p><p>In Londen kelderde het Britse modemerk Ted Baker 29 procent na een winstwaarschuwing. De koers van Commerzbank ging 0,8 procent vooruit in Frankfurt. Beleggers reageerden nog op het bericht in zakenkrant Handelsblatt dat ING geen interesse meer heeft in een overname van de Duitse bank.</p><p>De euro noteerde op 1,1316 dollar tegen 1,1311 dollar een dag eerder. De prijs van een vat Amerikaanse olie steeg 0,5 procent tot 53,52 dollar. Brentolie kostte 0,3 procent meer op 62,48 dollar per vat.</p>

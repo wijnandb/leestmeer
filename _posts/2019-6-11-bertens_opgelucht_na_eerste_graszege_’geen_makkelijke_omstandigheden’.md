@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Bertens opgelucht na eerste graszege: ’Geen makkelijke omstandigheden’"
+date: Tue, 11 Jun 2019 17:29:46 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/975605468/bertens-opgelucht-na-eerste-graszege-geen-makkelijke-omstandigheden"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/fc3d0f5e-8c5e-11e9-a826-0218eaf05005.jpg"
+---
+
+<p class="intro">Kiki Bertens merkt deze week in Rosmalen dat haar status in eigen land veranderd is.</p> <p>Maandag zat tijdens haar training de tribune vol en na afloop klonk er zelfs applaus. Dinsdag begon Bertens haar jacht op de titel met een overtuigende zege op Johanna Larsson uit Zweden.</p><p>„Het is toch lastig zo’n eerste wedstrijd op gras en dan ook nog voor thuispubliek, wat toch voor meer druk zorgt. En dan ook nog tegen een erg goede vriendin. Al met al waren het geen makkelijke omstandigheden”, zei Bertens na haar 6-3, 6-1-overwinning.</p><p>Bertens heeft na haar vroege aftocht op Roland Garros al veel uren gemaakt op gras. „Ik krijg de baan wanneer en hoe lang ik wil, dus ik mag in mijn handen knijpen”, aldus de mondiale nummer 4. „Normaal gesproken moet je een baan delen. Vorig jaar was dat wel anders. Daar merk je wel aan dat mijn status veranderd is.”</p><p>Buiten de baan merkt Bertens ook dat er meer van haar wordt gevraagd. „Het is zeker een stuk drukker dan andere jaren. Ik heb het druk, want ik moet veel handtekeningen uitdelen en veel op de foto. Het leeft echt veel meer. Op andere toernooien is er natuurlijk ook wel iets meer aandacht, maar niet zozeer van de Nederlanders”, aldus Bertens.</p><p>„Dit is het enige toernooi dat ik speel in eigen land dus ik probeer ook iets terug te doen. Maar ik probeer wel op tijd naar huis te gaan en voldoende rust te pakken. Het is heerlijk om met de auto naar een toernooi te kunnen en in je eigen bed te slapen.”</p><p>Na het toernooi hoopt Bertens nog te kunnen trainen in Rosmalen en vervolgens speelt ze in Eastbourne nog een voorbereidingstoernooi voor Wimbledon, waar ze vorig jaar de kwartfinales haalde.</p>
