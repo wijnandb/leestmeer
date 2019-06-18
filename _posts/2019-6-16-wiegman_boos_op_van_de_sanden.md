@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Wiegman boos op Van de Sanden"
+date: Sun, 16 Jun 2019 07:56:01 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1395011802/wiegman-boos-op-van-de-sanden"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6b5520f8-8ffb-11e9-b76d-0255c322e81b.jpg"
+---
+
+<p class="intro">Bondscoach Sarina Wiegman was niet blij met een bepaalde keuze van Shanice van de Sanden. De aanvalster van Oranje en Olympique Lyon gleed zaterdag in het tweede groepsduel tegen Kameroen meerdere malen uit op het veld in Valenciennes.</p> <p>„Dat was niet zo handig. Zij had schoenen gewisseld. Er gleden ook spelers uit die wel op zes noppen speelden”, reageerde Wiegman tegenover NOS. „Het was niet het goeie schoeisel. Daar was ik wel boos over. Ik vind dat je schoenen in orde moeten zijn.” Verder wilde Wiegman, die Nederland met 3-1 zag winnen, niet al te lang stilstaan bij de verkeerde inschatting van Van de Sanden, die overigens wel in de 66e minuut werd gewisseld voor Lineth Beerensteyn.</p><p>De Nederlandse voetbalsters weten zich dankzij de tweede zege al verzekerd van een ticket voor de achtste finales op het WK in Frankrijk. Oranje strijdt aanstaande donderdag met Canada om de eerste plek in groep E en kan eventueel rekening worden gehouden met mogelijke tegenstanders bij de laatste zestien. „Het is altijd heel gevaarlijk om te gaan rekenen”, kijkt Wiegman vooruit. „Want welke tegenstander is nou beter? Engeland, Japan, Amerika, Zweden? Nee, daar begin ik niet aan.”</p><p>Als Nederland eerste worden in groep E, dan treffen ze in de achtste finales de nummer twee van poule D met daarin Engeland en Japan. Eindigt Oranje als tweede, dan volgt een duel met de nummer twee uit de groep van Zweden en de Verenigde Staten, de regerend wereldkampioen. „Je moet altijd verder denken, maar laten we eerst die wedstrijd tegen Canada maar spelen.”</p><p>Bekijk hieronder ook de video, waarin Anouk Hoogendijk terugkijkt op Nederland - Kameroen en eveneens de prestaties van Miedema analyseert.</p>

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Opmerkelijke taferelen in kleedkamer van voetbalsters Kameroen"
+date: Sun, 16 Jun 2019 08:23:55 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1002400063/opmerkelijke-taferelen-in-kleedkamer-van-voetbalsters-kameroen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7cb62696-9017-11e9-aada-0255c322e81b.jpg"
+---
+
+<p class="intro">De voetbalsters van Kameroen hielden er in de rust van het duel met Nederland opmerkelijke taferelen op na in de kleedkamer. Zo lagen diverse speelsters op de grond, starend naar het plafond en met de benen omhoog op de banken.</p> <p>De beelden werden al tijdens de pauze door Kameroen zelf via sociale media verspreid. Op dat moment was de stand 1-1. Gabrielle Aboudi Onguene had vlak voor rust de 0-1 achterstand onschadelijk gemaakt. Dat was een opvallend doelpunt. De aanvalster, die slechts 1 meter en 52 centimer ’groot’ is, verschalkte voorafgaand aan de treffer eerst keepster Sari van Veenendaal in de lucht om vervolgens de bal binnen te schuiven.</p><p>In de tweede helft moest Kameroen toezien hoe Oranje alsnog de overwinning over de streep trok. Vivianne Miedema tekende voor haar tweede doelpunt en verdedigster Dominique Bloodworth zorgde voor de andere treffer. Nederland won met 3-1 en is dankzij twee zeges al zeker van de achtste finales.</p><p>Kameroen, dat eerder ook al van Canada verloor, heeft nog een theoretische kans om de volgende ronde te halen. In dat geval moet voor de Afrikanen wel alles meezitten en zijn ze mede afhankelijk van de resultaten in de andere groepen. Er plaatsen zich namelijk ook vier beste nummers 3 voor de laatste 16 van het WK in Frankrijk.</p><p>Overigens deed zich tijdens het duel een incident voor rond doelpuntenmaakster Aboudi Onguene. Oranje-reserve Merel van Dongen bood langs de zijlijn de speelster een flesje water aan, maar kreeg datzelfde flesje onmiddellijk naar haar hoofd geslingerd. Aboudi Onguene werd vervolgens door het Nederlandse publiek in Valenciennes veelvuldig uitgefloten.</p>

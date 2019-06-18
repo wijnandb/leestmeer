@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Maestro Bernard Haitink (90) dirigeert laatste concert in Nederland"
+date: Sat, 15 Jun 2019 20:52:23 +0200
+category: cultuur
+externe_link: "https://nos.nl/l/2289227"
+feature_image: "https://nos.nl/data/image/2019/06/15/557029/1008x567.jpg"
+---
+
+<p>De 90-jarige maestro Bernard Haitink heeft zijn laatste concert in Nederland gedirigeerd. Vanmiddag speelde hij in het Concertgebouw in Amsterdam met het Radio Filharmonisch Orkest de zevende symfonie van Bruckner. Daarmee is de cirkel rond, want 65 jaar geleden dirigeerde hij voor het eerst bij het Radio Filharmonisch Orkest.</p>
+<p>Dat was in 1954. In 1961 werd hij chef-dirigent van het Koninklijk Concertgebouworkest. Hij oogstte roem met zijn uitvoeringen van de symfonieën van Mahler. Maar hij stond ook bekend om zijn uitvoeringen van Bruckner. "Hij heeft het tijdens de repetities ongeveer al vijf keer gezegd: 'Wat is het toch mooi, we doen het nog een keer'", zegt concertmeester Joris van Rijn vanmiddag vlak voor het laatste concert. "Dus hij kan er ook niet van scheiden, vermoed ik. Ik denk dat de zevende een van zijn favoriete muziekstukken is."</p>
+<p>Dat komt ook naar voren uit een ouder interview in NRC. "Met Bruckners zevende ben ik opgegroeid", liet Haitink twee jaar geleden optekenen. "Ik hoorde het stuk voor het eerst op de radio in 1938. Misschien is het abnormaal dat een kind van 8 zo wordt aangetrokken door zo'n lang stuk, maar zo was het. Met alle gevolgen vandien."</p>
+<p>Jarenlang bleef hij verbonden aan het Concertgebouworkest. Tot het halverwege de jaren tachtig ging rommelen. Er was een conflict met de directie en de verhoudingen raakten verstoord. In 1987 maakte hij de overstap naar The Royal Opera House Covent Garden in Londen. Ook stond Haitink als gastdirigent voor vele grote Europese en Amerikaanse orkesten.</p>
+<p>Een paar jaar geleden bleek dat er nog steeds onenigheid was tussen hem en de directie van het Concertgebouworkest. Hij voelde zich gepasseerd en "haast vernederd", omdat de directie hem niet betrok bij de viering van het 125-jarig jubileum van het orkest en het gebouw.</p>
+<p>Haitink is soms getypeerd als lastig en opvliegend, maar inmiddels zijn de scherpe kantjes eraf, zegt bastrombonist Brandt Attema. "Hij zei het zelf deze week nog: 'Ik ben mijn wilde haren wel een beetje verloren, letterlijk en figuurlijk.' Ik vind hem nu heel aimabel en prettig. Het is een heel charismatische man, dus als hij iets vraagt, doe je het ook wel."</p>
+<p>Ook bij de nieuwe generatie dirigenten is er veel respect voor Haitink. "Hij staat altijd in dienst van de muziek", zegt Manoj Kamp (31). "Hij maakt geen showy extra bewegingen die eigenlijk meer voor het publiek zouden zijn dan voor de spelers in het orkest. Hij laat de muzikanten echt tot hun recht komen, doordat zijn ego hem niet in de weg staat op het podium."</p>
+<p>Kamp vindt het niet zonde dat Haitink heeft besloten te stoppen. "Ik gun het hem juist van harte. Hij heeft een lange, rijke carrière gehad. Dus ik vind het juist bewonderenswaardig dat hij op zo'n bescheiden manier afscheid neemt. Zoals het hem betaamt eigenlijk, want zo is hij altijd geweest in zijn carrière: hij heeft zich nooit muzikaal in het middelpunt willen plaatsen."</p>
+<p>Het besluit om te stoppen kwam tijdens een sabbatical, die Haitink had genomen nadat hij vorig jaar was gevallen tijdens een concert in het Concertgebouw. In de Volkskrant zegt hij: "Als ik alleen was geweest, was ik misschien op een of andere manier nog doorgegaan. Van de andere kant wil ik niet in een situatie belanden waarin mensen zeggen: Bernard is een aardige kerel, maar hij moet niet meer dirigeren. Dat wil ik voorkomen."</p>
+<p>In dit filmpje op Twitter zijn de laatste momenten van het concert te zien, inclusief de staande ovatie voor maestro Haitink:</p>

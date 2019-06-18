@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Eenoudergezinnen zuchten onder toeslagschulden"
+date: Thu, 13 Jun 2019 17:08:00 +0200
+categories: 
+- financieel 
+- geld 
+externe_link: "https://www.telegraaf.nl/financieel/20119128/eenoudergezinnen-zuchten-onder-toeslagschulden"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1d7c5964-8dee-11e9-b6fa-0218eaf05005.jpg"
+---
+
+<p class="intro">Huishoudens met kinderen, en met name eenoudergezinnen, komen vaak in de problemen omdat zij ontvangen toeslagen weer moeten terugbetalen. Maar liefst drie van de vier mensen die toeslagen ontvingen, moest tussen 2012 en 2017 minimaal één keer geld terugbetalen.</p> <p>Dat blijkt uit onderzoek door de Algemene Rekenkamer over de periode 2012-2017.</p><p>De gegevens van zeven miljoen Nederlandse huishoudens die een toeslag - huurtoeslag, zorgtoeslag, kinderopvangtoeslag of kindgebonden budget - van de Belastingdienst ontvangen, zijn geanalyseerd.</p><p>In totaal ontvangen negen miljoen mensen in Nederland toeslagen. Zij vormen zeven miljoen huishoudens.</p><p>Langdurige schulden</p><p>Vooral eenoudergezinnen kampen vaak en lang met toeslagschulden. „De meeste huishoudens kunnen te veel ontvangen toeslag relatief snel weer terugbetalen, maar enkele honderdduizenden huishoudens hebben langdurig te maken met toeslagschulden”, zegt collegelid van de Algemene Rekenkamer en voormalig SP-Kamerlid Ewout Irrgang.</p><p>Niet alleen gezinnen met een laag inkomen zijn vaak lang bezig met terugbetalen, maar ook huishoudens met een jaarinkomen tot €71.000 (twee keer modaal). Daarin speelt ook mee dat mensen soms te maken krijgen met meerdere terugvorderingen tegelijkertijd. Bij meer dan 600.000 huishoudens lopen meer dan vier terugvorderingen op hetzelfde moment.</p><p>Voorschot</p><p>Toeslagen worden als voorschot betaald. Als iemand bijvoorbeeld meer gaat verdienen, de kinderen uit huis gaan of diegene gaat trouwen of samenwonen, kan hij of zij minder recht krijgen op schulden. Als dat niet op tijd wordt doorgegeven, ontstaat er een schuld. Elk jaar moeten maar liefst drie miljoen Nederlanders iets van toeslag terugbetalen.</p><p>Toeslagen maken het voor huishoudens bovendien lastig om hun financiële situatie te overzien. De zeven miljoen onderzochte huishoudens kregen in de vijf jaar dat de Algemene Rekenkamer onderzoek deed, samen te maken met 23 miljoen terugvorderingen.</p>

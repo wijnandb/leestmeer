@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Jonge woningkoper durft niet meer te bieden"
+date: Mon, 17 Jun 2019 22:57:58 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/1813179946/jonge-woningkoper-durft-niet-meer-te-bieden"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/02d39fec-9144-11e9-9652-02c309bc01c1.jpg"
+---
+
+<p class="intro">De moedeloosheid onder woningzoekers neemt steeds grotere vormen aan. Jonge kopers nemen nauwelijks nog de moeite om te bieden op een huis, omdat zij denken toch achter het net te vissen.</p> <p>Een op de vijf jongere kopers is bereid uit eigen zak meer neer te leggen voor een huis dan het bedrag dat zij als hypotheek kunnen lenen. Twee op de vijf jonge kopers bieden helemaal niet, omdat zij verwachten overboden te worden. Dat blijkt uit een enquête dat onderzoeksbureau PanelWizard in opdracht van hypotheekadviseur Viisi hield onder ruim duizend kopers tussen de 22 en 35 jaar.</p><p>De twee uitkomsten zijn volgens Tom van der Lubbe van Viisi helemaal zo tegenstrijdig niet. „Door de overbiedingsgekte is de concurrentie zo moordend geworden dat een grote groep jonge kopers niet meer durft te bieden”, meent hij. Daarbij is ruim 42 procent van de ondervraagden er ook nog eens van overtuigd dat de huizenprijzen zullen dalen.</p><p>Het moeten overbieden breidt zich door het grote tekort aan woningen en de onverminderd grote vraag steeds verder uit over het land. Van der Lubbe: „Waar voorheen alleen in de grote steden werd overboden zien we dat nu in de hele Randstad.”</p><p>Woningmarkteconoom Nic Vrieselaar van Rabobank benadrukt dat overbieden met spaargeld niet altijd verstandig is.</p><p>Hij wijst op kosten voor onderhoud en inrichting van de woning: „Daarbij is het altijd goed een gezonde financiële buffer te houden.”</p><p>In de jacht op een droomhuis blijken veel kopers zich ook blind te staren op het hypotheekbedrag. Maar liefst 80 procent van de kopers met een partner houdt bij het afsluiten van een hypotheek geen rekening met de mogelijkheid van een scheiding of een einde van de relatie. Dat is weer de uitkomst van een onderzoek van de Nationale Hypotheek Garantie (NHG) en Munt Hypotheken onder ruim duizend gescheiden woningbezitters.</p><p>„Zo’n 60 procent van de mensen die een beroep doen op NHG is in de financiële problemen gekomen door een scheiding”, zegt NHG-bestuurder Carla Muters. „Overlijden speelt een rol in minder dan zeven procent van de gevallen.”</p>
