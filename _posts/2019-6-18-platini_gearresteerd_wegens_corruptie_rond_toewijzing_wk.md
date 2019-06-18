@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Platini gearresteerd wegens corruptie rond toewijzing WK"
+date: Tue, 18 Jun 2019 10:23:45 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/sport/243665383/platini-gearresteerd-wegens-corruptie-rond-toewijzing-wk"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/52b03c20-91b0-11e9-bf35-0217670beecd.jpg"
+---
+
+<p class="intro">Michel Platini is vanmorgen vroeg in Frankrijk gearresteerd op verdenking van corruptie bij de toewijzing van het WK voetbal aan Qatar.</p> <p>Dat melden diverse Franse media op basis van bronnen bij de overheid. Platini zou zijn vastgezet op het kantoor van de anticorruptie-eenheid van justitie, waar hij wordt verhoord. Volgens onderzoekswebsite Mediapart wordt ook Claude Gueant, de voormalige secretaris-generaal van de toenmalige Franse president Nicolas Sarkozy, verhoord door de Franse justitie. Hij zou niet gearresteerd zijn.</p><p>In opspraak</p><p>De 63-jarige Fransman, zelf voormalig topvoetballer, fungeerde jarenlang als voorzitter van de UEFA en als vicevoorzitter van de FIFA. Platini raakte echter in opspraak vanwege een dubieuze financiële deal met FIFA-voorzitter Sepp Blatter uit 2011. Beiden werden eind 2015 in eerste instantie voor acht jaar geschorst. Na diverse beroepszaken werd de straf voor Platini teruggebracht naar vier jaar, die van Blatter naar zes jaar.</p><p>Omkoping</p><p>Het toenmalige bestuur van de FIFA wees eind 2010 het WK van 2022 toe aan Qatar. Sindsdien doen verhalen over omkoping en corruptie de ronde. Het organisatiecomité van het WK heeft altijd ontkend dat Qatar de regels heeft overtreden bij de bidprocedure.</p><p>Onverklaarbare zaken</p><p>De FIFA liet daar onderzoek naar doen door de Amerikaanse jurist Michael Garcia. Hij stuitte in zijn onderzoek op vele onregelmatigheden en onverklaarbare zaken rond de bidprocedure van Qatar. Garcia pleitte in zijn eindverslag, dat in 2014 klaar was maar dat de FIFA destijds niet volledig wilde publiceren, echter niet voor een nieuwe procedure voor de toewijzing van het WK van 2022. De Amerikaan legde zijn functie als hoofdonderzoeker bij de FIFA neer omdat hij ontevreden was met de manier waarop de federatie met zijn bevindingen was omgegaan.</p><p>Het WK in Qatar wordt gehouden van 21 november tot en met 18 december 2022. Door de hitte in het oliestaatje kan er niet in de zomer gespeeld worden, waardoor het wereldkampioenschap voor het eerst in geschiedenis in de winter afgewerkt wordt.</p>
