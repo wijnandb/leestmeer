@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Marc wil meer gehandicapten op ’gewone’ tv"
+date: Tue, 18 Jun 2019 12:28:26 +0200
+categories: 
+- entertainment 
+- gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/1082201334/marc-wil-meer-gehandicapten-op-gewone-tv"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d2575226-91b3-11e9-894e-02d2fb1aa1d7.JPG"
+---
+
+<p class="intro">Marc de Hond is kritisch over de tv-show Minister van Gehandicaptenzaken van KRO-NCRV. Hij pleit voor meer gehandicapten in gewone televisieprogramma’s.</p> <p>„Prima dat er gisteren alwéér een ’wie-is-de-beste-gehandicapte’-show met Lucille Werner is uitgezonden, maar als Hilversum écht iets wil betekenen voor betere beeldvorming van mensen met een beperking: laat ze dan ’gewoon’ op tv komen, in de ’gewone’ programma’s”, schrijft Marc bij een video op YouTube.</p><p>Hij constateert dat mensen met een beperking net als hij vooral uitgenodigd worden door tv-programma’s om over hun handicap te praten. „Hoe vaak zie je iemand met een beperking op tv zonder dat het gaat over zijn beperking?”, zegt Marc. „Het zou ook fijn zijn als je geregeld mensen op tv zag die gewoon meepraten over iets anders. In Engeland hebben ze dat veel beter voor elkaar. Een van de best bekeken talkshows wordt gepresenteerd door comedians die benen en armen missen. Daar hebben ze een presentator van een reisprogramma die in een rolstoel zit. Een weervrouw die een arm mist. Want daar vinden ze het belangrijk dat de mensen die je op tv ziet een goede afspiegeling zijn van de maatschappij. En dat zou voor Nederland ook goed zijn.”</p><p>Officieus</p><p>Maandag zagen 373.000 kijkers hoe Rick Brink uit Hardenberg werd verkozen tot officieuze minister van Gehandicaptenzaken. De 33-jarige Brink komt een jaar lang betaald in dienst bij de omroep KRO-NCRV en krijgt een team ter ondersteuning. De omroep gaat het thema dit jaar ook in diverse programma’s op radio en televisie integreren.</p><p>„Er zijn bijna twee miljoen Nederlanders met een handicap. Die zijn haast onzichtbaar, ook in politiek Den Haag”, zei initiatiefnemer en presentatrice Lucille Werner. „Het beleid gaat nu over veel verschillende ministeries, die allemaal een klein stukje hebben.” In sommige andere landen zit volgens haar al echt zo’n minister in de regering. Werner strijdt al jaren voor meer acceptatie en zichtbaarheid van gehandicapten.</p>
