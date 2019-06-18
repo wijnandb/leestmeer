@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Broekers: pogingen om ongewenste vreemdelingen uit te zetten mislukken te vaak"
+date: Tue, 18 Jun 2019 16:23:29 +0200
+category: nieuws
+externe_link: "https://nos.nl/l/2289566"
+feature_image: "https://nos.nl/data/image/2019/06/18/557481/1008x567.jpg"
+---
+
+<p>Staatssecretaris Broekers-Knol vindt het onacceptabel dat pogingen om ongewenste vreemdelingen terug te sturen de afgelopen vijf jaar meer dan 10.000 keer mislukten. Ze wil zo nodig harde maatregelen nemen om landen te dwingen uitgeprocedeerde asielzoekers terug te nemen, zei ze bij haar eerste optreden als staatssecretaris van Justitie en Veiligheid in de Tweede Kamer.</p>
+<p>De kersverse staatssecretaris belooft na de zomer met voorstellen te komen. Ook wil ze kijken wat Nederland kan leren van Noorwegen. Dat land heeft in herkomstlanden Noorse ambtenaren werken die de terugkeer proberen te bevorderen.</p>
+<p>Uit cijfers van de Dienst Terugkeer en Vertrek en wetenschappelijk onderzoek blijkt dat uitgeprocedeerde asielzoekers relatief weinig worden uitgezet. Iets meer dan 18 procent van de uitgeprocedeerden verlaat daadwerkelijk Nederland.</p>
+<h2>Geld inhouden, landingsrechten inperken</h2>
+<p>Verschillende partijen drongen er in de Tweede Kamer op aan om ontwikkelingsgeld in te houden of landingsrechten in te perken als landen niet willen meewerken aan terugkeer van asielzoekers. "Een land als Ivoorkust krijgt 208 miljoen euro aan Europees ontwikkelingsgeld", zei Kamerlid Becker (VVD). "Daar moeten we voorwaarden aan stellen."</p>
+<p>De staatssecretaris is het daarmee eens. "Het kan niet zo zijn dat een land geld krijgt en weigert mensen terug te nemen." Ze beloofde de Kamer "kabinetsbreed keihard te werken" aan een oplossing van dit probleem.</p>
+<p>VVD'er Broekers-Knol volgde vorige week haar partijgenoot Mark Harbers op, die opstapte omdat de Kamer onder zijn verantwoordelijkheid verkeerd was geïnformeerd over ernstige misdrijven waarbij asielzoekers betrokken waren. De afgelopen zes jaar was Broekers-Knol voorzitter van de Eerste Kamer.</p>
