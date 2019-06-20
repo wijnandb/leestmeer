@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ronde van Zwitserland: Viviani wint, Sagan blijft leider"
+date: Tue, 18 Jun 2019 17:29:07 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1024148112/ronde-van-zwitserland-viviani-wint-sagan-blijft-leider"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/107b8632-91df-11e9-967b-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Elia Viviani heeft de vierde etappe in de Ronde van Zwitserland op zijn naam gebracht.</p> <p>De Italiaanse coureur van Deceuninck - Quick-Step was na 164 kilometer in Arlesheim de sterkste in de eindsprint. De Australiër Michael Matthews (Team Sunweb) moest genoegen nemen met de tweede plek. De Slowaak Peter Sagan kwam als derde over de finish. De winnaar van de derde etappe bleef leider in het algemeen klassement.</p><p>Grote verliezer was de Britse wielrenner Geraint Thomas, vorig jaar winnaar van de Ronde van Frankrijk. De 33-jarige coureur van Team Ineos kwam circa 30 kilometer voor de finish hard ten val. Hij kreeg snel medische hulp. Thomas leek last van zijn schouder te hebben en zag er verder gehavend uit. Hij is voor nader onderzoek naar het ziekenhuis gebracht.</p><p>Het uitvallen van Thomas is de tweede zware tegenvaller voor Team Ineos. De Britse kopman Chris Froome, viervoudig winnaar van de Tour, crashte vorige week en is ruim een half jaar uit de roulatie.</p><p>De vierde etappe voerde het peloton van Murten naar Arlesheim over een heuvelachtig parcours. Halverwege wachtte de eerste klim (Passwang) waarna nog twee keer dezelfde helling (Hochwald) moest worden bedwongen. In de afdaling naar de finish werd de vlucht van de dag met vier renners, inclusief de Nederlander Taco van der Hoorn (Jumbo-Visma), door het peloton ingerekend. Daarna begon het spel van de sprintploegen en toonde Viviani zich in een lange spurt de snelste.</p><p>De Italiaan, maandag nog tweede, was hard toe aan een overwinning. Zijn laatste sprintzege behaalde hij in de Tirreno-Adriatico, ruim drie maanden geleden. In de Ronde van Italië eindigde Viviani daarna onder meer drie keer als tweede.</p>

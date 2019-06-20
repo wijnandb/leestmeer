@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Dumic waarschuwt FC Utrecht: ’Het wordt geen makkie’"
+date: Thu, 20 Jun 2019 08:06:42 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1539167079/dumic-waarschuwt-fc-utrecht-het-wordt-geen-makkie"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/93771efa-9321-11e9-bab3-0217670beecd.jpg"
+---
+
+<p class="intro">FC Utrecht treft in de tweede voorronde van de Europa League sowieso een tegenstander van de Balkan, maar of de reis naar Noord-Macedonië gaat of naar Bosnië-Herzegovina is nog de vraag. Akademija Pandev uit Strumica, de club die is opgericht door de bekendste Noord-Macedonische voetballer Goran Pandev, en HSK Zrinjski uit het Bosnische Mostar kruisen eerst nog de degens.</p> <p>FC Utrecht-verdediger Dario Dumic, die Bosnische roots heeft, hoopt op HSK Zrinjski als tegenstander en gaat daar ook al een beetje vanuit. „Het niveau van de Bosnische competitie is hoger dan dat in Noord-Macedonië. HSK Zrinjski is een van de topteams in Bosnië en de afgelopen jaren meerdere keren landskampioen geworden. Afgelopen seizoen zijn ze tweede geworden achter kampioen FK Sarajevo.”</p><p>Veel talent</p><p>Dumic is geboren in Sarajevo, maar groeide op in Denemarken, nadat zijn familie de oorlog in Bosnië ontvluchtte. De voormalige Deense jeugdinternational besloot twee jaar geleden voor de nationale ploeg van Bosnië-Herzegovina te gaan spelen en heeft inmiddels vijf interlands achter zijn naam. „Welke van de twee tegenstanders het ook wordt, het zal geen makkie zijn. Er is zoveel talent op de Balkan. Elke club heeft technisch begaafde spelers”, weet Dumic.</p><p>De centrale verdediger meldt zich volgens plan zondag voor de eerste training van FC Utrecht in het nieuwe seizoen, nadat hij vorig seizoen verhuurd was aan Dynamo Dresden, dat uitkomt in de Tweede Bundesliga. „Ik heb daar een heel goed en mooi jaar gehad. Nu is er een nieuwe trainer bij FC Utrecht en dat biedt altijd weer kansen. Ik voel me goed na een geslaagd seizoen in Duitsland en wil mezelf bewijzen.”</p>

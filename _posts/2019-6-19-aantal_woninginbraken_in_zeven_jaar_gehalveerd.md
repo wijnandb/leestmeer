@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Aantal woninginbraken in zeven jaar gehalveerd"
+date: Wed, 19 Jun 2019 07:27:00 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/2001468407/aantal-woninginbraken-in-zeven-jaar-gehalveerd"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d6e39d58-9263-11e9-98ed-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Vorig jaar is 42.798 keer ingebroken in een woning. Zeven jaar geleden gebeurde dat in ons land nog ruim dubbel zo vaak: 91.930. Dat meldt de politie op de dag die is uitgeroepen tot European Focus Day on Domestic Burglary, de Europese dag tegen woninginbraken.</p> <p>„Hoewel het aantal woninginbraken sinds 2012 is gehalveerd, blijft het noodzakelijk dat mensen hun woning goed beschermen tegen inbrekers. Met de juiste preventiemaatregelen neemt de kans op een inbraak tot 90 procent af, aldus de politie woensdag. 42.798 woninginbraken „zijn er voor mij nog 42.798 te veel”, zegt Sybren van der Velden, landelijk projectleider woninginbraak bij de politie. „Een inbraak in je woning is een heel heftige ervaring. Een wildvreemde die je huis openbreekt, doorzoekt en je spullen steelt. Op de plek waar je je het veiligst moet voelen.”</p><p>De themadag wordt in Zoetermeer geopend door burgemeester en landelijk ambassadeur Aanpak Woninginbraken Charlie Aptroot.</p><p>Meerdere acties en campagnes</p><p>De afgelopen jaren zijn er meerdere acties en campagnes geweest om mensen bewust te maken van woninginbraakpreventie. Onder meer onder de noemer ’maak het ze niet te makkelijk’, waarbij mensen worden gewezen op wat ze zelf kunnen doen tegen een inbraak. Het gaat om tips als: Doe als je het huis uit gaat altijd je ramen dicht. En de deur op slot. Laat ’s avonds licht branden als je weg bent.</p><p>Ook zijn er op veel plaatsen zogeheten wittevoetjesacties, waarbij toezichthouders van de gemeente en politieagenten onaangekondigd langs woningen gaan en kijken of er makkelijk zou kunnen worden ingebroken.</p>

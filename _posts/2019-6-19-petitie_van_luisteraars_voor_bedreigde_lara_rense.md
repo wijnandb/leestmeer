@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Petitie van luisteraars voor bedreigde Lara Rense"
+date: Wed, 19 Jun 2019 23:04:00 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/1734501013/petitie-van-luisteraars-voor-bedreigde-lara-rense"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b10ffeea-92d7-11e9-be21-0218eaf05005.jpg"
+---
+
+<p class="intro">Luisteraars zijn op de website Petities24 een handtekeningenactie begonnen om de zendtijd van het NPO Radio 1-programma Nieuws &amp; Co met Lara Rense te redden. Het populaire programma moet volgend jaar deels het veld ruimen voor een nieuw magazine-achtig programma met Dionne Stax en Toine van Peperstraten.</p> <p>„De NPO wil Radio 1 lichter en luchtiger maken”, verzuchten de fans van Lara Rense. „Nieuws en Co is overdag (op de werkdagen) nog een van de weinige programma’s op deze zender die naast het actuele nieuws steeds weer inzet op inhoud, verdieping en duiding en waar ruimte is voor de menselijke ervaringen en verhalen achter het nieuws. En nu dreigt Nieuws en Co één uur zendtijd kwijt te raken.”</p><p>De tientallen initiatiefnemers roepen alle luisteraars van NPO Radio 1 die tegen de dreigende verdere ’verluchtiging’ van de programmering zijn, op de petitie te tekenen. Eerder startten luisteraars ook een petitie om het populaire nachtprogramma Nachtzuster van Astrid de Jong te redden toen dit door de NPO geofferd dreigde te worden.</p><p>Uiteindelijk bleef het veelgeprezen Nachtzuster bestaan.</p>

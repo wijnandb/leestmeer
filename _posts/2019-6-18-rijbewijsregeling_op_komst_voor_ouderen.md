@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Rijbewijsregeling op komst voor ouderen"
+date: Tue, 18 Jun 2019 21:04:08 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/1586051676/rijbewijsregeling-op-komst-voor-ouderen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/dad9d656-91fb-11e9-be21-0218eaf05005.jpg"
+---
+
+<p class="intro">Er komt waarschijnlijk alsnog een speciale regeling voor 75-plussers die zonder geldig rijbewijs zitten door de problemen bij het CBR. Minister Van Nieuwenhuizen (Infrastructuur) overweegt om de rijbewijzen van 75-plussers met maximaal een jaar te verlengen.</p> <p>Het gaat om de groep senioren die al in een traject zitten voor medische keuring. De Tweede Kamer drong eerder tevergeefs aan op een coulanceregeling, maar nu komt de minister alsnog met een regeling die deze mensen uit de brand kan helpen.</p><p>De oplossing krijgt groen licht van het Verbond voor Verzekeraars en de Stichting Wetenschappelijk Onderzoek Verkeersveiligheid. Van Nieuwenhuizen onderzoekt nu nog hoe het praktisch geregeld kan worden en zo snel mogelijk. De VVD-bewindsvrouw wil het nog voor de zomervakantie rond hebben.</p><p>Woensdag is er een debat in de Tweede Kamer. Vooral regeringspartijen CDA en D66 vinden het onacceptabel dat duizenden ouderen in de steek worden gelaten. Van Nieuwenhuizen zegt nu alsnog met een oplossing te komen omdat de problemen bij het CBR nog hardnekkiger zijn dan verwacht.</p><p>De minister laat aan de Kamer weten dat de problemen niet voor het einde van het jaar zijn opgelost. Bovendien raken andere groepen, zoals examenkandidaten en chronisch zieken, door de drukte bij het CBR nu ook in de knel.</p><p>Door de malaise dreigt de verkeersveiligheid onder druk te staan. Zo bestaat de vrees dat mensen uit angst voor vertraging medische verklaringen niet meer naar waarheid invullen. Om risicogroepen sneller te helpen wil Van Nieuwenhuizen nu dus respijt voor de 75-plussers.</p>

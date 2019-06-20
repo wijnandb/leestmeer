@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Marta breekt WK-record, Brazilië door"
+date: Tue, 18 Jun 2019 23:02:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/274387901/marta-breekt-wk-record-brazilie-door"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a7494ddc-920d-11e9-a955-0255c322e81b.jpg"
+---
+
+<p class="intro">Met haar benutte strafschop in het gewonnen WK-duel tegen Italië (1-0) heeft de Braziliaanse Marta geschiedenis geschreven.</p> <p>Het was de 17e treffer van de Braziliaanse legende, zes keer uitgeroepen tot beste voetbalster van de wereld, op een WK. Daarmee heeft Marta één treffer meer gemaakt dan Miroslav Klose. De Duitse goalgetter is bij de mannen WK-topscorer aller tijden, met 16 goals.</p><p>De 33-jarige Marta is ook de eerste voetbalster die op vijf WK's ten minste een doelpunt heeft gemaakt. Eerder scoorde de Braziliaanse vedette op de toernooien van 2003, 2007, 2011 en 2015.</p><p>Brazilië eindigde in de poule als derde. Australië belandde dankzij een royale zege op Jamaica (4-1) op de tweede plek. In dat duel in Grenoble scoorde Sam Kerr vier keer.</p><p>Brazilië verzuimde in Valenciennes snel afstand te nemen van het al geplaatste Italië. De Zuid-Amerikaanse ploeg kreeg de meeste kansen, zeker ook uit de gevaarlijke spelhervattingen, maar de afronding was ondermaats. Na ruim een kwartier leek Debinha met een schitterende hakbal de score te openen. Keepster Laura Giuliani redde fraai.</p><p>Na de pauze bleef Brazilië jagen op een treffer. In de 52e minuut was Andressinha dicht bij de openingstreffer. Ze schoot de bal uit een vrije trap op de lat. Marta brak de ban een kwartier voor tijd. Ze vierde haar historische treffer met wiegende gebaren, alsof ze daarmee wilde aangeven dat er een baby op komst is.</p><p>In Grenoble had Kerr een heerlijke avond. De Australische aanvoerster scoorde zowel in de eerste als tweede helft twee keer. Kort na de rust verkleinde invalster Havana Solaun nog wel even de achterstand (1-2). Het was de eerste WK-goal ooit van Jamaica in het vrouwentoernooi.</p>

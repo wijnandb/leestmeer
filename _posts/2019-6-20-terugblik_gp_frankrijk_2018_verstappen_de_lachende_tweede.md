@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Terugblik GP Frankrijk 2018: Verstappen de lachende tweede"
+date: Thu, 20 Jun 2019 07:00:00 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/sport/577405034/terugblik-gp-frankrijk-2018-verstappen-de-lachende-tweede"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/86e61db8-92da-11e9-a537-02c309bc01c1.jpg"
+---
+
+<p class="intro">In aanloop naar elke Formule 1-race blikken we terug op de editie van het afgelopen jaar. Vandaag: de Grand Prix van Frankrijk.</p> <p>Max Verstappen zal met een goed gevoel terugkijken op de race op het circuit Paul Ricard. De Limburger reed zichzelf naar een tweede plaats, achter Lewis Hamilton, die van start tot finish de race leidde. Voor de Red Bull-coureur de derde keer in vier races dat hij zichzelf op het podium terugvond.</p><p>Hamilton hernam door de winst de leiding in de WK-stand van zijn grote concurrent Sebastian Vettel, die na een vroege crash slechts vijfde werd. Het verschil was na de GP van Frankrijk 14 punten: 145 om 131.</p><p>Onstuimig begin</p><p>De race in Le Castellet, waar voor het eerst sinds 1990 weer een GP plaatsvond, begon uiterst onstuimig. Vettel startte uitstekend, maar raakte bij het ingaan van de eerste bocht direct ingesloten door de beide Mercedessen. De Ferrari-coureur verremde zich vervolgens en tikte Bottas in de rondte. Beiden liepen schade op en moesten de pit opzoeken.</p><p>Vettel kreeg voor het ongeval een penalty van vijf seconden. Bottas kreeg geen straf, maar finishte uiteindelijk wel achter Vettel. Hij werd zevende.</p><p>Verstappen was de lachende derde en kon door het ongeval na de start direct opschuiven naar plek twee. Nadat de safetycar van de baan was, kon hij Hamilton, die een geüpgradede motor in zijn Mercedes had liggen, echter niet meer onder druk zetten, ook niet door eerder te stoppen.</p><p>Trotse Fransen</p><p>Voor de trotse Fransen, die na tien jaar weer een race in eigen land konden bezoeken, liep de race uit op een teleurstelling. Twee van hun drie favorieten schakelden elkaar al bij de start uit: Pierry Gasly en Esteban Ocon.</p><p>De derde Fransman, Romain Grosjean, was ook betrokken bij het ongeval. Hij kreeg een tijdstraf van vijf seconden voor zijn aandeel in de crash. Grosjean, die als tiende was gestart, eindigde uiteindelijk als elfde.</p>

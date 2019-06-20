@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Fans Thomas kunnen opgelucht ademhalen"
+date: Tue, 18 Jun 2019 22:40:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/77070808/fans-thomas-kunnen-opgelucht-ademhalen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c33fa628-920b-11e9-8cbf-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">De fans van de Britse wielrenner Geraint Thomas kunnen opgelucht ademhalen. De 33-jarige kopman van Team Ineos kan komende maand normaal gesproken deelnemen aan de Ronde van Frankrijk, die hij vorig jaar op zijn naam schreef.</p> <p>Onderzoek in een ziekenhuis heeft geen nader letsel bij hem aan het licht gebracht.</p><p>Thomas kwam in de vierde etappe van de Ronde van Zwitserland fors ten val. Daarbij liep hij een snijwond boven zijn rechteroog op en enkele schaafwonden op zijn schouder. „Gelukkig heeft hij geen verdere verwondingen opgelopen”, laat de ploegleiding weten. Op advies van de teamarts staakte hij de strijd in Zwitserland.</p><p>Thomas keek na het medische onderzoek alweer gretig uit naar de Tour, die op 6 juli in Brussel begint. „Er is nog veel tijd tot aan de start. Ik ben er zeker van dat mijn coach een plan heeft om ervoor te zorgen dat ik klaar ben op 6 juli.”</p><p>Het incident op circa 30 kilometer voor de finish kwam voor Thomas als een volslagen verrassing. „Een rijder van Astana ging onderuit en ik kon nergens heen. Ik belandde op mijn schouder en op mijn gezicht, en er was nogal wat bloed. Ik wilde graag doorgaan, maar je moet altijd voorzichtig zijn met hoofdletsel. De artsen namen de juiste beslissing om mij uit de race te halen.”</p><p>Thomas sprak van een „frustrerende” ervaring en van een „kleine terugslag” in de aanloop naar de Tour. „Hem kennende zal het niet lang duren voordat hij weer op de fiets klimt”, zei teamarts Derick Macleod. „Maar we moeten ervoor zorgen dat hij eerst helemaal klachtenvrij is voordat hij weer gaat rijden. We zijn in elk geval optimistisch gestemd over zijn herstel de komende dagen.”</p>

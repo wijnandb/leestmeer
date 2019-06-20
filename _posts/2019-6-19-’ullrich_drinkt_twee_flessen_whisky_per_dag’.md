@@ -1,0 +1,12 @@
+---
+layout: post
+title: "’Ullrich drinkt twee flessen whisky per dag’"
+date: Wed, 19 Jun 2019 21:43:00 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/sport/2036607770/ullrich-drinkt-twee-flessen-whisky-per-dag"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d4534e0e-92cb-11e9-affc-02d1dbdc35d1.png"
+---
+
+<p class="intro">Met ex-Tourwinnaar Jan Ullrich gaat het - nog steeds - niet goed. Dat blijkt uit wat zijn voormalige ploegleider Rudy Pevenage vertelde in het tv-programma ’De Kleedkamer’, „Jan zegt dat twee flessen whisky drinken op een dag het beste is voor je gezondheid.”</p> <p>De voorbije jaren kwam Ullrich (45) voornamelijk negatief in het nieuws met verhalen over drank, drugs en depressies. Zijn wankele mentale gezondheid was al een item tijdens zijn actieve carrière maar hij belandde pas echt in een neerwaartse spiraal toen zijn vrouw hem verliet in 2018.</p><p>„Er is heel veel over hem geschreven, maar ook wel een beetje met een reden denk ik”, vertelde Pevenage. „Al zijn beste vrienden en vertrouwelingen waren heel ongerust. Wij hebben alles geprobeerd om hem te laten opnemen. Dat is lang niet gelukt, want hij wilde dat gewoon niet. Jan wil niet zien dat hij ergens wel een probleem heeft. Hoewel wij daar allemaal van overtuigd zijn. Maar hij is een Dickkopf, zoals ze zeggen in het Duits: een zeer koppig persoon. Hij denkt dat hij goed bezig is en hij wil een beetje leven zoals een artiest: ’s nacht leven en weinig slapen. Ik heb er toch mijn twijfels over.”</p><p>Gerijpt op eiken vat</p><p>Pevenage heeft nog steeds nauw contact met zijn vroegere pupil: „Natuurlijk hebben wij nog contact: hij heeft me vannacht om half twee gebeld, maar ik sliep al. Ik heb het nog niet meegemaakt, maar hij heeft al verschillende van zijn beste vrienden buitengezet omdat ze hem ervan probeerden te overtuigen dat hij niet goed bezig is. Als Jan zegt dat twee flessen whisky drinken op een dag voor hem geen probleem is, omdat dat gerijpt is op een eiken vat en het beste is voor je gezondheid...”</p><p>Pevenage (65) won zelf als renner in de Tour van 1980 een etappe én het puntenklassement maar hij werd vooral na zijn carrière bekend als persoonlijke verzorger en begeleider van Jan Ullrich, met wie hij in 1997 de Tour won. Nadat de dopingbom barstte rond ’Der Jan’ stapte hij (noodgedwongen) uit de koers en hij houdt zich tegenwoordig vooral bezig met onroerend goed.</p>
