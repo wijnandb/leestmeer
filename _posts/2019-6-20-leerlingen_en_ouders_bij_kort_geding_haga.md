@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Leerlingen en ouders bij kort geding Haga"
+date: Thu, 20 Jun 2019 06:49:50 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/1472981625/leerlingen-en-ouders-bij-kort-geding-haga"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b3136674-9344-11e9-be56-02c309bc01c1.jpg"
+---
+
+<p class="intro">Veel leerlingen, docenten en ouders wonen donderdag het kort geding bij van het Amsterdamse Cornelius Haga Lyceum tegen de onderwijsinspectie. De aanwezigen passen niet allemaal in de zittingszaal van de rechtbank in Den Haag. In een andere zaal kunnen mensen via een videoverbinding de zaak volgen.</p> <p>LIVE – Verslaggever Arianne Mantel is bij de rechtszaak aanwezig. Haar tweets lees je onderaan dit artikel.</p><p>Volgens directeur-bestuurder Söner Atasoy van de in opspraak geraakte islamitische middelbare school is de aanwezigheid van de tweedejaars leerlingen onderdeel van het educatieve programma. De eerstejaars zijn gewoon op school, zei hij voor de zitting begon.</p><p>De voorzieningenrechter in Den Haag buigt zich donderdag over de vraag of het rapport over het Cornelius Haga Lyceum in Amsterdam in strijd is met de wet. De in opspraak geraakte islamitische middelbare school wil in een kort geding een verbod afdwingen op het openbaar maken van het rapport, waarin het lyceum er niet goed van afkomt.</p><p>De school wil dat de Inspectie van het Onderwijs het rapport intrekt en herziet. „De inhoud van dit rapport is op vele punten onjuist, onzorgvuldig, onrechtmatig en in strijd met de wet”, staat in de dagvaarding.</p><p>Volgens de veiligheidsdienst AIVD lopen er mensen op de school rond die de helft van het leerplan aan de salafistische geloofsleer willen wijden. Ook zouden betrokkenen in contact hebben gestaan met het Kaukasus Emiraat, een terreurbeweging.</p><p>De school stelt dat de inspectie hiervoor geen aanwijzingen heeft gevonden. Ook wijst de onderwijsinstelling zorgen over de financiële continuïteit van het Haga Lyceum in Nieuw-West van de hand.</p><p>De onderwijsinspectie heeft nog niet willen reageren op de aantijgingen.</p>
