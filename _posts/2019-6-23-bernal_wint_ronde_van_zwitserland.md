@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Bernal wint Ronde van Zwitserland"
+date: Sun, 23 Jun 2019 16:34:45 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1092029269/bernal-wint-ronde-van-zwitserland"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7fafc014-95c6-11e9-831e-0217670beecd.jpg"
+---
+
+<p class="intro">Wielrenner Egan Bernal heeft de Ronde van Zwitserland op zijn naam geschreven. De Colombiaan van Team Ineos liet zijn leidende positie niet echt meer in gevaar komen tijdens de negende en laatste etappe van de zware rittenkoers, waar veel renners zich hebben voorbereid op de Ronde van Frankrijk.</p> <p>ernal kwam als derde over de finish, ruim een minuut later dan de Britse ritwinnaar Hugh Carty die na een lange vlucht solo over de eindstreep kwam. Rohan Dennis eindigde als tweede, in dezelfde tijd als Bernal. De Australische nummer twee van het klassement slaagde er niet in zijn achterstand van 22 seconden op de drager van de gele leiderstrui goed te maken. Hij probeerde de Colombiaan in de laatste afdaling richting de finish nog te lossen. Bernal bleef echter keurig in zijn wiel zitten.</p><p>Bernal lijkt op tijd in vorm voor de Ronde van Frankrijk, die op 6 juli van start gaat in Brussel. Hij zou eigenlijk naar de Tour gaan om Chris Froome aan een vijfde eindzege te helpen. Zijn kopman moet de Ronde van Frankrijk na een zware valpartij in Critérium du Dauphiné aan zich voorbij laten gaan. Hij moet minimaal een half jaar revalideren.</p><p>Geraint Thomas is een andere kanshebber voor de eindzege van de Tour bij het sterke Team Ineos. De laatste winnaar van de Ronde van Frankrijk heeft dit seizoen echter nog niet kunnen overtuigen. Hij verliet de Ronde van Zwitserland na een valpartij in de vierde etappe maar is alweer in training.</p><p>De negende etappe van de Ronde van Zwitserland leidde de coureurs over drie cols en was ruim 101 kilometer lang, met start en aankomst in Ulrichen.</p>

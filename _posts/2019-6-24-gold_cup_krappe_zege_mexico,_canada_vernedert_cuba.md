@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Gold Cup: Krappe zege Mexico, Canada vernedert Cuba"
+date: Mon, 24 Jun 2019 07:24:43 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1001994096/gold-cup-krappe-zege-mexico-canada-vernedert-cuba"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5f7a3b56-9640-11e9-958f-0217670beecd.jpg"
+---
+
+<p class="intro">Mexico vecht zich langs een taai Martinique en wint alle poulewedstrijden. Canada heeft eenvoudig van Cuba gewonnen in de derde wedstrijd van de groepsfase van de Gold Cup. De eilandbewoners werden met 7-0 verslagen door de gretige Canadezen.</p> <p>De score werd al na vier minuten geopend door Jonathan David. Een kwartier later verdubbelde Lucas Cavallini de score door een bal op de doellijn binnen te lopen. Cavallini was de grote man tijdens de eerste helft, want hij scoorde kort voor rust nog twee keer.</p><p>Na rust maakte Junior Hoilett de 5-0. Cavallini kon in de 55e minuut op vier goals komen, maar miste een penalty. In de 71e minuut maakte David zijn tweede van de wedstrijd. Zes minuten later voltooide hij zijn hattrick en bepaalde zo de eindstand een kwartier voor tijd op 7-0.</p><p>Mexico</p><p>Mexico speelde later op de avond tegen Martinique. In een spannende wedstrijd wist Mexico met 3-2 te winnen en ging zo met de volledige score van 9 punten naar de volgende ronde.</p><p>Oud-speler van FC Groningen Uriel Antuna opende de score voor de Mexicanen in de 29e minuut op aangever van voormalig PSV’er Andres Guardado. Kort na rust kwam Martinique op gelijke hoogte door een goal van Kévin Parsemain.</p><p>Het duurde echter niet lang voordat Mexico weer op voorsprong kwam. Raúl Jimenez werkte de bal in de 61e minuut de goal in. Ruim tien minuten later leek Fernando Navarro de wedstrijd in het slot te gooien met de 3-1 voor Mexico. Martinique kwam zes minuten voor tijd via Jordy Delem echter nog terug tot 3-2. Maar daar bleef het uiteindelijk bij.</p><p>Canada en Mexico hebben zich na deze overwinningen geplaatst voor de volgende ronde.</p>

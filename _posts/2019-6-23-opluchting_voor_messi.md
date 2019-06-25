@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Opluchting voor Messi"
+date: Sun, 23 Jun 2019 22:56:42 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/832341857/opluchting-voor-messi"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/16912878-95fa-11e9-a39c-02c309bc01c1.jpg"
+---
+
+<p class="intro">Argentinië begon belabberd aan de Copa America, maar de ploeg van sterspeler Lionel Messi staat dan toch in de kwartfinales.</p> <p>In Porto Alegre speelde de veertienvoudig kampioen van het Zuid-Amerikaanse landentoernooi opnieuw niet best, maar Argentinië zegevierde. Qatar werd met 2-0 verslagen en ligt eruit. In de eerste twee duel leed het land een 2-0 nederlaag tegen Colombia en werd er gelijkgespeeld tegen Paraguay: 1-1.</p><p>Messi maakte ondanks de overwinning geen al te overtuigende indruk, en miste in de slotfase een enorme kans. Dé vedette van FC Barcelona pakte nog nooit een prijs met Argentinië. Hij verloor al twee keer de finale van de Copa America en in 2014 de WK-finale.</p><p>Argentinië werd al in de beginfase in het zadel geholpen door Qatar. Een verdediger speelde de bal zomaar in de voeten van Lautaro Martinez. Die wist wel raad met dit vroege cadeautje, en opende al in de vierde minuut de score.</p><p>In het vervolg bleek het aanvalsspel van de Argentijnen al net zo stroperig als tijdens het afgelopen WK in Frankrijk. Tot vloeiende aanvallen kwam de wereldkampioen van 1978 en 1986 slechts zelden, maar een tegendoelpunt incasseren, deed de de ploeg ook niet. In de slotfase zorgde Sergio Aguero voor de bevrijdende tweede goal.</p><p>Argentinië gaat met vier punten als nummer twee in de groep door naar de volgende ronde. Als nummer twee van groep B spelen de Argentijnen in de kwartfinales tegen Venezuela in Rio de Janeiro.</p><p>Colombia klopte Paraguay met 1-0 en wint de groep met negen punten. Gustavo Cuellar maakte tegen de Paraguayanen het winnende doelpunt. De volgende tegenstander van Colombia is nog niet bekend.</p>

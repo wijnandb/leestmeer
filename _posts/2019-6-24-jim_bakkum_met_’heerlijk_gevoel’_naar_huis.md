@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Jim Bakkum met ’heerlijk gevoel’ naar huis"
+date: Mon, 24 Jun 2019 10:55:39 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/68710906/jim-bakkum-met-heerlijk-gevoel-naar-huis"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d701cf50-965d-11e9-b635-0217670beecd.jpg"
+---
+
+<p class="intro">Jim Bakkum wordt maandag weer herenigd met zijn gezin. De acteur en zanger was bijna een maand van huis voor opnames van de film Onze jongens in Miami. Via sociale media liet Jim meermaals doorschemeren het thuisfront enorm te missen.</p> <p>„Ik kan letterlijk zeggen ’Het is MOOI geweest’ en ga met een heerlijk gevoel en een bak vol herinneringen weer naar huis”, schreef Jim na de laatste draaidag op Instagram. „Dááág.”</p><p>Ondanks het gemis van zijn vrouw en drie kinderen genoot Jim van de 3,5 week die hij in Miami doorbracht. „Ik ben zo blij en dankbaar voor wat we hier hebben gefilmd. Zeker voor een Nederlandse film zijn we met Onze jongens in Miami echt letterlijk en figuurlijk grenzen overgegaan. En dan bedoel ik niet alleen qua steamy scènes, maar ook de grootte van de scènes. Moest mezelf soms echt even knijpen...”</p><p>Strippen</p><p>In het vervolg op Onze jongens neemt Jim weer de rol van Jorrit voor zijn rekening. Jorrit en zijn vrienden, die in het eerste deel uit 2016 gingen strippen om hun bouwbedrijfje te redden, beproeven dit keer hun geluk in de Verenigde Staten. In Miami willen de heren een stripclub openen.</p><p>De rol van Jorrit ligt Jim ’nauw aan het hart’. „Het was mijn eerste vaderrol in een film drie jaar geleden en de eerste rol waar ik mezelf volledig van een andere kant kon laten zien. Of van meerdere kanten, hoe je het ook wilt zien. Vind het lekker om uit mijn comfortzone te stappen. Wat het ook zo te gek maakt is het team en dan in bijzonder mijn geweldige tegenspelers Martijn, Juvat, Malik, Eva en Matheu, die samen met mij die herinneringen gemaakt hebben.”</p>

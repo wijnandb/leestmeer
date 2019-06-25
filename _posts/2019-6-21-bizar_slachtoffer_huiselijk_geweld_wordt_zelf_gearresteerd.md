@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Bizar: slachtoffer huiselijk geweld wordt zelf gearresteerd"
+date: Fri, 21 Jun 2019 22:54:46 +0200
+category: opmerkelijk
+externe_link: "https://www.telegraaf.nl/nieuws/2021219745/bizar-slachtoffer-huiselijk-geweld-wordt-zelf-gearresteerd"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ffa803aa-9466-11e9-92d5-0255c322e81b.jpg"
+---
+
+<p class="intro">Een vrouw, en vermeend slachtoffer van huiselijk geweld, bracht uit angst voor haar man zijn wapens naar politie om ze in bewaring te geven. In plaats van een schouderklopje voor haar goede daad werd ze door een agent in de kraag gevat. Ze werd gearresteerd en beschuldigd van gewapende inbraak omdat ze de wapens van haar man zonder zijn toestemming uit zijn woning had gehaald.</p> <p>Dat meldt The Huffington Post. Joseph Irby zou voorafgaand aan de arrestatie met zijn auto de auto van zijn vrouw Courtney hebben geramd waardoor ze van de weg raakte. Hevig geëmotioneerd belde ze daarop de politie om te vertellen dat ze doodsbang was voor haar man en dat ze vreesde voor haar leven, zo staat te lezen in een rechtbankverklaring. Ook vertelde ze dat ze eerder herhaaldelijk door haar man werd lastiggevallen.</p><p>De politie arresteerde Joseph Irby. Een rechter verleende Joseph Irby enige tijd later voorlopige vrijlating onder voorwaarde dat hij geen vuurwapens meer in zijn bezit zou hebben. Courtney ging naar de woning van haar man, pakte zijn wapens en bracht ze naar het politiebureau van Lakeland.</p><p>Ze vertelde de dienstdoende politieagent dat haar man was gearresteerd en dat ze zijn wapens kwam inleveren omdat ze niet geloofde dat hij dat zelf zou doen.</p><p>Op de vraag of ze haar man toestemming had gevraagd om de wapens uit zijn woning weg te nemen kon ze niet bevestigend antwoorden. „Mevrouw, dan heeft u zojuist een misdaad begaan”, aldus de agent.</p><p>De politie arresteerde haar en zij werd beschuldigd van gewapende inbraak in een woning en van diefstal van meerdere wapens.</p><p>Terwijl haar man Joseph op vrije voeten kwam, verdween Courtney zes dagen achter de tralies.</p>

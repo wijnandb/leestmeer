@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Klaas Otto ontslaat advocaat tijdens zitting"
+date: Tue, 25 Jun 2019 13:05:29 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/982051501/klaas-otto-ontslaat-advocaat-tijdens-zitting"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/80a8dea4-973f-11e9-958f-0217670beecd.jpg"
+---
+
+<p class="intro">Klaas Otto heeft tijdens de rechtszaak tegen hem het vertrouwen in zijn advocaat opgezegd. „We hebben een vertrouwensbreuk, ik heb me niet kunnen voorbereiden op deze zaak. Ik wil een andere advocaat”, zei de oprichter van motorclub No Surrender.</p> <p>Hij zei dat op het moment dat de rechtbank in Groningen had besloten dat de strafzaak tegen onder anderen Otto en medeverdachten Rico R. en Theo ten V. wel doorgaat, terwijl eerder op de dag was besloten dat de zaak tegen Henk Kuipers was aangehouden. Dat was omdat de advocaat van Kuipers ziek is.</p><p>De advocaten van de drie andere voormalig No Surrender-kopstukken hadden daarom ook om aanhouding van hun zaak gevraagd, maar de rechtbank wilde toch doorgaan met de behandeling. „Doet u dit omdat de zaak niet aangehouden wordt?” vroeg de rechter aan Otto. „U beschuldigt mij. Ik ben er helemaal klaar mee. Ik ken deze mensen niet, ik weet niet waar de zaak over gaat. Breng me maar weer terug naar de cel, veroordeel me maar”, brieste hij. „Veel plezier allemaal nog”, riep hij terwijl hij zwaaiend de zaal verliet.</p><p>Zijn advocaat Louis de Leon kon na afloop nog niet reageren op zijn ontslag. Of en hoe de zaak nu verdergaat nu Otto geen advocaat meer heeft, is nog niet duidelijk. Of de zaak tegen de twee andere verdachten wel doorgaat, is ook niet duidelijk. De rechtbank moet daar later dinsdag over beslissen.</p><p>No Surrender, opgericht in 2013 door Otto, werd eerder deze maand door de rechtbank in Assen verboden. De motorclub met honderd chapters (afdelingen) en andere onderdelen in binnen- en buitenland, telt enkele honderden leden in Nederland.</p><p>Otto zit momenteel in de cel in afwachting van zijn hoger beroep in een andere zaak. Vorig jaar oktober werd hij veroordeeld tot zes jaar cel voor zware mishandeling, bedreiging, afpersing en witwassen van 1,3 miljoen euro. Kuipers zit niet meer vast. Hij werd eerder in afwachting van zijn proces vrijgelaten uit voorarrest. Ook R. en Ten V. zijn op vrije voeten.</p>

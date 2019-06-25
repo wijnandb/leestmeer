@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Liquiditeitsproblemen bij Beter Bed"
+date: Tue, 25 Jun 2019 07:44:51 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/901229203/liquiditeitsproblemen-bij-beter-bed"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3dda2084-9720-11e9-a1ec-0218eaf05005.jpg"
+---
+
+<p class="intro">Beter Bed heeft liquiditeitsproblemen en praat daar momenteel over met zijn banken. Mede hierom houdt de slaapkamerspecialist alle opties tegen het licht voor zijn Duitse dochter Matratzen Concord, waaronder gehele of gedeeltelijke verkoop.</p> <p>Matratzen Concord kampt met de naweeën van een gifschandaal. Schuimmatrassen die het verkocht, bleken te veel giftige stoffen te bevatten. Consumenten lieten de keten daarna massaal links liggen. Beter Bed heeft eerder al leverancier BASF voor de rechter gesleept voor een schadevergoeding.</p><p>De gesprekken met de banken zijn bedoeld om financieringsoplossing te vinden voor de langere termijn. In de huidige situatie is het bedrijf niet in staat om aan zijn afspraken met de banken te voldoen. Als onderdeel van de dialoog heeft Beter Bed ermee ingestemd de banken op bepaalde bezittingen het onderpand te geven.</p><p>Matratzen Concord</p><p>Volgens topman John Kruijssen kan de beslissing voor het bekijken van alternatieven "aanzienlijke gevolgen" hebben voor het profiel van Beter Bed. Matratzen Concord is, ondanks dat er al zo'n 150 filialen zijn gesloten, goed voor circa 700 winkels in Duitsland. Ook heeft de keten nog rond de 130 winkels in Zwitserland en Oostenrijk.</p><p>"Vandaar onze formulering 'geheel of gedeeltelijk'. Het is nog niet duidelijk of we die winkels in Zwitserland en Oostenrijk ook willen verkopen", zegt Kruijssen. Er is volgens hem al met meerdere partijen gesproken. Maar het gaat nog niet om vergevorderde onderhandelingen. Het is ook nog niet duidelijk wanneer er een besluit genomen kan worden.</p><p>Sinds de lancering van de nieuwe strategie in oktober 2018 blijven de prestaties bij Matratzen Concord duidelijk achter. Hierdoor staat ook de winstgevendheid onder druk. Beter Bed wil geen prognose geven over wat dit concreet voor de resultaten betekent. Het bedrijf telt in totaal ruim 1000 winkels. Filialen in bijvoorbeeld Nederland zijn per winkel goed voor "significant" meer omzet dan de zaken in Duitsland.</p>

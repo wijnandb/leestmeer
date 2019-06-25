@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Buitenlandse Zaken lekt opnieuw per abuis staatsgeheimen"
+date: Fri, 21 Jun 2019 17:59:01 +0200
+category: nieuws
+externe_link: "https://nos.nl/l/2290058"
+feature_image: "https://nos.nl/data/image/2018/09/12/499309/1008x567.jpg"
+---
+
+<p>Opnieuw heeft het ministerie van Buitenlandse Zaken per ongeluk staatsgeheimen over het Nederlandse hulpprogramma aan Syrische strijdgroepen naar buiten gebracht. Het is de tweede keer dat het ministerie deze fout maakt.</p>
+<p>De fout is gemaakt bij de behandeling van een WOB-verzoek dat Nieuwsuur en Trouw deden naar het steunprogramma aan Syrische rebellen. Bij het verstrekken van documenten in november bleken daar per abuis staatsgeheimen tussen te zitten, zoals namen van strijdgroepen, maar ook van Nederlandse diplomaten en van een geheim agent. Destijds haalde het ministerie de bewuste stukken meteen van de site en werd de zaak intern onderzocht, na scherpe kritiek uit de Tweede Kamer.</p>
+<p>Afgelopen week werden de documenten opnieuw vrijgegeven. Maar ook deze keer blijkt er staatsgeheime informatie tussen te zitten. Toen Nieuwsuur en Trouw Buitenlandse Zaken hierover gisteravond inlichtten haalde het ministerie de documenten onmiddellijk offline. Het ministerie van Buitenlandse Zaken laat weten dat er inderdaad opnieuw fouten zijn gemaakt en dat het de gang van zaken zeer betreurt. Het departement overweegt de zaak extern te laten onderzoeken om de fouten te herstellen.</p>
+<h2>Specifieke gebeurtenissen</h2>
+<p>In de honderden documenten die het ministerie afgelopen week op zijn website plaatste, staan onder meer vlaggen en logo's met namen van Syrische strijdgroepen. Uit de documenten valt op te maken dat het gaat om groeperingen die Nederlandse steun ontvingen. Ook zijn verschillende gegevens zichtbaar waaruit valt af te leiden welke groeperingen steun kregen. Het gaat dan bijvoorbeeld om data in combinatie met beschrijvingen van specifieke gebeurtenissen. Tenslotte heeft het ministerie nagelaten de naam zwart te lakken van een van de bedrijven die het steunprogramma uitvoerden.</p>
+<p>Minister van Buitenlandse Zaken Stef Blok zei eerder dat dergelijke informatie geheim was, vanwege de veiligheid van medewerkers. Als bekend wordt welke groeperingen westerse steun hebben ontvangen, zouden zij een doelwit kunnen vormen voor president Assad en IS. Bovendien zouden afspraken met bondgenoten en veiligheidsdiensten over het steunprogramma hem tot strikte geheimhouding verplichten.</p>
+<h2>Zwartlakken</h2>
+<p>Vorige maand concludeerde een onderzoekscommissie dat er de eerste keer geen sprake was van bewust lekken door WOB-medewerkers. De ambtenaren van Buitenlandse Zaken bleken de regels omtrent staatsgeheime informatie niet te kennen. Ze wisten ook niet welke informatie precies staatsgeheim was.</p>
+<p>Staatsgeheimen bleken tegen de regels in onversleuteld per e-mail te zijn verstuurd en op een interne drive te zijn gezet. Ook was er van alles misgegaan met het zwartlakken van de opgevraagde WOB-documenten.</p>
+<p>Minister Blok beloofde daarop beterschap. Hij schreef de Kamer dat hij een pool had opgezet van ervaren medewerkers en een aparte werkruimte liet inrichten voor de behandeling van geheime informatie. Blok zei dat hij "de lessen van het onderzoek betrokken had in de hernieuwde controle" van de WOB-documenten, die hij in november offline moest halen.</p>
+<h2>Cruciale informatie</h2>
+<p>Na zeven maanden plaatste Blok de herbeoordeelde WOB-documenten vorige week weer online. Het had langer geduurd dan aanvankelijk was toegezegd, maar Blok wilde "maximale zorgvuldigheid betrachten bij de herpublicatie". Zijn ambtenaren hadden deze keer 300 extra lakhandelingen verricht. Welke dat precies waren werd vertrouwelijk ter inzage gelegd voor Tweede Kamerleden.</p>
+<p>In de opnieuw gepubliceerde WOB-stukken zijn inderdaad meer gegevens zwartgelakt. Maar ondanks de gemaakte fouten en het overnemen van de aanbevelingen van de commissie blijkt het ministerie opnieuw cruciale informatie over het hoofd te hebben gezien. De groeperingen die te herleiden zijn uit de door Buitenlandse Zaken geopenbaarde informatie zijn onder andere: Levant Front, Brigade 51, Mujahedi Horan, Sultan Murad Brigade en het Vrije Idlib Leger.</p>
+<p>Bovenstaande namen van strijdgroepen zijn eerder al naar buiten gekomen in publicaties van Nieuwsuur en Trouw. De groeperingen vertelden toen zelf in interviews openlijk over de steun vanuit Nederland. Overigens plaatsen zij al jaren filmpjes op sociale media waarin te zien is hoe ze vechten tegen president Assad en IS. Van één groep die we niet gesproken hebben maar die wel in de stukken stond, hebben we bewust geen informatie gepubliceerd.</p>
