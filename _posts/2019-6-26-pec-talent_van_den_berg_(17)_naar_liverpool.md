@@ -1,0 +1,10 @@
+---
+layout: post
+title: "PEC-talent Van den Berg (17) naar Liverpool"
+date: Wed, 26 Jun 2019 14:55:27 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/359961318/pec-talent-van-den-berg-17-naar-liverpool"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ddf49b16-9811-11e9-8611-0255c322e81b.png"
+---
+
+<p class="intro">Sepp van den Berg (17) vertrekt niet naar PSV. Hij heeft zijn droomtransfer naar Liverpool te pakken.</p> <p>Het talent van PEC Zwolle werd gisteravond in het diepste geheim ingevlogen vanuit Nederland naar Londen, waar zijn zaakwaarnemers Frank Schouten, Niels van Duinen en John Morris samen met zijn ouders tot laat met directie en management van de Champions League-winnaar spraken om de spectaculaire deal af te ronden.</p><p>PEC Zwolle ontvangt een bedrag van 1,7 miljoen pond (1,9 miljoen euro) voor het eigen jeugdproduct. Een bedrag dat via bonussen nog fors kan oplopen. Liverpool troeft daarmee PSV en Bayern München af. Ook met die clubs sprak de verdediger, die deze week vrijaf kreeg om een besluit over zijn toekomst te nemen.</p><p>Vooral het feit dat Bayern wordt afgetroefd, maakt Liverpool enorm trots. Voor de Engelsen tekent het de veranderende verhoudingen binnen de Europese top, waarin de Duitsers de afgelopen jaren tot één van de absolute grootmachten werden gezien. Bayern was de club geworden waar de jonge (grote) talenten in Europa graag voor kozen. Het is een status die Liverpool zichzelf ook steeds meer lijkt toe te eigenen en dat geeft de club het gevoel dat het echt een voet tussen de deur krijgt bij de smalle Europese elite.</p><p>De komst van Van den Berg werd tot een hele operatie gemaakt. Het Engelse Sky meldde al dat er vanmorgen in alle vroegte geblindeerde busjes trainingscomplex Melwood opreden. Daarin zat Sepp van den Berg, een 17-jarige jongen uit Zwolle (22 Eredivisie-duels) die zijn droom bij de club van internationals Virgil van Dijk en Georginio Wijnaldum toch echt mag proberen waar te maken.</p>

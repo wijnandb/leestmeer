@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Turkse koop Russische raket ’niet verstandig’"
+date: Wed, 26 Jun 2019 14:07:27 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/1083926653/turkse-koop-russische-raket-niet-verstandig"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d2fde70a-980f-11e9-bdd7-02c309bc01c1.jpg"
+---
+
+<p class="intro">Nederland vindt het ’niet verstandig’ dat NAVO-bondgenoot Turkije heeft besloten Russische luchtafweerraketten te kopen. Dat zei minister van Defensie Ank Bijleveld woensdag in Brussel, waar de NAVO-ministers van Defensie bijeen zijn. De Turkse stap is vooral in Washington verkeerd gevallen. President Trump overweegt nu om de levering van F-35 gevechtsvliegtuigen aan Turkije te schrappen. „Wij snappen die Amerikaanse reactie erg goed”, aldus minister Bijleveld.</p> <p>Volgens haar zit in de F-35 (ook bekend als de JSF die ook door Nederland is aangeschaft) „veel technologie die niet in Russische handen terecht mag komen.” De vrees bestaat dat die technologie via afstemming met het Russische afweersysteem S-400, in Moskou belandt.</p><p>Turkije wijst de Amerikaanse kritiek van de hand en zet de koop door. Het Russische ministerie van Defensie maakte woensdag juist bekend dat de eerste S-400’s in juli aan Turkije geleverd zullen worden.</p><p>Escalatie</p><p>De NAVO-bondgenoten bespreken ook de Russische dreiging om uit het INF-verdrag tegen de verspreiding van middellange-afstandsraketten te stappen. In een speciaal overleg tussen de NAVO en Rusland wordt op 5 juli een laatste poging gedaan om Moskou op andere gedachten te brengen. „Het is van groot belang dat er geen escalatie ontstaat. We zijn tegen een nieuwe nucleaire wapenwedloop”, aldus minister Bijleveld.</p><p>De-escalatie is ook haar motto als het gaat om de crisis rond Iran, die zij „zorgelijk” noemde. Het onderwerp staat formeel niet op de tweedaagse agenda van de NAVO-ministers, maar het zal onvermijdelijk een belangrijk discussiepunt vormen.</p>

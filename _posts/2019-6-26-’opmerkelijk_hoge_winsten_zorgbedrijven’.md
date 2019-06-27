@@ -1,0 +1,12 @@
+---
+layout: post
+title: "’Opmerkelijk hoge winsten zorgbedrijven’"
+date: Wed, 26 Jun 2019 18:25:46 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/nieuws/2127282822/opmerkelijk-hoge-winsten-zorgbedrijven"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5ad71bda-9854-11e9-8c8b-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Grote zorgbedrijven boeken opmerkelijke winstpercentages. In 2017 lagen deze bij 97 grote zorgbedrijven gemiddeld op 21 procent, terwijl dit percentage bij andere bedrijven in de sector op 2 à 3 procent ligt.</p> <p>Dat melden Pointer, Reporter Radio en Follow The Money op basis van eigen onderzoek.</p><p>In het onderzoek namen de drie media de jaarrekeningen van 1959 grote zorginstellingen in de geestelijke gezondheidszorg, gehandicaptenzorg en thuiszorg onder de loep. Bij de 97 grote zorgbedrijven werd in 2017 ruim 50 miljoen euro winst gemaakt. Er waren uitschieters in de winstpercentages van ruim 65 procent.</p><p>Vraagtekens</p><p>„De winst bij de 97 bedrijven is opmerkelijk, omdat die niet te verklaren is door incidentele stijgingen van inkomsten, zoals de verkoop van een bedrijfsonderdeel of een subsidie”, schrijven de onderzoekers. Aad de Groot, voorzitter van de raad van bestuur van zorgverzekeraar DSW, vermoedt dat het niet in de haak is. „Een normale zorgaanbieder kan deze diensten leveren met ongeveer 2 tot 3 procent winst. Is dat hoger, dan is er iets niet in orde”, zegt hij tegen de onderzoekers.</p><p>Volgens hoogleraren Jeroen Suijs en Harrie Verbon kan de verklaring zijn dat gedeclareerde zorg niet volledig is geleverd. Als dat zo is dan zijn de winsten mogelijk niet altijd rechtmatig tot stand gekomen.</p><p>Uit het onderzoek blijkt ook dat in 46 gevallen gemaakte winst werd uitgekeerd aan aandeelhouders van de zorgbedrijven. Het gaat om een bedrag van in totaal 21,8 miljoen euro. De uitkering was bij Faveo Zorg uit Rotterdam het hoogst: 5,1 miljoen euro.</p><p>Woensdagavond besteedt Pointer (KRO-NCRV) op tv aandacht aan de megawinsten, waarin meer namen van bedrijven worden genoemd. Thuiszorgclub Naborgh probeerde de uitzending via een kort geding te voorkomen, maar de rechtbank in Rotterdam ging daarin niet mee, bleek woensdag in een uitspraak.</p><p>Het ministerie van Volksgezondheid noemt fraude met zorggeld in een reactie „onacceptabel.” Een woordvoerster laat weten dat daarom de capaciteit van de inspectiediensten vorig jaar is uitgebreid.</p>

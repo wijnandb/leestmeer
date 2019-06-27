@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Dekker zoekt uit of zedendelinquenten vaker niet worden onderzocht"
+date: Wed, 26 Jun 2019 18:13:36 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/1004978652/dekker-zoekt-uit-of-zedendelinquenten-vaker-niet-worden-onderzocht"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/70fbcb08-982d-11e9-91e3-0255c322e81b.jpg"
+---
+
+<p class="intro">Minister Dekker (Rechtsbescherming) laat onderzoeken of het vaker voorkomt dat zware zedendelinquenten niet psychologisch worden onderzocht. De bewindsman kondigt aan bij het Openbaar Ministerie (OM) aan de bel te trekken om te achterhalen of het systeem in sommige gevallen niet voldoet.</p> <p>Uit onderzoek van De Telegraaf bleek dat Mourad T. na de verkrachting van een 16-jarig meisje nooit werd onderzocht. Zowel justitie als de rechtbank zagen geen reden om de draaideurcrimineel psychisch onder de loep te nemen. Donderdag werd T. na een dna-match opnieuw opgepakt voor een zeer gewelddadige verkrachting van een jonge vrouw.</p><p>„Ik kan niet aangeven of dat een enkel geval is of dat het structureler gebeurt”, aldus de minister. „Ik ga langs het OM om te kijken wat er gebeurt en wat wenselijk is.”</p><p>Ernstige zedenmisdrijven</p><p>PvdA-Kamerlid Kuiken riep hem vandaag tijdens een debat op na zware zedenmisdrijven standaard verdachten aan zo’n onderzoek te onderwerpen. Die oproep wordt gesteund door VVD, PVV en CDA.</p><p>„Ik denk dat er bij dergelijke afgrijselijke misdrijven altijd onderzoek moet worden gedaan. Dit gaat over zieke mensen die tot gruwelijke dingen in staat zijn”, aldus Kuiken. „Die kan je na hun straf niet maar zomaar weer de straat op sturen.”</p><p>Mourad T. knipte na de verkrachting van de 16-jarige Hoornse zijn enkelband door en was lange tijd onvindbaar. Bij zijn aanhouding ging hij twee agenten te lijf, bij wie hij er bij een pepperspray in het gezicht spoot. De man kon destijds, net als nu, gelinkt worden aan de verkrachting door een volle dna-match.</p>

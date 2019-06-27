@@ -1,0 +1,10 @@
+---
+layout: post
+title: "’Kiesstelsel op de schop’"
+date: Thu, 27 Jun 2019 10:57:46 +0200
+category: overig
+externe_link: "https://www.telegraaf.nl/watuzegt/1392215487/kiesstelsel-op-de-schop"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a42ab818-98b9-11e9-8d11-0217670beecd.jpg"
+---
+
+<p class="intro">„Als het aan het kabinet ligt, kan de kiezer straks stemmen op een partij óf op een individuele kandidaat van die partij.” Wat een onzin! De Grondwet kent niet eens partijen, alleen individuen, weet Wim Everwijn.</p> <p>Dat er ooit partijen zijn ingeslopen is feitelijk niets meer dan gemakzucht geweest van het individuele Kamerlid om te gaan samenwerken met collega’s teneinde zeker te zijn van hun stem in de Kamer bij debatten. Volgens de Grondwet is het aldus nog steeds de bedoeling dat 150 Kamerleden gaan lobbyen om uiteindelijk: ’zonder last’ zijn of haar stem te geven. De huidige partijen hebben, dit in de kern mooie systeem op enig moment naar zich toegetrokken en bepalen sedertdien wie er kandidaat wordt op de kieslijst.</p><p>Nee, met de democratie in Nederland is eigenlijk nog heel veel mis. Het enige wat de stemgerechtigde burger in het hokje mag doen is de kandidaat lees: de partij roodkleuren, daarna wordt de burger bedankt en mag hij vervolgens niet meer meespelen, want daarvoor is hij nu eenmaal ongeschikt. De winnende partij neemt vervolgens het voortouw en beslist met wie wordt samengewerkt en worden de ministers en staatssecretarissen benoemd.</p><p>Voorts kent onze democratie ook nog eens talloze politieke benoemingen van functionarissen zoals burgemeesters, hoge rechters, officieren en en leden voor de Raad van State, Waterschappen. Zo bekeken is het best knap om ondanks het voorgaande toch te blijven uitstralen dat Nederland een heuse democratie is, terwijl in een land als bijvoorbeeld de VS zelfs de politiecommissaris van een dorp of stad of de officier van Justitie, sterker nog: iedereen met een zekere publieke functie door het volk gekozen wordt.</p><p>Wim Everwijn, Capelle aan den IJssel</p>

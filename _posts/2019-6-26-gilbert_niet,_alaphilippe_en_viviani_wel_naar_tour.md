@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Gilbert niet, Alaphilippe en Viviani wel naar Tour"
+date: Wed, 26 Jun 2019 10:52:18 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1556646471/gilbert-niet-alaphilippe-en-viviani-wel-naar-tour"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1b4dbfc8-97f5-11e9-8d4b-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Julian Alaphilippe en Elia Viviani zijn de blikvangers van de Belgische ploeg Deceuninck - Quick-Step in de komende Tour de France. De Spanjaard Enric Mas maakt zijn debuut en is de renner voor het algemeen klassement.</p> <p>Alaphilippe was vorig jaar al een van de smaakmakers in de Tour met twee ritzeges en de winst in het bergklassement. De Fransman komt naar Brussel, waar de Ronde van Frankrijk op 6 juli start, als leider van de wereldranglijst. Hij won dit jaar al de Strade Bianche, Milaan-Sanremo en de Waalse Pijl.</p><p>Viviani wordt uitgespeeld in de sprintetappes. De Italiaan reed alleen in 2014 de Tour en wist toen geen etappe te winnen. Hij boekte al wel vijf etappezeges in de Giro d'Italia en drie in de Ronde van Spanje. De 24-jarige Mas verraste vorig jaar met de tweede plaats in de Vuelta.</p><p>De 36-jarige Belg Philippe Gilbert, winnaar van Parijs-Roubaix, mist een tiende deelname aan 'La Grande Boucle'. In 2011 won Gilbert de eerste etappe en veroverde de gele trui.</p><p>De renners die vooral als helper in de ploeg van Deceuninck zijn opgenomen zijn Kasper Asgreen (Den), Dries Devenyns (Bel), Yves Lampaert (Bel), Michael Mørkøv (Den) en Maximiliano Richeze (Arg).</p><p>"Met zo'n sterke groep was het heel lastig om slechts acht renners te kiezen. Het is jammer dat iemand als Philippe Gilbert er niet bij is. Maar we vinden dat dit een heel evenwichtig team is", aldus ploegleider Tom Steels. "We hebben drie kopmannen met wie we op verschillende terreinen etappes kunnen winnen en een rol kunnen spelen in het algemeen klassement. Dat is een moeilijke oefening maar met deze selectie en onze ervaring kunnen we het goed doen in heel wat ritten."</p>

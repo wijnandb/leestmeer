@@ -1,0 +1,31 @@
+---
+layout: post
+title: "(Nog) geen referendum, maar gaan we wel anders stemmen?"
+date: Wed, 26 Jun 2019 19:12:39 +0200
+category: politiek
+externe_link: "https://nos.nl/l/2290813"
+feature_image: "https://nos.nl/data/image/2019/06/26/559392/1008x567.jpg"
+---
+
+<p>Een op de drie Nederlanders voelt zich niet vertegenwoordigd door de politiek. Zorgelijk, vindt minister Ollongren van Binnenlandse Zaken. Het kabinet gaat daarom onderzoeken of het kiesstelsel kan worden aangepast, om de kloof tussen politiek en burger te dichten. Maar is dat niet al eerder gebeurd? En wat gaan we ervan merken?</p>
+<p>Om te beginnen: wat staat er precies in de plannen van het kabinet? Het antwoord is: best veel, want het voorstel van Ollongren is een reactie op de 83 aanbevelingen die de commissie-Remkes vorig jaar deed om onze parlementaire democratie te updaten. Die gingen niet alleen over het kiesstelsel, maar bijvoorbeeld ook over referenda en burgerparticipatie. Een van de aanbevelingen van de commissie was het invoeren van een bindend correctief referendum, waarmee burgers beslissingen van de overheid kunnen terugdraaien.</p>
+<p>Over zo'n referendum zegt het kabinet nu: daar nemen we nog geen besluit over. Wel wil minister Ollongren onderzoek doen naar drie kiesstelselvarianten (zie kader). Die zijn alle drie gericht op het versterken van de band tussen politiek en regio. "Het parlement moet meer een afspiegeling worden van hoe ons land eruitziet", aldus de minister.</p>
+<p>Het is niet voor het eerst dat een minister de kloof tussen politiek en burger probeert te verkleinen, en zeker niet de eerste keer dat ons kiesstelsel ter discussie staat. Er zijn in de loop der jaren al allerlei kiesstelselvarianten onderzocht.</p>
+<p>In de jaren negentig wilde het kabinet-Kok I bijvoorbeeld een soort gemengd kiesstelsel invoeren. Tien jaar later deed ook D66-minister De Graaf voor Bestuurlijke Vernieuwing een poging om de band tussen kiezer en gekozene te versterken. Die plannen sneuvelden.</p>
+<h2>Hoge hoed</h2>
+<p>Volgens Wim Voermans van de Universiteit Leiden zijn er twee belangrijke redenen waarom ons kiesstelsel toch steeds bij het oude blijft. De ene reden is dat ons huidige systeem eigenlijk zo gek nog niet is. "Nederland is nu één groot kiesdistrict, waarin elke stem telt. Er zijn 150 Tweede Kamerzetels te verdelen, alle stemmen gaan in een hoge hoed en daar rolt dan een zetelverdeling uit. Elke variant daarop is ingewikkelder."</p>
+<p>Als voorbeeld noemt hij het Duitse kiesstelsel, dat oud-minister De Graaf in Nederland wilde introduceren. In Duitsland stem je twee keer: een keer op een kandidaat uit jouw kiesdistrict en een keer op een partij. "Dat systeem is complex. Daar ging De Graaf ook op onderuit."</p>
+<h2>Invloed</h2>
+<p>Volgens Voermans spelen ook partijbelangen een grote rol in het tegenhouden van een nieuw kiesstelsel. "Het is onwaarschijnlijk dat politieke partijen beter worden van een stelselwijziging. De invloed die de landelijke leiding van een partij kan uitoefenen op bijvoorbeeld de kandidatenlijst wordt kleiner op het moment dat de regionale component belangrijker wordt."</p>
+<p>Dat laatste ziet Ollongren overigens juist als een voordeel. "Nu kunnen partijen heel erg zelf bepalen wie er in hun fractie komen", zegt zij. "Wij willen meer ruimte voor personen. De partij blijft de basis, maar de mensen op de kieslijst moeten belangrijker worden."</p>
+<p>De minister hoopt dat partijen dan meer aandacht gaan besteden aan regionale diversiteit, zodat een groter deel van Nederland zich aangesproken voelt door de kandidaten.</p>
+<p>Kiezersonderzoeker Henk van der Kolk van de Universiteit Twente betwijfelt of dat effect inderdaad zal optreden. "Veel kiezers vinden het belangrijker dat ze vertegenwoordigd worden door bijvoorbeeld een vrouwelijke politicus of een deskundige op een bepaald gebied, dan door iemand uit hun eigen regio."</p>
+<p>Kan een ander kiesstelsel de kloof tussen politiek en burger dan überhaupt niet dichten? Zo ver wil Van der Kolk ook weer niet gaan. "Als je niks doet, los je het probleem natuurlijk al helemaal niet op."</p>
+<p>Volgens hem spreekt de eerste variant die het kabinet onderzoekt, waarbij je zowel op een partij als op een persoon kunt stemmen, veel mensen aan. Die variant is in 2006 ook al eens voorgesteld. "Toen bleek dat mensen het fijn vonden om een keuze te hebben: of stemmen op een lijst, of op een kandidaat."</p>
+<h2>Referendum</h2>
+<p>En hoe zit het dan met dat andere advies van de commissie-Remkes: het bindend correctief referendum? De commissie noemde dat middel vorig jaar "een remedie tegen een gebrekkige inhoudelijke representatie van de bevolking". Gaat Ollongren daar nu niet aan voorbij?</p>
+<p>"Het invoeren van zo'n referendum zou een behoorlijke verandering in ons parlementair stelsel zijn", zegt de minister daar vandaag over. "We nemen het advies van de commissie serieus, maar willen eerst een en ander verder uitwerken voordat we er een besluit over nemen."</p>
+<p>Zonde, vindt politicoloog Voermans. "Het kabinet neemt hiermee een wezenlijk onderdeel van de oplossing van Remkes eigenlijk al weg. Een klein beetje draaien aan de knoppen van het kiesstelsel is namelijk niet voldoende. Daar krijg je dat derde deel van het electoraat echt niet mee terug."</p>
+<p>Is het niet een beetje raar dat u de analyses van Remkes deelt, maar dat u over een van zijn belangrijkste aanbevelingen - het correctief referendum - zegt: dat doen we even niet? Bekijk de video om te horen hoe minister Ollongren reageert op deze vraag van politiek verslaggever Ron Fresen:</p>
+<p>Volgens minister Ollongren is de maatschappij altijd in ontwikkeling en heeft democratie daarom altijd onderhoud nodig. "Dat gaat niet met een revolutie, maar met evolutie", zegt ze.</p>
+<p>De veranderingen die het kabinet voorstelt, vormen dus geen grote doorbraak, zegt politiek verslaggever Ron Fresen. "Daar is de politiek ook te verdeeld over. Het kabinet kiest voor verandering in kleine stapjes, hoewel de minister het al heel wat vindt dat het kiesstelsel op de schop gaat. Maar of de kiezer over tien jaar wél tevreden is? Democratie is er misschien voor altijd - maar de discussie erover zeker ook."</p>

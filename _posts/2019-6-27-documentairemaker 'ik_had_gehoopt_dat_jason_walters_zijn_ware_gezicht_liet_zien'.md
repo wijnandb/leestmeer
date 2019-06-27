@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Documentairemaker: 'Ik had gehoopt dat Jason Walters zijn ware gezicht liet zien'"
+date: Thu, 27 Jun 2019 06:36:39 +0200
+category: binnenland
+externe_link: "http://feeds.nos.nl/~r/nosnieuwsbinnenland/~3/qG7i0K-IUZU/2290858"
+feature_image: "https://nos.nl/data/image/2019/06/27/559435/1008x567.jpg"
+---
+
+<p>"Een moment later word je wakker. Je ligt opeens, ruikt buskruit. Oja, ik ben neergeschoten. Je voelt helemaal niks. Je denkt: wat is er gebeurd? Opeens zie je bloed, in mijn schouder. Maar je voelt niks, want je staat nog stijf van de adrenaline."</p>
+<p>Jason Walters beschrijft hoe hij in 2004 bij zijn arrestatie in het Haagse Laakkwartier werd neergeschoten. Er ging een belegering van 10 uur aan vooraf, nadat hij drie agenten had verwond met een granaat. Hij zou er acht jaar de cel voor in gaan.</p>
+<p>In de documentaire The good terrorist van Robert Oey (vanaf vandaag in bioscoop en filmtheater) vertelt Walters voor het eerst uitgebreid in beeld over hoe hij radicaliseerde, en hoe hij die ideologie weer afzwoer. De regisseur (De Missie, De Leugen) leerde Walters kennen bij het maken van een documentaire over islamitisch geweld, kort na diens vrijlating in 2013.</p>
+<p>"Hij was net driekwart jaar vrij. Ik vond hem heel schichtig, hij moest wennen aan de vrijheid", zegt Oey over de kennismaking. "Het was ruim tien jaar na 9/11 en ik wilde een film maken over de motivatie om je met politiek geweld af te zetten tegen Nederland. Jason was bereid om reflectie te tonen, terug te gaan, te vertellen wat er was gebeurd."</p>
+<h2>Smetvrees voor ongelovigen</h2>
+<p>Walters vertelt wat hem als tiener met een christelijke opvoeding aansprak in de rechtlijnige islamitische dogma's. Voor ongelovigen ontwikkelde hij "smetvrees", "haat die gepaard ging met enorme minachting, en een enorm superioriteitsgevoel". Hij kreeg een terreurtraining in Pakistan en raakte betrokken bij de Hofstadgroep, waar ook de moordenaar van Theo van Gogh bij hoorde. Anderhalve week na die aanslag viel de politie binnen.</p>
+<p>"Ik voelde me heel schuldig. Een sterk gevoel van schuld en schaamte", zegt Walters over het moment dat hij bijkwam in het gevangenishospitaal. "Dat je je had overgegeven was onverdraaglijk. Ik voelde heel sterk het idee dat ik een zonde had begaan, door letterlijk de ongelovige de rug toe te keren en weg te rennen."</p>
+<p>Op de terroristenafdeling van gevangenis Vught raakte hij los van die radicale ideologie en verliet de islam. De nuchtere omgang van de bewakers droeg daaraan bij, schetst Oey, evenals Walters' studie naar de Tweede Wereldoorlog en een vertoning van Schindler's List ("alsof die film voor mij gemaakt was"). Walters begon te betwijfelen waar al zijn haat goed voor was geweest.</p>
+<p>"Als je 21 bent, heb je zoiets van 'ik ben nog jong, ik haal het allemaal wel in'", legt hij uit in de film. "Maar rond je 24ste, 25ste, kreeg je wel eens berichtjes van de eerste mensen die klaar waren met de universiteit, kinderen krijgen ofzo. Dan ga je beseffen: zij zijn verdergegaan, wat heb jij al die jaren gedaan? Helemaal niks, je bent precies even ver als toen je 18 was."</p>
+<h2>Toch onherkenbaar</h2>
+<p>De opnames waarin Walters het allemaal uitlegt moesten jaren op de plank blijven liggen. Eerst mochten de beelden niet worden gebruikt vanwege het spreekverbod dat Walters was opgelegd. Toen dat afliep stond Walters er ineens op - tot Oeys grote spijt - onherkenbaar in beeld te komen. Als oud-terrorist én oud-moslim vreest hij voor zijn leven.</p>
+<p>"Ik had gehoopt dat hij zijn ware gezicht zou laten zien letterlijk en figuurlijk - en eigenlijk doet hij dat niet", verzucht de regisseur. "Hij kiest voor onherkenbaarheid. En dus zie ik zijn ogen niet echt als hij praat."</p>
+<p>Walters liet bovendien ten langen leste niet het achterste van zijn tong zien, in Oeys ogen. "Ik botste toch op een soort ultiem verzet", beschrijft hij de gesprekken. "Dat zie je heel duidelijk als ik hem confronteer met tapgesprekken waarin hij tegen een meisje beweert dat hij Ayaan Hirsi Ali en Balkenende iets wil aandoen. Dan raakt hij geërgerd en wil hij niet meer met me praten. Dat is een brug te ver. Het ultieme antwoord hierom heb ik het gedaan, je moet het zo begrijpen, dat zit er niet in."</p>
+<p>"Ik denk dat hij daarmee een hele grote fout maakt. Als hij nu met deze film had gekozen voor openheid, om het uit te leggen aan de mensen die hij fysiek geweld heeft aangedaan, denk ik dat dat de ware deradicalisering zou zijn geweest."</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbinnenland/~4/qG7i0K-IUZU" height="1" width="1" alt=""/>
