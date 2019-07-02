@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Minister Blok staat achter ontmoeting Máxima en Bin Salman"
+date: Mon, 01 Jul 2019 18:12:49 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/469063372/minister-blok-staat-achter-ontmoeting-maxima-en-bin-salman"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/867d81b4-9c25-11e9-92d5-0255c322e81b.jpg"
+---
+
+<p class="intro">Minister Blok (Buitenlandse Zaken) heeft er geen spijt van dat de regering groen licht heeft gegeven voor een ontmoeting tussen koningin Máxima en de Saoedische kroonprins Mohammed Bin Salman.</p> <p>De VVD-bewindsman vindt namelijk dat de koningin ’belangrijk werk’ doet door er in haar rol als speciaal VN-gezant voor ’inclusieve financiering’ voor te zorgen dat vrouwen toegang krijgen tot bankrekeningen en krediet. Dat ze daarbij contact heeft met landen waarbij ’grote zorgen zijn over mensenrechten’ is volgens hem ’onvermijdelijk’.</p><p>Coalitiepartij D66 en de oppositie maken juist gehakt van de ontmoeting. De Saoedische kroonprins ligt namelijk onder vuur vanwege zijn betrokkenheid bij de gewelddadige moord op journalist en dissident Jamal Kashoggi. Bij uitstek de VN, waar ook Máxima werk voor doet, stelt dat er ’geloofwaardig’ bewijs is dat het Bin Salman is die achter de gruweldaad zit.</p><p>D66-Kamerlid Sjoerdsma noemt het ’zeer ongelukkig’ dat onze koningin met deze man in gesprek is gegaan. „Het is aan het kabinet om ervoor te zorgen dat ze niet in dergelijke situaties belandt’, vindt hij. GL’er Van Ojik noemt het een ’blunder’ en vindt dat Máxima ’een mijnenveld’ is ingestuurd.</p><p>Intussen tonen ook coalitiepartijen CDA en CU zich kritisch. Eerder hielden ze zich nog op de vlakte. CDA’er Van Helvert had liever gezien dat Máxima achter gesloten deuren haar gesprek met met de Saoedische kroonprins had gehad. Nu konden de Saoedi’s de beelden gebruiken voor ’propaganda’, stelt hij. CU’er Voordewind vind vooral de timing ’ongelukkig’ en eist meer opheldering van minister Blok.</p>

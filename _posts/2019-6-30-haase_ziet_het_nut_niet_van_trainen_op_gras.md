@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Haase ziet het nut niet van trainen op gras"
+date: Sun, 30 Jun 2019 19:08:06 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/7978561/haase-ziet-het-nut-niet-van-trainen-op-gras"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a0c3a08e-9b59-11e9-aebd-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Robin Haase begint maandag op Wimbledon aan zijn elfde deelname, maar heeft niet echt een beeld van zijn eerste tegenstander Jozef Kovalik.</p> <p>„Ik weet niet zo goed wat ik kan verwachten, want ik heb geen idee hoe hij speelt op gras”, zei Haase kort voor zijn trainingssessie over de nummer 169 van de wereld uit Slowakije. „Het is een jongen die ik niet zo goed ken, want hij heeft veel challengers gespeeld. We hebben vijf jaar geleden tegen elkaar gespeeld, dus dat zegt niks. Het is afwachten.”</p><p>In de laatste week voor Wimbledon speelde Haase geen voorbereidingstoernooi en dus staat het aantal zeges op gras op slechts één; in Rosmalen versloeg hij de Fransman Ugo Humbert en in Halle werd Haase verslagen door Alexander Zverev.</p><p>Niet op gras</p><p>Hoewel Haase afgelopen week thuis zat, ging hij bewust niet naar Rosmalen, waar de banen nog beschikbaar waren gesteld. „Ik heb bewust niet op gras getraind, want ik zie het nut er niet van continu op gras te trainen”, aldus de Hagenaar. „Je spel wordt er niet beter door, want je hebt vooral intuïtie nodig bij grastennis. Je moet het spel aanvoelen, want de bal stuitert heel anders. Omdat ik meer ritme wilde en dingen wilde trainen heb ik me op hardcourt voorbereid, op een binnenbaan.”</p><p>In aanloop naar Wimbledon 1996, toen Richard Krajicek zegevierde, deed de beste Nederlandse tennisser hetzelfde. Om weer in het ritme te komen en de timing te verbeteren, zei Krajicek. Haase debuteerde in 2008 in het hoofdtoernooi van Wimbledon, waarin hij sindsdien alleen in 2009 ontbrak. Zijn beste resultaat boekte hij 2011, toen hij de derde ronde haalde.</p>

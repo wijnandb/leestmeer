@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Basis Oranje Leeuwinnen traint apart"
+date: Mon, 01 Jul 2019 12:51:42 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/295960403/basis-oranje-leeuwinnen-traint-apart"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4839bdba-9bf7-11e9-8611-0255c322e81b.jpg"
+---
+
+<p class="intro">De basisploeg van de Nederlandse voetbalsters heeft maandag in de buurt van Lyon een hersteltraining afgewerkt.</p> <p>Jackie Groenen, Sherida Spitse, Daniëlle van de Donk en Dominique Bloodworth deden wat lichte oefeningen op het veld van het Stade du Merlo in Oullins, een stadje ten zuiden van Lyon. Twee dagen voor het duel met Zweden in de halve finales van het WK bleven de overige basiskrachten aan de kant.</p><p>Bij Lieke Martens was duidelijk te zien dat ze nog steeds last heeft van een teen van haar linkervoet. De linksbuiten liep moeizaam naar de hometrainers toe waarop de meeste basisspeelsters toch nog aan wat beweging kwamen. Ze zaten in de schaduw, terwijl de reserves op het veld een normale training afwerkten onder de felle zon in Zuid-Frankrijk. In Lyon is het ruim boven de 30 graden Celsius.</p><p>Martens had vorige week na het duel met Japan in de achtste finales van het WK (2-1) zoveel last van haar teen, dat tot het laatste moment onzeker was of ze zou kunnen spelen. Trainen deed ze amper. De linksbuiten maakte tegen Italië (2-0) echter ’gewoon’ de 90 minuten vol. „Op adrenaline kan ik heel veel. Richting woensdag wordt het hetzelfde verhaal als de voorbije dagen”, zei Martens na afloop. „Het blijft pijn doen, ik heb weer veel reactie. Maar als ik nu kan spelen, kan ik dat woensdag ook.”</p><p>Bondscoach Sarina Wiegman geeft later op maandag een persconferentie in het stadion van Lyon. Dinsdag staat nog een training op het programma, waarna Oranje woensdag vanaf 21.00 uur met Zweden gaat strijden om een plek in de finale van het WK. De eerste halve finale gaat dinsdag tussen Engeland en de Verenigde Staten.</p>

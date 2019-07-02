@@ -1,0 +1,12 @@
+---
+layout: post
+title: "’Meghan en Harry al aan DERDE nanny toe in zes weken’"
+date: Sat, 29 Jun 2019 12:44:30 +0200
+categories: 
+- entertainment 
+- royalty 
+externe_link: "https://www.telegraaf.nl/entertainment/1438536797/meghan-en-harry-al-aan-derde-nanny-toe-in-zes-weken"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6c014182-9a6c-11e9-b698-02c309bc01c1.jpg"
+---
+
+<p class="intro">Baby Archie zou al aan zijn derde nanny toe zijn in amper zes weken. Twee van de eerdere kinderoppassen zouden niet langer voor prins Harry en Meghan willen werken.</p> <p>Het hoge verloop in zo’n korte tijd, doet opnieuw vragen rijzen over personeel dat hun baan in dienst van het koninklijke koppel opzegt. Maar volgens bronnen die sympathiek tegenover Harry en Meghan staan, is het vertrek van de babysitters niet zo verdacht als wordt gesuggereerd. Volgens hen is het logisch dat het stel de tijd neemt voor zo’n belangrijke vraag als wie de zorg voor hun acht weken oude zoontje op zich kan nemen.</p><p>„Harry en Meghan willen geen overhaaste beslissing nemen in hun keuze voor een nanny. Het is een hoogst persoonlijke keuze en kan afhangen van de behoeften van de baby en de ouders.” Bovendien, stelt hij in The Sun: „Er zijn vaak verschillende fases in het leven van de baby, waarbij steeds andere behoeftes gelden. De eerste nanny was een nachtzuster.”</p><p>Het Amerikaanse magazine Harper’s Bazaar wist laatst te melden dat er een nieuwe nanny was ingehuurd die van Britse afkomst was, maar niet permanent op Frogmore Cottage aanwezig was en niet in de weekenden werkte. Koninklijk personeel verdedigde deze keuze door te laten weten dat deze nanny alleen ’extra steun’ moest geven aan de hertog en hertoging van Sussex gedurende hun tour door Zuid-Afrika, waarop ze baby Archie willen meenemen.</p><p>Toch acht men het vertrek van de twee nanny’s opmerkelijk, gezien het feit dat al eerder een aantal personeelsleden van Harry en Meghan kort achter elkaar de benen nam: Meghans PA Melissa Touabti gaf haar functie na een half jaar op, naar verluidt omdat ze herhaaldelijk onder de veeleisendheid van Meghan in tranen was uitgebarsten. Een paar weken later verliet privésecretaris Samantha Cohen de royals, na zeventien jaar trouwe dienst. In januari van dit jaar was het Meghans bodyguard, die haar functie na een half jaar neerlegde. De laatste weken vertrokken ook assistentes van de privésecretaris Amy Pickerall en Heather Wong.</p>

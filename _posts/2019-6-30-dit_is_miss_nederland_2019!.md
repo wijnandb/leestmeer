@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Dit is Miss Nederland 2019!"
+date: Sun, 30 Jun 2019 18:18:14 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/1096661393/dit-is-miss-nederland-2019"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ed2d657c-9c17-11e9-978b-0218eaf05005.jpg"
+---
+
+<p class="intro">Sharon Pieksma mag zich komend jaar Miss Nederland noemen. De 24-jarige Rotterdamse, die landelijk bekend werd door haar deelname aan Holland’s Next Top Model (seizoen 6, 2013) ontving de titel en de bijbehorende met kristallen ingelegde kroon van Miss Nederland 2018, Rahima Dirkse.</p> <p>„Wow, ik moet het eerst even zelf geloven”, zegt ze. „Als Miss Nederland krijg je verantwoordelijkheden die je kan inzetten. Ik ben iemand die heel gemotiveerd en gepassioneerd is, vol liefde zit en stralende energie wil geven, goede intenties heeft en de positiviteit in mij wil ik delen met anderen.”</p><p>Pieksma, al sinds haar dertiende model, werd verkozen uit een groep van tien finalisten. De afgelopen weken werden de dames gevolgd in het RTL 4-programma Op jacht naar de kroon. De finaleshow werd zondagmiddag uitgezonden. De kandidaten moesten de jury in verschillende rondes, waaronder een bikinironde, zien te overtuigen.</p><p>Miss Universe</p><p>De nieuwe Miss Nederland hoopt zich te kunnen inzetten voor mens, natuur en dier, vertelt ze. „Ik wil als Miss Nederland de wereld een stukje beter maken met als doel: minder plastic. We moeten onze planeet beschermen en dat wil ik door dit platform te gebruiken delen met de wereld.”</p><p>Door haar overwinning mag Pieksma Nederland vertegenwoordigen tijdens de Miss Universe-verkiezing. Eerder werden onder anderen Jessie Jazz Vuijk, die meedeed aan Expeditie Robinson en Boxing Stars, en Dance Dance Dance-deelnemer Zoey Ivory van der Koelen verkozen tot Miss Nederland. Al sinds de jaren dertig vindt de missverkiezing jaarlijks plaats, destijds werd de winnares Miss Holland genoemd.</p>

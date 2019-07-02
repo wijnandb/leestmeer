@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Krajicek: ’Ik neem de tijd voor Playboy’"
+date: Sat, 29 Jun 2019 06:25:00 +0200
+categories: 
+- sport 
+- tennis 
+externe_link: "https://www.telegraaf.nl/sport/682571347/krajicek-ik-neem-de-tijd-voor-playboy"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/828b4f14-9a2c-11e9-b40f-0217670beecd.png"
+---
+
+<p class="intro">Ze stuurde in maart een ietwat ondeugende foto via Instagram de wereld in. Met interessante gevolgen. Op de bewuste foto had Michaëlla Krajicek geen kleren aan, maar wel een grote bos tulpen vast waardoor haar lichaam deels aan het zicht werd onttrokken. Op internet werd vervolgens aangedrongen op een fotoreportage in de Playboy. Daar blijken de redactie van het blad en het beoogde model wel oren naar te hebben.</p> <p>„Ik ben sowieso al gevraagd”, zegt ze met een vrolijke lach. „Alleen nu nog kijken wat ik er mee ga doen. Ik had trouwens geen idee dat de foto met dat bloemetje zo veel reacties los zou maken. Ik zeg zeker geen nee tegen de Playboy, maar neem even de tijd, want ik wil er nog wel wat fitter en beter uit zien.”</p><p>De 30-jarige inwoonster van Praag houdt zich naast tennissen en poseren ook bezig met andere dingen. Ze zet voorzichtige stappen op het gebied van de televisiejournalistiek en zou in de toekomst graag commentaar geven bij wedstrijden. Ondertussen maakt en verkoopt ze ook schilderijen.</p><p>Tekenen en schilderen</p><p>„Tekenen en schilderen deed ik als kind al graag”, legt ze uit. „Jammer dat ik dit door het tennis niet veel heb gedaan in mijn tienerjaren. Ik heb geen les gehad, doe alles op gevoel en heb inmiddels een stuk of twintig schilderijen gemaakt. Daar wil ik altijd iets positiefs mee doen. Ik heb veel geluk gehad in mijn leven, ook door mensen die me hebben geholpen. Nu veil ik mijn schilderijen voor een goed doel. Degene die een schilderij koopt, mag zelf zeggen aan welk doel het geld wordt gegeven. Ik had geen idee of mensen van mij een schilderij wilden, maar de eerste ging voor 300 euro. Dat is niet zo veel, maar ik was allang blij dat iemand het wilde. Het tweede schilderij was voor War Child en werd voor duizend euro gekocht door Marco Borsato. Het is mijn doel om er elke maand eentje te verkopen. Dat gaat allemaal via het Instagram-account onder mijn eigen naam of onder girlwholovestopaint.’’</p><p>Lees het hele, exclusieve interview met Michaëlla Krajicek in De Telegraaf/Telesport van zaterdag 29 juni:</p>

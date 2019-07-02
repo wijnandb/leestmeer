@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Vierde dorp geëvacueerd na bosbrand Duitsland"
+date: Mon, 01 Jul 2019 23:25:05 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/1407921199/vierde-dorp-geevacueerd-na-bosbrand-duitsland"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/cdcd26de-9c46-11e9-8d4b-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Vanwege een draaiende wind en het gevaar van uitbreiding van de grote bosbrand op een voormalig militair oefenterrein in het Duitse Mecklenburg-Vorpommern is maandagavond een vierde dorp geëvacueerd.</p> <p>Na Alt Jabel, Jessenitz-Werk en Trebs is nu de meer dan honderd inwoners tellende plaats Volzrade ontruimd. Het vuur op de voormalige militaire oefenterrein bedreigt de dorpen. In totaal zijn nu meer dan 750 mensen geëvacueerd. De meesten zijn naar familie gegaan, anderen zijn ondergebracht in de sporthal van Lübtheen. Zondagavond werd ook een kindervakantiekamp al ontruimd.</p><p>Volgens de autoriteiten heeft de vuurzee inmiddels een omvang van 4,7 vierkante kilometer en is die daarmee de grootste in de geschiedenis van deze Duitse deelstaat. De brandlucht was maandag zelfs in Berlijn te ruiken, 200 kilometer naar het zuidoosten.</p><p>Munitie</p><p>De bluswerkzaamheden worden bemoeilijkt door de grote hoeveelheid munitie die nog in het gebied ligt. De vierhonderd brandweerlieden die zijn ingezet, moeten wegens het risico op afstand blijven. Geprobeerd wordt de vlammen met pantservoertuigen en helikopters te bestrijden. Buurstaat Nedersaksen stuurde maandag versterking, meer dan honderd manschappen en technisch materieel voor het oppompen en transporteren van water.</p><p>Het districtshoofd van Ludwigslust-Parchim noemde de situatie spannend. „Op dit moment gaat het niet zozeer om het blussen van de brand maar om de veiligheid van het leven in de omgeving”, aldus Stefan Sternberg, die zondagavond al de noodtoestand afkondigde. Speciale aandacht krijgt een pand van de explosievenopruimingsdienst dat vlak bij de vuurhaard staat.</p><p>Bij het onderzoek naar de oorzaak gaat de politie er serieus van uit dat een pyromaan aan het werk is geweest. Het staat vast dat de vlammen zondag op verschillende plekken zijn opgelaaid. Mogelijke getuigen en mensen die in de omgeving videobeelden of foto’s hebben gemaakt zijn opgeroepen zich te melden.</p>

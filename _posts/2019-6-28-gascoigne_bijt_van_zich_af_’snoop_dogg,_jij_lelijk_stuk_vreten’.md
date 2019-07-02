@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Gascoigne bijt van zich af: ’Snoop Dogg, jij lelijk stuk vreten’"
+date: Fri, 28 Jun 2019 16:48:13 +0200
+categories: 
+- entertainment 
+- gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/322630472/gascoigne-bijt-van-zich-af-snoop-dogg-jij-lelijk-stuk-vreten"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f2855464-99b3-11e9-80ed-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Beiden hebben zonder twijfel hun beste tijd achter zich liggen, maar dat betekent niet dat het venijnige eraf is. Rapper Snoop Dogg opende gisteren de aanval op voormalig stervoetballer Paul Gascoigne, door de spot te drijven met diens alcoholverleden. Maar Gazza zou Gazza niet zijn als hij daar niet even – uiteraard op geheel eigen wijze – op zou reageren: „You ugly twat!”</p> <p>De vete begon toen Calvin Cordozar Broadus Jr. – zoals Snoop Dogg (47) in het echt heet – op Instagram een bericht deelde, waarop te zien is wat ’alcoholmisbruik’ met je doet. Hij gebruikte hiervoor foto’s van een 20-jarige én een 47-jarige Paul Gascoigne (52). Datzelfde deed de rapper met foto’s van zichzelf, met als bovenschrift ’marihuanamisbruik’. Te zien is dat Snoop in 27 jaar tijd nauwelijks is veranderd, terwijl dat voor de Britse voetballegende allerminst geldt.</p><p>Decennialang wordt Gascoigne achtervolgd door zijn alcoholverslaving en minstens zo vaak verschenen er berichten in de Britse tabloids waarin werd gevreesd voor Gazza’s leven. De voormalig international van Engeland is door diepe dalen gegaan, maar inmiddels is hij aan de betere hand.</p><p>Hartverscheurend</p><p>Mede daarom kon Snoop Dogg, die zelf bekendstaat als een voetbalfan, rekenen op een flinke lading kritiek. Zo liet onder anderen Marieke Derksen, uitgever van (voetbal)boeken en dochter van, weten: „Kan Snoop echt goed hebben, jeugdsentiment. Maar dat is Gazza ook. Huilend zijn docu gekeken. Hartverscheurend. Snap niet zo goed de connectie tussen de twee en waarom Snoop Dogg dit post. Tikje laag. Desalniettemin ga ik googelen naar een coffeeshop bij mij in de buurt, denk ik.”</p><p>Gascoigne zelf kon er ook niet bepaald om lachen en beet vandaag op Twitter van zich af. „Goedemorgen, Snoop. Kom met je luie reet uit bed, het is tijd om een stukje te gaan wandelen. Woef, woef! Jij lelijk stuk vreten. Veel liefs, Gazza.”</p><p>Wordt, ongetwijfeld, vervolgd...</p>

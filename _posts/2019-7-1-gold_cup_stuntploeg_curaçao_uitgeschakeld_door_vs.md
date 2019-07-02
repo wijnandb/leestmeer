@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Gold Cup: Stuntploeg Curaçao uitgeschakeld door VS"
+date: Mon, 01 Jul 2019 07:18:49 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1067377252/gold-cup-stuntploeg-curacao-uitgeschakeld-door-vs"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/da2fb588-9bc2-11e9-8c8b-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Curaçao is in de kwartfinale van de Gold Cup uitgeschakeld door de Verenigde Staten. De titelverdediger had aan een doelpunt in de eerste helft genoeg om een Oranje-getint Curaçao naar huis te sturen.</p> <p>Het was een gelijkopgaande wedstrijd. Het Amerikaanse doelpunt van Weston McKennie viel uiteindelijk in de 25e minuut na een mooie aanval van de Amerikanen. Kort voor rust kreeg Curaçao nog een grote kans, maar Darryl Lachman kopte over.</p><p>In de tweede helft kregen de eilandbewoners kansen op de gelijkmaker. Zo schoot Leandro Bacuna net voor tijd hard op goal, maar keeper Zack Steffen tikte de bal onder de lat vandaan.</p><p>Curaçao overleefde dit jaar voor het eerst de groepsfase van de Gold Cup. Bacuna scoorde zelfs het allereerste doelpunt op de eindronde namens Curaçao.</p><p>De VS nemen het in de halve finale op tegen Jamaica.</p><p>Jamaica</p><p>Want Jamaica won met 1-0 van Panama in de kwartfinale van de Gold Cup. Een penalty van Darren Mattocks in de 75e minuut was voldoende voor Jamaica.</p><p>De ploegen waren aan elkaar gewaagd. Slordig spel van zowel Jamaica als Panama zorgde er echter voor dat er weinig kansen waren in de wedstrijd.</p><p>Mattocks viel kort voor zijn beslissende penalty in. Hij versierde de strafschop zelf. In een kopduel kreeg de aanvaller een klein zetje, waarna hij naar de grond ging. De scheidsrechter wees direct naar de stip, tot woede van de Panamezen.</p><p>De Jamaicaan bleef vervolgens rustig en schoof de bal de goal in. Jamaica neemt het in de halve finale op tegen de winnaar van de Verenigde Staten tegen Curaçao.</p>

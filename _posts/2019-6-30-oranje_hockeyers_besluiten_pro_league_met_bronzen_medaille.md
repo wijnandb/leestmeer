@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Oranje hockeyers besluiten Pro League met bronzen medaille"
+date: Sun, 30 Jun 2019 17:05:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1738447896/oranje-hockeyers-besluiten-pro-league-met-bronzen-medaille"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d070e2ec-9b72-11e9-aebd-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">De Nederlandse hockeyers hebben bij de Grand Final van de eerste editie van de Pro League brons gewonnen. In de ’troostfinale’ was Oranje met 5-3 te sterk voor Groot-Brittannië.</p> <p>Jeroen Hertzberger en Mirco Pruijser waren op het veld van het Wagener Stadion in Amstelveen van grote waarde voor Nederland door beiden twee keer te scoren. Later op de zondag won Australië de finale met 3-2 van Belguë.</p><p>De Geus</p><p>Bondscoach Max Caldas had in het Wagener Stadion in Amstelveen de 21-jarige Jonas de Geus een basisplaats gegeven. Hij werd opgeroepen als vervanger van Jorrit Croon, die tegen België een schouderblessure opliep.</p><p>Na negen minuten liet De Geus zijn kwaliteiten zien met een lage voorzet vanaf links. Hertzberger kon binnen tikken en zette Oranje zo op voorsprong. Vervolgens gebeurde er weinig voor beide doelen tot aan het einde van het tweede kwart.</p><p>Van der Weerden</p><p>De Britten kwamen via Zachary Wallace en Henry Weir op voorsprong. Een door Hertzberger benutte strafcorner zorgde weer voor balans, maar aan de andere kant was de eerste Britse strafcorner ook direct een prooi voor Phil Roper. Mink van der Weerden maakte het vijfde doelpunt in zes minuten door uit een strafcorner raak te pushen. Met een tussenstand van 3-3 gingen de ploegen rusten.</p><p>Na de hervatting voorkwam doelman Pirmin Blaak een achterstand bij twee gevaarlijke Britse strafcorners, waardoor Pruijser Nederland op 4-3 kon brengen. Diezelfde Pruijser was even later weer belangrijk met zijn 62e doelpunt in 107 interlands. De Britten zetten nog alle troeven in door een veldspeler in te brengen voor de keeper, maar dat mocht niet baten.</p>
