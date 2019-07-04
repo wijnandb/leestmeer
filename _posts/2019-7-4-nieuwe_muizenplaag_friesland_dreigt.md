@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Nieuwe muizenplaag Friesland dreigt"
+date: Thu, 04 Jul 2019 12:19:32 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/1560197520/nieuwe-muizenplaag-friesland-dreigt"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5fca4a12-9e45-11e9-aeb3-0255c322e81b.jpg"
+---
+
+<p class="intro">Opnieuw dreigt een enorme veldmuizenplaag in het zuidwesten van Friesland. Boerenorganisatie LTO Noord roept daarom boeren op hun land onder water te zetten. „Wij krijgen van boeren signalen dat er muizen zijn en we zien ook dat er meer roofvogels zijn”, zegt LTO-bestuurder Peet Sterkenburgh.</p> <p>LTO heeft een bijeenkomst gehouden om boeren voor te lichten over de mogelijkheden om de muis te bestrijden. Daar kwamen honderd boeren op af. Belangrijk is volgens Sterkenburgh om het gras kort te houden, zodat roofvogels makkelijk muizen kunnen vangen. Daarnaast is water een goed middel. „Het water moet er een paar uur opstaan, zodat de muizen verdrinken.”</p><p>Hoewel het al een tijd droog is, is er voorlopig nog voldoende water voor de bestrijding. „Het is nu nog geen probleem, we doen dit in overleg met het Friese waterschap.” LTO raadt boeren wel aan om gezamenlijk op te trekken met collega’s in de buurt. „Anders gaan ze naar de buurman toe.”</p><p>Koningen van de weiden</p><p>In 2014 en 2015 waren de muizen in het gebied ook de koningen van de weiden. De beestjes veranderden hele weilanden in prairielandschappen en lieten boeren achter met enorme schades. In totaal hadden de boeren voor ruim zeventig miljoen euro schade, zo berekende LTO eerder. „Een boer is zijn gras kwijt, maar moet het ook opnieuw inzaaien.”</p><p>Voor melkveehouder Albert Schilstra uit Follega liep de schade destijds op tot tienduizenden euro’s. „Het begon in de herfst en in de winter ging het door. Daarna hadden de muizen alles opgevreten. Het land was helemaal zwart.”</p><p>Tevergeefs probeerde de boer met anderen een vergoeding van de overheid te krijgen. „We kregen niks, eigen risico zeiden ze.” Hoe lang hij precies erover heeft gedaan om de schade in het bedrijf te herstellen, weet hij niet. „Het is moeilijk te zeggen hoe lang zoiets na-ebt. Je kunt andere dingen in elk geval niet doen.”</p><p>Op dit moment heeft Schilstra nog maar een paar muizen gezien en heeft hij de pomp zelf nog niet aangezet. „Hier in de omgeving zijn boeren wel al aan het pompen. Mocht het zover komen, ga ik dat ook doen. Ik bekijk het bijna dagelijks.”</p>
