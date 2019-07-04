@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Jumbo-Visma wil Dumoulin inlijven"
+date: Wed, 03 Jul 2019 08:17:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1282563831/jumbo-visma-wil-dumoulin-inlijven"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6b4d7fd4-9da6-11e9-a454-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Diverse ploegen hebben openlijk uitgesproken dat ze Tom Dumoulin willen inlijven. Hoewel de Limburger een doorlopend contract met Team Sunweb heeft, hebben o.a. Team INEOS, CCC-Giant, UAE-Emirates, Total Direct Energie en Jumbo-Visma publiekelijk aangegeven dat ze de winnaar van de Giro d’Italia 2017 graag vast willen leggen.</p> <p>Team INEOS is (zeker nu Chris Froome voor lange tijd is uitgeschakeld) nog op zoek naar een klassementsrenner en heeft met een budget van 47 miljoen euro genoeg financiële ruimte. Jumbo-Visma heeft als Nederlandse ploeg altijd aangegeven dat ze gecharmeerd zijn van Dumoulin, omdat het winnen van de Tour de France met een landgenoot hun hoogste streven is.</p><p>Verklaring</p><p>Dumoulin liet gisteravond in een verklaring weten dat op dit moment een overgang naar een ander team niet aan de orde is. Hiermee reageerde hij op een artikel in het Italiaanse TuttoBiciWeb waarin staat dat hij het tot en met 2021 doorlopende contract tot bij zijn huidige werkgever zou willen laten ontbinden.</p><p>Dumoulin wenst op geen enkele manier in te gaan op de geruchten dat hij Team Sunweb zou willen verlaten. „Ik maak al jaren deel uit van een fantastisch team waar ik met trots mag samenwerken met uiterst gepassioneerde collega’s. Een overgang is thans niet aan de orde”, schrijft hij in een statement.</p><p>Knullig</p><p>Toch is het bekend dat de Maastrichtenaar sinds vorig jaar de nodige kritiek op de leiding van Team Sunweb heeft. De ploeg haalde niet de versterkingen die de kopman nodig heeft om meerdere grote rondes te winnen. Ook de knullige afhandeling van zijn knieblessure, waardoor hij de Tour de France moet missen, deed de afgelopen weken de nodige vraagtekens oproepen.</p>

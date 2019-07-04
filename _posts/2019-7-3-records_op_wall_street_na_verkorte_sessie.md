@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Records op Wall Street na verkorte sessie"
+date: Wed, 03 Jul 2019 19:27:17 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/2049829213/records-op-wall-street-na-verkorte-sessie"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/35c551c2-9db8-11e9-bf66-02c309bc01c1.jpg"
+---
+
+<p class="intro">De aandelenbeurzen in New York zijn de verkorte handelssessie woensdag met nieuwe records de handel uitgegaan. De positieve teneur kwam mede door de verwachting voor soepeler monetair beleid van centrale banken door beoogde benoemingen bij de Federal Reserve en de Europese Centrale Bank (ECB) en tegenvallende macro-economische cijfers.</p> <p>De leidende Dow-Jonesindex sloot de sessie 0,7 procent hoger op een nieuw record van 26.966,00 punten. De brede S&amp;P 500 steeg 0,8 procent tot 2995,82 punten, eveneens de hoogste slotstand ooit. Technologiegraadmeter Nasdaq zette met een winst van 0,8 procent tot 8170,23 punten ook een record in de boeken.</p><p>IMF-directeur Christine Lagarde is voorgedragen als nieuwe president van de Europese Centrale Bank (ECB). De verwachting is dat Lagarde het soepele beleid van Mario Draghi zal doorzetten bij de ECB. President Donald Trump nomineerde op zijn beurt Judy Shelton en Christopher Waller voor een bestuurszetel bij de Fed. Beide zijn voorstander van een renteverlaging door de koepel van centrale banken.</p><p>Tesla</p><p>Tesla ging de handel uit met een winst van 4,6 procent. De fabrikant van elektrische auto's publiceerde beter dan verwachte verkoopcijfers over het tweede kwartaal. Tesla verkocht ruim 95.000 auto's tegen iets meer dan 40.000 een jaar eerder. Het verkooprecord had te maken met het op stoom komen van de verkopen van de Model 3.</p><p>Chipconcern Broadcom en cyberveiligheidsbedrijf Symantec stonden eveneens in de schijnwerpers. Broadcom (min 3,5 procent) zou op het punt staan om Symantec (plus 13,6 procent) over te nemen in een deal van meer dan 15 miljard dollar.</p><p>Boeing</p><p>Vliegtuigmaker Boeing (plus 0,1 procent) maakte bekend 100 miljoen dollar opzij te zetten om gezinnen en gemeenschappen bij te staan die zijn getroffen door de rampen met twee van zijn toestellen van het type 737 MAX.</p><p>De euro noteerde op 1,1282 dollar, tegen 1,1278 dollar bij het slot van de Europese beurzen eerder op de dag. Een vat Amerikaanse olie kostte 1,3 procent meer op 56,98 dollar. Brentolie klom 1,9 procent in prijs tot 63,57 dollar per vat.</p>

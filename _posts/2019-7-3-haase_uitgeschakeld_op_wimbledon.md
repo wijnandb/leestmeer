@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Haase uitgeschakeld op Wimbledon"
+date: Wed, 03 Jul 2019 16:59:11 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/947577161/haase-uitgeschakeld-op-wimbledon"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9d3c3398-9da4-11e9-8420-0218eaf05005.jpg"
+---
+
+<p class="intro">Het is Robin Haase op Wimbledon niet gelukt de derde ronde te bereiken. De nummer 76 van de wereld moest in drie spannende sets zijn meerdere erkennen in de Canadees Milos Raonic, finalist op Wimbledon in 2016. Het werd 7-6 (1) 7-5 7-6 (4) voor de nummer 15 van de plaatsingslijst.</p> <p>Haase liet bij 6-5 in de eerste set na de set uit te serveren. Hij maakte bij het net een schuiver, waarbij hij zijn knie licht blesseerde en gaf even niet thuis. Hij verloor zijn servicegame en maakte in de tiebreak die volgde maar één punt. In het restant bleef het spannend, maar Haase wist Raonic - die 32 aces sloeg - niet meer te breaken.</p><p>Raonic (28) stond in zijn eerste servicegame geen punt af en Haase (32) had de grootste moeite om de eerste game op eigen opslag naar zich toe te trekken. Het bleek illustratief voor de wedstrijd: terwijl Raonic met regelmaat zijn servicegame in rap tempo wist te winnen, moest Haase juist vaak diep gaan om datzelfde te doen.</p><p>In de derde set had Haase continu de leiding en zeker toen Raonic in de slotfase van die set een behandeling aan zijn voet kreeg, leek een verlenging van de wedstrijd tot de mogelijkheden te behoren. Raonic toonde echter aan dat hij in het spelen van tiebreaks een klasse apart is. Op zijn eerste wedstrijdpunt zocht hij het net op en de passing van Haase ging ruim uit.</p><p>Vorig jaar was het na de tweede ronde eveneens einde toernooi voor Haase, die alleen in 2011 de derde ronde haalde in Londen. Raonic stond de afgelopen twee jaar in de kwartfinales.</p><p>Raonic speelt in de derde ronde tegen de Amerikaan Reilly Opelka, die Stan Wawrinka met 8-6 in de vijfde set versloeg.</p>

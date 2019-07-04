@@ -1,0 +1,10 @@
+---
+layout: post
+title: "PSV heeft beet: Toni Lato voegt zich snel bij selectie"
+date: Thu, 04 Jul 2019 00:01:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1873336844/psv-heeft-beet-toni-lato-voegt-zich-snel-bij-selectie"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b677b970-9de2-11e9-92c4-0217670beecd.jpg"
+---
+
+<p class="intro">PSV heeft zijn gewenste linksback bijna binnen. Toni Lato (21) komt over van Valencia. Hij stapte vanavond alsnog op het vliegtuig en zal zich snel bij zijn nieuwe ploeggenoten in het Zwitserse Verbier voegen.</p> <p>Lato zou aanvankelijk al eerder vandaag afreizen, maar dat ging nog niet door omdat een deal langer op zich liet wachten dan gehoopt. Uiteindelijk heeft technisch manager John de Jong alsnog spijkers met koppen kunnen slaan met de Spaanse topclub, al is het nog onduidelijk of het om een huur- of koopconstructie gaat.</p><p>De vervanger van Angeliño, waarvan PSV vandaag zijn transfer naar Manchester City wereldkundig maakte, komt als geroepen. Mark van Bommel weet dat elke training voorafgaand aan de eerste voorrondes van de Champions League tegen FC Basel telt. Zeker omdat de club van Lato, Valencia, nog niet in training is, waar PSV al twee weken lang in voorbereiding is.</p><p>Dat gegeven en de zware onderhandelingen die PSV moet voeren voor de spelers die het graag wil hebben, kost tijd die er eigenlijk nauwelijks is. Lato zal zo snel mogelijk worden klaargestoomd in de twee weken die nog resten tot het begin van de Europese campagne voor de Eindhovenaren. Hetzelfde geldt voor de grote aankoop Bruma, die vanavond tegen FC Sion (0-0) nog geen minuten maakte. Hij heeft pas drie trainingen in de benen, kent wat lichte klachtjes, maar begint dan ook bij PSV pas aan zijn voorbereiding, na zijn laatste wedstrijd op 18 mei met Red Bull Leipzig.</p><p>In het eerste oefenduel van PSV speelde Jong PSV-back Steven Theunissen (20) vanavond op de linksbackpositie. De ploeg van Van Bommel speelt zondag nog tegen het Franse OGC Nice.</p>

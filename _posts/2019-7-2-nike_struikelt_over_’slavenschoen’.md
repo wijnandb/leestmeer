@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Nike struikelt over ’slavenschoen’"
+date: Tue, 02 Jul 2019 16:10:09 +0200
+category: buitenland
+externe_link: "https://www.telegraaf.nl/financieel/1574525241/nike-struikelt-over-slavenschoen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0996bc12-9ce6-11e9-b107-0218eaf05005.jpg"
+---
+
+<p class="intro">Kort na een rel in China, heeft Nike nu bonje op eigen bodem. Het bedrijf heeft een exclusief paar schoenen met daarop een oude Amerikaanse vlag van de markt gehaald. Reden: de vlag wordt in verband gebracht met Amerika’s slavernijverleden.</p> <p>Op de achterkant van de schoenen staat de vlag van de Verenigde Staten uit het einde van de achttiende eeuw, met dertien strepen en dertien sterren – een verwijzing naar de dertien staten die in eerste instantie de VS vormden. Tijdens de Amerikaanse burgeroorlog werd diezelfde vlag een symbool voor de zuidelijke staten, tegenstanders van het afschaffen van de slavernij.</p><p>De ’Betsy Ross Flag’, zoals de oude vlag toen bekend is komen te staan, zorgt dus nog altijd voor controverse. Colin Kaepernick, de voormalig football-speler die door Nike omarmd werd vanwege zijn knielen bij het volkslied, heeft volgens de Wall Street Journal zijn sponsor onder druk gezet om de schoenen toch niet op de markt te brengen.</p><p>Dat Nike nu een knieval maakt, is weer tegen het zere been van conservatieve politici in de VS. Voormalig presidentskandidaat Ted Cruz reageert cynisch op Twitter: „Goed dat Nike alleen maar schoenen wil verkopen aan mensen die de Amerikaanse vlag haten…”</p><p>Onlangs zwichtte Nike ook al voor boze consumenten in China. Die waren niet te spreken over het feit dat de schoenenmaker zich schaarde achter demonstranten in Hongkong. De rel in de VS komt op een pikant moment: donderdag is het Onafhankelijkheidsdag in Amerika. Volgens Marketwatch worden de schoenen, die in eerste instantie $120 per paar kostten, nu voor $2500 tweedehands aangeboden.</p>

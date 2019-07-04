@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Tesla presteert ver boven verwachting"
+date: Tue, 02 Jul 2019 23:03:31 +0200
+category: financieel
+externe_link: "https://www.telegraaf.nl/financieel/62933060/tesla-presteert-ver-boven-verwachting"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d8fd1d2c-9d0c-11e9-b05c-02c309bc01c1.jpg"
+---
+
+<p class="intro">Tesla heeft in het tweede kwartaal een productie- en verkooprecord bereikt en boven verwachting gepresteerd. De maker van elektrische auto’s produceerde 87.048 auto’s en verkocht er 95.200.</p> <p>Dat heeft het concern dinsdag na sluiting van de Amerikaanse beurzen bekend gemaakt. Analisten gingen uit van 87.749 verkochte auto’s. Tesla verwacht dat de groei van de productie blijft aanhouden in het derde kwartaal.</p><p>Vooral de middenklasse Model 3 is populair. Daar verkocht Tesla er 77.550 van. In Nederland was die stekkerauto in juni zelfs de best verkochte wagen, blijkt uit cijfers van RAI Vereniging. De sterke cijfers deden Tesla goed in de zogeheten nabeurshandel, de aandelenhandel na de slotbel.</p><p>Onenigheid</p><p>Het productierecord is een grote opsteker voor Tesla. Het bedrijf van de excentrieke zakenman Elon Musk had veel aanloopproblemen met de productie en levering van de Model 3, de eerste wagen die Tesla in massaproductie heeft genomen.</p><p>De autobouwer uit Silicon Valley kampt nog steeds met de naweeën daarvan. Het Duitse zakenblad WirtschaftsWoche meldde dinsdag eerder op de dag dat de directeur Europese activiteiten van Tesla, Jan Oehmicke, opstapt.</p><p>Leveringsproblemen</p><p>De voormalgie BMW-directeur zou onenigheid hebben met Musk vanwege de chaos tijdens de introductie van de Model 3 in Europa. De leveringsproblemen leidden tot grote verliezen bij de automaker.</p><p>Oehmicke is overigens niet de enige uit het management die de automaker verlaat. Volgens Business Insider gaat Steve MacManus, vicepresident interieur- en exterieurontwerp, ook weg. Vorige week werd nog bekend dat Peter Hochholdinger, hoofd productie, de deur achter zich dichttrekt bij Tesla.</p>

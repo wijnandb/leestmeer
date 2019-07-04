@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Onderzoeksrechter: Eigenaar put schuldig aan dood Julen"
+date: Wed, 03 Jul 2019 14:45:57 +0200
+category: buitenland
+externe_link: "https://www.telegraaf.nl/nieuws/406604410/onderzoeksrechter-eigenaar-put-schuldig-aan-dood-julen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/91382546-9db0-11e9-8f07-02c309bc01c1.jpg"
+---
+
+<p class="intro">De onderzoeksrechter van ’juzgado no. 9 in Malaga’ die de doodsoorzaak van de tweejarige Julen uit Malaga onderzoekt, wijst David Serrano aan als schuldige: de eigenaar van het terrein waar de 2-jarige Julen half januari in de put viel.</p> <p>In een rapport, dat in handen van persbureau Efe is gevallen, beschuldigt hij David Serrano van het delict ’roekeloze moord’ door ’ernstige onvoorzichtigheid’.</p><p>Hiermee is de weg vrij voor de ouders van Julen om binnen tien dagen een civiele rechtszaak tegen Serrano te openen, waarin ze Serrano aanklagen voor dit delict. Ook de openbaar aanklager kan Serrano vervolgen op basis van de uitspraak.</p><p>Serrano is ook de zwager van de vader van Julen. 13 januari ging de familie van Julen bij hem op de lunch op een boerderij in Totalán. Die middag viel Julen in een smalle put van 110 meter diepte, die niet goed was afgesloten.</p><p>Hij was weliswaar bedekt met twee stenen, maar die lagen niet vast, en Julen slipte erdoor en viel zeventig meter naar beneden. Hij overleed daarbij vrijwel meteen, maar de zoektocht naar hem duurde twee weken, waardoor Spanje (en de rest van de wereld, die meekeek) een halve maand in de ban was van de zaak.</p><p>Serrano heeft altijd gezegd dat niet hij, maar het bedrijf dat de put heeft geboord de enige verantwoordelijke kan zijn. Maar de onderzoeksrechter gaat daar niet in mee. Wel kunnen zowel Serrano als de boorder van de put nog een forse boete tegemoet zien vanwege ’zeer ernstige inbreuk op de veiligheid in mijnen’. Die zal tussen de 300.001 en een miljoen euro bedragen.</p>
