@@ -1,0 +1,23 @@
+---
+layout: post
+title: "'Amsterdam probeerde islamitische Haga-school tegen te werken'"
+date: Mon, 08 Jul 2019 21:28:58 +0200
+category: nieuws
+externe_link: "https://nos.nl/l/2292656"
+feature_image: "https://nos.nl/data/image/2019/06/18/557435/1008x567.jpg"
+---
+
+<p>De gemeente Amsterdam heeft de afgelopen jaren verwoede pogingen gedaan om de oprichting en voortzetting van het islamitische Cornelius Haga Lyceum tegen te werken. Dat blijkt uit interne documenten over de besluitvorming en handelwijze van de gemeente, die door verschillende media zijn opgevraagd met een beroep op de Wet openbaarheid van bestuur.</p>
+<p>"Het mag niet op pesten lijken", citeert Het Parool een vertrouwelijk ambtelijk memo uit 2017 aan waarnemend burgemeester Van Aartsen. Het citaat toont volgens de krant dat de gemeente in een spagaat zit tussen de plicht zich aan de vrijheid van onderwijs te houden en de wens de school tegen te houden.</p>
+<p>De directeur-bestuurder van de school, Söner Atasoy, spreekt in een reactie tegenover de NOS van machtsmisbruik. "Zij werken ons al lange tijd tegen. Het is onrechtmatig, onwettig. Dan keer jij je af tegen de samenleving, tegen de rechtsstaat. Dat is anti-burgerschap. Dat zijn wij niet, maar de ambtenaren en de overheid wel."</p>
+<h2>'Omkatten'</h2>
+<p>Toen bleek dat de juridische mogelijkheden tegen de school waren uitgeput, onderzocht de gemeente dit voorjaar de mogelijkheid van de stichting van een tweede, concurrerende, islamitische school, schrijven de Volkskrant en Het Parool. Die laatste krant schrijft dat de gemeente eerder al overwoog of een bestaande middelbare school met veel moslimleerlingen kon worden "omgekat" tot islamitische school.</p>
+<p>Onlangs kwam daar een ambtelijk advies bij aan het gemeentebestuur om naast die informele pogingen ook een "actief sturende rol" te spelen bij de oprichting van een concurrerende islamitische school. Burgemeester Halsema en onderwijswethouder Moorman (PvdA) vonden actieve bemoeienis een stap te ver gaan, omdat het stichten van een school "geen taak is van de overheid".</p>
+<p>"Er is regelmatig met de gezamenlijke schoolbesturen gesproken over hoe het onderwijs aansluit op behoeften van islamitische ouders en leerlingen", zegt wethouder Moorman in een reactie tegen de Volkskrant. "De gemeente heeft deze gesprekken geïnitieerd, heeft de behoefte aangekaart, en heeft vraag en potentieel aanbod samengebracht."</p>
+<h2>Terroristische contacten</h2>
+<p>Het ambtelijke advies een andere islamitische school te stichten, volgde op een bericht van de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV). Daarin stond dat leerlingen van het Haga worden beïnvloed door leraren die contact onderhouden met terroristen. De informatie waarop de NCTV zich baseerde, komt van de Algemene Inlichtingen- en Veiligheidsdienst (AIVD) en is geheim. Onderzocht wordt nu of de AIVD deze informatie wel had mogen delen.</p>
+<p>Voor de gemeente was het aanleiding alle besluitvorming over uitbreiding van de school, die in een krap bemeten gebouw zit, te bevriezen en de subsidies op te schorten. De onderwijsinspectie besloot volgens Het Parool een positief rapport over de school niet te publiceren en begon een nieuw onderzoek.</p>
+<p>Het schoolbestuur ontkende de radicale invloeden in alle toonaarden en sprak van een hetze. Het nieuwe onderzoek van de onderwijsinspectie vond ook geen aanwijzingen van salafistische beïnvloeding, al zouden in het niet-openbare rapport wel andere verwijten worden gemaakt. Overigens kreeg het Haga twee weken terug weer bezoek van de inspectie, dit keer nadat een leraar een filmpje had getoond van een omstreden internetprediker. De leraar is op non-actief gesteld.</p>
+<h2>Gedwarsboomd</h2>
+<p>Gelijktijdig liet de gemeente door een advocatenkantoor onderzoeken hoe de school juridisch gedwarsboomd kan worden. Maar voor drastische maatregelen zoals een sluiting op grond van de openbare orde en veiligheid of een noodbevel, werd geen grond gevonden, meldt De Telegraaf. "Een andere mogelijkheid om het bestuur aan te pakken is als er sprake is van "systematisch fundamentalisme", schrijft de krant op basis van de bronnen, "maar net als bij de voorgaande scenario's is daar, vooralsnog, geen bewijs voor".</p>
+<p>Directeur Atasoy, die naar eigen zeggen "allerlei bedreigingen" heeft gehad, zegt nu op basis van de berichtgeving dat de gemeente bewust "zorgen en angst" heeft willen creëren. Hij meent dat de overheid met het openbaren van de AIVD-informatie geprobeerd heeft de situatie te laten escaleren, zodat zij de openbare-orde-verstoring kon aangrijpen om de school te sluiten". </p>
