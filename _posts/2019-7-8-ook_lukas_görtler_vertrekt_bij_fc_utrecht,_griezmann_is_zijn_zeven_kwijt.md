@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Ook Lukas Görtler vertrekt bij FC Utrecht, Griezmann is zijn zeven kwijt"
+date: Mon, 08 Jul 2019 05:49:00 GMT
+categories: 
+- sport 
+- voetbal 
+externe_link: "https://www.ad.nl/transfer-talk/ook-lukas-gortler-vertrekt-bij-fc-utrecht-griezmann-is-zijn-zeven-kwijt~a564a95fa/"
+feature_image: "https://images2.persgroep.net/rcs/X6rEl4Osq2wBhQzzbF5aD31EBq4/diocontent/151957092/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
+---
+
+De transferperiode in Europa is in volle gang en dus regent het nieuwtjes over spelers die hun contract verlengen of juist wisselen van club. Mis de komende maanden niets van alle geruchten en voltooide transfers in onze dagelijkse rubriek TransferTalk.
