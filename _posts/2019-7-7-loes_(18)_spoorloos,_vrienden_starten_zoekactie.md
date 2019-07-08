@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Loes (18) spoorloos, vrienden starten zoekactie"
+date: Sun, 07 Jul 2019 09:32:21 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/2119597597/loes-18-spoorloos-vrienden-starten-zoekactie"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c2374c24-a145-11e9-b8c9-02c309bc01c1.jpg"
+---
+
+<p class="intro">De 18-jarige Loes wordt sinds de nacht van vrijdag op zaterdag vermist in de buurt van Epe. „Het gaat om een urgente vermissing”, laat politiewoordvoerder Marèl van Steenbergen weten aan De Telegraaf. Inmiddels zijn vrienden en organisatoren van het dorpsfeest waar zij voor het laatst is gezien een zoekactie gestart.</p> <p>Onze verslaggever Mark Mensink is ter plaatse en twitttert live mee. Zijn tweets vindt u hier:</p><p></p><p></p><p>Volgens een melding op Burgernet Gelderland vertrok ze rond 04.00 uur in de omgeving Oene-Vaassen op een elektrische fiets van het merk Giant en droeg ze een lange zwarte broek, een beige shirt met panterprint, een gele jas en witte schoenen. Ze is 1.75 meter lang.</p><p>Zoektocht</p><p>De jongeren die het besloten feest aan de Deventerweg in Oene organiseerden, hebben het gevoel dat ze iets moeten doen. Ze vertellen dat ze vandaag gaan zoeken in de omgeving. Om geen mogelijke sporen uit te wissen, moeten ze daarbij van de politie op de weg blijven.</p><p>Betrokkenen bij de organisatie van het feest omschrijven haar niet als een ’probleemmeisje’. Zaterdagmiddag is ze niet op haar werk verschenen. Wat voor haar niet gebruikelijk is, aldus de politie.</p><p>Lees verder onder de foto</p><p>Personen rond het feest vinden het merkwaardig dat de telefoon van het meisje uit staat. Dat zou niet bij haar passen. Rond 04.00 uur zou voor het laatst een signaal van haar telefoon zijn opgevangen, op vijftig meter van de locatie van het feest, bij een kruispunt.</p><p>De politie is ’op verschillende manieren aan het zoeken naar Loes’ en vraagt om camerabeelden uit de omgeving. Mogelijk is de vermiste tiener daarop te zien.</p>

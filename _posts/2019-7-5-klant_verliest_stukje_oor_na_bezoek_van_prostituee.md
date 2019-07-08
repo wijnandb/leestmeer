@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Klant verliest stukje oor na bezoek van prostituee"
+date: Fri, 05 Jul 2019 21:00:38 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/2038657447/klant-verliest-stukje-oor-na-bezoek-van-prostituee"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4062b7b4-9f57-11e9-92d9-02c309bc01c1.jpg"
+---
+
+<p class="intro">Rode oortjes, maar deze keer waarschijnlijk niet van opwinding. Een man uit het Belgische De Haan kreeg bezoek van een 27-jarige Nederlandse prostituee en haar 25-jarige vriend. Daar kwam hij niet ongeschonden vanaf, want tijdens een conflict werd een stuk van zijn oor afgebeten. Ook kreeg de klant een aantal rake klappen.</p> <p>De ruzie vond op zaterdagavond plaats in de woning van het slachtoffer, zo bevestigt het parket van West-Vlaanderen aan Het Nieuwsblad. Uit onderzoek moet nog blijken of de escortdame of haar vriend een hap uit het oor van de man nam. In het ziekenhuis bleek dat het afgebeten stukje lichaamsdeel niet meer aangezet kon worden.</p><p>Waarom de situatie uit de hand liep, is nog niet helemaal duidelijk. Volgens het slachtoffer probeerde de escortdame hem op te lichten door na de betaling met een smoesje te verdwijnen. De verdachten kwamen met een ander verhaal en beweerden dat de klant zonder toestemming van de vrouw bepaalde handelingen verrichtte.</p><p>Achter tralies</p><p>De Nederlandse vrouw is door de onderzoeksrechter in België aangehouden op verdenking van oplichting en het opzettelijk verwonden van het slachtoffer. Haar vriend zit voor dezelfde beschuldigingen achter tralies en wordt ook verdacht van het vergemakkelijken van prostitutie. Hij trad namelijk op als chauffeur van zijn vriendin.</p><p>Inmiddels heeft de Brugse raadkamer de aanhouding van beide Nederlandse verdachten met een maand verlengd. Mogelijk hebben de twee ook iets te maken met soortgelijke feiten in het Kortrijkse in 2018, onderzoek moet dit verder uitwijzen.</p>

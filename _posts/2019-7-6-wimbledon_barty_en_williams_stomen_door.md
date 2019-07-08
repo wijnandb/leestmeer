@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Wimbledon: Barty en Williams stomen door"
+date: Sat, 06 Jul 2019 15:36:18 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/381834674/wimbledon-barty-en-williams-stomen-door"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/08ff7dec-9ff3-11e9-b48e-02d2fb1aa1d7.JPG"
+---
+
+<p class="intro">Ashleigh Barty heeft voor de eerste keer de vierde ronde op Wimbledon bereikt. De nummer 1 van de wereld stond tegen de Britse Harriet Dart slechts 2 games af: 6-1, 6-1.</p> <p>De Roland Garros-winnares was in 54 minuten klaar met de nummer 182 van de mondiale ranking. Serena Williams kende ook weinig problemen in de derde ronde. De 23-voudig grandslamwinnares had met de Duitse Julia Görges een lastige tegenstandster maar won wel in twee sets met 6-3 6-4.</p><p>De 23-jarige Barty kwam voorheen nooit verder dan de derde ronde, maar is dit jaar in topvorm. De Australische steeg door haar winst in Parijs naar de kop van de wereldranking en is een van de topfavorieten voor de titel in Londen.</p><p>Williams</p><p>De 37-jarige Williams wordt ook gezien als een kanshebster en toonde dat tegen Görges, de nummer 18 van de wereld. De Amerikaanse kwam op eigen service nooit in de problemen en had daarom aan twee breaks genoeg om de wedstrijd te winnen.</p><p>In de vierde ronde staat Williams tegenover de Spaanse Carla Suárez-Navarro. Barty moet het opnemen tegen de Amerikaanse Alison Riske. Mochten Williams en Barty winnen, dan treffen ze elkaar in de kwartfinale.</p><p>Kvitova</p><p>Tweevoudig kampioene Petra Kvitova heeft voor de eerste keer in vijf jaar de vierde ronde bereikt op Wimbledon. De als zesde geplaatste tennisster uit Tsjechië zette soepel de Poolse Magda Linette opzij. Kvitova zegevierde na 69 minuten in twee vlotte sets: 6-3, 6-2. Ze speelt in de achtste finales tegen de winnares van het duel tussen de Amerikaanse Sloane Stephens en de Britse Johanna Konta.</p><p>Kvitova won de titel op Wimbledon in 2011 en 2014. In de afgelopen jaren was ze snel uitgeschakeld in Londen. In 2018 sneuvelde ze al in de eerste ronde.</p>

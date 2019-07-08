@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Nieuwe rel over Duitse migrantenactie op zee"
+date: Fri, 05 Jul 2019 21:30:51 +0200
+category: buitenland
+externe_link: "https://www.telegraaf.nl/nieuws/1139007778/nieuwe-rel-over-duitse-migrantenactie-op-zee"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ecd75faa-9f5b-11e9-84e9-02c309bc01c1.jpg"
+---
+
+<p class="intro">Opnieuw is er een rel over het oppikken van migranten op de Middellandse Zee. De Italiaanse minister van Binnenlandse Zaken Matteo Salvini heeft woest gereageerd op het bericht dat het schip Alan Kurdi van de Duitse hulporganisatie Sea-Eye voor de kust van Libië 65 vluchtelingen of gelukzoekers van een overvolle opblaasboot heeft gehaald.</p> <p>Salvini eiste van zijn Duitse collega Horst Seehofer dat deze zijn verantwoordelijkheid neemt. Hij wil onder geen beding dat de Alan Kurdi koers zet naar Italië, ook niet als er overeenstemming zou zijn over de verdeling van de migranten over de EU. Als hun situatie aan boord verslechtert, is dat louter een zaak van Duitsland als vlaggenstaat, de kapitein en de bemanning. Italië is absoluut niet van plan de enige „hotspot van Europa” te blijven, zei Salvini.</p><p>Sea-Eye meldde vrijdagavond dat het schip naar een Libische haven mag, maar dat aanbod van de kustwacht is afgewezen. „We gaan geen geredden terugbrengen naar Libische gevangenissen waar ze worden mishandeld”, zo lichtte de organisatie uit Regensburg de weigering toe.</p><p>Bescherming</p><p>De Duitse regering lijkt niet van plan haar standpunt in deze kwestie te veranderen. Berlijn vindt nog steeds dat mensen die bescherming nodig hebben moeten worden geholpen, echter onder de voorwaarde dat ook andere landen daarmee akkoord gaan. Een buitenlandwoordvoerder in Berlijn liet weten dat het doel van de regering is „een snelle oplossing te vinden.”</p><p>Die is er nog niet in de zaak van de Sea-Watch 3, die zonder toestemming aanmeerde in de haven van Lampedusa. Kapitein Carola Rackete, die ervan wordt beschuldigd mensensmokkel te bevorderen, wordt dinsdag voorgeleid voor verhoor.</p>

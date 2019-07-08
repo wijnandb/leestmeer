@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Bertens met schrik vrij op Wimbledon"
+date: Thu, 04 Jul 2019 18:05:23 +0200
+categories: 
+- sport 
+- tennis 
+externe_link: "https://www.telegraaf.nl/sport/500863940/bertens-met-schrik-vrij-op-wimbledon"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7046c104-9e77-11e9-84e9-02c309bc01c1.jpg"
+---
+
+<p class="intro">Kiki Bertens is in de tweede ronde op Wimbledon met de schrik vrij gekomen. De Nederlandse was in drie sets te sterk voor de Amerikaanse Taylor Townsend: 3-6, 7-6, 6-2.</p> <p>Bertens trof in Townsend de nummer 123 van de wereld. Beide speelsters stonden in het verleden nooit eerder tegenover elkaar. Townsend speelt graag op gras en haalde op Wimbledon ooit zelfs de finale van het juniorentoernooi. De getalenteerde Amerikaanse, inmiddels 23 jaar, stond in de jeugd zelfs op de eerste plek van de wereldranglijst.</p><p>Geen angst</p><p>Townsend liet in de eerste set meteen zien dat ze geen angst had voor Bertens, want ze pakte pakte de eerste game af en liet de Nederlandse niet meer op voorsprong in de eerste set. Bertens kon de eerste twee verloren games nog goedmaken, maar daarna liep Townsend uit naar 2-5, om via 3-6 uiteindelijk de eerste set voor zich op te eisen.</p><p>In de tweede set nam Townsend een 3-1 voorsprong, maar herpakte Bertens zich knap en draaide de stand om naar 5-3 in haar voordeel. Vervolgens kreeg ze op 5-4 twee setpoints, maar slaagde ze er niet in om de set binnen te slepen en de stand naar 1-1 te brengen. Townsend profiteerde en brak Bertens vervolgens in de daaropvolgende game.</p><p>Matchpoint</p><p>De Amerikaanse kreeg na een kleine anderhalf uur een matchpoint, maar Bertens wist die weg te werken en de stand uiteindelijk naar 6-6 te brengen, waardoor een tiebreak noodzakelijk werd. Daarin had Bertens vier setpoints nodig om de stand gelijk te trekken, wat haar uiteindelijk ook lukte. De winst van de tweede set werkte bevrijdend voor de Nederlandse, die in de beslissende derde set maar twee games weggaf en de klus uiteindelijk in twee uur en twintig minuten klaarde.</p><p>In de eerste schifting rekende Bertens af met de Luxemburgse Mandy Minella. Dat deed de 27-jarige tennisster met overtuiging in twee sets: 6-3 en 6-2. Bertens reikte vorig jaar tijdens Wimbledon tot de kwartfinales. Bij de laatste acht werd ze in drie sets uitgeschakeld door de Duitse Julia Görges.</p><p>De Tsjechische Barbora Strycova, de mondiale nummer 54, is de volgende tegenstandster van Bertens.</p>

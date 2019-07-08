@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Weer boot met migranten in haven Lampedusa"
+date: Sat, 06 Jul 2019 19:52:15 +0200
+category: buitenland
+externe_link: "https://www.telegraaf.nl/nieuws/347098321/weer-boot-met-migranten-in-haven-lampedusa"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8e8c74e8-a01f-11e9-9251-0255c322e81b.jpg"
+---
+
+<p class="intro">Ondanks een uitdrukkelijk verbod van de Italiaanse autoriteiten is een boot met 46 migranten aan boord, de Alex, de haven van Lampedusa binnengevaren. Minister van Binnenlandse Zaken Matteo Salvini zei dat de wet is overtreden, maar niet wat voor actie hij neemt. Het is een Italiaanse boot van een Italiaanse organisatie.</p> <p>Het voornaamste politieke betoog en beleid van Salvini is dat Italië moet ophouden migranten op te nemen. Vorig jaar kwamen er naar schatting 120.000 migranten over zee naar het Zuid-Europese land. Salvini stelt dat met zijn beleid „de havens zijn gesloten” voor mensensmokkelaars.</p><p>De Alex is van de organisatie Mediterranea Saving Humans. Salvini is net bekomen van de komst van het schip Sea-Watch 3 van de Duitse organisatie Sea-Watch. Een rechter op Sicilië heeft de gearresteerde kapitein van dat vaartuig, de Duitse Carola Rackete, dinsdag tot zijn grote ergernis weer op vrije voeten gesteld. Rackete wil nu een zaak over mensenrechten aanspannen tegen Salvini.</p><p>Alan Kurdi</p><p>Op bijna 30 kilometer van Lampedusa vaart zaterdag de Alan Kurdi met 65 migranten. Het schip zou ook op Lampedusa afkoersen. Het is van de Duitse organisatie Sea Eye, die mensen heeft opgepikt voor de 250 kilometer zuidelijker geleden Libische kust. De hulporganisaties zeggen dat de vluchtelingen te water waren geraakt en dreigden te verdrinken. Volgens de Italiaanse autoriteiten zijn ze medeplichtig aan mensensmokkel en de Alan Kurdi mag geen haven binnenlopen. Nog verder naar het zuiden vaart het schip Open Arms van de Spaanse organisatie Proactiva Open Arms.</p>

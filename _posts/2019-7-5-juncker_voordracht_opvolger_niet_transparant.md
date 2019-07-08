@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Juncker: voordracht opvolger niet transparant"
+date: Fri, 05 Jul 2019 13:13:10 +0200
+category: buitenland
+externe_link: "https://www.telegraaf.nl/nieuws/1801022025/juncker-voordracht-opvolger-niet-transparant"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b76ae4a6-9f22-11e9-ab22-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Het proces rond de benoeming van de nieuwe voorzitter van de Europese Commissie was niet transparant. Dat zei de huidige voorzitter Jean-Claude Juncker in Helsinki over de voordracht van de Duitse minister Ursula von der Leyen, die dinsdag door de 28 leiders na dagenlange onderhandelingen als zijn beoogde opvolgster naar voren werd geschoven.</p> <p>Juncker noemde het besluit om niet te kiezen voor een topkandidaat van de politieke groepen in het Europees Parlement „onwelkom.” Volgens hem was zijn eigen benoeming in 2014 wel transparant omdat hij als ’Spitzenkandidat’ campagne voor de Europese verkiezingen had gevoerd. „Jammer genoeg is het geen traditie geworden. Ik was de eerste en laatste Spitzenkandidat.”</p><p>De EU-leiders schoven Von der Leyen naar voren nadat zij geen overeenstemming konden bereiken over Frans Timmermans (topkandidaat namens de sociaaldemocraten) en de Duitse christendemocraat Manfred Weber.</p><p>Een woordvoerder van de commissie in Brussel zei dat Juncker Von der Leyen donderdag heeft ontmoet en „zijn volledige steun heeft uitgesproken.” Volgens de Luxemburger is zij „een ware Europeaan.” „We zitten op dezelfde lijn als het gaat over het opkomen voor Europese belangen.”</p><p>Op 16 juli krijgt de 60-jarige Duitse de gelegenheid zich in het Europees Parlement in Straatsburg officieel te presenteren. Daarna wordt gestemd. Het parlement moet de voordracht goedkeuren en dat is nog geen gelopen race. Bij de sociaaldemocraten heerst veel scepsis en op steun van de Groenen hoeft Von der Leyen niet te rekenen. Als ze geen absolute meerderheid haalt, moeten de EU-leiders binnen een maand met een nieuwe kandidaat komen.</p>

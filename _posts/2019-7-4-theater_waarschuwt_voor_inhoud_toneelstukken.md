@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Theater waarschuwt voor inhoud toneelstukken"
+date: Thu, 04 Jul 2019 19:26:31 +0200
+category: buitenland
+externe_link: "https://www.telegraaf.nl/nieuws/1944955694/theater-waarschuwt-voor-inhoud-toneelstukken"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/dcfb8394-9e80-11e9-8395-02d2fb1aa1d7.png"
+---
+
+<p class="intro">Het politieke correctheidsvirus dringt steeds verder door in de Londense theaterwereld. Werd er eerder al van tevoren gewaarschuwd als er in een voorstelling gerookt werd, of als er naaktheid of geweld te verwachten was, nu worden bezoekers ook al gealarmeerd als een stuk mogelijk een aanstootgevende inhoud heeft.</p> <p>Om de tere zieltjes van theaterbezoekers op geen enkele manier gevaar te laten lopen waarschuwt het Donmar Warehouse theater zijn bezoekers sinds kort van tevoren wat hun te wachten staat. Zo krijgt de bezoeker die het toneelstuk ’Europe’ van regisseur David Greig wil bezoeken, de volgende waarschuwingen te zien.</p><p>In het eerste deel van het toneelstuk legt een man meerdere keren zijn hand op het been van een vrouw.
+In het tweede deel van het toneelstuk wordt een man in elkaar geslagen omdat hij een migrant is, vertelt een man dat zijn dochter seksueel misbruikt is en beschrijft een man een gewelddadige aanval op een vrouw.</p><p>Drugs</p><p>Voor het toneelstuk ’Sweat’ dat in december opent, wordt nu al gewaarschuwd dat er „een aantal karakters een aantal keren onder invloed van drugs te zien is” en dat er een karakter met „racistische tatoeages” te zien zal zijn. En ook het toneelstuk ’Far Away’, vanaf volgend jaar februari te zien, bevat „tegen het einde meerdere momenten van geweld tegen mensen en dieren”, zo waarschuwt het Donmar.</p><p>Volgens Henny Finch, de directeur van het Donmar, gaat het hier niet om doorgeschoten politieke correctheid. „We houden gewoon rekening met al het publiek en zorgen ervoor dat iedereen zich prettig kan voelen.”</p><p>Verrassing</p><p>De waarschuwingen vallen echter niet bij iedereen in goede aarde. Theatercriticus Mark Shenton moet er in ieder geval niets van hebben. „Theater gaat vooral over verrassing, en door aan de gevoeligheden van een paar bezoekers tegemoet te komen, wordt die verrassing verpest. Je kan niet iedereen voortdurend tegen alles beschermen.”</p>

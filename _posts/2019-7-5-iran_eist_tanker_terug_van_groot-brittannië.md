@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Iran eist tanker terug van Groot-Brittannië"
+date: Fri, 05 Jul 2019 09:44:38 +0200
+category: buitenland
+externe_link: "https://www.telegraaf.nl/nieuws/381154141/iran-eist-tanker-terug-van-groot-brittannie"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/82227978-9f11-11e9-b56c-0255c322e81b.jpg"
+---
+
+<p class="intro">De Iraanse regering eist dat Groot-Brittannië de supertanker die bij Gibraltar aan de ketting is gelegd, onmiddellijk laat gaan. De lokale politie en douane gingen donderdag met steun van Britse mariniers aan boord van het Iraanse schip, dat vermoedelijk aardolie naar Syrië vervoerde. Daarmee zou Iran sancties van de Europese Unie overtreden.</p> <p>Teheran noemt de overname van het schip in een officiële verklaring „piraterij.” Volgens de regering is het schip aan de ketting gelegd op verzoek van de Verenigde Staten, waarmee Iran al langere tijd in de clinch ligt. Het verzoek om de tanker te laten gaan, is neergelegd bij de Britse ambassadeur in Teheran. Gibraltar is een Brits overzees gebied in het zuiden van het Iberisch schiereiland.</p><p>De Britse autoriteiten zeggen over informatie te beschikken dat de lading van de Grace 1 was bestemd voor een raffinaderij in Syrië, waar al jaren een burgeroorlog woedt. Die raffinaderij zou eigendom zijn van een rechtspersoon aan wie sancties zijn opgelegd. Uit gegevens van dataplatform Refinitiv Eikon blijkt dat het schip mogelijk Iran heeft aangedaan. Als de lading daar inderdaad vandaan komt, zijn mogelijk ook Amerikaanse sancties op de export van olie overtreden.</p><p>Mohsen Rezai, een hoge Iraanse legerofficier, liet vrijdag in een tweet zijn onvrede blijken over de inbeslagname van het schip. „Als Groot-Brittannië de Iraanse olietanker niet vrijgeeft, is het de plicht van de Iraanse autoriteiten om zelf een Britse olietanker in beslag te nemen.” Daarnaast zei hij dat Iran nog nooit in zijn bestaan „vijandelijkheden” in gang heeft gezet jegens de vijand, maar niet aarzelt om eventueel te reageren op „pestkoppen.”</p>
