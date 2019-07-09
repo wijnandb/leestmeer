@@ -1,0 +1,12 @@
+---
+layout: post
+title: "'Openingsverlies voor Beursplein 5'"
+date: Tue, 09 Jul 2019 08:15:11 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/1417796445/openingsverlies-voor-beursplein-5"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/53dac31a-a211-11e9-b8f4-0218eaf05005.jpg"
+---
+
+<p class="intro">De Amsterdamse aandelenbeurs opent dinsdag waarschijnlijk met verlies. Ook de andere Europese beurzen zullen naar verwachting licht lager beginnen. Beleggers verwerken de lagere slotstanden op Wall Street en kijken uit naar de toespraak die Jerome Powell, de voorzitter van de Federal Reserve (Fed) , woensdag zal geven voor het Amerikaanse Huis van Afgevaardigden.</p> <p>Op het Damrak zal het aandeel Randstad mogelijk bewegen op een advieswijziging. Analisten van de Amerikaanse bank Goldman Sachs verlaagden hun aanbeveling voor de uitzender van kopen naar verkopen. Chipmachinemaker ASML zal mogelijk bewegen op een koopadvies van de Franse bank Société Générale.</p><p>Ook BAM blijft in de schijnwerpers staan. Het bouwconcern zag maandag 24 procent aan beurswaarde verdampen door een winstalarm.</p><p>Bank uit Kopenhagen</p><p>In Frankfurt gaat de aandacht uit naar BASF. Het Duitse chemieconcern heeft het mes gezet in zijn verwachtingen voor dit jaar. De chemiereus wijst daarbij naar de verslechterde marktomstandigheden, onder meer door de aanhoudende handelsoorlog en afvlakkende economische groei.</p><p>Ook Danske Bank heeft zijn winstverwachting voor dit jaar verlaagd. De bank uit Kopenhagen wijt de verlaging aan moeilijkere marktomstandigheden en aan hogere kosten voor risicobeheersing. Vorig jaar werd bekend dat Danske Bank jarenlang miljarden euro's aan dubieuze geldstromen, waaronder crimineel geld uit Rusland, had verwerkt. Het schandaal kostte topman Thomas Borgen de kop.</p><p>Dow-Jonesindex</p><p>De Europese beurzen deden maandag een stapje terug. De AEX-index verloor 0,2 procent tot 569,36 punten en de MidKap zakte 0,9 procent tot 799,37 punten. Parijs, Frankfurt en Londen daalden tot 0,2 procent. Wall Street eindigde ook lager. De Dow-Jonesindex zakte 0,4 procent tot 26.806,14 punten. De brede S&amp;P 500-index verloor 0,5 procent en technologiebeurs Nasdaq leverde 0,8 procent in.</p><p>De euro was 1,1211 dollar waard, tegen 1,1214 dollar een dag eerder. Een vat Amerikaanse olie kostte 0,2 procent minder op 57,55 dollar. Brentolie daalde 0,1 procent in prijs tot 64,08 dollar per vat.</p>
