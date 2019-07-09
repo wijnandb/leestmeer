@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Veroordeling omkoping Van Rey blijft in stand"
+date: Tue, 09 Jul 2019 14:13:38 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/1217451918/veroordeling-omkoping-van-rey-blijft-in-stand"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c3b072fc-a243-11e9-93d7-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">De veroordeling wegens omkoping van de voormalige Roermondse wethouder Jos van Rey blijft in stand. Dat heeft de Hoge Raad dinsdag besloten. Van Rey was in cassatie gegaan bij de hoogste rechter, omdat hij het niet eens was met de veroordeling.</p> <p>Van Rey (74) werd eind 2017 door het gerechtshof in Den Haag veroordeeld tot een voorwaardelijke celstraf van één jaar en daarnaast mag hij twee jaar lang geen bestuurlijk ambt uitvoeren.</p><p>De oud-wethouder en voormalig senator was schuldig bevonden aan het aannemen van giften van projectontwikkelaar Piet van Pol en drie andere lokale ondernemers, gedurende een lange periode. Het ging onder meer om buitenlandse reisjes naar voetbalwedstrijden en vastgoedbeurzen.</p><p>De vroegere VVD’er werd ook schuldig geacht aan witwassen, stempasfraude en het lekken van vertrouwelijke informatie over de sollicitatieprocedure van een nieuwe burgemeester van Roermond.</p><p>Ambtsmisdrijven</p><p>Van Pol werd ook veroordeeld en ging in cassatie, maar hij overleed juist in de nacht van maandag op dinsdag. Vanwege zijn overlijden is de uitspraak aangehouden tot 15 oktober.</p><p>Zoals gebruikelijk bij een overlijden van een betrokkene, zal het OM dan niet-ontvankelijk worden verklaard, aldus een woordvoerster.</p><p>De Hoge Raad heeft alle ingediende klachten verworpen. Van Rey stelde onder meer dat de rechtbank en het gerechtshof niet bevoegd waren over een aantal ten laste gelegde feiten te oordelen, omdat het zou gaan om ambtsmisdrijven. Alleen de Hoge Raad zou daarover mogen oordelen, maar de hoogste rechter is het daar niet mee eens.</p><p>Van Rey zit nu in de gemeenteraad van Roermond met zijn Liberale Volkspartij Roermond, met negen zetels de grootste fractie. Van Rey kan en wil niet reageren, laat hij via zijn advocate Gitte Stevens weten.</p><p>„Er is ooit een opera over de heer van Rey gemaakt, maar niemand had deze dramatische slotakte kunnen bevroeden”, stelt ze. Ook vindt ze het vreselijk dat de Hoge Raad uitspraak deed, ondanks het overlijden van Van Pol dinsdagochtend.</p>
