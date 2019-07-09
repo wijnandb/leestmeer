@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Belastingdienst zette vermoedelijk duizenden toeslagen ten onrechte stop"
+date: Tue, 09 Jul 2019 13:57:10 +0200
+category: nieuws
+externe_link: "https://www.nu.nl/politiek/5962798/belastingdienst-zette-vermoedelijk-duizenden-toeslagen-ten-onrechte-stop.html"
+feature_image: "https://media.nu.nl/m/5bvxj8wa5mtd_sqr256.jpg/belastingdienst-zette-vermoedelijk-duizenden-toeslagen-ten-onrechte-stop.jpg"
+---
+
+De Belastingdienst heeft veel vaker toeslagen ten onrechte stopgezet dan tot nu toe gedacht. De fiscus heeft niet alleen bij het Eindhovense gastouderbureau Dadim onrechtmatig gehandeld. Het gaat mogelijk om duizenden gevallen.
