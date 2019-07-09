@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Vreemde inbraak bij Mili Görüs"
+date: Tue, 09 Jul 2019 17:11:11 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/175088891/vreemde-inbraak-bij-mili-gorus"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/eb49e268-a25b-11e9-b258-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Bij de Turkse moskee-organisatie Milli Görüs in Tilburg is afgelopen nacht een ruit ingegooid en ingebroken. Gek genoeg is er niets gestolen, maar ook niets achtergelaten.</p> <p>Om half 1 afgelopen nacht was het raak: iemand gooide een baksteen tegen het raam naast de voordeur. Buurtbewoners bevestigen dat ze om half 1 een klap hebben gehoord. Op de bewakingsbeelden van Mili Görüs is niemand herkenbaar te zien. Wel zagen ze om half 4 ’s nachts, drie uur later, iemand door het ontstane gat naar binnen gaan. Het is onduidelijk of dat dezelfde persoon was die de baksteen gooide ,,Hij heeft hier twee deuren geprobeerd in te trappen”, vertelt Nebi Unver van de moskee-organisatie. ,,Eentje heeft hij daadwerkelijk open gekregen en de ander is alleen beschadigd.”</p><p>Inbreker herkenbaar</p><p>De inbreker is volgens Unver duidelijk herkenbaar op de beelden, en droeg geen gezichtsbedekende kleding. ,,Wat de persoon bezielde, weet ik niet”, vertelt hij. ,,Er zijn laatjes opengetrokken en wat dingen op de grond gegooid.” Ook zegt Unver dat er niets weg is. ,,Er stonden een laptop en een beamer in zicht, maar die zijn niet meegenomen.”</p><p>Milli Görüs stond ooit lijnrecht tegenover de Turkse regering, maar schurkt tegenwoordig ideologisch aan tegen de regering van Erdogan. Unver denkt echter niet dat er politieke redenen achter de daad zitten.</p><p>Ook de politie zegt daar ’op dit moment geen aanwijzingen voor te hebben’. ,,We zijn vanmorgen ter plaatse gegaan”, vertelt een woordvoerder. ,,We hebben een buurtonderzoekje gedaan en de aangifte opgenomen. Op dit moment staat die gekwalificeerd als ’poging tot inbraak’.”</p><p>Tekst gaat verder onder de foto.</p><p>Aangifte</p><p>Hij heeft een ‘hectische dag’ achter de rug. ,,De ellende is groot, ik ben er al de hele dag mee bezig.” De glaszetter is inmiddels bezig de ruit te vervangen en er is aangifte gedaan bij de politie, die ook de camerabeelden toegestuurd zal krijgen.</p><p>Ook in Duitsland lag een aan Turkije gelieerde moskee onder vuur: in Karlsruhe was er een valse bommelding voor het hoofdkantoor van DITIB en werd een vlaggenmast beschadigd een vlag verbrand.</p>
