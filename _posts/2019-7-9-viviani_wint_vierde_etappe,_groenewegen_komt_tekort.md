@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Viviani wint vierde etappe, Groenewegen komt tekort"
+date: Tue, 09 Jul 2019 17:37:00 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/sport/1649553589/viviani-wint-vierde-etappe-groenewegen-komt-tekort"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1d02ee4a-a260-11e9-a815-0255c322e81b.jpg"
+---
+
+<p class="intro">Elia Viviani heeft de vierde etappe van de Ronde van Frankrijk gewonnen. De renner van Deceuninck–Quick-Step kwam na 213 kilometer als eerste over de finish in Nancy.</p> <p>Dylan Groenewegen kwam bij de massasprint net tekort voor de winst. De Nederlander werd vijfde. Geletruidrager Julian Alaphilippe (Quick-Step), die herstelde van zijn winst in de derde etappe, hield zich op de vlakte. Viviani won voor Alexander Kristoff, Caleb Ewan en Peter Sagan.</p><p>Drietal ontsnapt</p><p>Op een zonnige dinsdag vol wind zette de vierde etappe vanuit Reims koers richting Nancy. Met twee klimmetjes van de vierde categorie, waarvan de Côte de Maron (3,2 kilometer a vijf procent, op slechts vijftien kilometer van de finish) voor de grootste uitdaging zorgde. Bij de officiële start namen Yoann Offredo en Frederik Backaert (Wanty) en Michael Schär (CCC) brutaal de benen en bouwden een voorsprong op van drie minuten. Die voorsprong bleef lang staan. Schär haalde onderweg een bergpuntje op, op de top van de Côte de Rosieres.</p><p>Lotto-Soudal (Ewan), Quick-Step (Viviani) en Jumbo-Visma (Groenewegen) lieten een renner op kop van het peloton rijden, om de vluchters nauwlettend in de gaten te houden. Later meldde ook Tony Martin (Jumbo Visma) zich aan het front. Ongeveer zeventig kilometer voor de finish kwam het peloton in actie en slonk de voorsprong van Offredo, Backaert en Schär rap.</p><p>Venijn in de staart</p><p>Het venijn in de lange tijd vlakke etappe zat zoals verwacht in de staart, toen het klimmetje op de Côte de Maron aanbrak. Het drietal werd zoals verwacht ingerekend en Groenewegen bleef ook bij aankomst boven op de voorste rij. Terwijl Sunweb Matthew Matthews klaarstoomde voor de massasprint, deelde Lilian Calmejane (Total Direct Energie) 10 kilometer voor de finish een speldenprikje uit door tientallen meters te pakken op het peloton. Het huzarenstukje bleek van korte duur. Kort voor de finish stonden de sprintersploegen op en kwam Groenewegen net tekort op Viviani.</p>
