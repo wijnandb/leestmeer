@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Handelsoorlog voelbaar op Damrak"
+date: Tue, 09 Jul 2019 09:11:47 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/2009293958/handelsoorlog-voelbaar-op-damrak"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1865995a-a21a-11e9-adbb-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">De AEX zette bij opening de correctie vanuit de vorige week neergezette jaartop voort. Het verslechterde renteperspectief in de VS en enkele winstwaarschuwingen door buitenlandse bedrijven drukten het sentiment.</p> <p>De AEX stond na tien minuten handel 0,3% lager op 567,5 punten. De AMX daalde 0,8% naar 793,1 punten.</p><p>Elders in Europa zetten de beursgraadmeters de correctie van de voorgaande paar dagen ook voort. De Duitse DAX, Franse CAC 40 en Britse FTSE 100 zakten 0,2% tot 0,9%</p><p>De indexfutures wezen op een licht lagere opening van de Amerikaanse beursgraadmeters om half vier vanmiddag, na verliezen van 0,4 tot 0,8% op maandag.</p><p>In Azië was de stemming vanochtend ook al bedrukt. Met een 0,1% hoger slot presteerde de Japanse Nikkei-index relatief goed.</p><p>Dat er na het vrijdag gepubliceerde sterke Amerikaanse banenrapport dit jaar nog slechts twee renteverlagingen door de Fed in lijken te zitten, bleef het sentiment drukken. Met argusogen wordt dan ook uitgekeken naar de voordracht van Fed-voorzitter Jerome Powell voor het Congres morgenavond.</p><p>De winstwaarschuwingen door BASF, Danske Bank en de Chinese autoproducent Geely kwamen het sentiment ook niet ten goede. Het Duitse chemiebedrijf wijst vooral op de gevolgen van de handelsoorlog.</p><p>Bij de Nederlandse hoofdfondsen belandde uitzender Randstad met een min van 4% onderaan, na een adviesverlaging door de Amerikaanse bank Goldman Sachs van ’kopen’ naar ’verkopen’.</p><p>Staalproducent ArcelorMittal ging 3,3% omlaag.</p><p>Speciaalchemiebedrijf DSM verloor 1,3%, onder invloed van tegenvaller bij BASF.</p><p>Chipmachinefabrikant ASML hield het verlies tot 0,3% beperkt, na door de Franse bank Société Générale op de kooplijst te zijn geplaatst.</p><p>Shell klom 0,1%. De Britse vermogensbeheerder Sarasin heeft zijn belang verkleind, omdat de olie- en gasmaatschappij te weinig doet om aan de klimaatafspraken van Parijs te voldoen.</p><p>Bij de middelgrote fondsen stonden metalenleverancier AMG en kunstmestproducent OCI met minnen van 3% en 2,5% onderaan.</p>
