@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Minister Slob: ‘Haga Lyceum moet nieuw bestuur krijgen’"
+date: Thu, 11 Jul 2019 08:32:00 GMT
+category: nieuws
+externe_link: "https://www.volkskrant.nl/nieuws-achtergrond/minister-slob-haga-lyceum-moet-nieuw-bestuur-krijgen~be627767/"
+feature_image: "https://images1.persgroep.net/rcs/9Z7L8b0teM5TAMo_-h1ZTjmn_5I/diocontent/152167491/_focus/0.5/0.5/_fill/320/320?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.85"
+---
+
+Het Haga Lyceum moet een nieuw bestuur krijgen. Dit zegt minister Arie Slob (Onderwijs) in reactie op een vernietigend rapport van de Onderwijsinspectie.
