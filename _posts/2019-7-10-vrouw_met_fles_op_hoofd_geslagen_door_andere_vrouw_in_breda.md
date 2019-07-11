@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Vrouw met fles op hoofd geslagen door andere vrouw in Breda"
+date: Wed, 10 Jul 2019 17:48:00 GMT
+categories: 
+- noord-brabant 
+- breda 
+externe_link: "https://www.ad.nl/breda/vrouw-met-fles-op-hoofd-geslagen-door-andere-vrouw-in-breda~a060e4a9/"
+feature_image: "https://images0.persgroep.net/rcs/2U_9EAQAnaYQ38bXbDJWEFpyDNI/diocontent/152233525/_fitwidth/400/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7"
+---
+
+BREDA - Aan de Pelmolenstraat in Breda is woensdagavond rond 19.30 uur een vrouw met een fles op haar hoofd geslagen door een andere vrouw. Het slachtoffer is daarbij gewond geraakt. Dat meldt de politie.

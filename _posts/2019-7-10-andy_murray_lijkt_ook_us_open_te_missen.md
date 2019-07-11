@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Andy Murray lijkt ook US Open te missen"
+date: Wed, 10 Jul 2019 08:12:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1077354913/andy-murray-lijkt-ook-us-open-te-missen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ac326a98-a2db-11e9-a815-0255c322e81b.jpg"
+---
+
+<p class="intro">Het is zeer onwaarschijnlijk dat Andy Murray later deze zomer bij de US Open weer actief is in het enkelspel. „Fysiek moet ik nog stappen zetten. Ik heb geen zin om over een paar jaar weer een operatie te moeten ondergaan”, aldus de Britse toptennisser.</p> <p>„Ik moet topfit zijn als ik weer wedstrijden van vijf sets kan spelen”, vervolgt Murray, die onlangs al zijn rentree maakte en nu na een ingrijpende heupoperatie ook weer actief is op het allerhoogste niveau op Wimbledon. Met Serena Williams heeft hij op het heilige gras inmiddels twee partijen in het gemengd dubbelspel gewonnen. Om de titel te veroveren, moeten nog vier zegs volgen. In het mannendubbelspel ligt Murray, waarin hij samenspeelde met Pierre-Hugues Herbert, er al uit.</p><p>Murray ontbak vorig jaar op Wimbledon vanwege een zware heupblessure. Begin dit jaar deed hij mee aan de Australian Open, maar dat bleek geen succes en even leek het einde loopbaan. Na een nieuwe operatie besloot Murray weer te beginnen in het dubbelspel. De 32-jarige Brit won onlangs tijdens zijn rentree al het dubbelspel, aan de zijde van Feliciano Lopez, bij het toernooi van Queen's.</p><p>Roger Federer, Rafael Nadal en Novak Djokovic staan in het enkelspel bij Wimbledon alledrie in de kwartfinales. Sinds 2003 domineren zij bij derde grandslamtoernooi van het jaar. Alleen Murray lukte het sinds die tijd om Wimbledon te winnen. Dat deed hij in 2013 en 2016. De overige edities werden allemaal gewonnen door Federer, Nadal of Djokovic. Laatstgenoemde Serviër is bij Wimbledon dit jaar de titelverdediger. Daarnaast aast Federer op zijn negende eindzege op het heilige gras.</p>

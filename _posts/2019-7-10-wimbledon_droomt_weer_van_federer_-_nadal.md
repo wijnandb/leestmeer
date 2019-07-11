@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Wimbledon droomt weer van Federer - Nadal"
+date: Wed, 10 Jul 2019 11:50:54 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1010563660/wimbledon-droomt-weer-van-federer-nadal"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/35bb66ea-a2f8-11e9-9127-0217670beecd.jpg"
+---
+
+<p class="intro">De kans is vrij groot dat zondag Novak Djokovic, Rafael Nadal of Roger Federer als winnaar van het heilige gras afstapt. De ’grote drie’ domineren ook de Wimbledon-editie van 2019. Sinds 2003 wist alleen Andy Murray één van deze toppers van de eindzege af te houden. Dat gebeurde in 2013 en 2016, maar de Brit is er dit keer in het enkelspel niet bij.</p> <p>„Het is onvoorselbaar wat zij presteren”, aldus voormalig proftennisster Marcella Mesker. „Het is wachten op de nieuwe generatie”, doelt ze op de talenten als Stéfano Tsitsipás, Dominic Thiem en Alexander Zverev. „Ze laten het echter afwachten.”</p><p>Federer, inmiddels 37 jaar, jaagt op Wimbledon op zijn negende grastriomf. De eerste keer dat de Zwitser op het heilige gras de bokaal pakte, was in 2003. Saillant detail is dat hij dit keer in de halve finale weer eens tegenover zijn eeuwige rivaal Rafael Nadal kan komen te staan. Dat gebeurde op Wimbledon voor de laatste keer in 2008, toe verloor hij één van de meest memorabele finales van de Spanjaard 7-9 in de vijfde set.</p><p>„Federer is echt weer 3.0. Ik zie nog niet echt verschijnselen waarbij ik denk dat hij niet meer meedoet om de grote prijzen. Hij blijft meedoen”, aldus Mesker. „Onwaarschijnlijk hoe snel en fit hij nog is. Hij is weinig geblesseerd. Tegen de grote jongens, Nadal en Djokovic, zet ik wel op de andere twee in.”</p><p>Federer speelt woensdag in de kwartfinales tegen de als achtste geplaatste Japanner Kei Nishikori. Zelf is de Helveet als nummer 2, achter Djokovic, gerangschikt. Titelverdediger Djokovic neemt het bij de laatste acht op tegen David Goffin en Nadal treft Sam Querrey. De andere kwartfinale gaat tussen Guido Pella en Roberto Bautista Agut.</p>
