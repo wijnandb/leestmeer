@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Kruijswijk na tijdverlies: ’Ik doe er niet dramatisch over’"
+date: Thu, 11 Jul 2019 18:44:56 +0200
+categories: 
+- sport 
+- wielrennen 
+externe_link: "https://www.telegraaf.nl/sport/1357939902/kruijswijk-na-tijdverlies-ik-doe-er-niet-dramatisch-over"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6a59f15c-a472-11e9-9ef9-0255c322e81b.jpg"
+---
+
+<p class="intro">Na de eerste bergrit van deze Tour met aankomst op La Planche vond Steven Kruijswijk zich zelf terug op de achtste plek van het algemeen klassement. De Nederlandse troef van Jumbo-Visma kijkt nu tegen een achterstand aan van 1.04 op de nieuwe geletruidrager Giulio Ciccone.</p> <p>„Ik doe er niet dramatisch over, want vorig jaar zat ik in de eerste bergetappe ook niet bij de eerste vijf”, aldus Kruijswijk in een eerste reactie voor de NOS. „Ik had er wel rekening mee gehouden dat het niet de ideale klim was voor mij als er afwachtend zou worden gereden. Dat bleek, want toen het in de laatste kilometer volle bak ging, had ik niet de benen om mee te gaan.”</p><p>Kruijswijk wilde er verder niet te veel conclusies over zijn vorm aan verbinden. „Ik had niet mijn beste dag, maar er komt nog een heleboel aan. De Tour duurt nog twee weken.”</p><p>Bekijk hier de uitslagen in de Ronde van Frankrijk.</p><p>Bekijk hier de klassementen in de Ronde van Frankrijk.</p><p>Bekijk hier alle ploegen + de informatie per renner in de Ronde van Frankrijk.</p><p>Dylan Teuns, de winnaar van de zesde etappe, had zijn ploeggenoten donderdag voor de start al gewaarschuwd. „Als de kans zich zou voordoen zou ik het proberen”, verkondigde de 27-jarige Belg van Bahrain.</p><p>„Vorig jaar heb ik in de Vuelta ook zo’n kans gehad. Maar ik was te nerveus en heb het verkloot zodat Michael Woods daar kon winnen.” Dat gebeurde op het Balcón de Bizkaia, een klim in het Baskenland. In de Vogezen, op La Planche des Belles Filles, lukte het wel na een lange ontsnapping met aanvankelijk veertien renners. „Ik wist dat we het konden redden en ik wist ook dat Ciccone mijn zwaarste tegenstander zou worden.”</p><p>De 24-jarige Italiaan was bergkoning in de afgelopen Giro en gaf zich pas op het laatst gewonnen. „Het was slopend, hij was ook aan het pokeren. Ik moest koel blijven en ik zag hem uiteindelijk breken. Toen wist ik: ik moet door, ik mag niet meer gaan zitten.”</p>

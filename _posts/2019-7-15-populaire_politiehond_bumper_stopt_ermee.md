@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Populaire politiehond Bumper stopt ermee"
+date: Mon, 15 Jul 2019 13:14:26 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/1585462698/populaire-politiehond-bumper-stopt-ermee"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/595d2666-a6f8-11e9-833d-0217670beecd.jpg"
+---
+
+<p class="intro">Voor de trouwe fans van Bumper was het maandagochtend schrikken geblazen. „Maar aan alle goede dingen komt een eind”, schrijft de politie Rotterdam op Facebook. De populaire politiehond verdwijnt per september van Instagram en Facebook, waar de viervoeter respectievelijk ruim 42.000 en 100.000 volgers heeft.</p> <p>Het was niet meteen duidelijk waarom Bumper de handdoek in de ring gooit, maar maandagmiddag werd bekendgemaakt dat Bumper zijn opleiding tot politiehond bijna heeft afgerond. „Binnenkort mag ik examen doen”, aldus Bumper op Facebook. In september hoopt Bumper dat de vlag uit mag met riem eraan.</p><p>Al zullen de echte ’bumperklevers’, zoals de fans gekscherend genoemd worden, trots zijn op hun idool, ze zullen vast ook even slikken nu het zover is.</p><p>Op de bekendmaking van het nieuws volgden al vele teleurgestelde reacties. „Een betere pr-persoonlijkheid heeft de politie nooit gehad”, aldus een van de reacties via Instagram.</p><p>Het was volgens de politie van meet af aan de bedoeling om een inkijkje te geven in de opleiding van pup tot politiehond en te stoppen zodra Bumper examen mag doen. „Maar nu het zover is, weet ik zeker dat ik jullie enorm ga missen. Gelukkig is mijn examen pas na de zomer, dus deze zomer kunnen we nog van elkaar genieten!”, schrijft de politie namens Bumper.</p><p>Omdat de hond straks „met de grote jongens aan het echte werk gaat”, kan hij geen inkijkje meer geven in het dagelijkse werk, zo licht ’Bumper’ toe op zijn Facebook-account.</p><p>Hond Bumper werd bekend door de filmpjes van de ’Avonturen van Bumper’ op YouTube. De populaire politiehond werd ook al eens uitgeroepen tot Kidsweek Dier van het Jaar.</p><p>Bumper is de eerste hond die door de politie zelf is opgeleid. Normaal gebeurt dat extern bij de Koninklijke Nederlandse Politiehonden Vereniging (KNPV). De politie krijgt op deze manier een beter inzicht in de training van honden en zo leren de agenten Bumper door en door kennen.</p><p>Zo zagen we Bumper voor het eerst</p><p>Ook konden volgers zien hoe Bumper leerde bijten en hoe moest leren wennen aan de drukte in de Rotterdamse metro.</p>

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "’Vuilnisbelt Rotterdam’: ’Eerst zak ernaast, dan toiletpot of bankstel’"
+date: Sun, 14 Jul 2019 09:57:06 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/1725221134/vuilnisbelt-rotterdam-eerst-zak-ernaast-dan-toiletpot-of-bankstel"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4f8bd690-a60e-11e9-aeba-02c309bc01c1.jpg"
+---
+
+<p class="intro">Veel Rotterdammers hebben hun buik vol van het huisvuil dat zich al geruime tijd ophoopt op straat. Een petitie waarin het gemeentebestuur wordt opgeroepen snel maatregelen te nemen was zondag al duizenden keren getekend. Op de website vuilnisbelt010.nl eisen de initiatiefnemers dat afvalcontainers vaker worden geleegd.</p> <p>Afgelopen week kondigde de stad aan dat 17 miljoen euro wordt bezuinigd op de buitenruimte, terwijl „containers vaak domweg overvol zitten, met troep op straat als onvermijdelijk gevolg”. Aanleiding voor het starten van de petitie is een opmerking van wethouder Bert Wijbenga (buitenruimte, handhaving) dat „vervuilers net pubers zijn en je niet achter hun kont kunt blijven opruimen”.</p><p>„De petitie leeft onder de mensen, ze herkennen het probleem”, aldus initiatiefnemer Jaap Stronks. „De gemeente moet overvolle containers gewoon vaker legen. Je kunt erop wachten dat mensen er een zak naast zetten, daarna volgt een toiletpot of een bankstel, want troep trekt troep aan.” Hij klaagt al jaren bij de gemeente over troep in de wijken. „Dit jaar heb ik al 26 keer doorgegeven dat containers vol zitten.”</p><p>„Binnenkort kunnen ze de vuilophaalroutes aanpassen op basis van informatie uit chips, sensoren die aangeven of een container vol is. De wethouder doet echt wel zijn best, maar ondertussen wordt ook miljoenen bezuinigd op de buitenruimte”, aldus Stronks. „De kwaliteit moet omhoog. Het moet schoon zijn en schoon blijven. Daar hebben we de gemeente voor nodig. Ik heb er nog niet veel vertrouwen in.”</p>

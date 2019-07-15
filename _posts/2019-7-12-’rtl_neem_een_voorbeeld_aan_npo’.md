@@ -1,0 +1,10 @@
+---
+layout: post
+title: "’RTL neem een voorbeeld aan NPO’"
+date: Fri, 12 Jul 2019 14:20:00 +0200
+category: overig
+externe_link: "https://www.telegraaf.nl/watuzegt/840755892/rtl-neem-een-voorbeeld-aan-npo"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a943832e-a495-11e9-9815-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">RTL4 blijft het proberen, meent Rien van Ast; een praatshow rond half 11 ’s avonds uit te zenden. De kijkcijfers zijn niet echt goed en Twan Huys is er al op gesneuveld. Ook het huidige programma met Art Rooijakkers scoort niet echt goed.</p> <p>Komt dat door hem? Komt het door de onderwerpen? Zelf denk ik van niet. Het begint om 22:30 uur, nieuwsuur is dan afgelopen, mensen blijven automatisch kijken. Best een fris programma om naar te kijken met een apart creatief samengesteld decor. Geen groepje mensen aan een ronde tafel.</p><p>Maar dan komt om 22:50 uur reclame. En daar gaat het naar mijn idee fout. Mensen ergeren zich groen en geel aan alle reclame tijdens de programma's bij RTL en SBS. Ze zappen weg naar NPO1 waar net Eva Jinek of Jeroen Pauw wordt aangekondigd. Dan gaan ze niet meer terug naar RTL.</p><p>Jinek en Pauw zijn sterke persoonlijkheden met een lang gevestigd programma. Ze zijn een te grote concurrent voor RTL met een praatshow op die tijd, en dat zullen ze altijd blijven, om het even welke presentator. Zelfs Beau van Erven Dorens zal er niet in slagen hoge kijkcijfers te scoren om die tijd. RTL zou eens moeten overwegen om reclame alleen te laten zien voor en na een programma.</p><p>Bij de NPO hebben mensen geen echt grote hekel aan reclame, wel bij de commerciëlen. Waarom wordt dat niet aangepast? Levert dat meer geld op? Beseffen de reclamemakers niet dat deze tussendoor shots zeer slecht bekeken worden en irritatie opleveren? Lijkt me een schone taak voor Peter van der Vorst als nieuwe directeur om daar eens over na te denken en verandering in aan te brengen. Ze doen de kijkers er een groot plezier mee.</p><p>Rien van Ast, Uden.</p>
