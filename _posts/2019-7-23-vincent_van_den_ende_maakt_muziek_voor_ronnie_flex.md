@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Vincent van den Ende maakt muziek voor Ronnie Flex"
+date: Tue, 23 Jul 2019 19:09:27 +0200
+categories: 
+- entertainment 
+- sterren 
+externe_link: "https://www.telegraaf.nl/entertainment/1578061091/vincent-van-den-ende-maakt-muziek-voor-ronnie-flex"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b3e4c808-ad6c-11e9-8fa4-0217670beecd.jpg"
+---
+
+<p class="intro">Muziekproducent Vincent van den Ende slaat deze week twee vliegen in één klap. Hij is in Nederland om zijn samenwerking met jeansmerk CHASIN’ aan te kondigen en maakt van de gelegenheid gebruik om met onder anderen Ronnie Flex in de studio te duiken.</p> <p>Vincent, wiens artiestennaam Avedon is, werkt met „verschillende grote artiesten” aan nieuw materiaal, onthult hij aan BuzzE. Ronnie Flex is de enige naam die hij mag verklappen, verdere details geeft hij niet. „Maar het gaat heel goed.”</p><p>Over zijn samenwerking met CHASIN’ is Vincent minder geheimzinnig. Hij maakte een nummer voor de nieuwe reclamecampagne van het Nederlandse merk. Voor de zoon van Joop en Janine van den Ende is het niet vergezocht om zijn naam te verbinden aan een spijkerbroek. Hij ziet een aantal gelijkenissen tussen het kledingstuk en muziek.</p><p>Industriële vibe</p><p>„In muziek probeer je van iets wat al bestaat steeds iets nieuws te maken, dat is ook zo met een spijkerbroek”, legt Vincent uit. „Jeans bestaan net als muziek al heel lang, maar worden steeds in een nieuw jasje gestoken.”</p><p>Toch was het voor Vincent best lastig om zich te laten inspireren door een spijkerbroek. „Ik heb van tevoren heel veel gesproken met de designer over de geschiedenis van CHASIN’ en hoe het merk in de jaren negentig werd opgericht. Daarna ben ik de studio ingedoken en rolde er een track uit met een een hele industriële vibe. Dat past er goed bij.”</p><p>Andere lading</p><p>Vincent, die in Los Angeles woont, timmert aardig aan de weg als muziekproducent. Ronnie Flex is zeker niet de eerste artiest waar hij mee samenwerkt, eerder deelde hij de studio met sterren als Pharrell, Wiz Khalifa en Miguel.</p><p>Zijn bekende achternaam heeft daar volgens hem geen aandeel in. „In Amerika is mijn vader niet zo bekend als in Nederland. Ik ben natuurlijk supertrots op mijn achternaam, maar Van den Ende heeft hier een hele andere lading.”</p><p>De keuze om een artiestennaam te gebruiken, was een hele bewuste. „Dat heeft niet met mijn achtergrond te maken, maar Van den Ende klinkt toch niet zo lekker in het Engels.”</p>

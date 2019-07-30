@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Kiki Bertens dicht bij derde toernooizege in 2019"
+date: Sun, 28 Jul 2019 11:06:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1520889737/kiki-bertens-dicht-bij-derde-toernooizege-in-2019"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2382e0f2-b117-11e9-8fa4-0217670beecd.jpg"
+---
+
+<p class="intro">Kiki Bertens gaat zondagavond op voor haar derde toernooizege van 2019. De Nederlandse toptennisster verzekerde zich eerder van een plek in de finale van het WTA-toernooi van Palermo.</p> <p>Bertens, de nummer 1 van de plaatsingslijst en de mondiale nummer 5, was zaterdag in de halve eindstrijd in twee sets de meerdere van de Spaanse Paula Badosa, die een dag eerder Arantxa Rus kansloos had gelaten: 6-1 en 7-5. Bertens benutte pas haar achtste wedstrijdpunt.</p><p>Dapper verweer</p><p>Bertens haalde na 33 minuten met een ace overtuigend de eerste set binnen, maar had het daarna lastig met de getalenteerde nummer 119 van de wereld. In de tweede set gaf Bertens twee keer een break uit handen, maar op 5-5 won ze voor de derde keer in de set de opslaggame van de 21-jarige Badosa, die zich na het kansloze verlies van de eerste set dapper verweerde.</p><p>Bertens leek het vervolgens op 6-5 gedecideerd af te maken en kwam op 40-0. Ze verspeelde vervolgens echter het ene na het andere matchpoint. Met een goede opslag maakte Bertens het na ruim anderhalf uur dan toch in twee sets af.</p><p>Teichmann tegenstander</p><p>In de eindstrijd van het Italiaanse graveltoernooi treft Bertens zondag Jill Teichmann, de nummer 82 van de wereld. Bertens trof de Zwitserse Teichmann vier jaar geleden in de kwalificaties van het WTA-toernooi van Luxemburg en dat duel won ze in twee sets.</p><p>Bertens was dit jaar al de sterkste in Sint-Petersburg (indoor) en in Madrid (gravel). Ze voegde het zwakkere toernooi van Palermo later aan haar planning toe. De finale begint zondag om 19.30 uur.</p>

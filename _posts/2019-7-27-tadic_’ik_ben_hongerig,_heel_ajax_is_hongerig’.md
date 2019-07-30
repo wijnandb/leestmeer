@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Tadic: ’Ik ben hongerig, heel Ajax is hongerig’"
+date: Sat, 27 Jul 2019 21:09:52 +0200
+categories: 
+- sport 
+- voetbal 
+externe_link: "https://www.telegraaf.nl/sport/1145778630/tadic-ik-ben-hongerig-heel-ajax-is-hongerig"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8e71cf84-b0b5-11e9-91d7-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Dusan Tadic pakte met de winst van de Johan Cruijff Schaal op PSV zijn derde prijs met Ajax, na de landstitel en de beker.</p> <p>Sinds de komst van de Serviër heeft Ajax alle prijzen nog opgeëist in eigen land. „Het hele team en de club zijn hongerig”, zei Tadic, die in de wedstrijd om de Johan Cruijff Schaal Ajax’ aanvoerder was. „Dit is een heel belangrijke wedstrijd om te winnen zo aan het begin van het seizoen en ik ben blij met de overwinning. Het is altijd lastig tegen ze”, zei Tadic bij Fox Sports na de 2-0 zege.</p><p>Ajax versterkte zich voorin met Quincy Promes, terwijl geen van de spelers uit de voorhoede nog is vertrokken. „Concurrentie is altijd goed. Het is nog te vroeg om te zeggen hoe de nieuwe jongens het doen, maar ze zullen beter en beter worden”, aldus Tadic, die zich onlangs voor lange tijd aan Ajax verbond. „Ik hou van deze club en voel me goed hier.”</p><p>Ziyech</p><p>Dat laatste geldt ook voor Hakim Ziyech, die een half uurtje voor tijd inviel. „Ik had wat langer rust kunnen hebben, maar twee weken vakantie is lang genoeg”, aldus de Ajacied. „Ik had zin om weer te beginnen, te lang stilzitten is ook niet lekker”, zei Ziyech, die deze zomer in de belangstelling van Sevilla stond. „Maar ik heb het naar mijn zin hier, en als er iets anders langs komt zal het hele plaatje moeten kloppen. Ik ruil Ajax niet zomaar voor iets in”, verklaarde de Marokkaan.</p><p>Ten Hag</p><p>Zijn trainer Erik ten Hag was tevreden met wat Ajax in het eerste officiële duel van dit seizoen had laten zien. „Maar dat moet niet te lang duren, die tevredenheid”, zei de coach, die volgende week de competitieopening bij Vitesse wacht en drie dagen later PAOK Saloniki treft in de derde voorronde van de Champions League. Met name over zijn centrale verdedigingsduo was hij te spreken.</p><p>„Perr Schuurs heeft heel veel geïnvesteerd in zichzelf, en wij ook in hem. Hij durfde al te voetballen, maar kan dat nu ook in een hoog tempo uitvoeren. Lisandro Martinez brengt grinta met zich mee, daar ben ik heel blij mee”, complimenteerde Ten Hag de Argentijn.</p>

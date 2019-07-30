@@ -1,0 +1,12 @@
+---
+layout: post
+title: "'Dijsselbloem op shortlist voor topfunctie IMF'"
+date: Sat, 27 Jul 2019 08:34:05 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/1775464226/dijsselbloem-op-shortlist-voor-topfunctie-imf"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/87b70182-b038-11e9-9c4a-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Oud-minister van Financiën Jeroen Dijsselbloem staat op de shortlist van kandidaten voor het leiderschap van het Internationaal Monetair Fonds (IMF). Hij neemt het op tegen vier andere Europese kandidaten. Dat heeft een hoge ambtenaar van de Franse overheid zich vrijdag laten ontvallen.</p> <p>De andere kanshebbers zijn de Spaanse minister van Financiën Nadia Calviño, de Portugese minister van Financiën en huidig Eurogroep-voorzitter Mário Centeno, de Bulgaarse Wereldbank-bestuurder Kristalina Georgieva en het Finse centralebankhoofd Olli Rehn. Opmerkelijk is dat Bank of England-gouverneur Mark Carney, die eerder als grote kanshebber werd gezien, niet op de lijst staat.</p><p>Frankrijk</p><p>Frankrijk leidt het selectieproces. Er bestaat een soort herenakkoord dat Europese landen het hoofd van het IMF mogen aanwijzen, terwijl de Amerikanen die van de Wereldbank mogen benoemen.</p><p>Het IMF is sinds vrijdag officieel op zoek naar een opvolger van topvrouw Christine Lagarde, die onlangs is verkozen tot president van de Europese Centrale Bank (ECB). Het aanmelden van kandidaten kan tot 6 september. De organisatie uit Washington wil het hele proces graag op 4 oktober afgerond hebben.</p><p>Sterke reputatie</p><p>Dijsselbloem heeft een sterke reputatie in Europa. Hij was jarenlang voorzitter van de Eurogroep en in die functie een centrale figuur bij de reddingsoperaties rond de Griekse schuldencrisis. Vooralsnog lijken de EU-lidstaten evenwel verdeeld. Noordelijke landen zouden de voorkeur geven aan Dijsselbloem of Rehn en zuidelijke staten aan Calviño of Centeno. Georgieva (65) heeft waarschijnlijk de steun van de oostelijke Europese landen, maar haar verkiezing zou een wijziging van de regels vereisen omdat ze volgens de criteria van het IMF te oud is voor de post.</p><p>Frankrijk mikte er eerder op dat de Europese landen eind juli al een besluit zouden nemen. Maar als dit niet lukt, dan ligt het voor de hand dat er ergens eind augustus een knoop wordt doorgehakt, rond de G7-top in Zwitserland.</p>

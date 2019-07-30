@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Prinses Haya en emir Dubai vechten om kinderen"
+date: Mon, 29 Jul 2019 19:03:28 +0200
+categories: 
+- entertainment 
+- royalty 
+externe_link: "https://www.telegraaf.nl/entertainment/1484031944/prinses-haya-en-emir-dubai-vechten-om-kinderen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a9b8571c-b223-11e9-a1a1-0218eaf05005.jpg"
+---
+
+<p class="intro">Prinses Haya en haar echtgenoot emir sjeik Mohammed van Dubai staan dinsdag en woensdag tegenover elkaar in de familiekamer van het Britse High Court of Justice in een gevecht over het welzijn van hun twee kinderen. De zaak wordt achter gesloten deuren behandeld maar heeft wereldwijd al veel aandacht getrokken.</p> <p>Prinses Haya (45) is een halfzus van de Jordaanse koning Abdullah, en dochter van wijlen koning Hoessein. In 2004 werd ze de zesde echtgenote van de nu 70-jarige emir van Dubai, met wie ze in elk geval een passie voor paarden deelde. Het echtpaar kreeg twee kinderen, Jalila (11) en Zayed (5). Die zijn inzet van de rechtszaak, aldus een eerdere verklaring van het hof. Dat wilde daarmee berichten ontzenuwen dat een echtscheiding of financiële vergoeding op de rol zouden staan.</p><p>Prinses Haya is volgens onbevestigde berichten Dubai ontvlucht en woont sinds enige tijd met de twee kinderen in Londen. Dat is ook de reden dat de High Court of Justice is ingeschakeld. De Britse rechter kan ook onafhankelijker optreden dan een rechter in bijvoorbeeld Haya’s geboorteland Jordanië waar haar halfbroer, die erg afhankelijk is van financiële steun uit de Verenigde Arabische Emiraten, in een moeilijke positie had kunnen komen.</p><p>De emir van Dubai, die vorige maand nog koningin Elizabeth ontmoette op Royal Ascot, heeft zich formeel niet over de kwestie uitgelaten. Er circuleert wel een gedicht van zijn hand waarin een verwijzing wordt gezien naar een scheiding en het gevoel door Haya te zijn verraden en bedrogen. De vorstelijke familie van het emiraat is de laatste jaren een paar maal opgeschrikt door pogingen van dochters van de emir om uit het paleis te ontsnappen.</p><p>Haya laat zich bij de rechtbank vertegenwoordigen door barones Fiona Shackleton, die onder meer de echtscheidingen van de Britse prinsen Andrew en Charles behandelde. De sjeik heeft Helen Ward ingeschakeld, die eerder zaken behandelde voor Andrew Lloyd Webber, Paloma Picasso, Guy Ritchie en Bernie Ecclestone.</p>

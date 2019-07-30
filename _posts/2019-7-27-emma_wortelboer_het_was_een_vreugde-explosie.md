@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Emma Wortelboer: het was een vreugde-explosie"
+date: Sat, 27 Jul 2019 11:06:41 +0200
+categories: 
+- entertainment 
+- gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/342992020/emma-wortelboer-het-was-een-vreugde-explosie"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d924aa14-b04d-11e9-80cd-02d2fb1aa1d7.JPG"
+---
+
+<p class="intro">Half Nederland buitelde over Emma Wortelboer heen na haar optreden bij het songfestival. Johan Derksen noemde haar een „hysterische bakvis”, Patty Brard vroeg zich af „welke dealer” Emma had. Toch was haar emotie volkomen oprecht. „We wonnen het fucking songfestival, waar ik al fan van ben sinds ik een kind ben, na 44 jaar en uitgerekend de keer dat ik er deel van mag uitmaken, dus ja, dat was een explosie van vreugde”, zegt ze in de Volkskrant.</p> <p>Emma deelde de punten uit, maakte een grap over het optreden van Madonna en verscheen schreeuwend in beeld toen Duncan Laurence als winnaar uit de bus kwam. „Het was voor mij echt een topavond. En anderen gingen er nu een nare nasmaak aan geven? Ik dacht: iedereen kan alles over me zeggen, maar jullie verpesten het niet voor mij.”</p><p>Ze keek best op van de reacties. Vooral het commentaar van Patty Brard vond ze vreemd. „Omdat ik haar altijd best hoog had zitten, juist omdat zij overal schijt aan heeft. Zij springt van een duikplank en neemt een klysma terwijl ze ondertussen lachend Shownieuws presenteert, dat vond ik altijd cool. Dus dat uitgerekend zij me op mijn plek probeert te zetten en me van drugsgebruik beticht tijdens de puntentelling - het gaat niet eens over de inhoud. Dat vond ik wel het laagste.”</p><p>Linda de Mol</p><p>Eén ding is zeker: haar optreden leverde Emma de nodige publiciteit op. De 22-jarige heeft grootse ambities. „Als ik heel ver in de toekomst durf te kijken, dan wil ik Linda de Mol worden. Niet alleen presentator, maar ook een merk, een manier van leven bijna. Zo cool vind ik dat van haar.”</p><p>Wat dat merk dan precies inhoudt? „Dat alles mag en alles kan, zolang je er maar goede redenen voor hebt. Schijt aan dingen, geen taboes. Daarom vinden mensen mij zo heftig, denk ik, maar ik vind: alles moet besproken kunnen worden: seks, pedofilie zelfs, geldzaken - heel raar dat in Nederland niemand het over zijn salaris wil hebben, terwijl ik denk: wat maakt dat nou uit?”</p>

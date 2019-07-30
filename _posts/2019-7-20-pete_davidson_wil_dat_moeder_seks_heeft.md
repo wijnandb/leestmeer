@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Pete Davidson wil dat moeder seks heeft"
+date: Sat, 20 Jul 2019 16:55:00 +0200
+category: opmerkelijk
+externe_link: "https://www.telegraaf.nl/entertainment/1731044993/pete-davidson-wil-dat-moeder-seks-heeft"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9488ed84-ab02-11e9-82c4-0255c322e81b.jpg"
+---
+
+<p class="intro">Hoewel velen er niets van moeten weten dat hun ouders seksueel actief zijn, kan Pete Davidson juist niet wachten tot zijn moeder weer aan de man is. De ex van Ariana Grande wil niets liever dan dat zijn moeder eindelijk weer eens van bil gaat.</p> <p>Davidson woont sinds zijn relatie met Ariana Grande voorbij is met zijn moeder Amy, maar dat bevalt hem minder goed dan gedacht. Blijkbaar valt zijn moeder hem nogal lastig met van alles en nog wat, want de komiek kan niet wachten tot ze haar handen weer vol heeft aan een andere man, zodat ze niet meer op hem let.</p><p>Tijdens Dressing Funny vertelt Davidson dat hij probeert zijn moeder weer aan het daten te krijgen. Op de vraag wat hij ervan vindt als ze weer zou gaan daten, is hij dan ook duidelijk: „Het maakt me niets uit... Iemand zou haar moeten doen! Ik meen het. Ze is niet meer met iemand geweest sinds mijn vader is overleden (2001, red.). Iemand moet seks met haar hebben en ervoor zorgen dat die vrouw mij niet meer lastig valt!”</p><p>Na de breuk met Ariana kocht Pete samen met zijn moeder een huis in New York, waarin hij een apart appartement heeft gebouwd. Ze wonen dus niet letterlijk samen, maar wel onder hetzelfde dak. Wel geeft hij toe dat het niet altijd eenvoudig is. „Als je vijftien bent en je moeder betrapt je terwijl je aan het masturberen bent, is dat gênant. Als je 25 bent en je moeder betrapt je terwijl je aan het masturberen bent, had dat nooit mogen gebeuren! Wie loopt er nou een keuken in zonder te kloppen?”, stelt hij.</p><p>„Ik weet wat mensen denken. Ze zien je op tv en in tijdschriften en denken: ’die jongen heeft vast een eigen huis’. Nope.”</p>

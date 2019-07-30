@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Elektrische Hyundai explodeert"
+date: Mon, 29 Jul 2019 12:11:30 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/lifestyle/580777604/elektrische-hyundai-explodeert"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d632373c-b1f0-11e9-b08d-0218eaf05005.jpg"
+---
+
+<p class="intro">Elektrische auto’s lijken er een handje van te hebben om in de fik te vliegen. Maar het kan nog erger, want in Canada explodeerde vrijdag een ook in Nederland zeer populaire Hyundai Kona Electric.</p> <p>Hyundai-eigenaar Piero Cosentino uit Montreal werd afgelopen vrijdag opgeschrikt door een explosie in zijn garage. Zijn garagedeur bleek weggeblazen en de elektrische auto stond in brand.</p><p>De Hyundai lijkt zonder aantoonbare reden geëxplodeerd. Piero probeerde ergere schade aan zijn huis te voorkomen door het vuur te lijf te gaan met zijn tuinslang. De brandweermensen kwamen met 20 man sterk om de elektrische auto te blussen. De brandweer deed direct sporenonderzoek en kon geen externe oorzaak vinden. De enige logische verklaring was dat de auto uit zichzelf in de brand was gevlogen. Dit bevestigde de dienstdoende Division Chief van de Montreal Fire Department.</p><p>De brandweer doet nog onderzoek naar de oorzaak. Eén ding is in ieder geval uitgesloten: er waren geen problemen met de lader, of de laadpoort. De auto was namelijk niet aan het opladen ten tijde van de explosie.</p><p>Naast dat Cosentino zijn auto kwijt is, mag hij ook zijn huis nog niet in. De woning wordt onderzocht op instortingsgevaar. Hetzelfde geldt overigens voor Cosentino’s buurman.</p><p>Naast dat elektrische auto’s problemen lijken te hebben met zelfontbranding, lijkt het alternatieve waterstof ook niet heel veilig. Onlangs explodeerde in Noorwegen een waterstoftankstation. En in Los Angeles waren er problemen bij een productiefaciliteit. Daar vloog een tanker in de brand.</p><p>Wilt u meer over dit onderwerp weten? Lees dan verder op Autovisie.nl</p>

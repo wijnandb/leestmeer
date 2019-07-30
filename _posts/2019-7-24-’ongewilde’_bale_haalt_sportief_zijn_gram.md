@@ -1,0 +1,12 @@
+---
+layout: post
+title: "’Ongewilde’ Bale haalt sportief zijn gram"
+date: Wed, 24 Jul 2019 08:36:23 +0200
+categories: 
+- sport 
+- voetbal 
+externe_link: "https://www.telegraaf.nl/sport/458028010/ongewilde-bale-haalt-sportief-zijn-gram"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/71fa6bd8-ade8-11e9-a792-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Met Gareth Bale als scorende invaller heeft Real Madrid woensdag het oefenduel met Arsenal na strafschoppen gewonnen.</p> <p>De Welshman, bij wie een heuse transfersoap gaande is, bracht de spanning terug nadat Real bij rust tegen een 2-0-achterstand had aangekeken. Het duel uit de zogenoemde Champions Cup, gespeeld in het Amerikaanse Landover, eindigde in 2-2 waarna de Spanjaarden de strafschoppen beter namen.</p><p>Tegenover Spaanse media liet Zinedine Zidane weten blij te zijn voor zijn speler. „Hij speelde goed”, zegt de Real-trainer over de invalbeurt van Bale, die de wedstrijd tegen Bayern aan zich voorbij liet gaan. „Toen wilde hij niet spelen, nu wel”, aldus Zidane, die nog niet weet waar de toekomst van de aanvaller ligt. „Voorlopig speelt hij voor Real. De situatie is nog niet veranderd.”</p><p>Rood</p><p>Real-verdediger Nacho werd al vroeg met twee keer geel naar de kant gestuurd. Na een bestrafte overtreding op Sead Kolasinac maakte Nacho hands bij een inzet van Alexandre Lacazette, die de toegekende penalty benutte.</p><p>Niet veel later maakte Pierre-Emerick Aubameyang er 2-0 van en leek het duel gespeeld. Maar kort voor rust raakte ook Arsenal een man kwijt met twee keer geel, Sokratis Papastathopoulos, en meteen na de pauze brachten Bale en Marco Asensio Real weer naast de Engelsen.</p><p>Asensio viel later geblesseerd uit. Het zou gaan om een ernstige knieblessure. „We zijn erg bezorgd”, zei Zidane over zijn Spaanse vleugelaanvaller. „Hij is direct naar het ziekenhuis gebracht. Hopelijk valt alles mee, maar het ziet er slecht uit. Het is een flinke tik voor ons en we zijn aangeslagen”, aldus de Franse oefenmeester tegenover AS.</p><p>Bayern</p><p>Bayern München won van AC Milan. Dit duel in de Champions Cup werd gespeeld in Kansas City. De Duitse kampioen versloeg de Italianen met 1-0.</p><p>Het doelpunt kwam op naam van international Leon Goretzka. Robert Lewandowski, Serge Gnabry en Javi Martínez ontbraken bij Bayern wegens lichte blessures. Voor de Duitsers was het duel de afsluiting van een trainingskamp in de Verenigde Staten.</p>

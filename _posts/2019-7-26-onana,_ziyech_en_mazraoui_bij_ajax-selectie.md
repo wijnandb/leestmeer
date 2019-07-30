@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Onana, Ziyech en Mazraoui bij Ajax-selectie"
+date: Fri, 26 Jul 2019 16:37:15 +0200
+categories: 
+- sport 
+- voetbal 
+externe_link: "https://www.telegraaf.nl/sport/671713828/onana-ziyech-en-mazraoui-bij-ajax-selectie"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d0c6437c-afb8-11e9-abfd-0255c322e81b.jpg"
+---
+
+<p class="intro">André Onana, Hakim Ziyech en Noussair Mazraoui maken zaterdag al deel uit van de wedstrijdselectie als Ajax tegen PSV speelt om de Johan Cruijff Schaal.</p> <p>Het drietal sloot later aan bij de groepstraining ter voorbereiding van het nieuwe seizoen vanwege deelname aan de Afrika Cup.</p><p>„Ze zijn gretig en hebben er weer zin in”, zei Ajax-trainer Erik ten Hag, die sommige spelers korter dan gebruikelijk vakantie zag nemen. „Ze beseffen waar het om gaat en dat er al snel belangrijke wedstrijden aan komen, waarop ze zich goed willen prepareren.”</p><p>David Neres en Nicolas Tagliafico, die beiden aan de Copa América deelnamen, zijn er dit weekend nog niet bij. Neres keert zondag terug, Tagliafico hervatte eerder deze week de training.</p><p>Tijdens de persconferentie zat Dusan Tadic naast Ten Hag, maar de trainer wilde nog niet vertellen of Tadic de vertrokken Matthijs de Ligt opvolgt als aanvoerder. „We hebben meer leiders; Daley (Blind), Klaas (Huntelaar) en Lasse (Schöne) bijvoorbeeld”, aldus Tadic, die zich niet de baas van het elftal voelt. „Er is alleen maar één speler die de band draagt.”</p><p>Ten Hag pakte vorig seizoen met Ajax de beker en de landstitel, maar de Johan Cruijff Schaal ontbreekt nog op zijn cv. „Ik heb hem nog nooit gewonnen. Ik zie het als een prijs, het is de opmaat voor het seizoen en daar moet je alles voor doen. Morgen is het stadion uitverkocht en dat zegt wel veel”, aldus Ten Hag, die nog niet met zijn sterkst mogelijke elftal aantreedt. „We hebben tegen Panathinaikos nog maar met drie spelers gespeeld waarmee we vorig seizoen geëindigd zijn. Het elftal gaat er anders uit zien.”</p><p>PSV startte eerder met de voorbereiding op het nieuwe seizoen omdat de Eindhovenaren dinsdag al in de voorronden van de Champions League speelden. „Ik zag een strijdbaar elftal, een fanatiek elftal, dat heel direct kan spelen”, aldus Ten Hag over de 3-2-zege van PSV.</p><p>De wedstrijd tussen Ajax en PSV begint zaterdag om 18.00 uur.</p>

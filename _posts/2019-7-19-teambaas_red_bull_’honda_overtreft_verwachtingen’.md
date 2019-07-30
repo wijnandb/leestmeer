@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Teambaas Red Bull: ’Honda overtreft verwachtingen’"
+date: Fri, 19 Jul 2019 15:16:03 +0200
+categories: 
+- sport 
+- autosport 
+externe_link: "https://www.telegraaf.nl/sport/1200599691/teambaas-red-bull-honda-overtreft-verwachtingen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5d561ce6-aa27-11e9-9981-02d1dbdc35d1.JPG"
+---
+
+<p class="intro">Christian Horner steekt de loftrompet over motorleverancier Honda. De teambaas van Red Bull Racing stelt dat de prestaties van de krachtbron tot dusver beter zijn dan gedacht in het eerste jaar.</p> <p>„Dit hebben we altijd gezien als een overgangsjaar. Tot nu toe zijn de verwachtingen overtroffen. We hebben race negen (Max Verstappen in Oostenrijk, red.) gewonnen en een paar podiums gescoord”, aldus Verstappens en Pierre Gasly’s teambaas op de officiële website van de Formule 1.</p><p>Honda leverde vorig seizoen al de motoren voor Red Bulls zusterteam Toro Rosso. Red Bull nam afscheid van Renault als motorleverancier, mede omdat de Fransen zelf ook een fabrieksteam hebben. Bij Honda komt Red Bull op de eerste plaats.</p><p>„De betrouwbaarheid is tot nu toe erg goed. Nog steeds zijn alle drie de motoren per coureur beschikbaar. Er zijn alleen nieuwe motoren geïntroduceerd vanwege de prestatieverbetering”, aldus Horner. Honda en Red Bull hebben al aangekondigd dat er vlak na de zomerstop een volgende krachtbron komt, die flink wat extra pk’s moet opleveren.</p><p>Emotioneel</p><p>Honda en Red Bull zijn tot dusver zeer positief over elkaar. De Japanners kunnen die positieve berichtgeving goed gebruiken na een paar rampjaren met McLaren, terwijl ook Red Bull en Renault heel wat moddergevechten achter de rug hebben. Daarnaast moet Honda officieel nog aangeven of het ook na 2020 doorgaat als motorleverancier. Horner: „De overwinning in Oostenrijk was zeer emotioneel voor Honda. Sommige bestuursleden waren daar aanwezig en zagen dat, na de pijnlijke jaren met McLaren, hun investeringen zich aan het uitbetalen zijn.”</p><p>Honda leek dit jaar nog niet te kunnen wedijveren met Ferrari en Mercedes. Na de Grand Prix van Frankrijk, de achtste race van het seizoen, is de motor zeker in de kwalificatiesessies volgens Verstappen wat agressiever afgesteld. Het leidde indirect – samen met de updates van Red Bull aan het chassis en de koelingsproblemen bij Meredes – tot de zege van Verstappen in Oostenrijk en vervolgens een competitieve auto op het circuit van Silverstone.</p>
