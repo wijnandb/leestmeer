@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Erven Jackson waarderen show komiek die vermeend misbruik bespot"
+date: Wed, 28 Aug 2019 08:01:33 +0200
+categories: 
+- entertainment 
+- gossip 
+externe_link: "https://www.telegraaf.nl/entertainment/978992556/erven-jackson-waarderen-show-komiek-die-vermeend-misbruik-bespot"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/494d0812-c959-11e9-b9ef-02c309bc01c1.jpg"
+---
+
+<p class="intro">De nieuwe Netflix-special van komiek Dave Chappelle is ook de erven Jackson niet ontgaan. Chappelle verwees in zijn show naar de HBO-documentaire waarin Michael Jackson door Wade Robson en James Safechuck postuum wordt beschuldigd van seksueel misbruik.</p> <p>Chappelle zegt niets te geloven van hun verhaal en daarmee zijn de erven Jackson het grondig eens, meldt TMZ. John Branca, een van de woordvoerders, liet weten: „Wij zijn het eens met Dave Chappelle, die twee mannen zijn grove leugenaars. Nadat ze jarenlang gebruik hebben gemaakt van Michaels vrijgevigheid, hebben ze gewacht tot hij dood was en zichzelf niet meer kon verdedigen. Ze hebben het allemaal in het geniep gedaan zonder een onafhankelijk onderzoek in te stellen. De makers hebben de verhalen niet geverifieerd en van hoor en wederhoor is ook geen sprake. Dit is geen R. Kelly-zaak, waarbij belastende video’s zijn aangetroffen”, aldus Branca.</p><p>Hij vervolgt: „Ze hebben maar twee personen geïnterviewd en laat dat toevallig nou net de twee zijn die een aanklacht van honderden miljoenen dollars hebben ingediend. Die hele docu slaat nergens op, zowel Robson als Safechuck zijn leugenaars, die weten hoe het echt in elkaar steekt. Daarom was het goed dat Dave dat aanstipte in zijn show.”</p><p>’Niet monddood’</p><p>Robson en Safechuck hebben inmiddels ook gereageerd op het betreffende fragment. „Mijn hart breekt voor alle kinderen die de show zien terwijl ze net de moed bij elkaar geraapt kunnen hebben om te vertellen over het seksueel misbruik dat hen is aangedaan. Ik denk aan alle andere slachtoffers die dit hebben meegemaakt en wil hen laten weten dat dit soort gedrag ons niet monddood mag maken. Samen staan we sterk”, aldus Safechuck. Robson voegt daaraan toe: „Dave mag zeggen wat hij wil. Dit zegt meer over hem dan over ons.”</p><p>Robson’s advocaat vindt de keuze van Chappelle, om zijn platform te gebruiken om slachtoffers van seksueel misbruik belachelijk te maken, ’zeer ongelukkig’.</p>

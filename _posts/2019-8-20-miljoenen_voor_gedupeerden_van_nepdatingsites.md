@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Miljoenen voor gedupeerden van nepdatingsites"
+date: Tue, 20 Aug 2019 07:57:05 +0200
+categories: 
+- financieel 
+- geld 
+externe_link: "https://www.telegraaf.nl/financieel/28877788/miljoenen-voor-gedupeerden-van-nepdatingsites"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7952d08c-c314-11e9-8319-0217670beecd.jpg"
+---
+
+<p class="intro">Mensen die met nepprofielen zijn misleid op datingsites krijgen hun geld terug. Dit heeft toezichthouder Autoriteit Consument &amp; Markt (ACM) afgesproken met het bedrijf achter deze websites, The Right Link. Die onderneming gaat ruim 9 miljoen euro uitkeren aan in totaal zo’n 37.000 gedupeerden.</p> <p>Het gaat om sites als bedmaatjes.nl, flirten.nl, matchprofielen.nl, lekkerenrijp.nl en sexdating.nl. De consumenten betaalden veel geld om in contact te komen met de persoon van het profiel. Maar dit was helemaal niet mogelijk omdat de websites met nepprofielen werkten. Consumenten werden hierover onvoldoende geïnformeerd, zegt de waakhond. Zij wisten niet dat zij tegen betaling chatten met zogeheten chatoperators.</p><p>Het verdienmodel van deze nepdatingsites hield in dat zij consumenten zoveel mogelijk chatberichten lieten sturen naar de persoon van hun keuze. De chatoperators verleidden de gebruikers vervolgens tot langdurige, veelal erotische, chatgesprekken. Omdat je per bericht betaalt, waren de gebruikers soms wel duizenden euro’s kwijt zonder dat zij kregen wat zij verwachtten.</p><p>Geen ontmoeting</p><p>„Het kwam nooit tot een ontmoeting”, aldus ACM-bestuurslid Cateautje Hijmans van den Bergh. „De websites gaan hun gebruikers voortaan duidelijk informeren over het aanbod. Dat is belangrijk voor het vertrouwen van consumenten in de onlinewereld.” Op therightlink.nl staat al een formulier waarmee mensen compensatie kunnen aanvragen.</p><p>Alles bij elkaar zijn er zeventien sites waarvan gebruikers geld terugkrijgen. De periode waarover mensen aanspraak kunnen maken op een vergoeding loopt van 1 juli 2016 tot 17 april 2018. De tijdsspanne beperkt zich tot de periode waarin de ACM onderzoek heeft gedaan naar het functioneren van de sites. Voor de toekomst heeft de toezichthouder afspraken gemaakt met het bedrijf om de misleiding te stoppen, niet alleen in Nederland maar ook in andere Europese landen waar dit bedrijf actief is met soortgelijke websites.</p>

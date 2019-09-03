@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Oranje moet Miedema missen"
+date: Mon, 02 Sep 2019 16:54:49 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/888400605/oranje-moet-miedema-missen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/533296f2-cd92-11e9-bef2-02c309bc01c1.jpg"
+---
+
+<p class="intro">Vivianne Miedema kan dinsdag in het EK-kwalificatieduel Turkije niet in actie komen namens de Oranje Leeuwinnen. De spits van Arsenal heeft te veel last van de hamstringblessure die ze vorige week opliep in de interland met Estland.</p> <p>Miedema maakte in Tallinn twee van de zeven Nederlandse treffers, die Oranje uiteindelijk een 7-0 zege opleverden. Bij haar tweede goal in de 59e minuut voelde ze een pijnscheut door haar hamstring schieten, waarop ze zich vrijwel direct liet wisselen.</p><p>Bondscoach Sarina Wiegman bevestigde maandag op de persconferentie in het Abe Lenstra Stadion dat Miedema, met 63 doelpunten topscorer aller tijden van Oranje, uit voorzorg niet zal spelen tegen Turkije, de nummer 62 van de wereld.</p><p>,,We hebben het herstel per dag aangekeken. Het ging zeker vooruit, maar we willen geen risico nemen. Je kijkt ook naar de mogelijke gevolgen en die wegen niet op tegen hetgeen wat nog gaat komen.”</p><p>Miedema nam direct na de zevenklapper in Estland al een voorschot op het eventueel laten schieten van de interland met Turkije. ,,Waarom zou ik, met alle respect, tegen Turkije risico nemen?’’</p><p>Wiegman gaf op de persconferentie verder aan dat ze mogelijk het een en ander gaat uitproberen, zoals ze vrijdag aanvalster Lineth Beerensteyn al even als rechtsback aan het werk zette. ,,We zitten in een fase dat we wat dingen uit kunnen proberen”, stelde Wiegman.</p><p>,,We willen winnen, maar ons ook door ontwikkelen, al zullen we niet het hele team omgooien”, besloot de bondscoach, die zich in een poule met verder ook nog Slovenië, Rusland en Kosovo niet veel zorgen lijkt te hoeven maken over kwalificatie voor het EK van 2021 in Engeland. Eerst wachten volgend jaar nog de Olympische Spelen in Tokio.</p>

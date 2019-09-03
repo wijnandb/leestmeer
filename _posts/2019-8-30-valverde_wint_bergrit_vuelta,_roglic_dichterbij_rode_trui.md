@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Valverde wint bergrit Vuelta, Roglic dichterbij rode trui"
+date: Fri, 30 Aug 2019 17:16:17 +0200
+categories: 
+- sport 
+- wielrennen 
+externe_link: "https://www.telegraaf.nl/sport/1336910919/valverde-wint-bergrit-vuelta-roglic-dichterbij-rode-trui"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3e87adda-cb46-11e9-9a41-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Na een spectaculaire slotklim bij de zevende etappe in de Ronde van Spanje kwam Alejandro Valverde als eerste over de streep. Dylan Teuns is de rode leiderstrui kwijt en moet die overgeven aan Miguel Angel López, die slechts zes tellen voorsprong heeft op Primoz Roglic.</p> <p>Het begin van de etappe kende weinig spektakel, het venijn zat immers in de staart met een finish bergop. De slotklim naar Mas de la Costa was niet lang, slechts 4,1 kilometer, maar de coureurs kregen wel te maken met een stijgingspercentage die zelden onder de 10% kwam en halverwege kregen ze zelfs een stuk van 25% voor de kiezen.</p><p>Nog voordat de slotklim begon had rodetruidrager Dylan Teuns het erg zwaar. Movistar reed vooraan in het peloton tijdens de beklimming van de Puerto del Salto del Caballo. De Spaanse wielerploeg hield een rap tempo aan, eentje die de Belgische klassementsleider te veel werd. Ook de nummer twee in het klassement, David de la Cruz, moest lossen.</p><p>De kopgroep die eerder was ontsnapt hield lang stand, maar uiteindelijk - aan het begin van de slotklim - reed het aanstormende peloton voorbij aan het duo (Philippe Gilbert en Sergio Henao).</p><p>Nairo Quintana - een van de favorieten voor de eindzege in Spanje - opende de aanval. De grote klassementsrenners (Roglic, Valverde en López) konden bij de eerste aanval echter goed bijblijven. Ook bij de tweede en derde keer dat de kleine Colombiaan op de pedalen ging staan kon hij geen gat slaan.</p><p>Het viertal reed tot aan de finish gebroederlijk naar de top, waar Valverde zijn concurrenten in een eindsprint klopte. Roglic volgde op de voet, terwijl Quintana en López enkele meters en seconden moesten toegeven op de 39-jarige Spanjaard en de Sloveense kopman van Jumbo-Visma.</p><p>De kopman van Astana heeft na de zevende etappe de rode trui weer in zijn bezit. Het verschil in de top van het klassement is minimaal. Roglic staat zes tellen achter op López, Valverde moet na de dagzege nog zestien seconden toegeven op de klassementsleider. Quintana staat vierde, op 27 seconden achterstand op zijn landgenoot.</p>

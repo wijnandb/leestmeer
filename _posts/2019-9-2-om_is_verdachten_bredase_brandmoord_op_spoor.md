@@ -1,0 +1,10 @@
+---
+layout: post
+title: "OM is verdachten Bredase brandmoord op spoor"
+date: Mon, 02 Sep 2019 11:03:32 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/1038402174/om-is-verdachten-bredase-brandmoord-op-spoor"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f4814bc8-cd62-11e9-92ca-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Justitie is in de zaak van de brandmoord in Breda nog twee verdachten op het spoor. „Het onderzoek biedt zeker perspectief”, zei de officier van justitie maandag in de rechtbank in Breda tijdens een niet-inhoudelijke zitting. Hoofdverdachte Janie H. (51) had zichzelf al gemeld bij de politie, maar beroept zich nog steeds op zijn zwijgrecht.</p> <p>De 49-jarige Ger van Zundert overleed dinsdag 9 april. Onbekenden zouden zich de avond ervoor hebben voorgedaan als klant en Van Zundert hebben vastgebonden. Daarna zou H. hem vanwege een zakelijk conflict hebben overgoten met benzine en aangestoken. Hij bezweek de volgende ochtend aan zijn verwondingen.</p><p>H. was maandag zelf niet in de rechtbank. Hij heeft niet verteld wie de twee onbekenden zijn. Volgens de officier van justitie zit het onderzoek naar hen echter „zeker niet op een dood spoor.”</p><p>Blikje bier</p><p>Justitie kwam op de zitting ook nog met nieuw bewijsmateriaal. Het gaat om DNA-sporen op een blikje bier en een sigaret in de garagebox waar Van Zundert in brand was gestoken. Bovendien zou er bewijs zijn dat H. met de auto van het slachtoffer naar Rotterdam is gereden. Dat was nog voor hij zichzelf - nog altijd in diezelfde auto - bij de politie meldde op de dag van Van Zunderts overlijden.</p><p>De inhoudelijke behandeling van de zaak zal nog maanden op zich laten wachten. Dat komt onder meer omdat H. moet worden geobserveerd bij het Pieter Baan Centrum. Daar is nu een wachttijd van tussen de vier en vijf maanden. Zijn raadsman zei dat H. ’psychisch instabiel is’. Dat zou ook de reden zijn voor zijn zwijgen. Tijdens een vorige zitting zei H. dat hij op termijn wel wil verklaren.</p><p>De volgende zitting is op 28 november.</p>

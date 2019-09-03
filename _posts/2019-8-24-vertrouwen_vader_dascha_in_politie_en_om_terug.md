@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Vertrouwen vader Dascha in politie en OM terug"
+date: Sat, 24 Aug 2019 23:56:00 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/426244777/vertrouwen-vader-dascha-in-politie-en-om-terug"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f778bed8-c6b9-11e9-bf11-0255c322e81b.jpg"
+---
+
+<p class="intro">René Graafsma heeft weer vertrouwen in de samenwerking met politie en justitie in het onderzoek naar de doodsoorzaak van zijn dochter Dascha. Het 16-jarige meisje overleed in november 2015 toen zij tussen Hilversum en Hollandsche Rading onder een trein terechtkwam.</p> <p>Graafsma doet al lange tijd zelf ook onderzoek naar de gebeurtenissen. Volgens hem blijkt uit onderzoek van het particuliere onderzoeksteam van de familie dat hij niet alle camerabeelden heeft ingezien rond de plek waar zijn dochter overleed, terwijl hij hier wel om verzocht heeft. De politie zegt dat hij wel alle camerabeelden heeft bekeken. Graafsma zegde het vertrouwen op omdat er volgens hem in het nieuwe onderzoek opnieuw fouten zijn gemaakt.</p><p>Graafsma zat zaterdag een groot deel van de dag op het politiebureau in Hilversum in een poging een gesprek af te dwingen. Vorig jaar zat hij uit protest ook al een aantal dagen op het politiebureau omdat hij de laatste camerabeelden van zijn dochter in handen wilde krijgen. Hij mocht daarna toch de beelden bekijken, maar mocht er niet over beschikken. Nu is afgesproken dat Graafsma de beelden binnenkort nog een keer mag zien.</p><p>Het Openbaar Ministerie in Utrecht besloot eerder deze maand een tweede forensisch onderzoek in te stellen naar aanleiding van het particuliere onderzoek van Graafsma naar haar dood. Het OM constateerde eerder dat het meisje vermoedelijk zelfmoord heeft gepleegd. De familie geloofde dat niet en verweet politie en OM dat ze het onderzoek niet goed hadden uitgevoerd. Bij de second opinion wordt gekeken naar de wijze waarop ze om het leven is gekomen. De discussie over de camerabeelden speelt hierbij volgens het OM geen rol.</p>

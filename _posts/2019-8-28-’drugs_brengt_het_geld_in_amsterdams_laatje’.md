@@ -1,0 +1,10 @@
+---
+layout: post
+title: "’Drugs brengt het geld in Amsterdams laatje’"
+date: Wed, 28 Aug 2019 15:30:00 +0200
+category: overig
+externe_link: "https://www.telegraaf.nl/watuzegt/503543114/drugs-brengt-het-geld-in-amsterdams-laatje"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c1e7cd5c-c990-11e9-a6c6-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Als ex-hasjsmokkelaar die 40 jaar geleden in Zweden met 4 kilo hasj werd gepakt en daarna tot inkeer kwam, wil ik het volgende graag even kwijt met betrekking tot het schokkende artikel over de Gouden Eeuw van de Amsterdamse Drugspenoze, schrijft Paul Rood.</p> <p>Met leden ogen heb ik het verval van Amsterdam met betrekking tot drugsgebruik en drugshandel gadegeslagen. Je hoeft geen ex-smokkelaar te zijn om te zien hoeveel geld de drugshandel in het Amsterdamse laatje brengt. Goedkope vluchten brengen jaarlijks miljoenen drugstoeristen naar Amsterdam.</p><p>De horeca, de hotels, de supermarkten, iedereen verdient eraan. De gemeenteraad van Amsterdam, inclusief de wethouder en burgemeester doen niets om het probleem aan te pakken. Integendeel, ieder jaar worden er meer dansfeesten georganiseerd waar de jeugd aan de drugs wordt geholpen als ze het al niet zijn.</p><p>De enige manier om er nog iets aan te doen is goede voorlichting op scholen te geven zodat de kinderen weten wat de gevolgen zijn. Dat is de enige schakel in de drugsketen waar veel te winnen valt.</p><p>Ik heb niet één antwoord op mijn vele brieven met suggesties voor oplossingen gekregen. Helaas werd er door burgemeester en wethouders, en gemeenteraadsleden waarvan ik dacht dat ze geïnteresseerd zouden zijn in oplossingen, nooit thuis gegeven. Het enige dat wel gedaan wordt, is getest of drugs zuiver zijn of niet.</p><p>Je zou je haast afvragen of het argument van de gemeente: „Handhaven doen we niet want dat is te rechts”, wel het echte argument is en of de definitieve vervlechting van de onder- en de bovenwereld in Amsterdam al niet een voldongen feit is.</p><p>Paul Rood, Amsterdam</p>

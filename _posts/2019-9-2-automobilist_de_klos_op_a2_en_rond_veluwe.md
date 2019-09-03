@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Automobilist de klos op A2 en rond Veluwe"
+date: Mon, 02 Sep 2019 09:28:29 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/1872098608/automobilist-de-klos-op-a2-en-rond-veluwe"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/829f466c-cd68-11e9-a65f-0217670beecd.jpg"
+---
+
+<p class="intro">De invoering van de maximumsnelheid van 130 km per uur overdag op de A2 tussen Holendrecht en Maarssen is voorlopig van de baan. Op de Veluwe gaat de snelheid op verschillende trajecten komende maand zelfs omlaag. Minister Cora van Nieuwenhuizen (Infrastructuur) zegt dit besluit te moeten nemen vanwege de veelbesproken PAS-uitspraak.</p> <p>Automobilisten krijgen op vier trajecten rond de Veluwe te maken met beperkingen. Op al deze trajecten gaat de snelheid omlaag naar 120 km per uur. Het gaat om de A1 tussen Barneveld en knooppunt Beekbergen (33 km), de A28 tussen Strand Nulde en Strand Horst (5 km), de A28 tussen Strand Horst en knooppunt Hattemerbroek (39 km) en de A50 tussen knooppunt Beekbergen en Epe (17 km).</p><p>Wens van baan</p><p>Ook de langgekoesterde wens voor harder rijden op de A2 tussen Holendrecht en Maarssen is voorlopig van de baan. Op deze megasnelweg mag in de avond en nacht al op de comfortabele snelheid worden gereden van 130 km per uur. Het was de bedoeling om dit ook overdag toe te staan, maar in de procedures is de zogeheten programmatische aanpak stikstof (PAS) gebruikt. De Raad van State heeft voor de zomer een streep gezet door het gebruik van deze procedure.</p><p>Minister Van Nieuwenhuizen (Infrastructuur) laat weten aan de Tweede Kamer dat de beloofde snelheidsverhoging daarom voorlopig niet door kan gaan. Ook op de Veluwe speelt dit probleem, mede omdat hier beschermde Natura2000-gebieden zijn.</p><p>„Wanneer een snelheidsverhoging op de A2 wel mogelijk zal zijn, is mede afhankelijk van de voortgang op het stikstofdossier en de voorstellen van het adviescollege stikstof”, schrijft Van Nieuwenhuizen aan de Kamer.</p>

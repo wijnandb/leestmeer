@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Jan Modaal aan alle kanten klem"
+date: Thu, 08 Aug 2019 12:01:00 +0200
+categories: 
+- financieel 
+- geld 
+externe_link: "https://www.telegraaf.nl/financieel/471001243/jan-modaal-aan-alle-kanten-klem"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7665ed0c-b9cb-11e9-9cf8-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Deze zomer is het duidelijk geworden: Jan Modaal zit aan alle kanten klem. Werknemers met een middeninkomen hebben per saldo minder geld te besteden. Ook andere problemen treffen de middengroepen.</p> <p>Hieronder een overzicht van de zaken waar werkenden uit de middenklasse, waaronder leraren, politie-agenten, verpleegkundigen en bouwvakkers, mee worstelen.</p><p>Hogere lasten, stagnerende lonen</p><p>Jan Modaal is in vergelijking met tien jaar geleden een veel groter deel van zijn inkomen kwijt aan huur, hypotheek, een internet- en telefoonabonnement, de auto en andere vaste lasten. Daar staat tegenover dat de lonen maar matig stijgen.</p><p>Nadelig overheidsbeleid</p><p>De middenklasse heeft last van het afschaffen van de hypotheekrenteaftrek, de hogere btw en stijgende (energie)belastingen. Daar staat tegenover dat de overheid zelf nauwelijks in het eigen vlees snijdt.</p><p>Eigen woning buiten bereik</p><p>Voor de ruggengraat van onze samenleving raakt een eigen woning in de grote stad elk jaar verder buiten bereik door de fors gestegen prijzen. Het percentage middeninkomens met een eigen huis is in negen jaar tijd gedaald.</p><p>Tussen wal en schip</p><p>De middeninkomens verdienen vaak te weinig om een huis in de grote stad te kunnen kopen. Maar voor een woning in opgeknapte wijken verdienen zij juist weer net te veel.</p><p>Dagje weg fors duurder</p><p>Jan Modaal moet tegenwoordig diep in de buidel tasten voor een bezoekje aan museum, dierentuin of pretpark. Een toegangskaartje is afgelopen vijf jaar gemiddeld 14% duurder geworden.</p><p>Dupe van fiscale stelsel</p><p>Van elke extra euro die mensen met een modaal inkomen verdienen, moeten zij meer dan de helft inleveren door een wirwar van fiscale kortingen en toeslagen. Daardoor kunnen zij zelfs na een salarisverhoging minder geld overhouden.</p><p>Huurverhogingen en nauwelijks spaargeld</p><p>De middenklasse is hard geraakt door de crisis die begon rond 2008 en heeft sindsdien te weinig kunnen sparen. Ook huurverhogingen treffen de middengroepen hard.</p>

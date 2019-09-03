@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Migranten Ocean Viking verdeeld over volgende landen"
+date: Fri, 23 Aug 2019 12:21:52 +0200
+category: buitenland
+externe_link: "https://www.telegraaf.nl/nieuws/142937796/migranten-ocean-viking-verdeeld-over-volgende-landen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/271f4ac4-c595-11e9-b9ef-02c309bc01c1.jpg"
+---
+
+<p class="intro">Voor de 356 migranten op het reddingsschip Ocean Viking is een oplossing gevonden. Zij mogen aan land komen in Malta, waarna ze worden verdeeld over Frankrijk, Duitsland, Ierland, Luxemburg, Portugal en Roemenië, meldde de Maltese premier Joseph Muscat op Twitter.</p> <p>Het schip onder Noorse vlag van reddingsorganisatie SOS Méditerranée en Artsen Zonder Grenzen voer al dagen tussen Italië en Malta, die beide niet bereid waren het te laten ontschepen. De patstelling is doorbroken na overleg met de Europese Commissie, Frankrijk en Duitsland, aldus Muscat.</p><p>De migranten worden buiten de territoriale wateren van Malta overgebracht naar Maltese marineschepen waarna ze vaste grond onder de voeten krijgen. Geen van hen blijft in Malta.</p><p>EU-commissaris Dimitris Avramopoulos (Migratie) is blij dat er een oplossing is en prees Malta voor zijn „solidariteit en Europese benadering.” De Griek gaf ook complimenten aan de zes lidstaten vanwege hun bereidheid een deel van de migranten op te nemen. De Franse minister van Binnenlandse Zaken Christophe Castaner liet weten dat 150 opvarenden de komende dagen worden overgevlogen naar zijn land.</p><p>’Onnodig lijden’</p><p>„Veertien dagen van onnodig lijden”, reageerde SOS Méditerranée. De organisatie wijst erop dat er een voorspelbaar Europees systeem voor ontscheping was beloofd en dat dat er nu echt moet komen.</p><p>Voor de bijna 100 migranten van het schip Open Arms werd eerder deze week een soortgelijke oplossing gevonden. Zij gingen na bijna drie weken op zee aan land op het Italiaanse eiland Lampedusa om te worden overgebracht naar Spanje, Frankrijk, Duitsland, Luxemburg en Portugal.</p>

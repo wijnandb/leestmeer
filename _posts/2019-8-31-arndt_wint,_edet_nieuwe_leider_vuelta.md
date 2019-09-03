@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Arndt wint, Edet nieuwe leider Vuelta"
+date: Sat, 31 Aug 2019 18:19:09 +0200
+categories: 
+- sport 
+- wielrennen 
+externe_link: "https://www.telegraaf.nl/sport/373676258/arndt-wint-edet-nieuwe-leider-vuelta"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2106bb82-cc0b-11e9-92ca-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Nikias Arndt heeft Team Sunweb een etappezege bezorgd in de Ronde van Spanje. De Duitse wielrenner won de sprint van een grote kopgroep voor de Spanjaard Alax Araburu en de Belg Tosh van der Sande.</p> <p>Arndt maakte deel uit van een grote kopgroep van 21 renners met daarin ook Arndts ploeggenoot Martijn Tusveld. Tusveld demarreerde in de slotkilometers, maar hij kwam ten val op een rotonde. In de sprint daarna wachtte Arndt goed en was vervolgens duidelijk de snelste.</p><p>De Franse wielrenner Nicolas Edet neemt de leiderstrui over van de Colombiaan Miguel Ángel López. De renner van Cofidis had ruim zes minuten achterstand op de klimmer van Astana, maar finishte in de kopgroep met ruim negen minuten voorsprong op het peloton.</p><p>’Top vier’</p><p>Edet is niet de enige renner die een sprongetje maakte in het algemeen klassement. Dylan Teuns, die zaterdag het rood verloor aan López, heeft zich weer in de top twee geknokt.</p><p>De verschillen tussen de vier grote favorieten (López, Primoz Roglic, Alejandro Valverde en Nairo Quintana) bleven hetzelfde. Tussen de kopman van Astana en zijn landgenoot Quintana zit 27 seconden, maar de groep staat wel ruim drie minuten achter op Edet.</p><p>Bergetappe</p><p>Zondag staat er een pittige etappe op het programma. De Bergetappe start in Andorra la Vella en eindigt 94.4 kilometer verderop in Alto Els Cortals d’Encamp.</p><p>De renners krijgen vijf Andorrese Pyreneeëncols voor de kiezen. Ongeveer 20 kilometer voor de finish barst de strijd pas echt los en worden de benen optimaal getest. De laatste drie cols van de dag - Alto de la Comella, Alto de Engolasters en Cortals d’Encamp - liggen vlak achter elkaar, met tussendoor vlakke stukken.</p><p>Het verschil zal gemaakt worden bij de laatste klim. Het gemiddelde stijgingspercentage van de uitsmijter is 8,3%, met af en toe stukken die tot 15% oplopen. De renners kunnen overigens met hun krachten smijten, maandag staat er namelijk een rustdag op het programma.</p><p>Bekijk hier het klassement in de Vuelta.</p><p>Bekijk hier het programma van de Vuelta.</p>

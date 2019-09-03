@@ -1,0 +1,10 @@
+---
+layout: post
+title: "’Eerder kinderen lastiggevallen in Assen’"
+date: Sun, 25 Aug 2019 10:13:33 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/1142800575/eerder-kinderen-lastiggevallen-in-assen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d66d6494-c733-11e9-a671-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">De politie onderzoekt of er al eerder meldingen zijn binnengekomen over kinderen die werden lastiggevallen. In de wijk wordt gesproken over eerdere incidenten vorig jaar en in 2016.</p> <p>,,We gaan hier heel serieus naar kijken en moeten dan onderzoeken of er mogelijk een verband is met de man die is overleden", aldus een woordvoerster van de politie.</p><p>De man die zaterdag door geweld om het leven kwam in een speeltuin in de wijk Peelo in Assen, is een 32-jarige man uit Assen. De vijf mannen die wegens het incident zijn aangehouden, zitten nog vast. Het gaat om mannen van 27, 36, 38, 46 en 54 allen ook afkomstig uit de Drentse hoofdstad.</p><p>De man zou zich ongepast hebben gedragen richting een 4-jarig meisje in de speeltuin, waarop een aantal mensen op hem zou zijn afgegaan. Toen is een schermutseling ontstaan, als gevolg waarvan de 32-jarige man uit Assen is komen te overlijden.</p><p>De vijf mannen worden allen verdacht van betrokkenheid bij het overlijden van de man. Zij zijn zaterdag gehoord door de politie in Assen en de verhoren zijn zondag hervat. „Wie wat heeft gedaan, moet hieruit duidelijk worden. Wij nemen hier uitgebreid de tijd voor”, aldus een woordvoerster die niet weet hoe lang de verdachten nog vastzitten.</p><p>Maandag wordt sectie verricht op het lichaam van de overleden man. Mogelijk wordt dan meer bekend over de doodsoorzaak.</p><p>Toen de politie aankwam op plek, de Iemstukken in Assen, is nog geprobeerd de man te reanimeren. Maar dat mocht niet meer baten. De politie heeft veel mensen in de wijk gesproken. Het onderzoek richt zich op twee onderwerpen: het overlijden van het slachtoffer en een mogelijk zedengerelateerd delict.</p>

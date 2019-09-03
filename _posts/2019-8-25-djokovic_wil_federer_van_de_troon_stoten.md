@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Djokovic wil Federer van de troon stoten"
+date: Sun, 25 Aug 2019 10:40:36 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1749499265/djokovic-wil-federer-van-de-troon-stoten"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/805446aa-c719-11e9-aa74-0217670beecd.jpg"
+---
+
+<p class="intro">Novak Djokovic aast op het record van Roger Federer.</p> <p>De 38-jarige Zwitser heeft twintig grandslamtitels in bezit en mag zich daarmee de meest succesvolle tennisser ooit op de vier grote toernooien noemen. Djokovic komt echter rap dichterbij, want de 32-jarige Serviër won vier van de laatste vijf grandslamtoernooien. Hij staat nu op zestien titels.</p><p>„Het is zeker één van mijn doelen om dat record over te nemen”, zei Djokovic aan de vooravond van de US Open, het Amerikaanse grand slam dat hij vorig jaar won. „In deze fase van mijn carrière draait alles min of meer om de grand slams. Die zijn het belangrijkste.”</p><p>De nummer 1 van de wereld won vorig jaar Wimbledon en de US Open, dit jaar was hij al de beste op de Australian Open en wederom op Wimbledon. Op het Londense gras rekende Djokovic in een heroïsche finale af met Federer. „Roger inspireert mensen door ook op zijn leeftijd nog steeds door te gaan”, zei de Serviër toen bij de huldiging. „Ik ben er daar één van.”</p><p>Djokovic is zes jaar jonger dan Federer en heeft, mits hij fit blijft, dus nog wel even om het record aan te vallen. De titelverdediger moest zaterdag wel de training op Flushing Meadows staken. Blaren bleken de oorzaak. „Iedereen heeft daar last van, zo erg is het niet. Het is geen reden voor zorgen”, zei Djokovic, die na Wimbledon alleen meedeed aan het masterstoernooi van Cincinnati. Hij moest daar in de halve finales buigen voor Daniil Medvedev, de man in vorm. De Rus haalde op de drie hardcourttoernooien die hij speelde in de aanloop naar de US Open steeds de finale. Djokovic en Medvedev kunnen elkaar weer tegenkomen in de kwartfinales in New York.</p>

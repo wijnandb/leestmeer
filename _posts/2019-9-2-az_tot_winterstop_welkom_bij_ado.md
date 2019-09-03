@@ -1,0 +1,10 @@
+---
+layout: post
+title: "AZ tot winterstop welkom bij ADO"
+date: Mon, 02 Sep 2019 16:20:17 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1317534704/az-tot-winterstop-welkom-bij-ado"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/054518c0-cd97-11e9-b7bf-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">AZ mag tot de winterstop alle thuiswedstrijden in de eredivisie in het stadion van ADO Den Haag spelen. Burgemeester Pauline Krikke heeft dat toegezegd aan de Alkmaarse club, die vanwege het ingestorte dak voorlopig niet in het eigen stadion kan spelen.</p> <p>Krikke maakte alleen een uitzondering voor de wedstrijd van AZ tegen Ajax op 15 december. „Dat is uit oogpunt van openbare orde en veiligheid een niet aanvaardbaar risico”, laat ze weten. De burgemeester wil geen supporters van Ajax in Den Haag uit vrees voor een confrontatie tussen de harde kernen van ADO en Ajax. Fans van Ajax zijn al jaren niet welkom bij de uitwedstrijden tegen ADO.</p><p>AZ speelde dit seizoen al de thuiswedstrijden tegen FC Marioepol (voorronde Europa League) en FC Groningen (eredivisie) in het Cars Jeans Stadion in Den Haag. „Die zijn uitstekend verlopen en dus helpen we AZ graag uit de brand”, aldus Krikke.</p><p>Den Haag toonde zich al eerder redder in de nood voor AZ, want de Alkmaarders mogen ook hun thuiswedstrijden in de groepsfase van de Europa League in het stadion van ADO afwerken. „We zijn blij dat we tot aan de winterstop de mogelijkheid hebben om onze thuisduels in Den Haag te spelen”, reageerde algemeen directeur Robert Eenhoorn van AZ. „De samenwerking met ADO is tot nu toe meer dan uitstekend bevallen.”</p><p>De speelschema’s van AZ en ADO bijten elkaar niet, hoewel er in een aantal weekeinden twee keer zal worden gespeeld in het Cars Jeans Stadion. „Fijn dat ADO Den Haag zich flexibel opstelt. Ik realiseer me dat dit een extra belasting is voor de politie en natuurlijk ook voor de stadionorganisatie. Mooi dat ze daartoe bereid zijn”, aldus Krikke.</p>

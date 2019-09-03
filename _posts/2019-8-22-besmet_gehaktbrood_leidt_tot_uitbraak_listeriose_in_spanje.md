@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Besmet gehaktbrood leidt tot uitbraak listeriose in Spanje"
+date: Thu, 22 Aug 2019 20:17:43 +0200
+category: buitenland
+externe_link: "https://www.telegraaf.nl/nieuws/213611912/besmet-gehaktbrood-leidt-tot-uitbraak-listeriose-in-spanje"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/22868f40-c509-11e9-b75d-0218eaf05005.jpg"
+---
+
+<p class="intro">Een uitbraak van listeriose door besmet vlees in het zuiden van Spanje zorgt voor een golf zieken in de regio. Er zijn 150 besmettingen en 529 mogelijk ziektegevallen die nog wachten op een officiële diagnose. Eén 90-jarige vrouw is overleden aan de gevolgen van de bacteriële infectie.</p> <p>Listeriose ontstaat na besmetting met de listeria-bacterie. Die zit meestal in voedsel maar kan ook in dieren, in de grond, in water of op groenten zitten. De uitbraak in Andalusië is het gevolg van besmet gehakt dat verwerkt was tot gehaktbrood. Het werd verkocht onder de merknaam La Mechá door een bedrijf in Sevilla. Omdat er mogelijk ook toeristen zijn die besmette producten hebben gegeten, waarschuwt Spanje ook in het buitenland voor de gevolgen van de uitbraak.</p><p>Bij gezonde personen verloopt listeriose vaak zonder symptomen of hooguit met milde griepverschijnselen. Maar bij kinderen, ouderen of mensen met een verzwakt immuunsysteem kan de infectie bloedvergiftiging of hersenvliesontsteking veroorzaken. Bij zwangere vrouwen vormt de bacterie een bedreiging voor het ongeboren kind.</p><p>In Spanje zijn er 53 mensen opgenomen in het ziekenhuis vanwege de bacteriële infectie, onder wie 23 zwangere vrouwen. Drie liggen er op de intensive care.</p><p>Een week geleden haalde de Andalusische overheid producten met gehakt van La Mecha terug; pas sinds woensdag worden álle producten van de fabriek uit de winkels geweerd. Dat dit pas na vijf dagen gebeurde, kwam de regering op kritiek te staan: „Het zou beter zijn geweest als alle producten meteen waren teruggetrokken”, zegt José Juan Rodríguez, professor voedingsleer aan de Universiteit van Barcelona.</p>

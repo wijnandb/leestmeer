@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Stam: ’Natuurlijk zijn we nog op zoek’"
+date: Mon, 02 Sep 2019 09:53:16 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/2034220716/stam-natuurlijk-zijn-we-nog-op-zoek"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b8d9523e-cd56-11e9-92ca-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Feyenoord heeft de gewenste defensieve versterking Marcos Senesi binnen. De Argentijnse aankoop, die meer dan zes miljoen euro kost, is gisteravond laat in Nederland geland voor de medische keuring, afronding van zijn transfer en presentatie vandaag.</p> <p>Feyenoord-trainer Jaap Stam is blij met de komst van de Argentijn. „Senesi is een speler die de selectie gaat versterken. Het is een linkspoot, een jongen die fysiek sterk is, die goed kan voetballen en gewend is om in de Argentijnse competitie te spelen en het daar goed heeft gedaan. Uiteindelijk wordt hij een van de spelers. Als hij hier is, zal hij ook moeten wennen, zal hij zich waar moeten maken en moeten wachten op zijn kans.”</p><p>Het is opvallend dat Feyenoord de defensie versterkt, omdat de grootste problemen voorin lijken te liggen. „Ik vind zeer zeker, dat het goed is om een verdediger erbij te halen. Achterin moet je ook concurrentie hebben”, aldus Stam.</p><p>,,Maar ik vind ook, dat we nog moeten kijken naar een spits. Natuurlijk zijn we nog op zoek. Op zo’n laatste dag ben je altijd aan het kijken of we nog iets kunnen doen. Maar de vraag is wat mogelijk is.”</p><p>Senesi speelde zaterdagavond zijn laatste wedstrijd voor San Lorenzo (2-1 winst) en nam na afloop huilend afscheid van vele supporters, ploeggenoten en personeel van de club waar hij uitgroeide tot een international.</p><p>De 22-jarige Senesi wordt beschouwd als een van de meest talentvolle verdedigers van een nieuwe generatie Argentijnse spelers. Hij is al geselecteerd voor het nationale team en heeft een dubbel paspoort. Hij bezit van zijn vaders kant ook de Italiaanse nationaliteit, waardoor een werkvergunning in Nederland geen probleem is.</p>

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Voetbaliconen geloven in De Ligt en De Jong"
+date: Mon, 02 Sep 2019 19:48:28 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/985189635/voetbaliconen-geloven-in-de-ligt-en-de-jong"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/fcd91f04-cdc0-11e9-b62f-0217670beecd.jpg"
+---
+
+<p class="intro">De ene na de andere prominent uit de voetballerij arriveerde maandagavond in Hilversum bij het Voetballer van het Jaar Gala, waar de prijzen worden uitgereikt aan de beste spelers van het afgelopen Eredivisie-seizoen.</p> <p>De 20-jarige Matthijs de Ligt krijgt de Gouden Schoen uitgereikt. Frenkie de Jong (22) is het talent van het jaar. Het tweetal verkaste in de zomer naar respectievelijk Juventus en FC Barcelona . Het prille begin voor de twee toptalenten verloopt nog niet helemaal zoals gewenst.</p><p>Maar volgens Rafael van der Vaart hoeft niemand zich zorgen te maken over de twee Nederlanders. „Deze gasten zijn mentaal zo verschrikkelijk sterk, die komen er wel bovenop”, verzekerde de voormalig Ajacied. „Of ik op die leeftijd al zo ver was als Matthijs de Ligt. Qua volwassenheid niet, maar dat ben ik nu nog steeds niet”, zei Van der Vaart lachend.</p><p>Ook Robin van Persie weet zeker dat het helemaal goed komt met de voormalig Ajacieden. De Ligt ging tijdens de 4-3 zege van Juventus op Napoli een paar keer in de fout bij zijn debuut in de Serie A. „Maar wie maakt geen fouten? Ik had het fysiek en mentaal in het begin ook moeilijk. Het is toch een paar niveautjes hoger. Je moet een maand of zes, zeven de tijd krijgen.”</p><p>Ook Louis van Gaal is erbij in Hilversum. De voormalig coach van onder meer Ajax en het Nederlands elftal snapt wel dat De Ligt stroef is begonnen in Italië. „Je moet wennen aan de structuur van het land, aan de andere afspraken dan bij Ajax en aan de grote druk die er is. Je pikt het misschien snel op, maar het is anders dan bij Ajax, waar het systeem vanaf de jeugd al hetzelfde is.”</p>

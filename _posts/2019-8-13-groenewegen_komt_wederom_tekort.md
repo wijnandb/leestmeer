@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Groenewegen komt wederom tekort"
+date: Tue, 13 Aug 2019 16:37:07 +0200
+categories: 
+- sport 
+- wielrennen 
+externe_link: "https://www.telegraaf.nl/sport/2115036353/groenewegen-komt-wederom-tekort"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/364b1320-bde8-11e9-9490-0218eaf05005.jpg"
+---
+
+<p class="intro">De rode loper werd dinsdag tijdens de massasprint van de tweede etappe van de BinckBank Tour uitgerold voor Dylan Groenewegen, maar de sprinter van Jumbo-Visma kon zijn goede uitgangspositie niet verzilveren. Hij werd derde. De dagzege ging opnieuw naar Sam Bennett.</p> <p>Groenewegen werd door teamgenoot Mike Teunissen in de laatste honderden meters perfect afgezet aan de kop van het peloton, maar toen de rappe mannen uit het zadel kwamen om hun laatste versnelling te plaatsen, kon de Amsterdamse spurtbom simpelweg niet volgen. Van dichtbij zag hij hoe Bennett de Belg Jasper Philipsen nog net voor de streep passeerde.</p><p>Groenewegen kwam er maandag in de openingsetappe ook niet aan te pas. In Hulst bolde hij als zevende over de finishstreep.</p><p>De tweede etappe leidde het peloton dinsdag over 169 kilometer van Blankenberge naar Ardooie. Zes man reden lange tijd op kop en bouwden een voorsprong tot tweeënhalve minuut op. Op circa 10 kilometer van de meet pakte het peloton de vluchters echter terug, waarna de teams hun sprinters in stelling brachten.</p><p>„Er waren vandaag twee man sneller, daar moeten we eerlijk in zijn”, zei ploegleider Jan Boven van Jumbo-Visma. „We zaten in een ideale positie om te sprinten. Mike ging de sprint ook prima aan. De ploeg heeft goed werk geleverd door de etappe te controleren en de jongens goed af te zetten. We zaten de hele dag waar we moesten zitten en zijn niet in de problemen geraakt. Jammer genoeg zijn we met Maarten Wynants een belangrijke pion kwijtgeraakt.”</p><p>Halverwege de koers vielen Chris Lawless en Maarten Wynants uit. De Belg Wynants, die rijdt voor Jumbo-Visma, heeft volgens zijn team een schouder uit de kom. Hij wordt daarvoor in het ziekenhuis behandeld.</p><p>In het algemeen klassement heeft Bennett een voorsprong van twaalf seconden op Lukasz Wisniowski van Team CCC. Groenewegen staat achtste. Hij heeft een achterstand van zestien seconden.</p><p>Woensdag wacht een rit van 166,9 kilometer met start en finish in Aalter. Opnieuw lijkt een massasprint de meeste aannemelijke afloop.</p>

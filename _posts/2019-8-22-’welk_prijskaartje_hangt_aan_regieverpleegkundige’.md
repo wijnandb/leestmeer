@@ -1,0 +1,10 @@
+---
+layout: post
+title: "’Welk prijskaartje hangt aan regieverpleegkundige?’"
+date: Thu, 22 Aug 2019 14:00:00 +0200
+category: overig
+externe_link: "https://www.telegraaf.nl/watuzegt/1248997331/welk-prijskaartje-hangt-aan-regieverpleegkundige"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/55d5aefa-c4cb-11e9-9726-0217670beecd.jpg"
+---
+
+<p class="intro">Minister Bruins was bij Jinek om uitleg te geven over de invulling van de nieuwe BIG-wet voor verpleegkundigen. René Hallie vond het allemaal erg onduidelijk. „Het lijkt erop dat de minister zelf niet weet waar het om gaat.”</p> <p>Volgens de minister is het ineens niet meer nodig dat verpleegkundigen op mbo-niveau terug de schoolbanken in moeten om regieverpleegkundige te worden, een functie die alleen voor hbo-verpleegkundigen bestemd is. Volgens de minister kan iedere verpleegkundige gewoon zijn werk blijven doen zoals men gewend was, maar wordt de mogelijkheid geboden om de opleiding regieverpleegkundige te gaan doen.</p><p>Allemaal erg onduidelijk, het lijkt erop dat de minister zelf niet weet waar het om gaat en hoe het op dit moment allemaal is geregeld. Je zou toch denken dat er aan de functie regieverpleegkundige een prijskaartje hangt dat de zorg weer onnodig duurder maakt. Dan vraagt men zich af wat er eigenlijk geregisseerd moet worden? Is dat de slechte film waarin je terecht bent gekomen als je tegenwoordig in de zorg werkt?</p><p>Het lijkt erop dat men een poging wil doen om het niveau hbo-verpleegkundige op te schroeven, maar deze opleiding is helaas zeer theoretisch van aard en gaat over zaken als statistieken en strategische kansberekeningen en dergelijke, allemaal saaie managementonderwerpen.</p><p>Het is bekend dat hbo-verpleegkundigen totaal niet handelsbekwaam zijn, dat zijn mbo-verpleegkundigen wel en deze hebben vaak een lange staat van dienst in de zorg. Waarom zou je hier iets aan willen veranderen?</p><p>René Hallie, Capelle aan den IJssel</p>

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Stadswandelingen in Amsterdam aan banden"
+date: Fri, 23 Aug 2019 19:05:40 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/455908500/stadswandelingen-in-amsterdam-aan-banden"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2c9f0690-c5d3-11e9-a497-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Rondleidingen in de Amsterdamse binnenstad moeten per 1 april volgend jaar aan veel strengere regels voldoen. Zo stelt het hoofdstedelijke college van burgemeester en wethouders.</p> <p>Voor de Wallen golden sinds dit jaar al restricties, maar die gaan voor het hele Centrum-gebied gelden. De groepen bezoekers zorgen in de Amsterdamse binnenstad voor veel overlast. Veel rondleidingen verplaatsten zich de afgelopen maanden naar het gebied buiten de Wallen, zodat het college van B&amp;W genoodzaakt zegt te zijn om nog strenger te worden.</p><p>Zo moeten er nieuwe vergunningen worden aangevraagd om per 1 april rondleidingen te organiseren in de Amsterdamse binnenstad. Een groep mag maximaal uit 15 personen bestaan. Nu is dat nog twintig. De steegjes op de Wallen met prostitutieramen zijn voortaan verboden terrein voor rondleidingen. Daarnaast zal het niet meer toegestaan zijn om gratis rondleidingen te geven, net als het op straat ronselen van deelnemers aan een rondleiding.</p><p>Ook zal er belasting worden geheven over stadswandelingen. Wie een stadswandeling organiseert zal per deelnemer 1,50 euro belasting moeten afdragen aan de gemeente.</p><p>Kwaliteitskeurmerk</p><p>Rondleiders moeten straks ingeschreven staan bij de Kamer van Koophandel. Verder wordt onderzocht of er een kwaliteitskeurmerk kan worden ingevoerd, zodat alleen aan gekwalificeerde gidsen een ontheffing wordt gegeven.</p><p>De Amsterdamse binnenstad is de laatste jaren overspoeld met toeristen. De groepjes mensen zorgden steeds meer voor overlast. De groepen werden groter en vaak werd er geschreeuwd. Daar werden de afgelopen jaren al regels voor gesteld, net als voor het gebruik van geluidsversterking.</p>

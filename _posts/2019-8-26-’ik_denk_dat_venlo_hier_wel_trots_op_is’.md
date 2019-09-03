@@ -1,0 +1,10 @@
+---
+layout: post
+title: "’Ik denk dat Venlo hier wel trots op is’"
+date: Mon, 26 Aug 2019 09:41:49 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/240765046/ik-denk-dat-venlo-hier-wel-trots-op-is"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f670172c-c7d4-11e9-b921-0218eaf05005.jpg"
+---
+
+<p class="intro">Iedereen ging er eens goed voor zitten in de Galgenwaard. Ook Wesley Sneijder in zijn net aangeschafte skybox en laatste aanwinst Bart Ramselaar op de hoofdtribune. Een overwinning op VVV-Venlo zou FC Utrecht vrijwel zeker de koppositie in de Eredivisie bezorgen. Maar VVV-middenvelder Evert Linthorst had geen zin in een Utrechts feestje en ontpopte zich met twee goals tot grote spelbreker (1-2).</p> <p>Maar VVV-middenvelder Evert Linthorst had geen zin in een Utrechts feestje en ontpopte zich met twee goals tot grote spelbreker (1-2). Het sterke optreden was ook rapporteur Kees Kist niet ontgaan. De voormalig Oranje-international beloonde Linthorst als enige met het cijfer 8 voor zijn sterke optreden in Utrecht.</p><p>In 2017 speelde Linthorst (19) nog in de jeugd van amateurclub Venlosche Boys en nu is hij basiskracht in de Eredivisie en heeft dit seizoen al drie goals achter zijn naam. „Ik kom uit de eigen jeugd, ben geboren en getogen in Venlo en dan is het extra mooi als je dit kunt doen. Ik denk dat Venlo hier wel trots op is”, aldus de zelfverzekerde tiener.</p><p>Linthorst speelde twee jaar in de jeugd van PSV. „Maar omdat ik weinig speelde en niet lekker in mijn vel zat, besloot ik terug te gaan naar VVV. De overschrijving kwam te laat rond, zodat ik een jaar bij amateurclub Venlosche Boys moest spelen. Dat was heel onserieus, niet professioneel, maar wel heel gezellig. Misschien heeft me dat wel heel goed gedaan. Dat jaar ben ik gaan groeien, heb ik een wat mannelijker lichaam gekregen en vanaf toen is het snel gegaan. Ik heb mijn eigen pad gekozen en dat heeft goed uitgepakt.</p>

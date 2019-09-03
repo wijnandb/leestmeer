@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Filmepos Slag om de Schelde grotendeels in Zeeland gedraaid"
+date: Mon, 02 Sep 2019 22:11:24 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/1310008037/filmepos-slag-om-de-schelde-grotendeels-in-zeeland-gedraaid"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2f957ba2-cdbe-11e9-9726-0217670beecd.jpg"
+---
+
+<p class="intro">De opnames van De Slag om de Schelde, een grote nieuwe oorlogsfilm over de strijd die in oktober en november 1944 in Zeeland werd gevoerd, gaan over zes weken van start. Het epische drama wordt grotendeels in Zeeland op locatie gedraaid. De opnames vinden plaats in Vlissingen, Middelburg, Schouwen-Duiveland en op de Schelde.</p> <p>Dat heeft producent Alain de Levita van Levitate Film maandag bekendgemaakt. „Het is heel lastig om een historische film te draaien in Nederland”, legt hij uit. „We hebben alles hier zo aangeharkt en gerenoveerd, er zijn maar weinig plekken te vinden die eruit zien als vroeger. Maar we hebben er heel bewust voor gekozen om zeker dit verhaal voor een substantieel deel echt op locatie in Zeeland te draaien.”</p><p>De opnames vinden plaats tussen oktober en februari. De film moet volgend jaar, 75 jaar na de bevrijding, in de bioscopen te zien zijn. Het budget is vrijwel rond en bedraagt 14 miljoen euro. De film wordt gedraaid door Matthijs van Heijningen jr., die eerder in Hollywood talloze bekroonde commercials en de horrorfilm The Thing maakte.</p><p>Bloedige strijd</p><p>De film volgt drie jongeren tijdens de Slag om de Schelde, die in oktober en november 1944 plaatsvond. De stad Antwerpen was bevrijd, maar het gebied van de Scheldemonding nog niet. In de bloedige strijd kruisen de wegen van een Nederlandse jongen die voor de Duitsers vecht, een Engelse gliderpiloot en een Zeeuws verzetsmeisje elkaar.</p><p>De casting van de internationale productie is in volle gang. De Levita heeft het project ontwikkeld samen met acteur Mark van Eeuwen. Het scenario is geschreven door Paula van der Oest.</p>
