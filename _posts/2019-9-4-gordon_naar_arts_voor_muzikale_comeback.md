@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Gordon naar arts voor muzikale comeback"
+date: Wed, 04 Sep 2019 16:51:20 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/20853846/gordon-naar-arts-voor-muzikale-comeback"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e2db2d30-cf24-11e9-9211-02c309bc01c1.jpg"
+---
+
+<p class="intro">Gordon heeft zijn zinnen gezet op een comeback op het podium en dat pakt hij meteen serieus aan. Woensdag reist hij af naar New York om daar een wereldberoemde KNO-arts te bezoeken.</p> <p>„Als deze arts mij kan bevestigen dat die stem er nog altijd is en niet is beschadigd in de loop der jaren zal ik vechten voor een volledig herstel en terugkeren op het podium, sterker dan ooit!”, schrijft de zanger op Instagram in een lang bericht. Gordon zegt dat hij jaren geleden noodgedwongen afscheid moest nemen van zijn ’grootste talent’. „Door verkeerde medicijnen die bijwerkingen gaven zoals heesheid of stemverlies, maar ook door een ernstig ongeval waar ik een gehoorbeschadiging opliep en heel eerlijk ook door overmatig drank- en drugsmisbruik was mijn stem niet meer zoals ik ooit begon.”</p><p>Maar vriendin Trijntje Oosterhuis wist Gordon moed in te spreken om weer voor de muziek te gaan. Hij wilde namelijk in eerste instantie nooit meer zingen. „Omdat velen grappen maakten over mijn stem waaronder collega’s die zelf met een playbackband het land ingaan en mijn talent in twijfel trokken.” Maar tijdens zijn verblijf in de Zuid-Afrikaanse kliniek heeft Gordon veel over zichzelf geleerd. „Ik ben nu sterk genoeg om al die negatieve commentaren te weerstaan en op zoek te gaan naar dat wat ik het beste kan en dat is zingen.”</p><p>De zanger schreef in de kliniek ’zeven mooie steengoede liedjes waarvan een heet ’De heling’ en zo noem ik dan mijn eventuele comebackalbum volgend jaar’. „Ik zal vechten voor m’n herstel en zoals Trijntje haar jurk weer wilde passen zal ik volledig ’Kon ik maar even bij je zijn’ weer willen zingen in de originele toonhoogte (De hemel staat me bij).”</p>

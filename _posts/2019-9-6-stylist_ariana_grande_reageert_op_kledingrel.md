@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Stylist Ariana Grande reageert op kledingrel"
+date: Fri, 06 Sep 2019 09:26:00 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/157495137/stylist-ariana-grande-reageert-op-kledingrel"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c8b799e0-d06c-11e9-baff-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Law Roach, de stylist die de garderobe van Ariana Grande samenstelde voor haar Sweetener wereldtournee, heeft gereageerd op de commotie die is ontstaan nadat bleek dat hij een ontwerper opdracht zou hebben gegeven een kopie van een oud design te maken. Het betrof hier een outfit van Farrah Moan, een voormalig kandidaat van RuPaul’s Drag Race. Volgens Roach heeft hij niets verkeerds gedaan, meldt Entertainment Tonight.</p> <p>Niet alleen Farrah Moan kwam verhaal halen bij Roach, ook het bekende Instagram account Diet Prada mengde zich in de discussie. De stylist werd door hen beticht van culturele toe-eigening, omdat hij een moodboard met inspiratie kledingstukken had samengesteld die grotendeels door zwarte vrouwen gedragen werden. En dat terwijl Ariana geen zwarte vrouw is.</p><p>Roach liet via Instagram Stories weten: „Ik snap helemaal niets van deze post. Ik heb inderdaad dit moodboard gemaakt, als zwarte man. Dus nu steel ik ineens van mijn eigen cultuur? Ariana vertrouwt mij haar jaren haar imago toe en laat me mijn gang gaan. Dat Rihanna ook op de foto’s ter inspiratie stond is toch niet raar, wie wordt er nou niet door haar geïnspireerd?”</p><p>Roach heeft het moodboard destijds naar verschillende ontwerpers gestuurd om te vragen of zij iets voor Ariana’s tour konden ontwerpen, waaronder de designer die uiteindelijk de outfit van Farrah kopieerde. Maar die treft volgens Farrah geen blaam. „Het is een dragqueen uit de buurt en ze kreeg er een hoop geld voor. Dat aanbod kon ze niet afslaan. Later was ze ook gewoon eerlijk tegen mij. Dus nee, het is niet de schuld van de ontwerper.”</p>

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Vluchter Iturria maakt Basken gek in Vuelta-rit"
+date: Wed, 04 Sep 2019 18:06:02 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/27316028/vluchter-iturria-maakt-basken-gek-in-vuelta-rit"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d0f281ec-cf31-11e9-921d-0217670beecd.jpg"
+---
+
+<p class="intro">De Spaanse wielrenner Mikel Iturria heeft in de elfde etappe van de Ronde van Spanje zijn eerste zege als profwielrenner geboekt.</p> <p>De renner uit de Baskische ploeg Euskadi rondde een solo van 30 kilometer in de rit van Saint Palais naar Urdax-Dantxarinea succesvol af.</p><p>Op zes seconden achterstand eindigde zijn landgenoot Jonathan Lastra als tweede. De renner van Caja Rural won het sprintje van vijf achtervolgers. De Amerikaan Lawson Craddock (Education First) finishte als derde.</p><p>Iturria maakte deel uit van een groep van veertien renners die vroeg in de heuvelachtige etappe over 180 kilometer door het Baskenland op avontuur ging en een grote voorsprong nam op het peloton. In de vluchtgroep veel renners uit de streek, onder wie de 27-jarige Iturria.</p><p>De ruime voorsprong op het peloton - meer dan een kwartier - gaf de renners in de vluchtgroep de gelegenheid voor eigen succes te gaan. Er waren tal van uitbraakpogingen, met name op de drie bergjes van tweede en derde categorie in de route. Iturria waagde het er een kleine 30 kilometer van de finish op en kreeg een gaatje. Vijf renners gingen in de achtervolging en leken hem vlak voor de meet nog bij te halen, maar de Bask liet zich zijn eerste overwinning, nota bene in zijn geboortestreek, niet ontnemen.</p><p>Het peddelende peloton arriveerde op ruim 18 minuten van de winnaar in Urdax. Daarin zaten rodetruidrager Primoz Roglic en al zijn concurrenten. In het algemeen klassement veranderde dan ook niets. De Sloveen van Jumbo-Visma behield zijn marge van 1.52 op de Spaanse wereldkampioen Alejandro Valverde (Movistar).</p><p>De Vuelta vervolgt donderdag met een opnieuw een glooiende rit door het Baskenland. De finish ligt na 171 kilometer in Bilbao.</p>

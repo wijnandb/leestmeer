@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Halsema wil rechtspraak naar buurt halen"
+date: Thu, 05 Sep 2019 20:37:48 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/1344981179/halsema-wil-rechtspraak-naar-buurt-halen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/63607af4-d011-11e9-a956-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">De Amsterdamse burgemeester Femke Halsema werkt eraan om rechtbanken in de buurt op te zetten. Met deze ’buurtgerechten’ wil ze de rechtsstaat naar de wijk halen, zei ze donderdag tegen de gemeenteraad. Het is een van de mogelijke maatregelen om het aantal geweldsincidenten in de hoofdstad aan te pakken.</p> <p>Volgens de burgemeester kunnen buurtbewoners hiermee zien hoe in hun buurt wordt rechtgesproken. „De rechtsstaat is dan om hen heen in plaats van op grote afstand in een groot gebouw waar ze nooit iets van horen.”</p><p>Het idee van buurtgerechten is overgewaaid uit New York. Daar geldt het fenomeen als een groot succesnummer. Halsema is vorig jaar in ’The Big Apple’ geweest om te bekijken hoe het werkt. Eerder al experimenteerde Eindhoven als eerste Nederlandse stad met buurtrechters.</p><p>Als het initiatief er komt, moet Zuidoost het eerste buurtgerecht krijgen.</p><p>Geweld</p><p>De gemeenteraad sprak donderdag over het aantal ernstige geweldsincidenten afgelopen zomer in de stad. Binnen enkele dagen waren er meer dan zeven incidenten met vuurwapens of explosieven, waaronder twee in Zuidoost met een dodelijke afloop.</p><p>Politiechef Frank Paauw erkende dat er de afgelopen drie jaar een forse stijging is geweest van het aantal vuurwapenincidenten, wat hem „grote zorgen” baart. Het gaat volgens Paauw om jonge mannen die elkaar in de drugsmarkt bevechten, maar ook om een ruzie tussen twee rapgroepen die het geweld verheerlijken. „Als er een schietpartij is geweest, kun je er donder op zeggen dat er binnen korte tijd een tweede schietpartij volgt.”</p><p>Maatregelen</p><p>Halsema kondigde aan dat ze in oktober met een „groot aantal maatregelen” komt om de drugscriminaliteit aan te pakken. „We willen in een vroeg stadium ingrijpen bij met name jongeren die dreigen over te stappen van de kleine naar zware criminaliteit”, zei de burgemeester. „Het gaat dan ook om het soort jongeren waar deze zomer geweldsincidenten omheen zaten.” De burgemeester keek voor deze aanpak onder meer naar Glasgow en Palermo, waar dit al gebeurt.</p>

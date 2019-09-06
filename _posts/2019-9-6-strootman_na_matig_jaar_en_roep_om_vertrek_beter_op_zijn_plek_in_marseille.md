@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Strootman na matig jaar en roep om vertrek beter op zijn plek in Marseille"
+date: Fri, 06 Sep 2019 05:45:39 +0200
+category: sport
+externe_link: "https://nos.nl/l/2300525"
+feature_image: "https://nos.nl/data/image/2019/09/06/575264/1008x567.jpg"
+---
+
+<p>"Heel moeizaam, heel matig", begint Wilbert Suvrijn over de telefoon vanuit Frankrijk. De negenvoudig international beoordeelt het jaar van Kevin Strootman bij Olympique Marseille. "Hij is een op-en-top prof, maar zijn prestaties op het veld blijven achter. De vraag is altijd of hij na zijn blessures wel de oude is geworden. Ik weet het niet."</p>
+<p>Toch komt bondscoach Ronald Koeman gewoon uit bij Strootman in zijn selecties voor het Nederlands elftal, ook weer voor de komende wedstrijden tegen Duitsland en Estland. "Kevin is nog steeds een belangrijke pion in de spelersgroep van Oranje", zei Koeman hier vorig jaar over. "Nog steeds is Kevin altijd bezig met de groep en hij toont geen desinteresse als hij geen basisplaats heeft."</p>
+<p>De laatste keer dat Strootman in de basis stond bij Nederland is wel al even geleden: in oktober vorig jaar tegen België (1-1). Daarna hield Koeman hem altijd bij de groep, maar verder dan een korte invalbeurt in het Nations League-duel met Engeland (3-1) kwam hij niet meer.</p>
+<p>Zijn status bij Oranje is al een jaar onveranderd, maar bij Olympique Marseille is zijn situatie er ogenschijnlijk beter op geworden. Daar zag het tot voor kort niet naar uit. Met Rudi Garcia en de voor 25 miljoen euro van AS Roma overgenomen Strootman ging l'OM vorig voor Champions League-voetbal. Het liep anders.</p>
+<p>"De eerste weken na zijn komst kreeg Strootman vrij veel aandacht in de media", aldus Suvrijn. "De verwachtingen waren hooggespannen. Hij kwam met een groot prijskaartje om zijn nek en het meeste salaris, maar hij heeft de verwachtingen niet kunnen waarmaken."</p>
+<p>De nu 56-jarige Suvrijn vertrok in 1989 na jaren gespeeld te hebben bij Fortuna Sittard en Roda JC naar het Franse Montpellier en ging niet meer weg uit Frankrijk. Tegenwoordig is hij jeugdscout voor de Franse club en daarnaast verhuurt hij vakantiewoningen in de regio. "Niet verkeerd", erkent Suvrijn.</p>
+<p>Op televisie en in het stadion van Montpellier (3-0 voor de thuisploeg) zag Suvrijn Marseille meerdere keren aan het werk. "Ze hebben echt heel slechte periodes gehad vorig seizoen. Vergeet niet dat Marseille een mooie club is om voor te spelen, maar geen gemakkelijke club. Als het minder gaat, is de druk van de supporters enorm."</p>
+<p>Misschien ligt het Franse voetbal Strootman ook wel niet, denkt Suvrijn. "Het tempo ligt redelijk hoog met veel snelle, technische spelers. "</p>
+<h2>Van gedwongen vertrek tot nieuwe kans</h2>
+<p>Marseille eindigde op de zesde plaats in de Ligue 1 en greep daarmee zelfs naast deelname aan de Europa League. Strootman begon het seizoen als basisspeler, maar moest na een blessure in februari vechten voor zijn plek en zat tegen het einde van het seizoen regelmatig op de bank.</p>
+<p>De clubleiding was zwaar teleurgesteld in de prestaties van het team en in een persoonlijk gesprek liet clubpresident Jacques-Henri Eyraud in mei van dit jaar weten dat Strootman zonder Champions League te zwaar op de begroting drukte en moest vertrekken. Een harde, maar duidelijke boodschap.</p>
+<p>Een terugkeer naar de Serie A lonkte. AS Roma had interesse en Internazionale werd genoemd, maar tot een transfer kwam het niet. Een terugkeer naar Nederland, naar PSV, zag Strootman zelf nog niet zitten. En zo bleef de middenvelder in Marseille, waar hij nog een lucratief contract heeft tot medio 2023.</p>
+<p>Strootman kreeg de kans om revanche te nemen voor zijn matige eerste jaar. Dat vond de nieuwe trainer André Villas-Boas helemaal niet erg. De Portugees had Strootman al laten weten dat hij hoopte dat de Nederlander zou blijven. Bovendien deed Strootman het goed in de voorbereiding.</p>
+<p>In de eerste competitiewedstrijd, tegen Stade de Reims, kreeg Strootman dan ook een basisplaats. De Ridderkerker stond links op het middenveld in een 4-3-3-formatie naast Morgan Sanson en Luiz Gustavo. Hij kwam in scoringspositie, maar schoot op de lat. Marseille en Strootman begonnen het seizoen in mineur met een 2-0 thuisnederlaag.</p>
+<p>Het leverde Strootman opnieuw kritiek op. "Strootman wordt gênant in Marseille", stelde Habib Beye, analist van de Franse TV-zender Canalplus, na de wedstrijd. "Hij heeft geen snelheid en geen loopvermogen. Dat kan niet meer in het huidige voetbal."</p>
+<p>"In zijn goede tijd voor zijn blessure ging Strootman nog redelijk heen en weer", aldus Suvrijn. "Ik weet niet of hij nog steeds in staat is tot die aanvallende impulsen."</p>
+<p>Voorafgaand aan het tweede duel met FC Nantes was Strootman vanwege enkelklachten een twijfelgeval, maar hij zat wel op de bank. In de 69ste minuut kwam hij in de ploeg voor Morgan Sanson, die zijn positie op links had ingenomen. Op rechts stond Maxime Lopez.</p>
+<p>De volgende wedstrijd tegen OGC Nice kreeg Strootman een startplek in een andere rol: die van controleur. Dat ging ten koste van Luiz Gustavo, die op het punt stond te worden verkocht aan het Turkse Fenerbahçe.</p>
+<p>Marseille won met Strootman als controleur in Nice (1-2) en ook thuis tegen AS Saint-Etienne (1-0). "Kevin was vandaag weer erg goed in deze rol", zei Villas-Boas niet voor niets na afloop van die laatste wedstrijd. Daar kwam bij dat Gustavo tegen het sluiten van de transfermarkt definitief naar Turkije verkaste.</p>
+<p>Het lijkt er sterk op dat Villas-Boas de ideale plek voor Strootman in zijn elftal heeft gevonden. Vandaar ook dat de 44-voudig international met een beter gevoel bij Oranje arriveerde dan drie maanden geleden en dat was aan zijn gezicht af te lezen.</p>
+<p>Meer wedstrijden als controleur bij Marseille lonken dit seizoen voor de 29-jarige Strootman. "Of dit zijn redding is, moet nog blijken", stelt Suvrijn. "Maar het is wel een positieve ontwikkeling. Centraal is een betere positie voor hem. Hij heeft dan iets meer het spel voor zich en kan misschien makkelijker zijn ritme vinden."</p>

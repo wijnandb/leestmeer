@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Zeven Leeuwinnen genomineerd voor wereldelftal"
+date: Wed, 04 Sep 2019 14:40:47 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/719999767/zeven-leeuwinnen-genomineerd-voor-wereldelftal"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/383c9836-cf11-11e9-a85c-0218eaf05005.jpg"
+---
+
+<p class="intro">Zeven voetbalsters van het Nederlands elftal zijn genomineerd voor het wereldelftal van het jaar van de FIFPro, de international vakbond voor voetballers.</p> <p>Het gaat om (keeper) Sari van Veenendaal, Stefanie van der Gragt, Daniëlle van de Donk, Jackie Groenen, Sherida Spitse, Lieke Martens en Vivianne Miedema.</p><p>Oranje bereikte afgelopen zomer de finale van het WK in Frankrijk, waarin het verloor van de Verenigde Staten.</p><p>Maandag 23 september wordt bekend wie in het wereldelftal komt. 55 speelster uit 16 verschillende landen zijn kandidaat. De Amerikanen hebben maar liefst 14 kandidaten.</p><p>Doelvrouwen (5)</p><p>Sarah Bouhaddi (Frankrijk, Olympique Lyonnais)
+Christiane Endler (Chili, Paris Saint-Germain)
+Hedvig Lindahl (Zweden, VfL Wolfsburg/Chelsea)
+Alyssa Naeher (Verenigde Staten, Chicago Red Stars)
+Sari van Veenendaal (Nederland, Atletico)</p><p>Verdedigers (20)</p><p>Millie Bright (Engeland, Chelsea)
+Lucy Bronze (Engeland, Olympique Lyonnais, photo)
+Kadeisha Buchanan (Canada, Olympique Lyonnais)
+Abby Dahlkemper (Verenigde Staten, North Carolina Courage)
+Crystal Dunn (Verenigde Staten, North Carolina Courage)
+Nilla Fischer (Zweden, Linkopings/VfL Wolfsburg)
+Sara Gama (Italië, Juventus)
+Stefanie van der Gragt (Nederland, FC Barcelona)
+Alex Greenwood (Engeland, Olympique Lyonnais)
+Stephanie Houghton (Engeland, Manchester City)
+Ali Krieger (Verenigde Staten, Orlando Pride)
+Saki Kumagai (Japan, Olympique Lyonnais)
+Amel Majri (Frankrijk, Olympique Lyonnais)
+Griedge Mbock (Frankrijk, Olympique Lyonnais
+Maren Mjelde (Noorwegen, Chelsea)
+Kelley O'Hara (Verenigde Staten, Utah Royals)
+Wendie Renard (Frankrijk, Olympique Lyonnais)
+Michelle Romero (Venezuela, Deportivo La Coruna)
+Camila Saez (Chili, Rayo Vallecano)
+Becky Sauerbrunn (Verenigde Staten, Utah Royals)</p><p>Middenvelders (15)</p><p>Andressa Alves (Brazilië, AS Roma)
+Kosovare Asllani (Zweden, CD Tacon/Paris Saint-Germain)
+Sara Daebritz (Duitsland, Paris Saint-Germain)
+Danielle van de Donk (Nederland, Arsenal)
+Julie Ertz (Verenigde Staten, Chicago Red Stars)
+Formiga (Brazilië, Paris Saint-Germain)
+Jackie Groenen (Nederland, Manchester United)
+Amandine Henry (Frankrijk, Olympique Lyonnais)
+Lindsey Horan (Verenigde Staten, Portland Thorns)
+Rose Lavelle (Verenigde Staten, Washington Spirit, photo)
+Carli Lloyd (Verenigde Staten, Sky Blue)
+Dzsenifer Marozsan (Duitsland, Olympique Lyonnais)
+Samantha Mewis (Verenigde Staten, North Carolina Courage)
+Sherida Spitse (Nederland, Valerenga)
+Keira Walsh (Engeland, Manchester City)</p><p>Aanvallers (15)</p><p>Oriana Altuve (Venezuela, Rayo Vallecano)
+Caroline Graham Hansen (Noorwegen, FC Barcelona)
+Pernille Harder (Denemarken, VfL Wolfburg)
+Tobin Heath (Verenigde Staten, Portland Thorns)
+Ada Hegerberg (Noorwegen, Olympique Lyonnais)
+Jennifer Hermoso (Spanje, FC Barcelona)
+Sam Kerr (Australië, Chicago Red Stars)
+Eugenie Le Sommer (Frankrijk, Olympique Lyonnais)
+Lieke Martens (Nederland, FC Barcelona)
+Vivianne Miedema (Nederland, Arsenal, photo)
+Alex Morgan (Verenigde Staten, Orlando Pride)
+Nikita Parris (Engeland, Olympique Lyonnais)
+Megan Rapinoe (Verenigde Staten, Reign FC)
+Marta Vieira da Silva (Brazilië, Orlando Pride)
+Ellen White (Engeland, Manchester City)</p>

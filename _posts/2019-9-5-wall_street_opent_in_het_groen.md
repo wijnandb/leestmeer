@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Wall Street opent in het groen"
+date: Thu, 05 Sep 2019 15:42:58 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/301317486/wall-street-opent-in-het-groen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/633e1578-cfe3-11e9-9f6b-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">De aandelenbeurzen in New York zijn donderdag flink hoger geopend, waarmee werd voortgebouwd op de mooie plussen van een dag eerder. Beleggers op Wall Street reageren positief op het nieuws dat China en de Verenigde Staten in oktober handelsoverleg gaan houden. Daarnaast wordt een behoorlijke hoeveelheid macro-economische cijfers verwerkt, waaronder het banencijfer van loonstrookverwerker ADP.</p> <p>De Dow-Jonesindex noteerde kort na aanvang 1,2 procent hoger op 26.677 punten. De brede S&amp;P 500 klom 1 procent tot 2967 punten en technologiebeurs Nasdaq steeg 1,3 procent tot 8077 punten.</p><p>De Chinese vicepremier Liu He gaat begin volgende maand naar Washington om te praten met de Amerikaanse minister van Financiën Steven Mnuchin. Deze maand worden de gesprekken voorbereid door lagere overheidsmedewerkers van beide kanten. De kansen op een oplossing voor de handelsoorlog tussen beide landen lijken hierdoor toe te nemen.</p><p>Optimisme</p><p>Het optimisme gaf bedrijven die gevoelig zijn voor de handelsspanningen een duwtje in de rug, zoals bijvoorbeeld machinebouwer Caterpillar, vliegtuigfabrikant Boeing en techgigant Apple met plussen tot 2,4 procent. Ook chipfondsen zoals Intel, Advanced Micro Devices (AMD) en Micron Technology kwamen in beweging komen door de gunstige berichten aan het handelsfront met koerswinsten tot 4,7 procent.</p><p>Volgens ADP is de werkgelegenheid in het Amerikaanse bedrijfsleven in juli sterker gegroeid dan een maand eerder. De groei bedroeg 195.000 banen tegen een herziene 142.000 in juli. Economen hadden op een aanwas met 148.000 arbeidsplaatsen gerekend. De cijfers van ADP lopen vooruit op het banenrapport dat de Amerikaanse overheid vrijdag publiceert. In dat rapport worden ook de ontwikkelingen in de publieke sector meegenomen.</p><p>Bij de bedrijven is er aandacht voor chatdienst Slack Technologies die met name populariteit geniet onder zakelijke gebruikers. Slack presenteerde woensdag nabeurs voor het eerst sinds zijn beursdebuut, half juni in New York, zijn resultaten. Daarbij vielen de vooruitzichten slecht bij beleggers. Het aandeel kelderde ruim 15 procent.</p>

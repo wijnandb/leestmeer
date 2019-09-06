@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Cast Anastasia maakt zich op voor eerste voorstelling"
+date: Thu, 05 Sep 2019 15:29:49 +0200
+category: entertainment
+externe_link: "https://www.telegraaf.nl/entertainment/1557866441/cast-anastasia-maakt-zich-op-voor-eerste-voorstelling"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4d8afb3a-cfe1-11e9-859e-0218eaf05005.jpg"
+---
+
+<p class="intro">Na wekenlang repeteren is het donderdagavond dan eindelijk zover: de eerste voorstelling van de Broadway-musical Anastasia in het AFAS Circustheater in Scheveningen. Een spannend moment voor de cast, die reikhalzend naar deze dag heeft uitgekeken.</p> <p>Ook hoofdrolspeelster Tessa Sunniva van Tol leeft al weken toe naar haar debuut als Anya. „Ik heb er zoveel zin in”, vertelde de actrice enthousiast na de start van de repetities aan BuzzE. „De voorstelling heeft zo’n grandeur, de liedjes zijn prachtig en de groep is fantastisch. Ik kan echt niet wachten om dit met het publiek te delen.”</p><p>Met knikkende knieën staat Tessa donderdagavond niet op het toneel. „De meeste stress ervaar ik vooral in de periode ervoor omdat je dan nog niet helemaal weet hoe het eindresultaat eruit gaat zien. Hoe gaan we het allemaal voor elkaar krijgen? Door ervaring weet ik dat als er op het toneel straks toch iets mis zou gaan, je elkaar wel opvangt. Dus de zenuwen vallen daarom mee bij mij.” Wel heeft de actrice zo haar eigen manier om zich voor te bereiden. „Ik ga het toneel niet op voordat ik mijn tanden heb gepoetst.”</p><p>Tsarendochter</p><p>Anastasia, geproduceerd door Stage Entertainment, vertelt het verhaal van de laatste Russische tsarendochter Anya Romanov, die de moord op de tsaar en zijn gezin overleeft. Ze groeit op als wees en gaat op zoek naar haar familiegeschiedenis. Op de hielen gezeten door de meedogenloze Sovjet-officier Gleb (gespeeld door René van Kooten) vlucht Anya naar Parijs en valt ze voor Dmitry (een rol van Milan van Waardenburg).</p><p>De musical volgt The Lion King op in het AFAS Circustheater. Anastasia beleeft op 22 september zijn officiële première.</p>

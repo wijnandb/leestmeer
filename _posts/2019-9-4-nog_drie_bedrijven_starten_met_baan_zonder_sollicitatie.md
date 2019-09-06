@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Nog drie bedrijven starten met baan zonder sollicitatie"
+date: Wed, 04 Sep 2019 17:02:17 +0200
+categories: 
+- financieel 
+- geld 
+externe_link: "https://www.telegraaf.nl/financieel/283613421/nog-drie-bedrijven-starten-met-baan-zonder-sollicitatie"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/03f68eb8-cf2c-11e9-a956-02d2fb1aa1d7.jpg"
+---
+
+<p class="intro">Na babywinkelketen MamaLoes in Goirle en logistiek dienstverlener Chain Logistics in Uden starten nog drie bedrijven met open hiring: het aannemen van personeel zonder elke vorm van sollicitatie.</p> <p>Het gaat om De Koekfabriek in Wageningen, leerlooierij Ecco Leather in Dongen en weg- en waterbouwer Kleywegen in Woerden. Bij deze bedrijven zijn sinds vandaag lijsten aanwezig waarop geïnteresseerden hun naam kunnen achterlaten.</p><p>Bij Ecco Leather hebben de eerste vijf belangstellenden dat al gedaan, meldt Remko van Riel, woordvoerder van de Start Foundation. Deze organisatie introduceerde het Amerikaanse fenomeen in Nederland. Greyston Bakery in New York, een toeleverancier van ijsmerk Ben en Jerry’s, startte al 36 jaar geleden met mensen aannemen zonder sollicitatieproces.</p><p>Namenlijst</p><p>Bij open hiring kunnen werkzoekenden simpelweg hun naam invullen op een lijst: wie aan de beurt is krijgt een baan. Ze hoeven geen brief of cv op te sturen en ook geen sollicitatiegesprekken te voeren. Bij De Koekfabriek kunnen twee werkzoekenden aan de slag in de bakkerij, bij Ecco Leather zijn drie fulltimebanen beschikbaar en bij Kleywegen kan een kandidaat algemeen medewerker worden.</p><p>Het grote voordeel van open hiring is dat ook kandidaten die elders niet zo snel worden uitgenodigd vanwege bijvoorbeeld hun leeftijd of achtergrond zo een kans krijgen op een baan. Bij de Brabantse bedrijven MamaLoes en Chain Logistics is het experiment een groot succes: beide bedrijven hebben wachtlijsten met tientallen werkzoekenden, bleek toen De Telegraaf er deze zomer op bezoek kwam.</p><p>Life coach</p><p>Bij deze bedrijven zorgde de Start Foundation ervoor dat de werknemers en de werkgevers werden begeleid door een life coach, die bijvoorbeeld helpt met persoonlijke problemen of het aanvragen van subsidie.</p><p>De organisatie streeft ernaar dat volgend jaar vijftig bedrijven werven via open hiring. Werkgevers kunnen zich bij de Start Foundation aanmelden.</p>

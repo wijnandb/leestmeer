@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Sport Kort: Argentinië en Chili scoren vooral gele kaarten"
+date: Fri, 06 Sep 2019 07:52:32 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/891289534/sport-kort-argentinie-en-chili-scoren-vooral-gele-kaarten"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7c8d721c-d079-11e9-96b8-02d2fb1aa1d7.png"
+---
+
+<p class="intro">In de rubriek Sport Kort hebben we aandacht voor de overige sportgebeurtenissen. Dagelijks verzamelen we hier het korte nieuws van alle kanten.</p> <p>Honkbal: Honkballers met drie debutanten naar EK</p><p>09.16 uur: De Nederlandse honkballers gaan met drie debutanten in de selectie naar het EK in Duitsland.</p><p>Bondscoach Evert-Jan 't Hoen heeft pitcher Donny Breek (19 jaar), catcher Hendrik Clementina (22) en korte stop John Polonius (28) voor het eerst opgenomen in zijn selectie. Breek en Clementina zijn als prof actief in de Verenigde Staten, bij de organisaties van respectievelijk Minnesota Twins en Cincinnati Reds.</p><p>Polonius, afkomstig van Curaçao, speelde ook jarenlang in de Amerikaanse competitie. Dit seizoen honkbalt hij in Italië. De groep van het zogeheten koninkrijksteam voor het EK telt 24 spelers</p><p>Voetbal: Argentinië en Chili scoren alleen gele kaarten</p><p>07.46 uur: De oefeninterland tussen Argentinië en Chili heeft geen doelpunten opgeleverd. De twee Zuid-Amerikaanse landen hielden elkaar in Los Angeles op 0-0.</p><p>Ajacied Nicolás Tagliafico deed bijna 75 minuten mee bij de Argentijnen. Hij was een van de tien spelers die een gele kaart kreeg in het harde duel, waarin de Argentijn Giovani Lo Celso (Tottenham Hotspur) geblesseerd naar de kant moest na een charge van Charles Aránguiz.</p><p>Twee maanden geleden stonden Argentinië en Chili ook al tegenover elkaar, toen met als inzet het brons op het toernooi om de Copa América. De Argentijnen wonnen de 'troostfinale' met 2-1, maar raakten wel hun aanvoerder Lionel Messi kwijt met een rode kaart.</p>

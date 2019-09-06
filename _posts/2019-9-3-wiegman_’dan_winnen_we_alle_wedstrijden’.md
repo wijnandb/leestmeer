@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Wiegman: ’Dan winnen we alle wedstrijden’"
+date: Tue, 03 Sep 2019 23:01:42 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1237735028/wiegman-dan-winnen-we-alle-wedstrijden"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/154e6958-ce8f-11e9-8ce8-02d1dbdc35d1.jpg"
+---
+
+<p class="intro">Sarina Wiegman verwacht niet dat Oranje deze kwalificatieperiode nog in de problemen gaat komen. Op weg naar het EK van 2021 hebben de Oranje Leeuwinnen na de 3-0 zege op Turkije van dinsdag nu al zes punten uit twee duels gepakt.</p> <p>„Je weet nooit wat er gebeurt en welke spelers beschikbaar zijn in bepaalde periodes, maar als wij ons niveau halen, dan zullen wij alle wedstrijden winnen. Dat is natuurlijk makkelijk gezegd, want je moet er alsnog hard voor werken. Dat hebben we deze periode ook gedaan en dan is dit het resultaat.”</p><p>Het doelsaldo van Oranje is met 10 voor en 0 tegen nu al indrukwekkend te noemen. Vrijdag werd in Tallinn met 7-0 gewonnen van Estland.</p><p>Naast Turkije (62e) en Estland (99e) moet Nederland (3e) op weg naar het EK van 2021 in Engeland, waar het titelverdediger zal zijn, ook zien af te rekenen met Kosovo (126e), Slovenië (51e) en Rusland (25e).</p><p>De Oranje Leeuwinnen stonden op 7 juli nog in de WK-finale, waarin met 2-0 werd verloren van de Verenigde Staten. Wiegman denkt niet dat de lange voetbalzomer zich dit seizoen nog gaat wreken. „De speelsters hebben behoorlijk wat rust gehad, hoor. De meesten hebben drie weken vrij gehad. Als je als topsporter langer vrij bent, raak je ook te veel kwijt. Ik heb op geen enkele manier de indruk gekregen dat de speelsters nog herstellende zijn.”</p><p>Toch is er een maar. „Zo’n groot toernooi heeft veel impact. Niet alleen fysiek, maar ook mentaal. Je moet zo’n WK echt even laten bezinken. Ik heb zelf de indruk dat het goed zit met de spelers. Maar daar moeten we in november ook nog eens naar kijken, want dat is vaak een fase dat ze vermoeid raken.”</p>
