@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Te weinig mankracht voor 112"
+date: Fri, 06 Sep 2019 16:10:00 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/1560973379/te-weinig-mankracht-voor-112"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/09198ffa-d0b0-11e9-a3f1-0217670beecd.jpg"
+---
+
+<p class="intro">Regionale meldkamers die moeten reageren op 112-noodoproepen zijn nog steeds erg kwetsbaar. Er is te weinig personeel, ict is verouderd en medewerkers kunnen elkaars taken niet overnemen in noodgevallen, waardoor het afhandelen van noodmeldingen vertraging kan oplopen. Dat blijkt uit een onderzoek van de inspectie van Justitie en Veiligheid en het Agentschap Telecom (AT).</p> <p>Er zijn in Nederland zestien regionale meldkamers waar de problemen spelen. De inspectie en het agentschap trokken eerder al aan de bel. Zij concludeerden in 2015 al dat de meldkamers en de landelijke meldkamer in Driebergen kwetsbaar waren.</p><p>Vier jaar later heeft alleen de landelijke centrale maatregelen genomen waardoor de situatie is verbeterd, blijkt uit het inspectierapport. Het oordeel over de regionale meldkamers is veel negatiever: zij hebben knelpunten nauwelijks opgepakt en zien de urgentie niet ’om de continuïteit veilig te stellen’.</p><p>De bezetting is een van de pijnpunten. Het lukt zelfs niet altijd om de minimale bezetting te halen, constateren onderzoekers. ,,Als gevolg van de krappe bezetting wordt een enorme wissel getrokken op de aanwezige werknemers, met alle risico’s van dien’’, schrijven ze. Als gevolg daarvan worden taken niet altijd overgenomen als dat nodig is. Dat betekent dat het afhandelen van een noodmelding soms vertraging oploopt, terwijl haast dan juist geboden is.</p><p>Verouderd</p><p>De regio-meldkamers krijgen ook forse kritiek op hun apparatuur. De inspectie en het agentschap oordelen zelfs dat ’de meeste onderzochte meldkamers technisch gezien stilstaan’. ,,Hun ICT is verouderd en innovatie is niet of nauwelijks aan de orde.’’ Onderzoekers adviseren investeringen in personeel en techniek. Ook moet minister Grapperhaus (Justitie en Veiligheid) ervoor zorgen dat meldkamers noodmeldingen van elkaar kunnen overnemen.</p><p>Enkele maanden geleden was er nog een landelijke 112-storing. Dat had echter niet te maken personeelsproblemen. Provider KPN had toen te maken met een storing.</p>
