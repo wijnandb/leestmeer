@@ -1,0 +1,10 @@
+---
+layout: post
+title: "’Politiek proces of niet?’"
+date: Fri, 06 Sep 2019 14:00:00 +0200
+category: overig
+externe_link: "https://www.telegraaf.nl/watuzegt/1138993175/politiek-proces-of-niet"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b2d2ebd2-d082-11e9-9b97-0218eaf05005.jpg"
+---
+
+<p class="intro">Ondanks dat ik mij verre van de standpunten van de PVV en Wilders distantieer heeft de man wel recht op een eerlijk proces, zegt Peter de Quaack.</p> <p>Hoe beroerd dat voor mij en andere mensen ook klinkt. Dat neemt niet weg dat het uiterst merkwaardig is dat de advocaat van Wilders documenten van het OM krijgt waar delen zijn weg gelakt. Wat moet je daar van vinden als onpartijdige burger die slechts de rechtszaak volgt? Als leek en buitenstaander doet het afbreuk aan een eerlijk proces als de rechter wel bepaalde documenten in een strafzaak te zien krijgt en de verdediging niet. Dat kan niet bij een eerlijk proces.</p><p>Ook het plotselinge geheugenverlies van Opstelten en Bolhaar voeden het gevoel bij de bevolking dat er iemand rond de pot draait. Het is geen meineed maar het is de boel verdraaien en daar zijn politici en overheidsmedewerkers briljant in. Geef nu gewoon eens antwoord met ja en nee. De gemiddelde burger komt er bij de rechter ook niet mee weg met misschien, het zou kunnen of ik kan het mij niet meer herinneren.</p><p>De bevolking wil maar één ding en dat is weten of het een politiek proces is of niet. En daar hoort geen gesjoemel bij van het OM, rechters, voormalige ministers en kabinetsleden want mocht het een politiek proces zijn dan maken ze de problemen enkel maar groter en neemt het vertrouwen in de overheid enkel maar verder af.</p><p>Wilders is toch al beschadigd dus kan er gewoon openheid worden gegeven zodat we allemaal weten of we nog in de democratie leven met een onafhankelijke eerlijke rechtspraak of niet. En aan die laatste twee zaken hecht de bevolking meer belang en staat los of ze Wilders wel of niet vervolgen.</p><p>Peter de Quaack, Vlissingen</p>
