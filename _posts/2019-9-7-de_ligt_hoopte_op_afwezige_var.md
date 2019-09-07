@@ -1,0 +1,12 @@
+---
+layout: post
+title: "De Ligt hoopte op afwezige VAR"
+date: Sat, 07 Sep 2019 07:42:09 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/sport/2130534568/de-ligt-hoopte-op-afwezige-var"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bde2d482-d132-11e9-859e-0218eaf05005.jpg"
+---
+
+<p class="intro">Matthijs de Ligt kon het bijna niet geloven toen hij de Portugese scheidsrechter Artur Dias voor een strafschop hoorde fluiten. Natuurlijk kreeg hij de bal na ruim zeventig minuten voetballen in de uitwedstrijd van Oranje tegen Duitsland even op een arm bij een voorsprong van 2-1. Maar dat was toch geen reden voor een penalty?</p> <p>„Ik dacht, wat gebeurt hier”, legde hij uit. „Ik had eigenlijk niet eens door dat ik de bal op een arm kreeg. Ik keek ook de andere kant op. Want ik dacht dat de bal ook al op een arm van een Duitser was gekomen. Dat maakte het helemaal discutabel. Ik schoot de bal de lucht in en wilde verder dribbelen. Want opeens lag die bal weer voor mijn voeten. En toen floot de scheidsrechter dus voor een penalty. Natuurlijk was dit geen strafschop.”</p><p>„Ik kon het echt niet geloven en wilde gerechtigheid”, vertelde de aanvoerder. „Ik dacht, ik vraag om de videoscheidsrechter. Die zal toch ook wel hebben gezien dat het geen strafschop was. Maar die hadden ze dus niet bij deze wedstrijd. En zo maakte Toni Kroos dus de 2-2 vanuit die strafschop.”</p><p>De 20-jarige Ligt dacht even aan het begin van zijn loopbaan, toen in korte tijd ook even alles tegen leek te zitten. Hij blunderde tijdens zijn debuut voor Oranje tegen Bulgarije en ging als verdediger van Ajax ook nog eens flink in de fout in een uitduel met Excelsior. Vorige week mislukte zijn debuut voor Juventus, de club die maar liefst 75 miljoen euro voor hem heeft betaald. De Ligt versloeg met zijn nieuwe club Napoli (4-3) maar zag er bij alle drie de tegentreffers niet goed uit.</p><p>De opluchting bij De Ligt was groot nadat invaller Donyell Malen in zijn eerste interland voor 3-2 zorgde en Georginio Wijnaldum in blessuretijd aan alle onzekerheid een einde maakte (4-2). „Want ik vond dat er maar één ploeg was die het verdiende om te winnen en dat waren wij. Zeker op basis van de tweede helft”, zei hij. „Wij waren de ploeg die speelde om te winnen. We staan er nu goed voor in de EK-kwalificatie. Deze goede uitgangspositie mogen we niet meer uit handen geven.”</p>
