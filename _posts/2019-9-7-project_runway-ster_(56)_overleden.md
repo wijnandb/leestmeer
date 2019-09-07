@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Project Runway-ster (56) overleden"
+date: Sat, 07 Sep 2019 21:00:47 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/entertainment/1370349012/project-runway-ster-56-overleden"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/06667852-d1a2-11e9-acd1-0255c322e81b.png"
+---
+
+<p class="intro">Hij werd bekend door Project Runway, maar genoot ook daarna van een succesvolle carrière waarbij hij Meryl Streep twee keer kleedde, maar ook sterren als Madonna en Beyoncé tot zijn clientèle kon rekenen. Ook had Chris March een eigen serie op de Amerikaanse zender Bravo. Donderdag is hij op 56-jarige leeftijd overleden aan een hartaanval, wist TMZ te melden.</p> <p>De mode-ontwerper stond in het vierde seizoen van Project Runway bekend om zijn altijd goede humeur en kenmerkende diepe lach. Ook bij het publiek van zijn eigen modeserie op Bravo, Mad Fashion, was hij daarom erg geliefd. Hij werd daarin gevolgd als designer voor de A-listers als Beyoncé, Madonna, Lady Gaga, Jennifer Coolidge, Meryl Streep en Prince in het verleden. Voor de serie Real Housewives of New York City koos hij de kostuums voor Sonja Morgan.</p><p>„We zijn diep bedroefd bij het nieuws van het overlijden van Chris March”, laat Bravo nu weten aan Variety. „Hij was een favoriet onder het publiek van Bravo en in de mode-gemeenschap. Onze condoleances gaan uit naar zijn familie en vrienden. Hij zal oprecht worden gemist.”</p><p>De ontwerper is de afgelopen jaren wel vaker in het ziekenhuis opgenomen geweest, nadat hij in 2017 een bijna fatale val maakte, waarbij hij op zijn hoofd terecht kwam. Hij heeft vervolgens vier dagen bewusteloos in zijn appartement gelegen. In het ziekenhuis onderging hij een tracheotomie, waarbij een snede in de luchtpijp wordt gemaakt. Toen hij voor een ventilator zat, kreeg hij echter orgaanfalen en klapten zijn longen in. Hij werd toen in een medische coma gebracht, die twee maanden duurde. Hijzelf schreef daar later over: „Ik was vele malen dicht bij de dood. Ze belden mijn familie om ze te vertellen dat ze direct moesten komen als ze nog afscheid wilden nemen. Op miraculeuze wijze werd ik wakker.” March was toen verlamd in beide benen vanaf zijn knieën en ook zijn rechterarm was verlamd.</p><p>Hij overleed donderdag aan een hartaanval. Ondanks de gezondheidsproblemen waar hij mee kampte, kwam het overlijden voor zowel familie en vrienden als kennissen toch behoorlijk onverwacht, lieten zij weten.</p>
