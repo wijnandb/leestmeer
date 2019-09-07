@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Nederland baalt, wereldleiders wél blij met uitruil gevangenen Oekraïne en Rusland"
+date: Sat, 07 Sep 2019 16:16:17 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/1964853081/nederland-baalt-wereldleiders-wel-blij-met-uitruil-gevangenen-oekraine-en-rusland"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4a9ea558-d17a-11e9-ab85-0255c322e81b.jpg"
+---
+
+<p class="intro">Wereldleiders en andere prominenten reageren positief op de gevangenenruil tussen Rusland en Oekraïne. Beide landen hebben zaterdag 35 gevangenen aan elkaar overgedragen, waaronder de MH17-verdachte Vladimir Tsemach, die aan Rusland is uitgeleverd.</p> <p>De Amerikaanse president Donald Trump sprak in een tweet over „heel goed nieuws” en hoopt dat de ruil een grote stap is richting vrede. Ook feliciteerde hij beide landen. De Duitse bondskanselier Angela Merkel noemde de ruil „een teken van hoop.” Ook gaf ze aan dat het belangrijk is hard te blijven werken om te voldoen aan de voorwaarden van het verdrag van Minsk.</p><p>De Oekraïense president Zelenski had het over een „eerste stap richting vrede in het oosten van Oekraïne.” Daarnaast riep hij de Russische leider Vladimir Poetin op vanaf hier verder te gaan. Poetin zelf heeft nog niet gereageerd op de ruil.</p><p>Europese leiders verheugd</p><p>Donald Tusk, voorzitter van de Europese Raad, is ook blij met de ontwikkelingen. Op Twitter zei hij opgelucht te zijn en gaf aan Rusland te blijven oproepen alle overige politieke gevangenen vrij te laten en de Oekraïense territoriale integriteit te respecteren.</p><p>Liliane Maury Pasquier van de Raad van Europa zei in een statement dat de gevangenenruil „duidt op een teken van goede wil.” Ze moedigt de betrokken partijen aan hun inspanningen voort te zetten.</p><p>Ook Frankrijk hoopt dat er de komende weken meerdere concrete stappen worden gemaakt. De Fransen spelen samen met Duitsland een belangrijke rol in de vredesbesprekingen tussen Rusland en Oekraïne. Pro-Russische separatisten en het Oekraïense leger hebben sinds 2014 een gewapend conflict in het oosten van Oekraïne.</p><p>MH17</p><p>Nederland is niet blij met de gevangenenruil, omdat een van de mannen die van Oekraïne naar Rusland gaat, Vladimir Tsemach, een belangrijke rol had kunnen spelen in het MH17-proces.</p>
