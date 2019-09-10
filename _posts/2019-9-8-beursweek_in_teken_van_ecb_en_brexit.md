@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Beursweek in teken van ECB en brexit"
+date: Sun, 08 Sep 2019 15:34:02 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/338995922/beursweek-in-teken-van-ecb-en-brexit"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9f608df4-d23d-11e9-896b-02c309bc01c1.jpg"
+---
+
+<p class="intro">Beleggers zullen zich de komende week met name richten op het rentebesluit van de Europese Centrale Bank (ECB) op donderdag. Ook zal er weer volop aandacht zijn voor ontwikkelingen rondom de brexit en de handelsoorlog. Verder staat op woensdag het beursdebuut van Prosus in Amsterdam gepland.</p> <p>De algemene verwachting is dat de ECB de rente verlaagt maar met hoeveel is nog de vraag. Mogelijk zal voorzitter Mario Draghi ook een hervatting aankondigen van het opkoopprogramma van staatsobligaties. De herfinancieringsrente staat nu op 0 procent. Dat betekent dat banken gratis geld kunnen lenen bij de ECB. De depositorente staat op min 0,4 procent.</p><p>De afgelopen week kwam er vrijwel dagelijks nieuws over de brexit uit Londen en dat zal komende week wellicht niet anders zijn. Premier Boris Johnson is maandag in Dublin voor overleg. Ook wil hij die dag een nieuw debat over vervroegde verkiezingen.</p><p>Cijfers</p><p>Prosus is van plan woensdag naar de beurs te gaan in Amsterdam. De consumententechnologietak van de Zuid-Afrikaanse techreus Naspers wordt naar verwachting in één klap een van de grootste bedrijven aan het Damrak. Verder openen in Amsterdam enkele kleinere bedrijven de boeken: Ease2pay, Kiadis Pharma en AND International.</p><p>Elders in Europa komen onder meer luxemerk Hermès en Zara-moederbedrijf Inditex met cijfers. In de Verenigde Staten komen chipbedrijf Broadcom, winkelbedrijf Kroger en softwarebedrijf Oracle met resultaten. In de VS wordt ook uitgekeken naar een onthulling van Apple. Naar verwachting worden nieuwe iPhones gepresenteerd.</p><p>Slot vrijdag</p><p>Op het macro-economische vlak komen er onder meer cijfers over handel in Duitsland, Nederland en de eurozone. Ook komen er meerdere publicaties over inflatie en industriële productie in verschillende regio's.</p><p>Vrijdag sloot de AEX-index met een winst van 0,1 procent op 569,84 punten. De MidKap zakte 0,1 procent tot 822,74 punten. De beursgraadmeters in Londen Parijs en Frankfurt wonnen tot 0,5 procent. Wall Street liet evenmin grote bewegingen zien.</p>
