@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Prima start Jong Oranje op weg naar EK"
+date: Tue, 10 Sep 2019 21:09:58 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1363470059/prima-start-jong-oranje-op-weg-naar-ek"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/cd718246-d401-11e9-9b97-0218eaf05005.jpg"
+---
+
+<p class="intro">Jong Oranje heeft de eerste wedstrijd in de kwalificatie voor het Europees kampioenschap voetbal van 2021 gewonnen. Na een vroege achterstand liep het team van bondscoach Erwin van de Looi in stadion De Vijverberg in Doetinchem tegen Jong Cyprus uit naar 5-1.</p> <p>Na het mislopen van het EK deze zomer, wil Jong Oranje er over twee jaar in Hongarije en Slovenië graag weer bij zijn. Met Jong Cyprus trof Nederland een ideale ploeg om tegen te starten. De beginfase verliep echter moeizaam. Na een fout van Justin Hoogma profiteerde Ruel Sotiriou, die de bal na 10 minuten spelen van dichtbij onder doelman Maarten Paes in het doel schoot.</p><p>Teun Koopmeiners benutte na een kwartier spelen een strafschop. Dani de Wit kopte al vallend in de 26e minuut de 2-1 binnen en op aangeven van Deyovaisio Zeefuik zorgde spits Kaj Sierhuis in de 28e minuut voor de 3-1.</p><p>In de tweede helft was het lang wachten op nog een doelpunt. Na een mooie aanval maakte De Wit in de 86e minuut de 4-1. Zeefuik nam de laatste treffer voor zijn rekening.</p><p>AZ hofleverancier</p><p>AZ leverde, naast Koopmeiners en De Wit, liefst vier basisspelers. Ook Calvin Stengs en Owen Wijndal mochten vanaf het begin meedoen. Van de Looi kon niet beschikken over de zieke Cody Gakpo en de geblesseerde Jay-Roy Grot.</p><p>Jong Oranje treft naast Cyprus in groep 7 van het kwalificatietoernooi ook de leeftijdsgenoten van Portugal, Noorwegen, Wit-Rusland en Gibraltar. Alleen de negen groepswinnaars en de beste nummer twee kwalificeren zich rechtstreeks voor het EK. Jong Portugal lijkt voor Nederland de grootste concurrent. Vrijdag 11 oktober treffen Jong Oranje en Jong Portugal elkaar in Doetinchem.</p>

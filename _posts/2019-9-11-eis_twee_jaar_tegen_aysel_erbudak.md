@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Eis twee jaar tegen Aysel Erbudak"
+date: Wed, 11 Sep 2019 08:49:43 +0200
+categories: 
+- entertainment 
+- opinie 
+externe_link: "https://www.telegraaf.nl/nieuws/1796136000/eis-twee-jaar-tegen-aysel-erbudak"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d782e724-d47f-11e9-9211-02c309bc01c1.jpg"
+---
+
+<p class="intro">Het Openbaar Ministerie heeft woensdag voor de rechtbank in Amsterdam twee jaar cel geëist tegen oud-directeur van het Slotervaartziekenhuis Aysel Erbudak.</p> <p>UPDATE 10:35 uur</p><p>Het OM acht bewezen dat Erbudak (52) in 2008 1 miljoen euro heeft weggesluisd, met behulp van valse facturen. Daarnaast zou zij zich in de periode 2011-2014 ten onrechte een bedrag van ongeveer 200.000 euro hebben toegeëigend. Ook dat was geld van het Amsterdamse, in 2018 failliet verklaarde ziekenhuis, stelt justitie.</p><p>Erbudak heeft de beschuldigingen altijd van de hand gewezen en meent dat zij ten onrechte wordt vervolgd. In een uitvoerige verklaring stelde zij eerder deze week dat het ziekenhuis, waarvan zij in 2006 bestuurder werd, door „hebzucht en machtsmisbruik” ten onder is gegaan. Niet zij, maar anderen zijn daarvoor verantwoordelijk, zegt Erbudak. Zij trad in 2006 toe tot het bestuur van het noodlijdende ziekenhuis en stond er tot 2013 aan het roer.</p><p>Een conflict met de raad van commissarissen maakte een einde aan haar bewind. Civiele rechtszaken nadien hebben Erbudak een miljoenenschuld bezorgd. De strafzaak is voortgevloeid uit een onderzoek van de FIOD.</p><p>Justitie tilt er zwaar aan dat Erbudak een ziekenhuis zou hebben benadeeld en daarbij „listig” te werk is gegaan. „Dat maakt de zaak nog kwalijker”, aldus het OM. „Haar eigen financieel gewin stond voorop en dat is onvergeeflijk. De bescherming die de zorgsector verdient, rechtvaardigt een zware straf.” Aan de stelselmatige ontkenning van Erbudak heeft het OM geen boodschap. „Verdachte ontkent tegen de klippen op. Voor alles bedenkt zij een nieuwe of andere verklaring.”</p><p>Erbudaks advocaat Cees Korvinus haalde fel uit naar de officier van justitie, die zich volgens hem niet heeft verdiept in „de materie”, noch in de geschiedenis van het Slotervaartziekenhuis. Erbudak werd na haar aantreden „op handen gedragen”, als directeur van „het eerste geprivatiseerde ziekenhuis van Nederland.” Volgens de raadsman heeft Erbudak zich in die positie nooit geld toegeëigend.</p><p>De rechtbank doet naar verwachting uitspraak op 7 oktober.</p>

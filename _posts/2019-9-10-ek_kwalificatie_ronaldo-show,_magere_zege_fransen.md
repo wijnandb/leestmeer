@@ -1,0 +1,10 @@
+---
+layout: post
+title: "EK kwalificatie: Ronaldo-show, magere zege Fransen"
+date: Tue, 10 Sep 2019 22:40:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1438160815/ek-kwalificatie-ronaldo-show-magere-zege-fransen"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/51ffe696-d412-11e9-b0b0-02c309bc01c1.jpg"
+---
+
+<p class="intro">Portugal heeft een belangrijke zege behaald in het kwalificatietoernooi voor het Europees kampioenschap voetbal van volgend jaar. Aanvoerder Cristiano Ronaldo leidde zijn land met vier treffers langs Litouwen: 1-5.</p> <p>De eerste treffer, uit een strafschop, viel al na 7 minuten. Litouwen maakte via een kopbal van Vytautas Andriuskevicius (oud-speler van SC Cambuur) voor rust gelijk. Ronaldo besliste het duel met treffers in de 62e en 65e minuut.</p><p>Bij het tweede doelpunt ging doelman Ernestas Setkus in de fout. Hij liet de bal los en daarna rolde de bal via de achterkant van zijn hoofd in het doel. De vierde treffer van Ronaldo viel een kwartier voor tijd. Daarna was ook William Carvalho nog trefzeker.</p><p>Portugal heeft in groep B na 4 speelronden 8 punten en staat daarmee tweede. Koploper Oekraïne heeft na 5 duels 13 punten.</p><p>Magere zege Frankrijk, overwinning Turkije</p><p>Frankrijk heeft in de EK-kwalificatie gewonnen van Andorra. De regerend wereldkampioen hoopte op een grote score tegen de huidige nummer 136 van de wereld. Frankrijk scoorde in Parijs echter 'maar' drie keer: 3-0.</p><p>Kingsley Coman scoorde voor rust en Clément Lenglet en Wissam Ben Yedder erna. Antoine Griezmann miste na een half uur spelen een strafschop.</p><p>Turkije won bij Moldavië met 4-0 en blijft met 15 punten uit 6 duels koploper. Frankrijk heeft ook 15 punten, maar staat tweede vanwege het onderlinge resultaat tegen de Turken. In juni verloor Frankrijk met 2-0.</p><p>IJsland verloor de aansluiting met de twee koplopers in groep H door een nederlaag bij Albanië van 4-2. IJsland staat na 6 duels op 12 punten. De nummers 1 en 2 kwalificeren zich voor het EK.</p>

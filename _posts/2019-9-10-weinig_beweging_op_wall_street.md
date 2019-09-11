@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Weinig beweging op Wall Street"
+date: Tue, 10 Sep 2019 22:20:44 +0200
+categories: 
+- financieel 
+- koersen 
+externe_link: "https://www.telegraaf.nl/financieel/1879982998/weinig-beweging-op-wall-street"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8887cf76-d408-11e9-9d4d-0218eaf05005.jpg"
+---
+
+<p class="intro">De aandelenbeurzen in New York zijn dinsdag dicht bij huis gebleven. Beleggers hielden in aanloop naar de vergadering van de Europese Centrale Bank (ECB) op donderdag hun kruit droog. Verder keken ze naar ontwikkelingen op het handelsfront.</p> <p>De toonaangevende Dow-Jonesindex sloot 0,3 procent hoger op 26.909,43 punten. De breder samengestelde S&amp;P 500 ging een fractie omhoog tot 2979,39 punten. Schermenbeurs Nasdaq daalde juist een fractie tot 8084,16 punten.</p><p>Volgens de Amerikaanse minister van Financiën Steven Mnuchin boeken de Verenigde Staten en China vooruitgang in het handelsoverleg. Hij zei ook dat de twee landen elkaar in oktober in Washington weer ontmoeten. Ook reageerden beleggers op het ontslag van veiligheidsadviseur John Bolton door president Donald Trump.</p><p>Nieuwe diensten Apple</p><p>Apple presenteerde een aantal nieuwe of vernieuwde producten en diensten, zoals nieuwe iPhones, gamestreamingdienst Arcade en videostreamingdienst TV+. Het aandeel steeg 1,2 procent. Roku, dat streamingkastjes maakt voor televisiediensten, werd 10,5 procent lager gezet. Netflix en Disney, waarmee Apple de strijd aan gaat op het gebied van videostreaming, leverden beide 2,2 procent in.</p><p>Ook andere techgiganten stonden in de schijnwerpers. Beleggers verwerkten het nieuws dat EU-commissaris voor mededinging Margarethe Vestager bij de Europese Commissie aanblijft in haar functie en zich voortaan nadrukkelijk op digitale zaken richt. Alphabet steeg een fractie, Amazon verloor 0,6X procent.</p><p>Olieprijzen</p><p>Ford Motor zakte 1,3 procent na een afwaardering door kredietbeoordelaar Moody's. Het industriële bedrijf HD Supply verloor 4,2 procent na een tegenvallende omzet. Ook de vooruitzichten voor het lopende kwartaal van het concern waren minder rooskleurig.</p><p>De euro was 1,1041 dollar waard, tegenover 1,1047 dollar eerder op de dag bij het sluiten van de Europese beurzen. De prijs van een vat Amerikaanse olie daalde 0,5 procent tot 57,58 dollar. Brentolie kostte 0,2 procent minder op 62,48 dollar per vat.</p>

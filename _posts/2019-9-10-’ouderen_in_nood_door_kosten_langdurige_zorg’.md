@@ -1,0 +1,12 @@
+---
+layout: post
+title: "’Ouderen in nood door kosten langdurige zorg’"
+date: Tue, 10 Sep 2019 10:37:52 +0200
+categories: 
+- financieel 
+- geld 
+externe_link: "https://www.telegraaf.nl/financieel/1209893916/ouderen-in-nood-door-kosten-langdurige-zorg"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ca1236c8-d3a6-11e9-a3f1-0217670beecd.jpg"
+---
+
+<p class="intro">Ouderen moeten vaak zwaar betalen voor langdurige zorg, blijkt uit onderzoek. Ook ouderen met een klein aanvullend pensioen zijn vaak al meer dan €1000 per maand kwijt aan de eigen bijdrage.</p> <p>Bureau Regioplan deed onderzoek naar de eigen bijdrage die senioren moeten betalen voor zorg vanuit de Wet langdurige zorg (Wlz). Het onderzoek werd gedaan in opdracht van onder andere KBO-PCOB, Nederlands grootste seniorenorganisatie met een kwart miljoen leden.</p><p>De ouderenorganistaties vinden de hoge kosten in veel gevallen ’onrechtvaardig’, laten zij dinsdag weten. De organisaties zeggen signalen te ontvangen dat mensen zorg mijden om kosten te besparen. Daarnaast merken zij dat mensen het financieel „heel zwaar” hebben door de hoge eigen bijdrage.</p><p>Aanvullend pensioen</p><p>Alleenstaande ouderen zonder aanvullend pensioen en vermogen betalen een eigen bijdrage van bijna €730 per maand. Voor alleenstaande senioren met een aanvullend pensioen van €600 per maand zonder vermogen, komt de eigen bijdrage neer op ruim €1050 per maand.</p><p>Als echtgenoten allebei in een zorginstelling verblijven, betalen ze een eigen bijdrage van ongeveer € 870 per maand. Dat heeft grote gevolgen voor hun bestedingsruimte, die dan krap € 600 per maand bedraagt, zeggen de onderzoekers. Mensen die door de verkoop van een huis vermogen hebben, houden volgens het rapport zelfs minder dan € 400 per maand over.</p><p>Bijbetalen voor ommetje</p><p>In de eerste periode met langdurige zorg, vaak in een verpleeghuis, betalen mensen een zogenaamde ‘lage bijdrage’. In veel gevallen gaat men na vier maanden over naar een ‘hoge eigen bijdrage’. Deze hangt af van inkomen en vermogen. De bijdragen lopen snel op terwijl de lasten lang niet altijd afnemen, stellen de organisaties.</p><p>Sommige verpleeginstellingen brengens volgens seniorenorganisaties zelfs extra kosten in rekening voor de was en voor ommetjes in het park of een stuk fruit. „Dit is funest voor de bestedingsruimte van mensen die in die situatie zitten”, aldus de organisaties.</p>
