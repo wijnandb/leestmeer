@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Kamer is klaar met chaos bij CBR: ’Onbestaanbaar’"
+date: Wed, 11 Sep 2019 20:22:53 +0200
+category: binnenland
+externe_link: "https://www.telegraaf.nl/nieuws/241446255/kamer-is-klaar-met-chaos-bij-cbr-onbestaanbaar"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/212e9f02-d4c2-11e9-aeae-02d2fb1aa1d7.jpg"
+aantal: 316
+unieke: 205
+bron: "De Telegraaf"
+---
+
+<p class="intro">De Tweede Kamer is de problemen bij rijbewijzenbureau CBR spuugzat en eist meer snelheid bij het oplossen van de lange wachttijden waar tienduizenden mensen de dupe van zijn.</p> <p>Minister Van Nieuwenhuizen (Infrastructuur) moest dinsdagavond melden dat de vertragingen bij de medische keuring voor aanvragen en verlengen van rijbewijzen nog langer zullen aanhouden. In het slechtste geval zelfs tot halverwege 2021. Woensdagavond spreekt de Kamer over de chaos bij het CBR.</p><p>„Het gaat goed mis. Het rijbewijs is een sleutel tot zelfstandigheid en cruciaal om mee te doen in de samenleving”, zegt CDA-Kamerlid De Pater. „De minister moet vechten om dit eerder te verhelpen.”</p><p>Net als de SP wil de regeringspartij compensatie voor gedupeerden die kosten maken door de chaos bij het CBR. „De problemen worden alleen maar groter”, foetert SP-Kamerlid Laçin. „Wanneer is het klaar met deze ellende?”</p><p>PVV-Kamerlid Van Aalst stelt dat het CBR plannen zou hebben om volgend jaar ook nog eens de tarieven te verhogen: „Dat is onbestaanbaar in deze toestand.”</p><p>Oogje dicht</p><p>Minister Van Nieuwenhuizen komt met een coulanceregeling waarbij ouderen onder voorwaarden nog een jaar met een verlopen rijbewijs mogen doorrijden. Maar haar collega minister Grapperhaus (Justitie en Veiligheid) ziet nog beren op de weg om dat nog voor 1 december voor elkaar te krijgen. Volgens hem zijn er praktische bezwaren voor de politie en de verkeersveiligheid.</p><p>„Dat verontrust alleen maar meer”, oordeelt Kamerlid Van Brenk van ouderenpartij 50Plus. „We zijn er helemaal klaar mee. De stroom van gedupeerde 75-plussers blijft maar toenemen.” VVD-Kamerlid Dijkstra vraagt zich af waarom er niet in het weekend in de nacht wordt doorgewerkt bij het CBR om de problemen sneller op te lossen.</p><p>Andere boeg</p><p>D66-Kamerlid Schonis ziet graag dat het systeem van medische keuringen op de schop gaat: „Waarom moet iemand met één been iedere keer een keuring ondergaan, het worden er niet opeens twee.”</p><p>De problemen bij het CBR duren al maanden. Sinds negen maanden staat de overheidsinstelling onder verscherpt toezicht.</p>
