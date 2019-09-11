@@ -2,7 +2,9 @@
 layout: post
 title: "Maleficent 2 krijgt Europese première in Rome"
 date: Wed, 11 Sep 2019 17:40:25 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/540137680/maleficent-2-krijgt-europese-premiere-in-rome"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8b0911ea-d4aa-11e9-aeae-02d2fb1aa1d7.jpg"
 aantal: 144

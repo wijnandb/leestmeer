@@ -6,7 +6,7 @@ categories:
 - sport 
 - autosport 
 externe_link: "https://www.telegraaf.nl/sport/764751386/nyck-de-vries-kiest-voor-formule-e"
-feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8ca10252-d4a9-11e9-921d-0217670beecd.jpg"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5dbab632-d4ad-11e9-b66a-0218eaf05005.jpg"
 aantal: 256
 unieke: 155
 bron: De Telegraaf

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Euthanasie-Arts voor de rechter: waarom juist deze zaak?"
+title: "Euthanasie-arts voor de rechter: waarom juist deze zaak?"
 date: Tue, 10 Sep 2019 17:10:43 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2301148"

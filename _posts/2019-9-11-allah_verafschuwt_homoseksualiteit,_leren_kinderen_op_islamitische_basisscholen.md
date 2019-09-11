@@ -5,8 +5,8 @@ date: Wed, 11 Sep 2019 16:58:57 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2301278"
 feature_image: "https://nos.nl/data/image/2019/09/11/576583/1008x567.jpg"
-aantal: 516
-unieke: 298
+aantal: 550
+unieke: 314
 bron: NOS
 ---
 
@@ -20,7 +20,8 @@ bron: NOS
 <p>Vervolgens moeten plaatjes van hoe het wel-en-niet hoort worden ophangen in de meisjestoiletten op school, luidt een opdracht in het werkboek. In de nieuwe versie heeft de ISBO besloten deze passage te schrappen.</p>
 <h2>Overspel</h2>
 <p>Ook leren jongens en meisjes dat zij vanaf de pubertijd bij elkaar uit de buurt moeten blijven en zelfs geen oogcontact mogen maken. Oogcontact geldt namelijk als een vorm van "zina" (overspel), aldus het boek, en daarop staat "een grote straf in het hiernamaals".</p>
-<p>De Inspectie van het Onderwijs kan niet zeggen of zij al bekend was met het boek, zegt een woordvoerder, omdat inspecteurs geen overzicht van specifiek lesmateriaal zouden bijhouden. In de passages die door NRC en Nieuwsuur zijn voorgelegd, ziet de inspectie geen aanleiding tot ingrijpen, omdat deze niet in strijd zouden zijn met basiswaarden van de democratische rechtsstaat.</p>
+<p>De Inspectie van het Onderwijs kan niet zeggen of zij al bekend was met het boek, zegt een woordvoerder, omdat inspecteurs geen overzicht van specifiek lesmateriaal zouden bijhouden. In de passages die door NRC en Nieuwsuur zijn voorgelegd, ziet de Inspectie geen aanleiding tot ingrijpen, omdat deze niet in strijd zouden zijn met basiswaarden van de democratische rechtsstaat.</p>
+<p>"De inspectie kijkt bij lesmateriaal altijd hoe dat in de context toegepast wordt. Deze voorbeelden geven op zich zelf staand geen aanleiding om te veronderstellen dat er wettelijke grenzen worden overschreden", zegt de Onderwijsinspectie.</p>
 <h2>Onacceptabel</h2>
 <p>Hoogleraar pedagogiek Micha de Winter van de Universiteit Utrecht ziet wél een rol voor de Inspectie, omdat de lesmethode haaks zou staan op "goed burgerschap" een verplicht onderwijsdoel.</p>
 <p>"Een belangrijk aspect van burgerschapsonderwijs is dat kinderen leren om kritisch na te denken en zelf keuzes te maken. In dit lesboek wordt heel duidelijk voorgeschreven hoe je moet leven en hoe niet. Dat verhoudt zich niet met de westerse manier van samenleven, waarin mensen een grote mate van vrijheid hebben om te kiezen hoe zij willen leven."</p>

@@ -2,7 +2,9 @@
 layout: post
 title: "Alleen kinderen welkom bij Europa League-duel AZ in Belgrado"
 date: Tue, 10 Sep 2019 17:32:49 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://nos.nl/l/2301154"
 feature_image: "https://nos.nl/data/image/2019/09/10/576380/1008x567.jpg"
 aantal: 103

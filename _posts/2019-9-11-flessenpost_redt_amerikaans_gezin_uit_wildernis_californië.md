@@ -2,11 +2,11 @@
 layout: post
 title: "Flessenpost redt Amerikaans gezin uit wildernis Californië"
 date: Wed, 11 Sep 2019 12:30:17 +0200
-category: nieuws
-externe_link: "https://nos.nl/l/2301241"
+category: buitenland
+externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/NYmooY9AZgo/2301241"
 feature_image: "https://nos.nl/data/image/2019/09/11/576531/1008x567.jpg"
-aantal: 359
-unieke: 238
+aantal: 363
+unieke: 242
 bron: NOS
 ---
 
@@ -20,4 +20,4 @@ bron: NOS
 <h2>Lief briefje</h2>
 <p>Whitson was verbijsterd dat zijn noodkreet zo snel effect had. Achteraf bleek dat twee wandelaars de fles enkele uren na het verzenden al uit de rivier hadden gevist, zo'n halve kilometer verderop. Zij sloegen alarm bij een camping.</p>
 <p>De 51-jarige helikopterpiloot had dit in zijn hele carrière nog niet meegemaakt. Tegen de krant zei hij: "Een heleboel puzzelstukjes vielen op zijn plek."</p>
-<p>Een week na de reddingsactie kocht Whitsons vriendin een waterflesje van hetzelfde merk. Daarin stopte zij een lief briefje voor hem. Ze wist gewoon dat-ie het zou vinden.</p>
+<p>Een week na de reddingsactie kocht Whitsons vriendin een waterflesje van hetzelfde merk. Daarin stopte zij een lief briefje voor hem. Ze wist gewoon dat-ie het zou vinden.</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbuitenland/~4/NYmooY9AZgo" height="1" width="1" alt=""/>

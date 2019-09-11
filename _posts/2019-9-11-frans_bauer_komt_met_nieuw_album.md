@@ -2,7 +2,9 @@
 layout: post
 title: "Frans Bauer komt met nieuw album"
 date: Wed, 11 Sep 2019 17:20:47 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/448461330/frans-bauer-komt-met-nieuw-album"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c7f746ec-d4a7-11e9-8f10-02d1dbdc35d1.jpg"
 aantal: 98
