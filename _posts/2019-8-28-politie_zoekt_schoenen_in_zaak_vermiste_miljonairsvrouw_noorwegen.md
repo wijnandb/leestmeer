@@ -7,6 +7,8 @@ categories:
 - opmerkelijk 
 externe_link: "https://nos.nl/l/2299320"
 feature_image: "https://nos.nl/data/image/2019/08/28/573115/1008x567.jpg"
+aantal: 275
+unieke: 158
 ---
 
 <p>De politie van Noorwegen is op zoek naar mensen die in de afgelopen drie jaar een bepaald merk herenschoen hebben gekocht en contant hebben afgerekend. Aanleiding is een schoenafdruk die in en rond de woning van de al tien maanden vermiste miljonairsvrouw Anne-Elisabeth Hagen is gevonden.</p>

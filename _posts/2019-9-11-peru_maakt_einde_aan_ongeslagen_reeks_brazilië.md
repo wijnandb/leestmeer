@@ -5,6 +5,8 @@ date: Wed, 11 Sep 2019 09:07:28 +0200
 category: sport
 externe_link: "https://nos.nl/l/2301219"
 feature_image: "https://nos.nl/data/image/2019/09/11/576490/1008x567.jpg"
+aantal: 295
+unieke: 205
 ---
 
 <p>Brazilië heeft voor het eerst in zeventien wedstrijden weer eens verloren. De ploeg van bondscoach Tite, die een basisplaats overhad voor Ajax-speler David Neres, ging in een oefenwedstrijd tegen Peru onderuit: 0-1.</p>

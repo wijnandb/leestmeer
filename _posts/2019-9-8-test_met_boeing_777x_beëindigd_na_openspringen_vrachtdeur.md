@@ -7,6 +7,8 @@ categories:
 - economie 
 externe_link: "https://nos.nl/l/2300796"
 feature_image: "https://nos.nl/data/image/2019/09/08/575776/1008x567.jpg"
+aantal: 221
+unieke: 147
 ---
 
 <p>Boeing heeft een proef met het nieuwe vliegtuig 777X opgeschort. Volgens een woordvoerder van de Amerikaanse vliegtuigfabrikant gebeurde dat nadat zich een probleem had voorgedaan tijdens een stresstest. Het bedrijf heeft al grote problemen doordat het de Boeing 737 MAX al maanden aan de grond moet houden.</p>

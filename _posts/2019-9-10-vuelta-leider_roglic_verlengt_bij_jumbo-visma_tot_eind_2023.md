@@ -7,6 +7,8 @@ categories:
 - wielrennen 
 externe_link: "https://nos.nl/l/2301141"
 feature_image: "https://nos.nl/data/image/2019/09/10/576350/1008x567.jpg"
+aantal: 296
+unieke: 188
 ---
 
 <p>Jumbo-Visma heeft het contract van Primoz Roglic opengebroken en verlengd. De 29-jarige Sloveen, die momenteel aan de leiding gaat in de Ronde van Spanje, verbindt zich tot eind 2023 aan de Nederlandse formatie.</p>

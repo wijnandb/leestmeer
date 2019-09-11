@@ -7,6 +7,8 @@ categories:
 - tennis 
 externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/joiommRJPpY/2300110"
 feature_image: "https://nos.nl/data/image/2019/09/03/574574/1008x567.jpg"
+aantal: 225
+unieke: 161
 ---
 
 <p>Rafael Nadal is ten koste van Marin Cilic doorgedrongen tot de kwartfinales van de US Open. De drievoudig winnaar won in New York met 6-3, 3-6, 6-1, 6-2 van de eenmalig kampioen.</p>

@@ -7,6 +7,8 @@ categories:
 - royalty 
 externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/w10SCqy1NPU/2298013"
 feature_image: "https://nos.nl/data/image/2019/08/18/570993/1008x567.jpg"
+aantal: 260
+unieke: 173
 ---
 
 <p>In Lage Vuursche bij Baarn kon vandaag een condoleanceregister worden getekend voor prinses Christina. Ze overleed afgelopen vrijdag op 72-jarige leeftijd.</p>

@@ -5,6 +5,8 @@ date: Sun, 25 Aug 2019 11:33:27 +0200
 category: tech
 externe_link: "https://nos.nl/l/2298892"
 feature_image: "https://nos.nl/data/image/2019/08/25/572382/1008x567.jpg"
+aantal: 756
+unieke: 427
 ---
 
 <p>Als je graag series of films thuis op de bank kijkt, is de kans groot dat je hiervoor Netflix aanzet. Maar dat moet gaan veranderen, als het aan Disney ligt. Dat bedrijf kondigde deze week aan dat zijn videodienst, Disney+, op 12 november naar de VS, Canada én Nederland komt.</p>

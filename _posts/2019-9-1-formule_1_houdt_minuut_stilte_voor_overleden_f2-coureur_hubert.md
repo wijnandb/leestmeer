@@ -7,6 +7,8 @@ categories:
 - autosport 
 externe_link: "https://nos.nl/l/2299843"
 feature_image: "https://nos.nl/data/image/2019/09/01/574088/1008x567.jpg"
+aantal: 120
+unieke: 81
 ---
 
 <p>Voorafgaand aan de Formule 1- en de Formule 3-race in België wordt een minuut stilte gehouden voor de overleden Formule 2-coureur Anthoine Hubert. De Formule 2-race op zondag is afgelast.</p>

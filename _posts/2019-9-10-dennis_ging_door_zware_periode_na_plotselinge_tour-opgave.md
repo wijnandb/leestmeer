@@ -7,6 +7,8 @@ categories:
 - wielrennen 
 externe_link: "https://nos.nl/l/2301143"
 feature_image: "https://nos.nl/data/image/2019/09/10/576362/1008x567.jpg"
+aantal: 328
+unieke: 224
 ---
 
 <p>Een onduidelijk statement op de avond zelf, meer hoorden we niet van Rohan Dennis na zijn plotselinge opgave in de Tour de France. Bijna twee maanden later heeft de Australische wielrenner het stilzwijgen doorbroken, al blijven er zaken onduidelijk.</p>

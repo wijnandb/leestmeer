@@ -4,10 +4,11 @@ title: "Regeringspartijen en Denk houden debat tijdens Wilders-proces tegen"
 date: Wed, 11 Sep 2019 15:32:37 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2301261"
-feature_image: "https://nos.nl/data/image/2019/09/11/576557/1008x567.jpg"
+feature_image: "https://nos.nl/data/image/2019/09/11/576587/1008x567.jpg"
+aantal: 441
+unieke: 273
 ---
 
-<p> </p>
 <p>De regeringspartijen VVD, CDA, D66 en ChristenUnie willen geen Kamerdebat over de 'minder-Marokkanen'-strafzaak tegen PVV-leider Wilders zolang de rechter nog geen uitspraak heeft gedaan.</p>
 <p>Wilders wil in aanwezigheid van premier Rutte debatteren over de bemoeienis van ambtenaren van het ministerie van Justitie met zijn strafzaak. Hij riep zijn collega's op zijn verzoek te steunen, in het belang van zijn verdediging.</p>
 <p>"Dit is mijn laatste kans", zei hij. "Als we het pas na de uitspraak van de rechter doen, en dan blijkt dat de Tweede Kamer de gang van zaken onacceptabel vindt, dan is het voor mij te laat."</p>

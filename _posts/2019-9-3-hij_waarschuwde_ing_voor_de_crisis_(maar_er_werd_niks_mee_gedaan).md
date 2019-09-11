@@ -5,6 +5,8 @@ date: Tue, 03 Sep 2019 20:05:35 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2300223"
 feature_image: "https://nos.nl/data/image/2019/09/03/574752/1008x567.jpg"
+aantal: 531
+unieke: 305
 ---
 
 <p>Weten wanneer de volgende economische crisis uitbreekt én je erop kunnen voorbereiden. Wie wil dat niet? De grote recessie die vanaf 2008 over de wereld raasde, zagen maar weinigen aankomen. Maar nu blijkt uit een nieuw boek, De Afrekening van journalist Roel Janssen, dat de slechte positie van ING in 2008 al bij de bank bekend was.</p>

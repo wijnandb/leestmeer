@@ -7,6 +7,8 @@ categories:
 - voetbal 
 externe_link: "https://nos.nl/l/2301124"
 feature_image: "https://nos.nl/data/image/2019/09/10/576321/1008x567.jpg"
+aantal: 339
+unieke: 205
 ---
 
 <p>Een Iraanse vrouwelijke voetbalfan is maandag overleden nadat ze zichzelf vorige week voor een rechtbank in brand had gestoken. Ze had gehoord dat ze een gevangenisstraf van zes maanden zou moeten krijgen omdat ze in maart had geprobeerd een voetbalstadion te betreden, vermomd als man.</p>

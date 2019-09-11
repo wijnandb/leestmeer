@@ -5,6 +5,8 @@ date: Mon, 09 Sep 2019 17:39:39 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2301009"
 feature_image: "https://nos.nl/data/image/2019/09/09/576143/1008x567.jpg"
+aantal: 376
+unieke: 216
 ---
 
 <p>Van woonwijken waar een streep door gaat tot boerenbedrijven die niet mogen uitbreiden. Tenminste zeven gemeenten hebben honderd of meer projecten die in de knel komen vanwege de stikstofuitspraak van de Raad van State. Dat blijkt uit een enquête van Nieuwsuur onder Nederlandse gemeenten.</p>

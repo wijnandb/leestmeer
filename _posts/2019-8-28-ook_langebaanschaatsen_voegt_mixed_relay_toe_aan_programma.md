@@ -7,6 +7,8 @@ categories:
 - schaatsen 
 externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/6ZMDkxKR4Rw/2299291"
 feature_image: "https://nos.nl/data/image/2019/08/28/573060/1008x567.jpg"
+aantal: 104
+unieke: 78
 ---
 
 <p>De wereldbekerfinale schaatsen wordt volgend jaar gehouden in Heerenveen en krijgt een primeur. Aan het wedstrijdprogramma zal een gemengde estafette (mixed relay) worden toegevoegd. Daarbij zullen zowel de mannen als vrouwen tegelijkertijd in actie komen en een race van zes ronden rijden.</p>

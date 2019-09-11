@@ -5,6 +5,8 @@ date: Mon, 09 Sep 2019 13:59:57 +0200
 category: politiek
 externe_link: "https://nos.nl/l/2300974"
 feature_image: "https://nos.nl/data/image/2019/09/05/575056/1008x567.jpg"
+aantal: 302
+unieke: 200
 ---
 
 <p>De laatste onthullingen over de bemoeienis van ambtenaren met de strafzaak tegen PVV-leider Wilders hebben grote indruk gemaakt op de regeringspartijen. VVD, CDA, D66 en ChristenUnie willen niet vooruitlopen op de mogelijkheid van een parlementaire enquête, zoals Wilders zelf wil. Maar dat de zaak na een rechterlijke uitspraak een politiek gevolg gaat krijgen staat vast.</p>

@@ -7,6 +7,8 @@ categories:
 - schaatsen 
 externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/6A_m7ClZ3Q8/2296899"
 feature_image: "https://nos.nl/data/image/2019/08/09/569113/1008x567.jpg"
+aantal: 229
+unieke: 156
 ---
 
 <p>De Zuid-Koreaanse schaatsbond (KSU) heeft weer een schorsing moeten uitdelen. Dit keer aan shorttracker Lim Hyo-jun, die voor een jaar wordt geschorst. De wereldkampioen zou in het bijzijn van vrouwelijke collega's de broek van een van zijn teamgenoten naar beneden hebben getrokken.</p>

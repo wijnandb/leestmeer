@@ -7,6 +7,8 @@ categories:
 - autosport 
 externe_link: "https://nos.nl/l/2299913"
 feature_image: "https://nos.nl/data/image/2019/09/01/574268/1008x567.jpg"
+aantal: 536
+unieke: 315
 ---
 
 <p>Hij was er dit seizoen al eens dichtbij, maar zondag in de Grand Prix van België was het eindelijk raak voor Charles Leclerc. De Ferrari-rijder won zijn eerste race in de Formule 1, maar de 21-jarige coureur gaf ruiterlijk toe dat hij er moeilijk van kon genieten. Een dag eerder was zijn vriend Anthoine Hubert door een zware crash in de Formule 2 om het leven gekomen.</p>

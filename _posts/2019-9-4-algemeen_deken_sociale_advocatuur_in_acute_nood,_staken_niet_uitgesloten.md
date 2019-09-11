@@ -5,6 +5,8 @@ date: Wed, 04 Sep 2019 22:22:24 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2300376"
 feature_image: "https://nos.nl/data/image/2019/09/04/575004/1008x567.jpg"
+aantal: 538
+unieke: 320
 ---
 
 <p>De Nederlandse Orde van Advocaten slaat opnieuw alarm over de sociale advocatuur. Pro-deo-advocaten krijgen zo weinig betaald door de overheid dat steeds meer van hen hun toga aan de wilgen hangen. De algemeen deken van de orde heeft daarom vanavond een brandbrief gestuurd naar minister Sander Dekker voor Rechtsbescherming.</p>

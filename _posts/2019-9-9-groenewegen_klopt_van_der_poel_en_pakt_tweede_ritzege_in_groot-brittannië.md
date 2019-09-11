@@ -7,6 +7,8 @@ categories:
 - wielrennen 
 externe_link: "https://nos.nl/l/2301008"
 feature_image: "https://nos.nl/data/image/2019/09/09/576142/1008x567.jpg"
+aantal: 167
+unieke: 118
 ---
 
 <p>Wielrenner Dylan Groenewegen heeft na de eerste ook de derde etappe van de Ronde van Groot-Brittannië gewonnen. De sprinter van Jumbo-Visma bleef Mathieu van der Poel op een lastige aankomst knap voor, Mike Teunissen werd vierde.</p>

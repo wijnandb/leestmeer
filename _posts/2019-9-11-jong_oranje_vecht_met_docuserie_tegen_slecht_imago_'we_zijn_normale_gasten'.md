@@ -5,6 +5,8 @@ date: Wed, 11 Sep 2019 08:40:55 +0200
 category: sport
 externe_link: "https://nos.nl/l/2301215"
 feature_image: "https://nos.nl/data/image/2019/09/11/576472/1008x567.jpg"
+aantal: 773
+unieke: 414
 ---
 
 <p>Met een 5-1 zege op Cyprus is Jong Oranje goed begonnen aan de kwalificatie die moet uitmonden in de eerste EK-deelname sinds 2013. Onder leiding van bondscoach Erwin van de Looi ondergaat het team een metamorfose. "We willen uitstralen dat we frisse, normale gasten zijn."</p>

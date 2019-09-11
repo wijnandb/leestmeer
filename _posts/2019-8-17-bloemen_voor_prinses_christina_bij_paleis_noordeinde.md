@@ -7,6 +7,8 @@ categories:
 - royalty 
 externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/MkGXMJ7fxCE/2297918"
 feature_image: "https://nos.nl/data/image/2019/08/17/570807/1008x567.jpg"
+aantal: 109
+unieke: 89
 ---
 
 <p>Bij Paleis Noordeinde in Den Haag zijn bloemen neergelegd ter nagedachtenis aan de gisteren overleden prinses Christina.</p>

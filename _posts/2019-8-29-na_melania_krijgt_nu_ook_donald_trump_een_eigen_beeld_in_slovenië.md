@@ -7,6 +7,8 @@ categories:
 - opmerkelijk 
 externe_link: "https://nos.nl/l/2299493"
 feature_image: "https://nos.nl/data/image/2019/08/29/573419/1008x567.jpg"
+aantal: 198
+unieke: 142
 ---
 
 <p>De Amerikaanse president Trump heeft niet lang hoeven wachten op zijn eigen standbeeld in Slovenië. Een maand nadat zijn vrouw Melania er een had gekregen in haar geboortedorp Sevnica, heeft Donald Trump nu ook een beeltenis, in een dorp in de buurt van de hoofdstad Ljubljana.</p>

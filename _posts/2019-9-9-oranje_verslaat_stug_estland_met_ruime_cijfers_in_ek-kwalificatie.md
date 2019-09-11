@@ -7,6 +7,8 @@ categories:
 - voetbal 
 externe_link: "https://nos.nl/l/2301047"
 feature_image: "https://nos.nl/data/image/2019/09/09/576215/1008x567.jpg"
+aantal: 370
+unieke: 228
 ---
 
 <p>Het Nederlands elftal heeft op weg naar het Europees kampioenschap van 2020 een eenvoudige 4-0 overwinning geboekt op Estland.</p>

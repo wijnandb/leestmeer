@@ -5,6 +5,8 @@ date: Wed, 11 Sep 2019 03:47:48 +0200
 category: buitenland
 externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/U5E86_7tf_g/2301198"
 feature_image: "https://nos.nl/data/image/2019/09/11/576443/1008x567.jpg"
+aantal: 156
+unieke: 115
 ---
 
 <p>Nog altijd zoeken reddingswerkers verder naar lichamen tussen het puin van de zwaar verwoeste stad Marsh Harbour. Volgens de VN is 90 procent van de stad op het eiland Great Abaco vernield door het orkaangeweld van Dorian. Inmiddels zijn er zeker vijftig doden geborgen, de meeste slachtoffers vielen op Great Abaco.</p>

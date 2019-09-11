@@ -7,6 +7,8 @@ categories:
 - tennis 
 externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/9PhBmeKbrhc/2301092"
 feature_image: "https://nos.nl/data/image/2019/09/10/576291/1008x567.jpg"
+aantal: 695
+unieke: 368
 ---
 
 <p>Nu de US Open voorbij zijn, zit ook het grandslamseizoen erop voor de tennisprofs. Dat wordt volgend jaar onderbroken voor nog een groot evenement: de Olympische Spelen. In Tokio zou Nederland zomaar zes medailles kunnen halen.</p>

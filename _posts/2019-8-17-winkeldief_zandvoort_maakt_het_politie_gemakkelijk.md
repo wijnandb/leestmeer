@@ -7,6 +7,8 @@ categories:
 - opmerkelijk 
 externe_link: "https://nos.nl/l/2297838"
 feature_image: "https://nos.nl/data/image/2019/08/17/570681/1008x567.jpg"
+aantal: 103
+unieke: 72
 ---
 
 <p>De politie in Zandvoort heeft gisteren weinig moeite hoeven doen om een winkeldief te arresteren. Op de vlucht voor zijn achtervolgers klom de man over een hek, maar hij wist niet dat dat hek uitkwam in de achtertuin van het politiebureau.</p>

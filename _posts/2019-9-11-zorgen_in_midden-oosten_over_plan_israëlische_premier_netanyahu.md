@@ -5,7 +5,8 @@ date: Wed, 11 Sep 2019 17:04:30 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2301280"
 feature_image: "https://nos.nl/data/image/2019/09/11/576585/1008x567.jpg"
-woorden: 255
+aantal: 255
+unieke: 151
 ---
 
 <p>Landen in het Midden-Oosten maken zich zorgen over uitspraken van de Israëlische premier Netanyahu. Gisteren zei hij in een toespraak op tv dat hij de Jordaanvallei op de Westelijke Jordaanoever wil annexeren, als hij de verkiezingen van volgende week wint.</p>

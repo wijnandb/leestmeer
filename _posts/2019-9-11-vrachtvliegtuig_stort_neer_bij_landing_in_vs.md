@@ -5,6 +5,8 @@ date: Wed, 11 Sep 2019 15:18:58 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2301259"
 feature_image: "https://nos.nl/data/image/2019/09/11/576552/1008x567.jpg"
+aantal: 57
+unieke: 46
 ---
 
 <p>In de Amerikaanse staat Ohio is een vrachtvliegtuig bij de landing neergestort. De twee piloten hebben het ongeluk niet overleefd.</p>

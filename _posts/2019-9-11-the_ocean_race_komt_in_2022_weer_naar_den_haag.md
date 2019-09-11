@@ -5,6 +5,8 @@ date: Wed, 11 Sep 2019 12:35:50 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2301242"
 feature_image: "https://nos.nl/data/image/2019/09/11/576537/1008x567.jpg"
+aantal: 490
+unieke: 296
 ---
 
 <p>Voorjaar 2022 komt The Ocean Race voor de derde keer naar Den Haag. De haven van Scheveningen is dan zowel finish- als startplaats van een etappe van de zeilrace, die voorheen de Volvo Ocean Race heette. Dat heeft wethouder Richard de Mos bekendgemaakt bij Omroep West.</p>

@@ -7,6 +7,8 @@ categories:
 - royalty 
 externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/sEbzYg4Ju5o/2300154"
 feature_image: "https://nos.nl/data/image/2019/09/03/574627/1008x567.jpg"
+aantal: 219
+unieke: 155
 ---
 
 <p>De Britse prins Harry heeft een project gelanceerd waarmee hij het wereldwijde toerisme duurzamer wil maken. Hij presenteerde zijn plannen vanmorgen in de A'DAM Toren in Amsterdam.</p>

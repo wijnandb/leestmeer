@@ -7,6 +7,8 @@ categories:
 - economie 
 externe_link: "https://nos.nl/l/2300638"
 feature_image: "https://nos.nl/data/image/2019/09/06/575488/1008x567.jpg"
+aantal: 419
+unieke: 248
 ---
 
 <p>Staatssecretaris Snel van Financiën heeft bekendgemaakt hoe het kabinet de veel bekritiseerde vermogensrendementsheffing vanaf 2022 wil aanpassen. Het systeem gaat behoorlijk veranderen, en spaarders gaan erop vooruit.</p>

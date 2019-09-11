@@ -7,6 +7,8 @@ categories:
 - opmerkelijk 
 externe_link: "https://nos.nl/l/2298366"
 feature_image: "https://nos.nl/data/image/2019/08/21/571510/1008x567.jpg"
+aantal: 348
+unieke: 241
 ---
 
 <p>De oudste nog werkende webcam ter wereld houdt binnenkort op met bestaan. FogCam, de camera die sinds 1994 de campus van San Francisco State University filmt, zal eind augustus zijn laatste beelden uitzenden. Dat maakten de twee initiatiefnemers van de webcam bekend via Twitter.</p>

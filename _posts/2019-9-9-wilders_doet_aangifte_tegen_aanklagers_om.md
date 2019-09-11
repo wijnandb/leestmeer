@@ -5,6 +5,8 @@ date: Mon, 09 Sep 2019 15:33:33 +0200
 category: politiek
 externe_link: "https://nos.nl/l/2300991"
 feature_image: "https://nos.nl/data/image/2019/09/05/575065/1008x567.jpg"
+aantal: 189
+unieke: 120
 ---
 
 <p>Geert Wilders doet aangifte tegen de officier van justitie en de advocaten-generaal die betrokken zijn bij de strafzaak tegen hem. De aanklagers van het OM hebben volgens de PVV-leider valsheid in geschrifte gepleegd.</p>

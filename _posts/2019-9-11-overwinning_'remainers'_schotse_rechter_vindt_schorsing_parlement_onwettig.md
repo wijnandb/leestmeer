@@ -4,7 +4,9 @@ title: "Overwinning 'remainers': Schotse rechter vindt schorsing parlement onwet
 date: Wed, 11 Sep 2019 12:06:53 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2301239"
-feature_image: "https://nos.nl/data/image/2019/09/02/574523/1008x567.jpg"
+feature_image: "https://nos.nl/data/image/2019/09/11/576588/1008x567.jpg"
+aantal: 158
+unieke: 101
 ---
 
 <p>De hoogste rechter in Schotland heeft bepaald dat de schorsing van het Britse parlement onwettig is. Premier Johnson gebruikt oneigenlijke gronden om het parlement naar huis te sturen, zeggen de rechters van het Court of Session.</p>

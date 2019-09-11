@@ -7,6 +7,8 @@ categories:
 - schaatsen 
 externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/5ZjNwTFGhJQ/2298490"
 feature_image: "https://nos.nl/data/image/2019/08/22/571711/1008x567.jpg"
+aantal: 263
+unieke: 183
 ---
 
 <p>Yvonne Nauta stopt als langebaanschaatsster. De Friezin zegt toe te zijn aan lichamelijke rust. Ze zegt het ijs echter nog niet helemaal vaarwel en blijft, net als vorig seizoen, voorlopig actief op de marathons.</p>

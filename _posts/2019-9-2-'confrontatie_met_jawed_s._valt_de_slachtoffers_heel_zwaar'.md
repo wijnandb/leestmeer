@@ -5,6 +5,8 @@ date: Mon, 02 Sep 2019 23:59:25 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2300103"
 feature_image: "https://nos.nl/data/image/2019/09/02/574559/1008x567.jpg"
+aantal: 308
+unieke: 197
 ---
 
 <p>Het zijn moeilijke dagen voor de slachtoffers van Jawed S., vertelt hun advocaat John Beer. De twee Amerikaanse mannen en hun partners zijn terug in Nederland om het strafproces bij te wonen. "De confrontatie met Amsterdam, met wat er gebeurd is en met name met de verdachte, valt ze zwaar."</p>

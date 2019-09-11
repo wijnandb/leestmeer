@@ -7,6 +7,8 @@ categories:
 - wielrennen 
 externe_link: "https://nos.nl/l/2300797"
 feature_image: "https://nos.nl/data/image/2019/09/08/575787/1008x567.jpg"
+aantal: 506
+unieke: 278
 ---
 
 <p>Annemiek van Vleuten zal de Boels Ladies Tour dit jaar niet opnieuw op haar naam schrijven. Daar is ze van overtuigd, ook al is er zondag nog een etappe te rijden en staat ze zesde in het klassement. "Toen ik het parcours van deze ronde zag, borg ik mijn klassementsambities al een beetje op. Het is een sprintersbal geworden."</p>

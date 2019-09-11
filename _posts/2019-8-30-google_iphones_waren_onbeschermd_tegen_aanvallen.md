@@ -5,6 +5,8 @@ date: Fri, 30 Aug 2019 15:16:52 +0200
 category: tech
 externe_link: "https://nos.nl/l/2299614"
 feature_image: "https://nos.nl/data/image/2019/08/30/573626/1008x567.jpg"
+aantal: 141
+unieke: 108
 ---
 
 <p>IPhones zijn minstens twee jaar lang kwetsbaar geweest voor cyberaanvallen. Beveiligingsexperts van Google zijn daar bij onderzoek achtergekomen, schrijven ze in een blog. IPhone-maker Apple, concurrent van Google, bevestigt de kwetsbaarheden en zegt dat de laatste versie van besturingssysteem iOS (12.4.1) is beschermd tegen de aanvallen.</p>

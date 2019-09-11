@@ -7,6 +7,8 @@ categories:
 - wielrennen 
 externe_link: "https://nos.nl/l/2301010"
 feature_image: "https://nos.nl/data/image/2019/09/09/576149/1008x567.jpg"
+aantal: 327
+unieke: 217
 ---
 
 <p>De zestiende etappe van de Vuelta, een bergrit over 144 kilometer met drie zware cols, is gewonnen door Jakob Fuglsang. De 34-jarige Deen van Astana, die deel uitmaakte van een kopgroep van tien man die gezamenlijk begon aan de slotklim van 18 kilometer, kwam na een korte solo als eerste aan op de Alto de la Cubilla.</p>

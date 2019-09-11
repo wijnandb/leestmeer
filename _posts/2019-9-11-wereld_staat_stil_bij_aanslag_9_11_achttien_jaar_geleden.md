@@ -5,6 +5,8 @@ date: Wed, 11 Sep 2019 14:48:28 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2301252"
 feature_image: "https://nos.nl/data/image/2019/09/11/576568/1008x567.jpg"
+aantal: 287
+unieke: 185
 ---
 
 <p>Op verschillende plekken ter wereld wordt vandaag stilgestaan bij de aanslagen op 11 september 2001 in de Verenigde Staten. De aanslagen zijn de dodelijkste ooit op Amerikaanse bodem.</p>

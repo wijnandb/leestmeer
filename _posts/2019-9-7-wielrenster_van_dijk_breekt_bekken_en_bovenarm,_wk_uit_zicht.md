@@ -7,6 +7,8 @@ categories:
 - wielrennen 
 externe_link: "https://nos.nl/l/2300728"
 feature_image: "https://nos.nl/data/image/2019/09/07/575669/1008x567.jpg"
+aantal: 172
+unieke: 116
 ---
 
 <p>Ellen van Dijk is in de vierde etappe van de Boels Ladies Tour hard onderuit gegaan. De regerend Europees kampioene tijdrijden moest de koers verlaten met een gebroken bekken en een gebroken bovenarm.</p>

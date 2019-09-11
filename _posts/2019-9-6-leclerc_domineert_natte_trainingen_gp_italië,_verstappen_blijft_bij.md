@@ -7,6 +7,8 @@ categories:
 - autosport 
 externe_link: "https://nos.nl/l/2300571"
 feature_image: "https://nos.nl/data/image/2019/09/06/575394/1008x567.jpg"
+aantal: 254
+unieke: 178
 ---
 
 <p>Regen was een belangrijke factor tijdens de eerste trainingen voor de Grand Prix van Italië. Op de natte baan van Monza domineerde Charles Leclerc met zijn Ferrari zowel in de eerste als de tweede training.</p>

@@ -5,6 +5,8 @@ date: Sun, 08 Sep 2019 19:59:28 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2300886"
 feature_image: "https://nos.nl/data/image/2019/09/05/575184/1008x567.jpg"
+aantal: 496
+unieke: 290
 ---
 
 <p>En weer wist de Amerikaanse president Donald Trump vandaag iedereen te verrassen. Met een tweet liet hij weten dat hij een persoonlijk gesprek met Talibanleiders had afgeblazen. Een uiterst geheim gesprek dat had moeten plaatsvinden op zijn buitenverblijf Camp David.</p>

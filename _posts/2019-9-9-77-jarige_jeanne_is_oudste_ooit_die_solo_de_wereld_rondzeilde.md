@@ -7,6 +7,8 @@ categories:
 - opmerkelijk 
 externe_link: "https://nos.nl/l/2301044"
 feature_image: "https://nos.nl/data/image/2019/09/09/576213/1008x567.jpg"
+aantal: 315
+unieke: 210
 ---
 
 <p>Ze had de nodige tegenslag, maar het is de Britse zeilster Jeanne Socrates gelukt. De 77-jarige is de oudste persoon die zonder hulp onafgebroken rond de wereld is gezeild.</p>

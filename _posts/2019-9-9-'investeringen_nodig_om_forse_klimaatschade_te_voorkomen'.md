@@ -5,6 +5,8 @@ date: Tue, 10 Sep 2019 00:01:55 +0200
 category: politiek
 externe_link: "https://nos.nl/l/2301064"
 feature_image: "https://nos.nl/data/image/2019/09/10/576254/1008x567.jpg"
+aantal: 495
+unieke: 286
 ---
 
 <p>Er moet snel meer geld geïnvesteerd worden in het beschermen van landen tegen extreem weer, als gevolg van klimaatverandering. Anders lopen de kosten vanaf nu snel op en kunnen in 2030 meer dan honderd miljoen mensen onder de armoedegrens terechtkomen. Dat is de conclusie van een rapport van de Global Commission on Adaptation, een wereldwijde organisatie die sinds vorig jaar in Nederland is gevestigd.</p>

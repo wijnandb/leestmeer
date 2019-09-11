@@ -7,6 +7,8 @@ categories:
 - autosport 
 externe_link: "https://nos.nl/l/2300606"
 feature_image: "https://nos.nl/data/image/2019/09/06/575406/1008x567.jpg"
+aantal: 152
+unieke: 112
 ---
 
 <p>Tot zijn genoegen constateerde Max Verstappen dat zijn Red Bull-wagen in de eerste trainingen voor de Grand Prix van Italië op het snelle circuit van Monza Ferrari en Mercedes aardig kon bijbenen.</p>

@@ -7,6 +7,8 @@ categories:
 - voetbal 
 externe_link: "https://nos.nl/l/2301102"
 feature_image: "https://nos.nl/data/image/2019/09/10/576299/1008x567.jpg"
+aantal: 217
+unieke: 152
 ---
 
 <p>Het voetbalteam van Curaçao rouwt om het plotselinge overlijden van reservedoelman Jairzinho Pieter (31). De elfvoudig international, keeper van de club SV Vesta, is maandag overleden in het spelershotel in Port-au-Prince. De doodsoorzaak is nog niet bekend.</p>

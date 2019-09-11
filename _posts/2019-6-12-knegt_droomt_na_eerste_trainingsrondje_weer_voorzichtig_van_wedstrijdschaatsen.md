@@ -7,6 +7,8 @@ categories:
 - schaatsen 
 externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/28aKD-6jt30/2288684"
 feature_image: "https://nos.nl/data/image/2019/06/12/556252/1008x567.jpg"
+aantal: 421
+unieke: 263
 ---
 
 <p>Alsof hij er nooit uit is geweest. Sjinkie Knegt stond dinsdag voor het eerst sinds het ongeluk met zijn houtkachel weer op het ijs en genoot daar volop van. "Het voelde als vanouds. Dit is wat ik het allerliefst doe", vertelt hij 's avonds, eenmaal bijgekomen van zijn eerste rondjes, in Langs de Lijn En Omstreken.</p>

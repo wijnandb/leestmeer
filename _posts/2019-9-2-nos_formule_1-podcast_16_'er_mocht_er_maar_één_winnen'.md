@@ -7,6 +7,8 @@ categories:
 - autosport 
 externe_link: "https://nos.nl/l/2300042"
 feature_image: "https://nos.nl/data/image/2019/09/02/574460/1008x567.jpg"
+aantal: 199
+unieke: 143
 ---
 
 <p>De Grand Prix van België werd afgelopen weekeinde overschaduwd door de dood van Formule 2-coureur Anthoine Hubert. Die crashte zaterdag tijdens de race, net na de kwalificatie van de Formule 1. Een dag later won Charles Leclerc zijn eerste race in de Formule 1 en droeg de zege op aan zijn overleden vriend.</p>

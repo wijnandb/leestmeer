@@ -5,6 +5,8 @@ date: Wed, 11 Sep 2019 15:55:24 +0200
 category: jeugdjournaal
 externe_link: "http://feeds.nos.nl/~r/jeugdjournaal/~3/xxx_K--sQk0/2301265"
 feature_image: "https://nos.nl/data/image/2019/09/11/576497/1008x567.jpg"
+aantal: 138
+unieke: 97
 ---
 
 <p>In Doesburg in Gelderland is vanmorgen een gezin in gevaar gekomen door giftig gas in huis. De vader van het gezin is daardoor overleden. Twee andere familieleden zijn in slechte toestand naar het ziekenhuis gebracht.</p>

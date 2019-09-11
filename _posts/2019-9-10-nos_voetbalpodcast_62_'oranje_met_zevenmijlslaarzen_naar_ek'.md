@@ -7,6 +7,8 @@ categories:
 - voetbal 
 externe_link: "https://nos.nl/l/2301085"
 feature_image: "https://nos.nl/data/image/2019/09/10/576281/1008x567.jpg"
+aantal: 212
+unieke: 148
 ---
 
 <p>Het Nederlands elftal klaarde de klus tegen Estland 'adequaat' met een 4-0 overwinning. De EK-kwalificatiewedstrijd in Tallinn leverde weinig problemen op voor de ploeg van bondscoach Ronald Koeman.</p>

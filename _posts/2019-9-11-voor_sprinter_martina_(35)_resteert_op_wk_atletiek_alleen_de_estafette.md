@@ -5,6 +5,8 @@ date: Wed, 11 Sep 2019 08:08:20 +0200
 category: sport
 externe_link: "https://nos.nl/l/2301210"
 feature_image: "https://nos.nl/data/image/2019/09/10/576265/1008x567.jpg"
+aantal: 405
+unieke: 246
 ---
 
 <p>Churandy Martina moet er zelf een beetje bij lachen. "Misschien is het wel een leeftijddingetje", geeft hij grinnikend toe. "Maar er zijn ook jonge sprinters die geblesseerd raken en zelfs moeten stoppen. Ik kan, dankzij God, doorgaan."</p>

@@ -5,6 +5,8 @@ date: Sat, 24 Aug 2019 06:50:04 +0200
 category: tech
 externe_link: "https://nos.nl/l/2298745"
 feature_image: "https://nos.nl/data/image/2019/08/24/572089/1008x567.jpg"
+aantal: 614
+unieke: 344
 ---
 
 <p>Ding-ding-ding. Even later, op een andere toonhoogte: piep-bliep-piep. Een intensive care kan een kakofonie aan alarmen zijn. En dat terwijl veel ervan vals zijn.</p>

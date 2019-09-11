@@ -7,6 +7,8 @@ categories:
 - royalty 
 externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/DVA_yGTq9rw/2297739"
 feature_image: "https://nos.nl/data/image/2019/08/16/570482/1008x567.jpg"
+aantal: 463
+unieke: 275
 ---
 
 <p>Premier Rutte is bedroefd door het bericht dat prinses Christina is overleden. "Haar betrokkenheid en haar warme persoonlijkheid zullen door velen in binnen- en buitenland worden gemist."</p>

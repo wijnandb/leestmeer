@@ -7,6 +7,8 @@ categories:
 - autosport 
 externe_link: "https://nos.nl/l/2300987"
 feature_image: "https://nos.nl/data/image/2019/09/09/576119/1008x567.jpg"
+aantal: 269
+unieke: 183
 ---
 
 <p>Charles Leclerc bracht het Italiaanse publiek op het circuit van Monza zondag in extase. Hij won in zijn Ferrari voor de tweede keer op rij een grand prix. Vorige week was er de emotie vanwege het overlijden van zijn vriend Anthoine Hubert. Gisteren waren er de emoties omdat Ferrari voor het eerst sinds 2010 weer een zege pakte op het thuiscircuit.</p>

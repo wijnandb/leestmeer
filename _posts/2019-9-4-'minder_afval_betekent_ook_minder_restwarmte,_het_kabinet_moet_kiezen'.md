@@ -5,6 +5,8 @@ date: Wed, 04 Sep 2019 14:29:49 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2300307"
 feature_image: "https://nos.nl/data/image/2019/08/20/571409/1008x567.jpg"
+aantal: 527
+unieke: 284
 ---
 
 <p>Een warm huis dankzij afval, dat is in verschillende gemeenten al heel gewoon. In steden als Amsterdam, Rotterdam, Arnhem en Nijmegen zijn de vuilverbranders aangesloten op het warmtenet en vormen zo een belangrijke bron van warmte. En dat zou nog in veel meer gemeenten kunnen gebeuren.</p>

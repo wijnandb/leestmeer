@@ -7,6 +7,8 @@ categories:
 - economie 
 externe_link: "https://nos.nl/l/2301172"
 feature_image: "https://nos.nl/data/image/2019/09/03/574638/1008x567.jpg"
+aantal: 425
+unieke: 257
 ---
 
 <p>Werkgeversorganisaties VNO-NCW en MKB-Nederland komen met een 10-puntenplan "om de stikstofimpasse te doorbreken". Ze willen onder meer dat bouwprojecten die alleen tijdens de bouw tot extra stikstofuitstoot leiden alsnog een vergunning krijgen.</p>

@@ -7,6 +7,8 @@ categories:
 - economie 
 externe_link: "https://nos.nl/l/2300646"
 feature_image: "https://nos.nl/data/image/2019/09/06/575512/1008x567.jpg"
+aantal: 171
+unieke: 119
 ---
 
 <p>De Belgische beurswaakhond FSMA onderzoekt een aandelentransactie van Dominique Leroy, over wie gisteren bekend werd dat ze aantreedt als topvrouw bij KPN. Een maand voor ze haar vertrek als ceo bij het Belgische telecombedrijf Proximus aankondigde, verkocht ze aandelen ter waarde van 285.000 euro, schrijven Belgische media.</p>

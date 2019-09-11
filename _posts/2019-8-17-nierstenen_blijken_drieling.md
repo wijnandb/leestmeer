@@ -7,6 +7,8 @@ categories:
 - opmerkelijk 
 externe_link: "https://nos.nl/l/2297934"
 feature_image: "https://nos.nl/data/image/2019/08/17/570836/1008x567.jpg"
+aantal: 291
+unieke: 204
 ---
 
 <p>Een Amerikaanse vrouw die dacht dat ze pijn had van nierstenen bleek zonder het zelf te weten zwanger te zijn van een drieling. Bij een bezoek aan het ziekenhuis bleek de pijn veroorzaakt door weeën.</p>

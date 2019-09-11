@@ -5,6 +5,8 @@ date: Mon, 09 Sep 2019 16:17:02 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2300995"
 feature_image: "https://nos.nl/data/image/2019/09/09/576127/1008x567.jpg"
+aantal: 914
+unieke: 437
 ---
 
 <p>Deze week doet de rechter uitspraak in een ingewikkelde euthanasiezaak. Een verpleeghuisarts heeft aan een zwaar demente vrouw euthanasie verleend. De arts heeft niet aan de patiënt zelf gevraagd of ze echt dood wilde, maar de familie stond wel achter de euthanasie. Ook had de patiënt een eerder opgestelde schriftelijke euthanasieverklaring, daarin stond dat ze nooit in een verpleeghuis wilde belanden.</p>

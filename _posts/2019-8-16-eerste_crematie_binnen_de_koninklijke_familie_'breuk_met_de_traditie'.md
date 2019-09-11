@@ -7,6 +7,8 @@ categories:
 - royalty 
 externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/HPhy3BRRR4g/2297757"
 feature_image: "https://nos.nl/data/image/2019/08/16/570517/1008x567.jpg"
+aantal: 542
+unieke: 301
 ---
 
 <p>Prinses Christina overleed vanochtend op 72-jarige leeftijd op Paleis Noordeinde. De prinses, de jongste zus van prinses Beatrix, zal worden gecremeerd. "Het is uniek in de geschiedenis van de koninklijke familie dat dat gebeurt", zegt funerair historicus Cees van Raak.</p>

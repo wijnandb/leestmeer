@@ -5,6 +5,8 @@ date: Tue, 27 Aug 2019 18:06:14 +0200
 category: tech
 externe_link: "https://nos.nl/l/2299216"
 feature_image: "https://nos.nl/data/image/2019/08/27/572944/1008x567.jpg"
+aantal: 658
+unieke: 387
 ---
 
 <p>"Speciale berichtgeving!", luidt de kop boven het 'artikel'. "De meest recente investering van Mel Gibson verbaast experts en maakt grote banken doodsbang." Daaronder de logo's van onder meer de Volkskrant, de Gelderlander en de NOS.</p>

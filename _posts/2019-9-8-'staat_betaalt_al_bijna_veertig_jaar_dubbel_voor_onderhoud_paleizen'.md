@@ -7,6 +7,8 @@ categories:
 - royalty 
 externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/XlMotn9FNBw/2300903"
 feature_image: "https://nos.nl/data/image/2019/09/08/575962/1008x567.jpg"
+aantal: 564
+unieke: 306
 ---
 
 <p>Het koningshuis ontvangt sinds 1982 jaarlijks een vergoeding voor het onderhoud van paleisinventarissen, terwijl de staat al die tijd het onderhoud heeft bekostigd. Dat meldt NRC op basis van eigen onderzoek. Het gaat dit jaar om een vergoeding van naar schatting 320.000 euro. De Rijksvoorlichtingsdienst spreekt in een reactie tegenover de NOS uitdrukkelijk tegen dat er dubbel wordt betaald.</p>

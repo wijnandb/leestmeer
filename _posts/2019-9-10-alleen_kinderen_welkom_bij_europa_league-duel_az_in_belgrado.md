@@ -5,6 +5,8 @@ date: Tue, 10 Sep 2019 17:32:49 +0200
 category: sport
 externe_link: "https://nos.nl/l/2301154"
 feature_image: "https://nos.nl/data/image/2019/09/10/576380/1008x567.jpg"
+aantal: 103
+unieke: 78
 ---
 
 <p>Bij de wedstrijd FK Partizan-AZ in de groepsfase van de Europa League zijn op de tribunes alleen kinderen tot 14 jaar welkom. AZ mag geen fans meenemen. Het duel vindt op donderdag 19 september plaats.</p>

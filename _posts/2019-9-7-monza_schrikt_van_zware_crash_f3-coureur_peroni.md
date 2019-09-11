@@ -7,6 +7,8 @@ categories:
 - autosport 
 externe_link: "https://nos.nl/l/2300711"
 feature_image: "https://nos.nl/data/image/2019/09/07/575636/1008x567.jpg"
+aantal: 136
+unieke: 89
 ---
 
 <p>Een week na het verongelukken van Formule 2-coureur Anthoine Hubert op het circuit van Spa-Francorchamps zijn de autofans bij de Grand Prix van Italië opnieuw opgeschrikt door een zware crash.</p>

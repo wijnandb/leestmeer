@@ -7,6 +7,8 @@ categories:
 - opmerkelijk 
 externe_link: "https://nos.nl/l/2298050"
 feature_image: "https://nos.nl/data/image/2019/08/18/571059/1008x567.jpg"
+aantal: 304
+unieke: 183
 ---
 
 <p>Het was de bedoeling dat hond Lola voor een uitgebreide behandeling naar de hondensalon zou gaan voor geknipte nagels, een getrimde vacht en een fris gebit. Maar het bezoek pakte anders uit dan gepland. De hond kwam thuis met groene wenkbrauwen en staart, en roze oren. Ook liep de hond een infectie op.</p>

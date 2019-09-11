@@ -7,6 +7,8 @@ categories:
 - economie 
 externe_link: "https://nos.nl/l/2300999"
 feature_image: "https://nos.nl/data/image/2019/09/09/576132/1008x567.jpg"
+aantal: 388
+unieke: 233
 ---
 
 <p>De gemiddelde CO2-uitstoot van personenauto's blijkt de afgelopen jaren te zijn gestegen in Europa, terwijl die juist omlaag moet. Dat komt vooral doordat meer Europeanen in SUV's zijn gaan rijden, meldt de Europese milieuorganisatie Transport &amp; Environment (T&amp;E).</p>

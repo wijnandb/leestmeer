@@ -7,6 +7,8 @@ categories:
 - autosport 
 externe_link: "https://nos.nl/l/2300942"
 feature_image: "https://nos.nl/data/image/2019/09/09/576036/1008x567.jpg"
+aantal: 723
+unieke: 421
 ---
 
 <p>In de schaduw van Max Verstappen reed Nyck de Vries in Italië twee keer naar het podium. In beide Formule 2-races werd hij derde. De Vries verstevigde daarmee zijn leidende positie in het klassement en kan eind deze maand in Sotsji kampioen worden. Lukt dat niet, dan krijgt hij eind november in Abu Dhabi nog een kans om het karwei af te maken.</p>

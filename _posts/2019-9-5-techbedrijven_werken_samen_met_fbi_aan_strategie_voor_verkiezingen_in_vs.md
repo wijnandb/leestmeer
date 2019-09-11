@@ -5,6 +5,8 @@ date: Thu, 05 Sep 2019 03:07:07 +0200
 category: tech
 externe_link: "https://nos.nl/l/2300391"
 feature_image: "https://nos.nl/data/image/2019/08/14/570117/1008x567.jpg"
+aantal: 262
+unieke: 173
 ---
 
 <p>Techbedrijven en Amerikaanse veiligheidsdiensten hebben overleg gevoerd over de presidentsverkiezingen van 2020. Ze willen buitenlandse beïnvloeding van de verkiezingen tegengaan, laat Facebook weten in een verklaring.</p>

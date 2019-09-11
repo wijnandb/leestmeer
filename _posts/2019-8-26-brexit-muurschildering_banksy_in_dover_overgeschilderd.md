@@ -7,6 +7,8 @@ categories:
 - opmerkelijk 
 externe_link: "https://nos.nl/l/2299008"
 feature_image: "https://nos.nl/data/image/2019/08/26/572623/1008x567.jpg"
+aantal: 228
+unieke: 144
 ---
 
 <p>Een brexit-muurschildering van Banksy op een gebouw in Dover is afgelopen weekend overgeschilderd. De schildering liet een arbeider zien die één van de sterren van de vlag van de Europese Unie verwijdert.</p>

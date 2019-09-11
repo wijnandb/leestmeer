@@ -5,6 +5,8 @@ date: Tue, 10 Sep 2019 23:38:05 +0200
 category: politiek
 externe_link: "https://nos.nl/l/2301194"
 feature_image: "https://nos.nl/data/image/2019/09/10/576439/1008x567.jpg"
+aantal: 197
+unieke: 132
 ---
 
 <p>Een journalist of hulpverlener heeft straks toestemming nodig van het ministerie van Justitie en Veiligheid om te kunnen werken in een gebied dat door terroristen wordt gecontroleerd. Een meerderheid van de Tweede Kamer heeft dinsdag ingestemd met een omstreden wetsvoorstel van minister Grapperhaus dat dit bepaalt.</p>

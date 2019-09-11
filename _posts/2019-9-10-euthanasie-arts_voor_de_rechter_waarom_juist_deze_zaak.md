@@ -5,6 +5,8 @@ date: Tue, 10 Sep 2019 17:10:43 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2301148"
 feature_image: "https://nos.nl/data/image/2019/08/26/572637/1008x567.jpg"
+aantal: 837
+unieke: 382
 ---
 
 <p>Woensdag doet de rechter een uitspraak over een ingewikkelde euthanasiezaak: een verpleeghuisarts voerde in 2016 euthanasie uit op een zwaar demente vrouw. De commissie die moet oordelen of een euthanasie zorgvuldig is verlopen, beoordeelde eerder zaken met gelijke details wél als zorgvuldig. En het Openbaar Ministerie koos er bij eerdere zaken nooit voor om tot vervolging over te gaan. Welke overeenkomsten zijn er? En welke afwegingen maakten het OM en de commissie? </p>

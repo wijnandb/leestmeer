@@ -7,6 +7,8 @@ categories:
 - tennis 
 externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/bi-7ozwr1fA/2300786"
 feature_image: "https://nos.nl/data/image/2019/09/08/575779/1008x567.jpg"
+aantal: 523
+unieke: 294
 ---
 
 <p>Bianca Andreescu heeft de US Open op haar naam geschreven. De Canadese hield in de finale Serena Williams van haar 24ste grandslamtitel af: 6-3, 7-5.</p>

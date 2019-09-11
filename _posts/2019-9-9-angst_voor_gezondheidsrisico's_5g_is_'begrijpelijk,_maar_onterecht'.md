@@ -7,6 +7,8 @@ categories:
 - economie 
 externe_link: "https://nos.nl/l/2301034"
 feature_image: "https://nos.nl/data/image/2019/09/09/576193/1008x567.jpg"
+aantal: 592
+unieke: 325
 ---
 
 <p>De komst van het langverwachte snelle mobiele netwerk 5G-netwerk gaat niet geruisloos. De voornaamste zorg van critici is dat de vrijgekomen straling ernstige gezondheidsschade kan veroorzaken. Enkele honderden bezorgde burgers gingen daarom vandaag tijdens een landelijke demonstratie de straat op. '5G = killing us softly' en 'Wij zijn geen proefdieren', stond er op spandoeken. Maar hoe zit dat nou echt met de gevaren van 5G?</p>

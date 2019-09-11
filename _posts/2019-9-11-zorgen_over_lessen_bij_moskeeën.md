@@ -5,6 +5,8 @@ date: Wed, 11 Sep 2019 14:49:25 +0200
 category: jeugdjournaal
 externe_link: "http://feeds.nos.nl/~r/jeugdjournaal/~3/sfe2Bmtx2SA/2301253"
 feature_image: "https://nos.nl/data/image/2019/09/11/576547/1008x567.jpg"
+aantal: 184
+unieke: 127
 ---
 
 <p>Er zijn zorgen over lessen die kinderen krijgen bij sommige moskeeën. Bij veel moskeeën kunnen kinderen buiten schooltijd les volgen over de islam. Maar journalisten ontdekten dat kinderen bij sommige moskeeën dingen leren die tegen de wet zijn.</p>

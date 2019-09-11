@@ -5,6 +5,8 @@ date: Wed, 11 Sep 2019 12:17:49 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2301240"
 feature_image: "https://nos.nl/data/image/2019/09/11/576524/1008x567.jpg"
+aantal: 206
+unieke: 144
 ---
 
 <p>Verspreid over tien landen zijn 281 verdachten van internetoplichting opgepakt. Er is in totaal voor bijna 3,7 miljoen dollar aan geld in beslag genomen, meldt het ministerie van Justitie in de VS.</p>

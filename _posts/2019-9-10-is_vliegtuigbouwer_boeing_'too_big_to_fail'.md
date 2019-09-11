@@ -7,6 +7,8 @@ categories:
 - economie 
 externe_link: "https://nos.nl/l/2301081"
 feature_image: "https://nos.nl/data/image/2019/09/10/576273/1008x567.jpg"
+aantal: 738
+unieke: 418
 ---
 
 <p>Boven op de problemen met de 737 MAX kreeg vliegtuigbouwer Boeing deze week te maken met een nieuw euvel. Tijdens een stresstest met een prototype van de nieuwe 777X sprong de vrachtdeur van het vliegtuig open. Waarom gaat er de laatste tijd zoveel mis bij het Amerikaanse bedrijf?</p>

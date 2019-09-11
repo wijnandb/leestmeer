@@ -2,9 +2,13 @@
 layout: post
 title: "Van der Poel met groot vertoon van macht naar dubbelslag in Groot-Brittannië"
 date: Tue, 10 Sep 2019 17:25:50 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2301151"
 feature_image: "https://nos.nl/data/image/2019/09/10/576377/1008x567.jpg"
+aantal: 150
+unieke: 107
 ---
 
 <p>Mathieu van der Poel heeft de vierde etappe in de Ronde van Groot-Brittannië gewonnen. De renner van Corendon was in de finale van de zware rit naar Kendal superieur en pakte ook de leiderstrui.</p>

@@ -5,6 +5,8 @@ date: Wed, 11 Sep 2019 06:00:02 +0200
 category: politiek
 externe_link: "https://nos.nl/l/2301201"
 feature_image: "https://nos.nl/data/image/2019/09/11/576447/1008x567.jpg"
+aantal: 304
+unieke: 185
 ---
 
 <p>Elektrisch vliegen naar Londen of Oslo? Volgens de VVD en D66 in de Tweede Kamer behoort dit binnenkort tot de mogelijkheden. Om dat te bereiken willen ze dat Nederland veel meer gaat doen om elektrisch vliegen te stimuleren en ook ermee gaat experimenteren. Dat voorstel doen Kamerleden Dijkstra (VVD) en Paternotte (D66) vandaag in een Kamerdebat over de luchtvaart.</p>

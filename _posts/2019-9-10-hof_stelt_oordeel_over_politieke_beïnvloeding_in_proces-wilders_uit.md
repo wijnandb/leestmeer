@@ -5,6 +5,8 @@ date: Tue, 10 Sep 2019 14:18:54 +0200
 category: politiek
 externe_link: "https://nos.nl/l/2301133"
 feature_image: "https://nos.nl/data/image/2019/09/10/576333/1008x567.jpg"
+aantal: 380
+unieke: 214
 ---
 
 <p>De strafzaak tegen PVV-leider Geert Wilders gaat vooralsnog door. Het hof stelt een besluit over de ontvankelijkheid van het Openbaar Ministerie uit, waarschijnlijk tot de einduitspraak. Eventueel wordt er een tussenuitspraak gedaan.</p>

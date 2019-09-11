@@ -7,6 +7,8 @@ categories:
 - autosport 
 externe_link: "https://nos.nl/l/2300719"
 feature_image: "https://nos.nl/data/image/2019/09/07/575639/1008x567.jpg"
+aantal: 239
+unieke: 172
 ---
 
 <p>Sebastian Vettel begint zaterdagmiddag met veel zelfvertrouwen aan de kwalificatie voor de Grand Prix van Italië. De Duitser troefde in de derde en de laatste vrije training op het circuit van Monza met zijn Ferrari Max Verstappen af.</p>

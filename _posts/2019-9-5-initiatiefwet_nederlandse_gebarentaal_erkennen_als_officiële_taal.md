@@ -5,6 +5,8 @@ date: Thu, 05 Sep 2019 20:15:30 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2300498"
 feature_image: "https://nos.nl/data/image/2019/09/05/575221/1008x567.jpg"
+aantal: 431
+unieke: 254
 ---
 
 <p>Al meer dan dertig jaar strijden doven en slechthorenden voor erkenning van hun taal: de Nederlandse Gebarentaal (NGT). Nu komt er zeer waarschijnlijk een doorbraak in deze strijd. ChristenUnie, PvdA en D66 dienen een initiatiefwet in die de erkenning moet regelen.</p>

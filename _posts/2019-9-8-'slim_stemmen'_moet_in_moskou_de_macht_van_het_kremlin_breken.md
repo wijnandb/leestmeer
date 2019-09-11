@@ -5,6 +5,8 @@ date: Sun, 08 Sep 2019 16:37:34 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2300846"
 feature_image: "https://nos.nl/data/image/2019/09/08/575881/1008x567.jpg"
+aantal: 696
+unieke: 346
 ---
 
 <p>Het is toch wel een beetje een vreemd gezicht, vandaag bij de stembureau's in Moskou. Oppositieleden die naar binnen gaan om te stemmen. Wekenlang gingen ze de straat op omdat hun kandidaten niet op de lijst kwamen. Maar zonder resultaat. Waarom zou je dan toch gaan stemmen?</p>

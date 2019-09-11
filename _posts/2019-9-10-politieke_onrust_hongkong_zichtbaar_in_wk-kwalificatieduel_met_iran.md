@@ -5,6 +5,8 @@ date: Tue, 10 Sep 2019 22:34:41 +0200
 category: buitenland
 externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/H-Suu1w0hxY/2301190"
 feature_image: "https://nos.nl/data/image/2019/09/10/576430/1008x567.jpg"
+aantal: 240
+unieke: 161
 ---
 
 <p>Waar het Nederlands elftal en de rest van Europa nog volop bezig is met kwalificatie voor het EK van volgend jaar, daar is men in Azië al bezig met de kwalificatie voor het WK van 2022. Zo speelde onder meer Hongkong, dat de laatste weken vooral in het nieuws kwam vanwege protesten tegen China, zijn tweede wedstrijd in WK-kwalificatiegroep C, tegen Iran.</p>

@@ -7,6 +7,8 @@ categories:
 - tennis 
 externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/nBC1aOgKyD8/2300149"
 feature_image: "https://nos.nl/data/image/2019/09/03/574641/1008x567.jpg"
+aantal: 198
+unieke: 138
 ---
 
 <p>Gaël Monfils en Stan Wawrinka komen volgend jaar februari in actie op het ABN Amro World Tennis Tournament. De organisatie van het toernooi haalt de Fransman en de Zwitser, de nummers één en twee van dit jaar, ook volgend jaar naar Rotterdam.</p>

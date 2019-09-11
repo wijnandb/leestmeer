@@ -7,6 +7,8 @@ categories:
 - tennis 
 externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/iqvGVfRGmiA/2300244"
 feature_image: "https://nos.nl/data/image/2019/09/03/574789/1008x567.jpg"
+aantal: 245
+unieke: 163
 ---
 
 <p>Daniil Medvedev heeft zich voor het eerst geplaatst voor de halve finales van een grandslamtoernooi. De Rus won op de US Open in een hoogstaand duel met 7-6 (6), 6-3, 3-6, 6-1 van Stan Wawrinka uit Zwitserland.</p>

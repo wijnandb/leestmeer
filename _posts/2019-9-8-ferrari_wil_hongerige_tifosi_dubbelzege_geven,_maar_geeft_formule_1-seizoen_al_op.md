@@ -7,6 +7,8 @@ categories:
 - autosport 
 externe_link: "https://nos.nl/l/2300795"
 feature_image: "https://nos.nl/data/image/2019/09/08/575785/1008x567.jpg"
+aantal: 719
+unieke: 426
 ---
 
 <p>Ferrari glimt van trots. Charles Leclerc won vorige week in België zijn eerste Grand Prix en start vandaag op het circuit van Monza van poleposition. Mooie cadeaus op het verjaardagsfeest van de Italiaanse renstal.</p>

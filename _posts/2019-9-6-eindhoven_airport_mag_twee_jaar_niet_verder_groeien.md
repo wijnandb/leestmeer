@@ -7,6 +7,8 @@ categories:
 - economie 
 externe_link: "https://nos.nl/l/2300656"
 feature_image: "https://nos.nl/data/image/2019/09/06/575534/1008x567.jpg"
+aantal: 111
+unieke: 86
 ---
 
 <p>Het vliegveld van Eindhoven moet minder geluidsoverlast veroorzaken en mag daarom tot 2022 niet groeien. Dat schrijft minister Van Nieuwenhuizen (Infrastructuur en Waterstaat) in een brief aan de Tweede Kamer.</p>

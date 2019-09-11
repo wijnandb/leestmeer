@@ -7,6 +7,8 @@ categories:
 - voetbal 
 externe_link: "https://nos.nl/l/2301108"
 feature_image: "https://nos.nl/data/image/2019/09/10/576306/1008x567.jpg"
+aantal: 274
+unieke: 168
 ---
 
 <p>De hevige weerstand tegen revolutionaire wijzigingen in de opzet van Europese competities heeft zijn vruchten afgeworpen. Volgens de BBC zijn de plannen, die in 2024 voor het eerst uitgevoerd zouden worden, 'uitgesteld of geschrapt'.</p>

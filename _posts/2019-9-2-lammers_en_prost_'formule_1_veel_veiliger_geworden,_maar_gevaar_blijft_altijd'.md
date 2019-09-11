@@ -7,6 +7,8 @@ categories:
 - autosport 
 externe_link: "https://nos.nl/l/2300076"
 feature_image: "https://nos.nl/data/image/2019/09/02/574508/1008x567.jpg"
+aantal: 628
+unieke: 359
 ---
 
 <p>Miljoenen zijn er de afgelopen jaren geïnvesteerd in de veiligheid van de auto- en motorsport. Circuits, autofabrikanten, raceteams, ze hebben allemaal veel gedaan om de sport veiliger te krijgen.</p>

@@ -7,6 +7,8 @@ categories:
 - opmerkelijk 
 externe_link: "https://nos.nl/l/2298499"
 feature_image: "https://nos.nl/data/image/2019/08/22/571727/1008x567.jpg"
+aantal: 151
+unieke: 104
 ---
 
 <p>De voorzitter van het parlement in Nieuw-Zeeland, Trevor Mallard, kreeg er gisteren een bijzondere taak bij. Hij nam de zorg op zich voor de baby van een parlementslid van Labour dat bij een debat over de brandstofprijzen moest opdraven. Het debat voorzittend gaf Mallard de zes weken oude baby Tutanekai de fles. "Dit zijn momenten dat ik me enigszins nuttig kan maken", zei hij.</p>

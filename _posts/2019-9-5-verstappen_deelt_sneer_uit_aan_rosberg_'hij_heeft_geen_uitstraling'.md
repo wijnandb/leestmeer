@@ -7,6 +7,8 @@ categories:
 - autosport 
 externe_link: "https://nos.nl/l/2300495"
 feature_image: "https://nos.nl/data/image/2019/09/05/575217/1008x567.jpg"
+aantal: 720
+unieke: 427
 ---
 
 <p>"Max gedroeg zich weer als vanouds. Veel te agressief." Opvallend felle taal van oud-wereldkampioen Nico Rosberg, die zijn kijk gaf op de botsing tussen Max Verstappen en Kimi Räikkönen afgelopen zondag tijdens de Grand Prix van België.</p>

@@ -7,6 +7,8 @@ categories:
 - economie 
 externe_link: "https://nos.nl/l/2301027"
 feature_image: "https://nos.nl/data/image/2019/09/09/576182/1008x567.jpg"
+aantal: 232
+unieke: 149
 ---
 
 <p>Het aandeel Air France-KLM is vandaag op de beurs in Parijs bijna 10 procent gekelderd. Beleggers maken zich zorgen over een mogelijke overname door Air France van de failliete vliegmaatschappij Aigle Azur.</p>

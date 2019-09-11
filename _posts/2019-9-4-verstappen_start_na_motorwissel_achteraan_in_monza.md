@@ -7,6 +7,8 @@ categories:
 - autosport 
 externe_link: "https://nos.nl/l/2300283"
 feature_image: "https://nos.nl/data/image/2019/08/30/573676/1008x567.jpg"
+aantal: 172
+unieke: 121
 ---
 
 <p>Max Verstappen start aanstaande zondag bij de Grand Prix van Italië in de achterhoede. De Nederlander krijgt voor de vierde keer dit seizoen een nieuwe Honda-motor in zijn Red Bull-bolide. Een coureur mag reglementair drie keer per seizoen van motor wisselen, bij de vierde keer volgt een straf.</p>

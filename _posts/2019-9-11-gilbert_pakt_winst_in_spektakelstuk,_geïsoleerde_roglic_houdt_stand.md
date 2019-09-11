@@ -5,6 +5,8 @@ date: Wed, 11 Sep 2019 16:36:09 +0200
 category: sport
 externe_link: "https://nos.nl/l/2301274"
 feature_image: "https://nos.nl/data/image/2019/09/11/576578/1008x567.jpg"
+aantal: 293
+unieke: 195
 ---
 
 <p>De zeventiende etappe in de Ronde van Spanje heeft volstrekt onverwacht voor vuurwerk gezorgd. Dat Philippe Gilbert de rit won (zijn tweede deze Vuelta) was niet zozeer een verrassing, maar dat Nairo Quintana het klassementsleider Primoz Roglic zeer lastig maakte wel.</p>

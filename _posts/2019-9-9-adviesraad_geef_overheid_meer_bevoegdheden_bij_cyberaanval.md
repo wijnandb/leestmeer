@@ -5,6 +5,8 @@ date: Mon, 09 Sep 2019 07:31:08 +0200
 category: tech
 externe_link: "https://nos.nl/l/2300924"
 feature_image: "https://nos.nl/data/image/2019/09/09/576006/1008x567.jpg"
+aantal: 212
+unieke: 139
 ---
 
 <p>De Nederlandse overheid moet toegang krijgen tot digitale systemen van bedrijven bij een cyberaanval op die bedrijven. Zo kan er snel gereageerd worden, om erger te voorkomen.</p>

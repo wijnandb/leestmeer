@@ -7,6 +7,8 @@ categories:
 - royalty 
 externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/ESEiDUtAui8/2301140"
 feature_image: "https://nos.nl/data/image/2019/09/10/576369/1008x567.jpg"
+aantal: 169
+unieke: 114
 ---
 
 <p>Premier Rutte laat op aandringen van de Tweede Kamer toch uitzoeken hoe het precies zit met de inboedel van vier paleizen. NRC meldde gisteren en vandaag dat er dubbel wordt betaald voor het onderhoud en de renovatie van de spullen.</p>

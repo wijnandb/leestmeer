@@ -7,6 +7,8 @@ categories:
 - economie 
 externe_link: "https://nos.nl/l/2300948"
 feature_image: "https://nos.nl/data/image/2019/09/09/576043/1008x567.jpg"
+aantal: 212
+unieke: 142
 ---
 
 <p>Op Schiphol zijn nagenoeg alle vluchten van de Britse luchtvaartmaatschappij British Airways van vandaag en morgen geannuleerd vanwege een grote pilotenstaking.</p>

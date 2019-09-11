@@ -7,6 +7,8 @@ categories:
 - wielrennen 
 externe_link: "https://nos.nl/l/2300610"
 feature_image: "https://nos.nl/data/image/2019/09/06/575414/1008x567.jpg"
+aantal: 187
+unieke: 135
 ---
 
 <p>Primoz Roglic heeft verder afstand genomen van zijn achtervolgers tijdens de dertiende etappe in de Vuelta. De Sloveense rodetruidrager liet de etappezege aan zijn landgenoot Tadej Pogacar.</p>

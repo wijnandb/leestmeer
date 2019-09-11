@@ -7,6 +7,8 @@ categories:
 - schaatsen 
 externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/tPQI7d1ufzo/2279118"
 feature_image: "https://nos.nl/data/image/2019/04/05/541621/1008x567.jpg"
+aantal: 600
+unieke: 368
 ---
 
 <p>Studio Sport bestaat vandaag precies zestig jaar. Niet meer weg te denken van de Nederlandse televisie. "Wat ik wel eens jammer vind, is dat men alles maar als normaal ervaart."</p>

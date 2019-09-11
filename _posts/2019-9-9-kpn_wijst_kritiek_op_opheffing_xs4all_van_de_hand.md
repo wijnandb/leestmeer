@@ -7,6 +7,8 @@ categories:
 - economie 
 externe_link: "https://nos.nl/l/2300949"
 feature_image: "https://nos.nl/data/image/2019/09/09/576045/1008x567.jpg"
+aantal: 253
+unieke: 153
 ---
 
 <p>KPN wijst kritiek van de ondernemingsraad van KPN-dochter XS4ALL van de hand. De ondernemingsraad beschuldigt KPN van wanbeleid en waardevernietiging bij XS4ALL. Zo zou de financiële onderbouwing niet kloppen van een plan om XS4ALL op te heffen en te laten opgaan in KPN. KPN vindt de kritiek ongegrond en "niet in het belang van de bedrijven, de klanten en de medewerkers".</p>

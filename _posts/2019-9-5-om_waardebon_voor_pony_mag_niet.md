@@ -7,6 +7,8 @@ categories:
 - opmerkelijk 
 externe_link: "https://nos.nl/l/2300477"
 feature_image: "https://nos.nl/data/image/2019/09/05/575186/1008x567.jpg"
+aantal: 196
+unieke: 122
 ---
 
 <p>De jaarlijkse paardenmarkt in Alblasserdam is in de fout gegaan door een waardebon voor de aanschaf van een pony uit te reiken. Dat zegt het Openbaar Ministerie, nadat dierenactivisten aangifte hadden gedaan tegen de stichting die de paardenmarkt organiseerde.</p>

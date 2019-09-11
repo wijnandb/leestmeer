@@ -7,6 +7,8 @@ categories:
 - opmerkelijk 
 externe_link: "https://nos.nl/l/2300247"
 feature_image: "https://nos.nl/data/image/2019/09/04/574794/1008x567.jpg"
+aantal: 376
+unieke: 220
 ---
 
 <p>Met de hashtags #PrayforBahamas en #HurricaneDorian wordt veel sterkte gewenst aan de inwoners van de eilanden die de afgelopen twee dagen getroffen werden door orkaan Dorian. Maar niet iedereen is alleen maar bezig met de bewoners, meerdere Instagrammers gebruiken de hashtag om een foto van zichzelf te delen in bikini of zwembroek. Op die posts komt nu veel kritiek: volgens critici doen de Instagrammers aan schaamteloze zelfpromotie terwijl er sprake is van een ramp.</p>

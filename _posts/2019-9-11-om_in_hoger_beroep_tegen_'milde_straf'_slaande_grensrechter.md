@@ -5,6 +5,8 @@ date: Wed, 11 Sep 2019 15:04:59 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2301257"
 feature_image: "https://nos.nl/data/image/2019/09/11/576550/1008x567.jpg"
+aantal: 208
+unieke: 152
 ---
 
 <p>Het Openbaar Ministerie gaat in hoger beroep tegen de straf die een 34-jarige grensrechter uit Haarlem kreeg voor het bewusteloos slaan van een keeper van de Hoofddorpse voetbalclub UNO, meldt NH Nieuws.</p>

@@ -7,6 +7,8 @@ categories:
 - tennis 
 externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/ZLHkNsUa6fM/2300361"
 feature_image: "https://nos.nl/data/image/2019/09/04/574991/1008x567.jpg"
+aantal: 200
+unieke: 138
 ---
 
 <p>De 22-jarige Belinda Bencic is doorgedrongen tot de halve finales van de US Open. Ze is daarmee de eerste Zwitserse die dat presteert sinds Martina Hingis; zij bereikte in 2001 de laatste vier in New York.</p>

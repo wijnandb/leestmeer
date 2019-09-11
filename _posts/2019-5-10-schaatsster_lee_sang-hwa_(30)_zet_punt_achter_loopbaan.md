@@ -7,6 +7,8 @@ categories:
 - schaatsen 
 externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/26Lo7z9VPGo/2284007"
 feature_image: "https://nos.nl/data/image/2019/05/10/549003/1008x567.jpg"
+aantal: 108
+unieke: 85
 ---
 
 <p>Lee Sang-hwa, wereldrecordhoudster en tweevoudig olympisch kampioene op de 500 meter, heeft een punt gezet achter haar schaatsloopbaan.</p>

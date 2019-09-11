@@ -7,6 +7,8 @@ categories:
 - autosport 
 externe_link: "https://nos.nl/l/2299875"
 feature_image: "https://nos.nl/data/image/2019/09/01/574165/1008x567.jpg"
+aantal: 167
+unieke: 122
 ---
 
 <p>Max Verstappen is de tweede seizoenshelft van de Formule 1 dramatisch begonnen. Bij de door Charles Leclerc gewonnen Grand Prix van België viel de Nederlander van Red Bull vlak na de eerste bocht al uit.</p>

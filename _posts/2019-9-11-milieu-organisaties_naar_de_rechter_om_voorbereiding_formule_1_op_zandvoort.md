@@ -5,6 +5,8 @@ date: Wed, 11 Sep 2019 14:57:02 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2301255"
 feature_image: "https://nos.nl/data/image/2019/09/11/576548/1008x567.jpg"
+aantal: 302
+unieke: 194
 ---
 
 <p>De eerste juridische procedures rond de terugkeer van de Formule 1 naar het circuit van Zandvoort nemen een aanvang. Stichting Duinbehoud kondigt samen met onder meer Milieudefensie Haarlem aan naar de rechter te stappen. Ze vinden dat de werkzaamheden stilgelegd moeten worden omdat die kunnen leiden tot onherstelbare natuurschade.</p>

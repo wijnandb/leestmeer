@@ -7,6 +7,8 @@ categories:
 - tennis 
 externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/PABAg4t76ro/2300805"
 feature_image: "https://nos.nl/data/image/2019/09/08/575798/1008x567.jpg"
+aantal: 670
+unieke: 365
 ---
 
 <p>Daniil Medvedev speelt vanavond (22.00 uur) op de US Open zijn eerste grandslamfinale, tegen Rafael Nadal. De 23-jarige Rus, vijfde op de wereldranglijst, is bezig aan de beste periode van zijn loopbaan. Hij wint met fantastisch tennis de ene na de andere wedstrijd, maar op het toernooi in New York kwam ook zijn donkere kant weer naar boven.</p>

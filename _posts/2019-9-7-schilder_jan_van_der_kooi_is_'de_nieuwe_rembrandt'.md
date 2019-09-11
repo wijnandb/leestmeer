@@ -5,6 +5,8 @@ date: Sat, 07 Sep 2019 15:42:09 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2300730"
 feature_image: "https://nos.nl/data/image/2019/09/07/575659/1008x567.jpg"
+aantal: 927
+unieke: 493
 ---
 
 <p>De Friese kunstenaar Jan van der Kooi tekent in de stijl van Rembrandt. Veel landschappen, met kleine kwastjes en zelfgemaakte bamboepennen. Op papier laat hij een eeuwenoud ambacht herleven. Het gerenommeerde Duitse museum Draiflessen is zo onder de indruk, dat het zijn werk samen met etsen van de echte Rembrandt tentoonstelt.</p>

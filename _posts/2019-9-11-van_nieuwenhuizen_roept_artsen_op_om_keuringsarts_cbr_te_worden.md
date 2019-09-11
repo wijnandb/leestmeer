@@ -5,6 +5,8 @@ date: Wed, 11 Sep 2019 10:15:24 +0200
 category: politiek
 externe_link: "https://nos.nl/l/2301227"
 feature_image: "https://nos.nl/data/image/2019/09/11/576502/1008x567.jpg"
+aantal: 210
+unieke: 145
 ---
 
 <p>Minister Van Nieuwenhuizen doet een beroep op gepensioneerde artsen en artsen die in deeltijd werken om zich te melden als keuringsarts bij het Centraal Bureau Rijvaardigheidsbewijzen. Ze zegt dat er "een schreeuwend tekort" is aan mensen die kunnen beoordelen of iemands rijbewijs verlengd kan worden.</p>

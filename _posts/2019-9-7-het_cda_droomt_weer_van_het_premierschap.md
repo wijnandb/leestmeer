@@ -5,6 +5,8 @@ date: Sat, 07 Sep 2019 16:51:11 +0200
 category: nieuws
 externe_link: "https://nos.nl/l/2300740"
 feature_image: "https://nos.nl/data/image/2019/09/07/575674/1008x567.jpg"
+aantal: 371
+unieke: 242
 ---
 
 <p>"We willen gaan winnen. We willen gewoon de volgende verkiezingen winnen." Dat zegt de nieuwe CDA-voorzitter Rutger Ploum tegen Nieuwsuur. Het vertrouwen lijkt helemaal terug bij de partij, aangewakkerd door de discussie wie de nieuwe partijleider moet worden.</p>

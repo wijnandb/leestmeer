@@ -5,6 +5,8 @@ date: Mon, 26 Aug 2019 17:33:10 +0200
 category: tech
 externe_link: "https://nos.nl/l/2299064"
 feature_image: "https://nos.nl/data/image/2019/08/26/572724/1008x567.jpg"
+aantal: 408
+unieke: 217
 ---
 
 <p>De Franse president Macron hoopt dat er op korte termijn een ontmoeting komt tussen de Amerikaanse president Trump en de Iraanse president Rohani. Macron zei in de afsluitende persconferentie van de G7 in Biarritz dat zo'n ontmoeting in de komende weken zou kunnen plaatsvinden.</p>

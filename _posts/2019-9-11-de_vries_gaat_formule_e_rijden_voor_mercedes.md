@@ -5,7 +5,8 @@ date: Wed, 11 Sep 2019 16:58:14 +0200
 category: sport
 externe_link: "https://nos.nl/l/2301277"
 feature_image: "https://nos.nl/data/image/2019/09/11/576582/1008x567.jpg"
-woorden: 258
+aantal: 258
+unieke: 152
 ---
 
 <p>De Nederlandse coureur Nyck de Vries zal volgend seizoen uitkomen in de Formule E. De Vries heeft een contract getekend bij het team van Mercedes, dat komend seizoen voor het eerst aan de elektrische raceklasse mee zal doen.</p>

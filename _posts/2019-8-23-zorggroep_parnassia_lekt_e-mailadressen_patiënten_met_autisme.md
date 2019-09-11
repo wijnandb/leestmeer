@@ -5,6 +5,8 @@ date: Fri, 23 Aug 2019 14:05:16 +0200
 category: tech
 externe_link: "https://nos.nl/l/2298654"
 feature_image: "https://nos.nl/data/image/2019/08/23/571986/1008x567.jpg"
+aantal: 378
+unieke: 231
 ---
 
 <p>E-mailadressen van patiënten van zorggroep Parnassia zijn verspreid door een fout van een medewerker. De verzender plakte alle e-mailadressen per abuis niet in het bcc-veld, maar in het normale 'to'-veld, meldt een anonieme tipgever aan de NOS.</p>

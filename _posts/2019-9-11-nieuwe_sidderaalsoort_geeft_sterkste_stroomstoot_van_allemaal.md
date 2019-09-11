@@ -5,6 +5,8 @@ date: Wed, 11 Sep 2019 10:49:50 +0200
 category: buitenland
 externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/DERlqlO3Ob0/2301232"
 feature_image: "https://nos.nl/data/image/2019/09/11/576509/1008x567.jpg"
+aantal: 288
+unieke: 193
 ---
 
 <p>In de Amazonedelta zijn twee nieuwe soorten sidderaal ontdekt. Een ervan, de Electrophorus voltai, kan een stroomschok geven van 860 volt. Dat is een nieuw record; tot nu toe was 650 het hoogste voltage ooit gemeten bij sidderalen.</p>

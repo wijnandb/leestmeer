@@ -5,6 +5,8 @@ date: Mon, 02 Sep 2019 18:00:10 +0200
 category: tech
 externe_link: "https://nos.nl/l/2300067"
 feature_image: "https://nos.nl/data/image/2019/09/02/574496/1008x567.jpg"
+aantal: 522
+unieke: 274
 ---
 
 <p>Nederland heeft Israël en de Verenigde Staten geholpen met een omvangrijke hackaanval op het Iraanse nucleaire programma. Een door de AIVD gerekruteerde monteur won inlichtingen in en bracht uiteindelijk een malafide computerprogramma naar binnen.</p>

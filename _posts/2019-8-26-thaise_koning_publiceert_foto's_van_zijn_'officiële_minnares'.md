@@ -7,6 +7,8 @@ categories:
 - royalty 
 externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/UiCScAY2tkk/2299098"
 feature_image: "https://nos.nl/data/image/2019/08/26/572779/1008x567.jpg"
+aantal: 260
+unieke: 165
 ---
 
 <p>De Thaise koning Rama X heeft voor het eerst foto's vrijgegeven van de vrouw die hij vorige maand benoemde tot zijn 'koninklijke edele gemalin'.</p>

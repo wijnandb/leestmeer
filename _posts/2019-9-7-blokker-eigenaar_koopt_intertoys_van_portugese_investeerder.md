@@ -7,6 +7,8 @@ categories:
 - economie 
 externe_link: "https://nos.nl/l/2300734"
 feature_image: "https://nos.nl/data/image/2019/09/08/575763/1008x567.jpg"
+aantal: 252
+unieke: 172
 ---
 
 <p>De huidige eigenaar van Blokker koopt de speelgoedwinkels Intertoys en het Belgische Maxi Toys van het Portugese investeringsfonds Green Swan. Eerder vielen de speelgoedwinkels ook al onder Blokker, maar in de afgelopen jaren waren ze van de hand gedaan.</p>
