@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301200"
 feature_image: "https://nos.nl/data/image/2019/09/11/576446/1008x567.jpg"
 aantal: 327
 unieke: 204
+bron: NOS
 ---
 
 <p>In de nieuwste Peilingwijzer is de VVD bijna twee keer zo groot als de achtervolgers. De partij van premier Rutte stijgt naar 30 tot 34 Kamerzetels. Daarachter komen GroenLinks (15 tot 19 zetels), CDA en PvdA (beide 13 tot 17).</p>

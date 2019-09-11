@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2300482"
 feature_image: "https://nos.nl/data/image/2019/09/05/575201/1008x567.jpg"
 aantal: 363
 unieke: 207
+bron: NOS
 ---
 
 <p>Als een aardappelveld onder water komt te staan, is de oogst binnen 24 uur verwoest. Maar niet alle planten verdrinken zo makkelijk: sommige weten hoe ze in een 'survivalmodus' moeten gaan en overleven. Wetenschappers aan de Universiteit Utrecht hebben ontdekt hoe dat werkt, en met die kennis kan mogelijk een overstromingsschade van honderden miljoenen worden voorkomen.</p>

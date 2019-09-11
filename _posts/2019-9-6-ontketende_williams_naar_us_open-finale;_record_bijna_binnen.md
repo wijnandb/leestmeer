@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/T2FFIXFDiY8/2300520"
 feature_image: "https://nos.nl/data/image/2019/09/06/575257/1008x567.jpg"
 aantal: 345
 unieke: 217
+bron: NOS
 ---
 
 <p>Serena Williams heeft zich geplaatst voor de finale van de US Open en is daardoor - voor de vierde keer - nog maar een overwinning verwijderd van evenaring van Margaret Courts recordaantal van 24 grandslamtitels.</p>

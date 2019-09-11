@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2299363"
 feature_image: "https://nos.nl/data/image/2019/08/28/573182/1008x567.jpg"
 aantal: 297
 unieke: 191
+bron: NOS
 ---
 
 <p>Het allereerste filiaal van Costco, een van origine Amerikaanse supermarktketen, werd gisteren geopend in Shanghai, China. En dat was een succes. Zo'n groot succes dat de drukte omsloeg in chaos en de winkel na vijf uur de deuren moest sluiten.</p>

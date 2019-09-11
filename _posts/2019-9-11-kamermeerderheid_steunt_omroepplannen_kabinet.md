@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301281"
 feature_image: "https://nos.nl/data/image/2019/09/11/576589/1008x567.jpg"
 aantal: 266
 unieke: 160
+bron: NOS
 ---
 
 <p>De meerderheid in de Tweede Kamer steunt in grote lijnen de plannen van minister Slob voor de media. Maar in een Kamerdebat bleek dat eigenlijk alleen de coalitiepartijen achter de voorstellen staan en dat er ook nog veel moet worden uitgewerkt. Slob benadrukte in de Kamer dat de "uitwerking niet vrijblijvend is, maar ook niet in beton gegoten".</p>

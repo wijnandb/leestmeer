@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/S_eSAtsWTxs/229773
 feature_image: "https://nos.nl/data/image/2019/08/16/570468/1008x567.jpg"
 aantal: 777
 unieke: 442
+bron: NOS
 ---
 
 <p>Prinses Christina, vanmorgen overleden op 72-jarige leeftijd, was niet alleen de jongste, maar ook de minst bekende dochter van koningin Juliana en prins Bernhard. De prinses, geboren als Marijke, hield niet van publiciteit en prefereerde een leven buiten de schijnwerpers. "Een alledaags leven leiden. Daar houd ik van en daar geloof ik in."</p>

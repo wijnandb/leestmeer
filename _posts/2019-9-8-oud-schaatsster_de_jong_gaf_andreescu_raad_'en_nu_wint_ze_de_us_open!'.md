@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/pOIJdiH0juQ/2300898"
 feature_image: "https://nos.nl/data/image/2019/09/09/576030/1008x567.jpg"
 aantal: 403
 unieke: 255
+bron: NOS
 ---
 
 <p>"Ik weet niet of ze me nog kan herinneren, maar heel misschien heb ik een klein beetje bijgedragen aan haar succes." Aan de telefoon praat oud-schaatsster Tonny de Jong vanuit Canada over de nieuwe sensatie in het vrouwentennis, Bianca Andreescu.</p>

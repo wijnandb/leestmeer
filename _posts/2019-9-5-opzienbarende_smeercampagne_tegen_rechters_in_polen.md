@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2300478"
 feature_image: "https://nos.nl/data/image/2019/09/05/575189/1008x567.jpg"
 aantal: 829
 unieke: 448
+bron: NOS
 ---
 
 <p>"Hoe ver zijn we gekomen in de Europese Unie, als rechters bang moeten zijn om het voorwerp van een lastercampagne te worden, alleen omdat ze met een lid van de Europese Commissie praten? We moeten krachtig optreden tegen een dergelijke vorm van misbruik", zegt Eurocommissaris Frans Timmermans vandaag.</p>

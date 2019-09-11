@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301258"
 feature_image: "https://nos.nl/data/image/2019/09/11/576551/1008x567.jpg"
 aantal: 89
 unieke: 70
+bron: NOS
 ---
 
 <p>In Amsterdam-Zuid is de politie vanmiddag uitgerukt voor een in afvalzakken gewikkelde pop, die was gedumpt bij een aantal vuilcontainers. Door de vorm leek het te gaan om een lijk.</p>

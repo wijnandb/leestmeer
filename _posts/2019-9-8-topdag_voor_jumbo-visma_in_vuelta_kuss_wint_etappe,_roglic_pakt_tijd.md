@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2300858"
 feature_image: "https://nos.nl/data/image/2019/09/08/575954/1008x567.jpg"
 aantal: 393
 unieke: 233
+bron: NOS
 ---
 
 <p>De vijftiende etappe in de Ronde van Spanje is gewonnen door Sepp Kuss. De 24-jarige Amerikaan van Jumbo-Visma mocht in de zware bergetappe van Tineo naar Santuario del Acebo voor eigen kansen gaan en toonde zich vervolgens de beste klimmer uit een kopgroep van zeventien.</p>

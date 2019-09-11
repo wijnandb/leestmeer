@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2301098"
 feature_image: "https://nos.nl/data/image/2019/09/10/576298/1008x567.jpg"
 aantal: 200
 unieke: 131
+bron: NOS
 ---
 
 <p>Een echtpaar uit de Amerikaanse staat Pennsylvania is aangeklaagd wegens diefstal nadat ze in mum van tijd ruim een ton hadden uitgegeven, die per ongeluk op hun rekening was gestort.</p>

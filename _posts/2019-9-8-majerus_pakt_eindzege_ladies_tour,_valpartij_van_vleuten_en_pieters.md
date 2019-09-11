@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2300837"
 feature_image: "https://nos.nl/data/image/2019/09/08/575859/1008x567.jpg"
 aantal: 331
 unieke: 206
+bron: NOS
 ---
 
 <p>Christine Majerus heeft de Boels Ladies Tour op haar naam gezet. De Luxemburgse wielrenster ging al aan de leiding na zaterdag en finishte in de door Chiara Consonni gewonnen slotetappe in de eerste groep.</p>

@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301231"
 feature_image: "https://nos.nl/data/image/2019/09/11/576506/1008x567.jpg"
 aantal: 1012
 unieke: 560
+bron: NOS
 ---
 
 <p>De boel op scherp zetten, dat was aan Henny van Schoonhoven wel besteed. Tot op de dag van vandaag wordt in de Domstad met weemoed aan deze beresterke verdediger teruggedacht.</p>

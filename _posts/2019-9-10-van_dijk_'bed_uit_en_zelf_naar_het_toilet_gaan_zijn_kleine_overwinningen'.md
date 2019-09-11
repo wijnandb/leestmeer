@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301183"
 feature_image: "https://nos.nl/data/image/2019/09/10/576420/1008x567.jpg"
 aantal: 236
 unieke: 168
+bron: NOS
 ---
 
 <p>Normaal gesproken zou Ellen van Dijk vandaag op de tijdritfiets een training afgewerkt hebben. In plaats daarvan ligt ze thuis in haar bed, met een bekkenfactuur en een gebroken schouder. De WK, het grote doel van de wielrenster dit jaar, moet ze uit haar hoofd zetten.</p>

@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2299885"
 feature_image: "https://nos.nl/data/image/2019/09/01/574197/1008x567.jpg"
 aantal: 352
 unieke: 223
+bron: NOS
 ---
 
 <p>Ferrari heeft bij de Grand Prix van België zijn eerste zege van dit Formule 1-seizoen geboekt. Uitgerekend Charles Leclerc was daar verantwoordelijk voor. De 21-jarige Monegask verloor gisteren zijn jeugdvriend Anthoine Hubert, die op hetzelfde circuit verongelukte in de Formule 2.</p>

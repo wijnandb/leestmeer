@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301248"
 feature_image: "https://nos.nl/data/image/2019/09/11/576538/1008x567.jpg"
 aantal: 283
 unieke: 172
+bron: NOS
 ---
 
 <p>Diederik Samsom wordt de nieuwe rechterhand van Frans Timmermans. Hij wordt zijn kabinetschef.</p>

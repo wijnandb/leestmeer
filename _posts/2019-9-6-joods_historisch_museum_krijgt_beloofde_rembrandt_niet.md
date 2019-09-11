@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2300648"
 feature_image: "https://nos.nl/data/image/2019/09/06/575515/1008x567.jpg"
 aantal: 549
 unieke: 292
+bron: NOS
 ---
 
 <p>Het werd in 1631 geschilderd, kwam in Amerika terecht bij een rijke verzamelaar, die het schonk aan de staat Israël. En volgende week zou 'De knielende Petrus' van Rembrandt voor het eerst in 120 jaar terug zijn in Nederland en te zien zijn op een tentoonstelling in het Joods Historisch Museum. Maar dat loopt anders.</p>

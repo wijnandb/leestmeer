@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2301195"
 feature_image: "https://nos.nl/data/image/2019/09/11/576440/1008x567.jpg"
 aantal: 161
 unieke: 104
+bron: NOS
 ---
 
 <p>De uitstoot van broeikasgassen lag vorig jaar 15 procent lager dan in 1990. De economie is in die periode bijna 80 procent groter geworden, de bevolking groeide met 15 procent, meldt het Centraal Bureau voor de Statistiek. In vergelijking met 2017 was de uitstoot 2 procent lager.</p>

@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2298061"
 feature_image: "https://nos.nl/data/image/2019/08/18/571081/1008x567.jpg"
 aantal: 310
 unieke: 198
+bron: NOS
 ---
 
 <p>De veiling van een verre voorloper van de Porsche 911 bij het Amerikaanse veilinghuis Sotheby's is behoorlijk in de soep gelopen. Minutenlang leek het prototype op weg naar een enorm bedrag. Veertig miljoen, vijftig, zestig, zeventig miljoen dollar passeerden voor het model dat eind jaren 30 in nazi-Duitsland door Ferdinand Porsche was ontworpen.</p>

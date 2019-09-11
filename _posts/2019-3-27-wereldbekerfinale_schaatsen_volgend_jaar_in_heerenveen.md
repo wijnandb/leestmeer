@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/qGZAdI7u3mA/2277884"
 feature_image: "https://nos.nl/data/image/2019/03/27/539790/1008x567.jpg"
 aantal: 167
 unieke: 121
+bron: NOS
 ---
 
 <p>De internationale schaatselite sluit het seizoen volgend jaar af in Heerenveen. Daar wordt in het weekend van 7 en 8 maart de wereldbekerfinale verreden.</p>

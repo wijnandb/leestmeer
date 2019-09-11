@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/XiGEwfVdZjw/230106
 feature_image: "https://nos.nl/data/image/2019/09/10/576256/1008x567.jpg"
 aantal: 194
 unieke: 146
+bron: NOS
 ---
 
 <p>De Nederlandse staat heeft in de jaren 80 miljoenen voor meubelstukken van prinses Juliana betaald terwijl ze al staatseigendom waren. Dat meldt NRC op basis van eigen onderzoek naar de aankoop van vier paleisinventarissen, tussen 1982 en 2009.</p>

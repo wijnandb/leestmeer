@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/VtGrM6bOFXw/2297728"
 feature_image: "https://nos.nl/data/image/2019/08/16/570462/1008x567.jpg"
 aantal: 121
 unieke: 92
+bron: NOS
 ---
 
 <p>Simon Schouten stopt per direct met marathonschaatsen. De 28-jarige Noord-Hollander neemt de tulpenbroeierij van zijn vader over en heeft om die reden te weinig tijd om nog te kunnen schaatsen.</p>

@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/lRhwHQ2ioXc/2292827"
 feature_image: "https://nos.nl/data/image/2019/07/10/562437/1008x567.jpg"
 aantal: 210
 unieke: 148
+bron: NOS
 ---
 
 <p>Schaatser Lee Seung-hoon is voor een jaar geschorst wegens het mishandelen van twee jongere teamgenoten. Hij kan nog in beroep gaan bij het olympisch comité van Zuid-Korea.</p>

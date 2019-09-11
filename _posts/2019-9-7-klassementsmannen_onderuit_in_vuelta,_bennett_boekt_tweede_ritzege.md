@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2300745"
 feature_image: "https://nos.nl/data/image/2019/09/07/575707/1008x567.jpg"
 aantal: 219
 unieke: 150
+bron: NOS
 ---
 
 <p>Sam Bennett heeft zijn tweede ritzege te pakken in de Vuelta. De Ierse sprinter van Bora-Hansgrohe was de snelste in de straten van Oviedo, maar de sprint werd ontsierd door een massale valpartij in de laatste kilometer.</p>

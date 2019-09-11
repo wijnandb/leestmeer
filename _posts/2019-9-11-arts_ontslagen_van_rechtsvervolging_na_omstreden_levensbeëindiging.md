@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301245"
 feature_image: "https://nos.nl/data/image/2019/09/11/576529/1008x567.jpg"
 aantal: 329
 unieke: 177
+bron: NOS
 ---
 
 <p>Een verpleeghuisarts die het leven heeft beëindigd van een zwaar demente patiënt, is ontslagen van rechtsvervolging. Volgens de rechtbank in Den Haag is de euthanasie zorgvuldig volgens de regels uitgevoerd en is er dus geen sprake van moord. Het OM vindt dat dit wel het geval was.</p>

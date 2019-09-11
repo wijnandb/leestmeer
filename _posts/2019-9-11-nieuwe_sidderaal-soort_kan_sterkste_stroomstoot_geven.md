@@ -7,6 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/jeugdjournaal/~3/ukbApDbKnnY/2301275"
 feature_image: "https://nos.nl/data/image/2019/09/11/576509/1008x567.jpg"
 aantal: 105
 unieke: 82
+bron: NOS
 ---
 
 <p>In het Amazonegebied is een nieuwe sidderaal-soort ontdekt. De soort is bijzonder omdat die veel sterkere stroomstoten kan geven dan andere soorten.</p>

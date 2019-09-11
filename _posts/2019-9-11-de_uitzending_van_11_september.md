@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301264"
 feature_image: "https://nos.nl/data/image/2019/09/11/576561/1008x567.jpg"
 aantal: 163
 unieke: 124
+bron: NOS
 ---
 
 <h2>Onderzoek naar onderwijs op islamitische basisscholen</h2>

@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301261"
 feature_image: "https://nos.nl/data/image/2019/09/11/576587/1008x567.jpg"
 aantal: 441
 unieke: 273
+bron: NOS
 ---
 
 <p>De regeringspartijen VVD, CDA, D66 en ChristenUnie willen geen Kamerdebat over de 'minder-Marokkanen'-strafzaak tegen PVV-leider Wilders zolang de rechter nog geen uitspraak heeft gedaan.</p>

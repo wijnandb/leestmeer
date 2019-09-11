@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/E8qW9xpAOVw/230095
 feature_image: "https://nos.nl/data/image/2019/09/09/576053/1008x567.jpg"
 aantal: 435
 unieke: 259
+bron: NOS
 ---
 
 <p>Premier Rutte denkt dat het Koninklijk Huis geen dubbele vergoeding heeft gekregen voor het onderhoud van de inboedel van de paleizen. In een reactie op een artikel van NRC zegt hij dat de exacte betaling van restauratie van allerlei spullen "verschrikkelijk ingewikkeld" is.</p>

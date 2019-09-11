@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2298376"
 feature_image: "https://nos.nl/data/image/2019/08/21/571569/1008x567.jpg"
 aantal: 206
 unieke: 131
+bron: NOS
 ---
 
 <p>De Duitse politie heeft een wel erg jonge joyrider gepakt in de buurt van de plaats Soest, ten oosten van de stad Dortmund. Een jongen van 8 was met de auto van zijn moeder een stukje gaan rijden.</p>

@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2299409"
 feature_image: "https://nos.nl/data/image/2019/08/23/572019/1008x567.jpg"
 aantal: 375
 unieke: 215
+bron: NOS
 ---
 
 <p>Een reeks telefoons van Huawei die dit najaar op de markt komt, kan niet worden verkocht met een Android-licentie. Een woordvoerder van Google in Nederland bevestigt berichtgeving hierover van persbureau Reuters.</p>

@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2300741"
 feature_image: "https://nos.nl/data/image/2019/09/07/575675/1008x567.jpg"
 aantal: 121
 unieke: 98
+bron: NOS
 ---
 
 <p>Dylan Groenewegen heeft de eerste rit van de Ronde van Groot-Brittannië op zijn naam geschreven. Na 201,5 kilometer over Schotse wegen was hij Davide Cimolai en Matteo Trentin te snel af in de sprint.</p>

@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/XXhXHDhlKAI/229879
 feature_image: "https://nos.nl/data/image/2019/08/24/572177/1008x567.jpg"
 aantal: 210
 unieke: 141
+bron: NOS
 ---
 
 <p>De Britse prins Andrew ontkent dat hij ooit getuige is geweest van misdaden in de tijd die hij met de Amerikaanse multimiljonair Epstein doorbracht.</p>

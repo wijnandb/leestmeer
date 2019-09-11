@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301100"
 feature_image: "https://nos.nl/data/image/2019/09/10/576326/1008x567.jpg"
 aantal: 272
 unieke: 155
+bron: NOS
 ---
 
 <p>Advocaat Knoops vindt dat het proces tegen zijn cliënt Geert Wilders meteen moet stoppen. Uit mails die vorige week naar buiten zijn gekomen, blijkt dat hoge ambtenaren van het ministerie van Justitie zich hebben bemoeid met de manier waarop de PVV-leider moet worden vervolgd vanwege zijn 'minder Marokkanen'-uitspraak.</p>

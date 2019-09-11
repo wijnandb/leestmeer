@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301282"
 feature_image: "https://nos.nl/data/image/2019/09/11/576590/1008x567.jpg"
 aantal: 232
 unieke: 166
+bron: NOS
 ---
 
 <p>Visboer en hobbyfotograaf Dick van Duijn uit Noordwijk geniet ineens internationale bekendheid. Een door hem gemaakte foto van een eekhoorn die ruikt aan een paardenbloem gaat de wereld over. "Mijn foto staat in alle grote media", zegt de verbaasde man tegen Omroep West.</p>

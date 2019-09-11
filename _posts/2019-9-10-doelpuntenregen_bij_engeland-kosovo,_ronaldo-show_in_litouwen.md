@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301191"
 feature_image: "https://nos.nl/data/image/2019/09/10/576431/1008x567.jpg"
 aantal: 337
 unieke: 239
+bron: NOS
 ---
 
 <p>Engeland heeft in een doelpuntrijk EK-kwalificatieduel afgerekend met Kosovo. Mede door twee goals van Jadon Sancho werd het liefst 5-3.</p>

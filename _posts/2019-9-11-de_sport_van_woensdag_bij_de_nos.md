@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301202"
 feature_image: "https://nos.nl/data/image/2019/09/11/576449/1008x567.jpg"
 aantal: 192
 unieke: 133
+bron: NOS
 ---
 
 <p>De Nederlandse honkballers kunnen vandaag een stap zetten richting het kwalificatietoernooi voor de Olympische Spelen, als tijdens het EK in de poulefase een plek in de kwartfinales wordt veiliggesteld.</p>

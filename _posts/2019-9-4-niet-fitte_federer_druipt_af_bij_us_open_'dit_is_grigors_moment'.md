@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/qofwX37Z4Qw/2300253"
 feature_image: "https://nos.nl/data/image/2019/09/04/574803/1008x567.jpg"
 aantal: 322
 unieke: 210
+bron: NOS
 ---
 
 <p>Roger Federer heeft de kwartfinales van de US Open niet overleefd. De twintigvoudig grandslamkampioen verloor in New York voor het eerst in acht ontmoetingen van de ongeplaatste Grigor Dimitrov: 6-3, 4-6, 6-3, 4-6, 2-6.</p>

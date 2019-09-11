@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301266"
 feature_image: "https://nos.nl/data/image/2019/09/11/576562/1008x567.jpg"
 aantal: 156
 unieke: 112
+bron: NOS
 ---
 
 <p>De basketballers van Frankrijk hebben in de kwartfinales van het WK in China voor een daverende verrassing gezorgd door de Verenigde Staten te verslaan. Frankrijk won in Dongguan met 89-79.</p>

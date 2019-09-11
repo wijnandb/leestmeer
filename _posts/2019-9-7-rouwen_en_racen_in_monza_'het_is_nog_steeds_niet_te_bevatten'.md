@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2300699"
 feature_image: "https://nos.nl/data/image/2019/09/07/575607/1008x567.jpg"
 aantal: 640
 unieke: 372
+bron: NOS
 ---
 
 <p>Een week na het verongelukken van Anthoine Hubert pakt de Formule 2 de draad weer op. In Italië staan twee races op het programma. Het afscheid van de Franse coureur volgt dinsdag: dan is de uitvaart. Drie Nederlandse ooggetuigen blikken terug op het rampweekend in Spa-Francorchamps.</p>

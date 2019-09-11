@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2301005"
 feature_image: "https://nos.nl/data/image/2019/08/04/568172/1008x567.jpg"
 aantal: 245
 unieke: 173
+bron: NOS
 ---
 
 <p>Bondscoaches Koos Moerenhout en Loes Gunnewijk hebben hun selecties bekendgemaakt voor de WK wielrennen op de weg. Die worden van 22 tot en met 29 september gehouden in het Engelse graafschap Yorkshire.</p>

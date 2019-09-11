@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2299675"
 feature_image: "https://nos.nl/data/image/2019/08/30/573755/1008x567.jpg"
 aantal: 172
 unieke: 125
+bron: NOS
 ---
 
 <p>Het account van Twitter-topman Jack Dorsey is korte tijd gehackt geweest. Rond 21.45 uur werden via @jack zo'n twintig tweets verstuurd, waarin onder meer een racistische leus werd geuit en werd gezegd dat er een bom lag op het hoofdkantoor van het bedrijf in San Francisco. Een klein halfuur later waren ze weer verwijderd.</p>

@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2300780"
 feature_image: "https://nos.nl/data/image/2019/09/07/575738/1008x567.jpg"
 aantal: 145
 unieke: 110
+bron: NOS
 ---
 
 <p>Hij zit er al wat langer, maar deze week was toch echt de vuurdoop voor de premier van het Verenigd Koninkrijk Boris Johnson. Vechtend voor welke brexit dan ook, als het eind oktober maar gebeurt.</p>

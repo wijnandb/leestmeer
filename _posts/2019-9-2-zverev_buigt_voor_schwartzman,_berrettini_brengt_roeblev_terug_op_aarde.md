@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/8MNCUU7hz18/2300102"
 feature_image: "https://nos.nl/data/image/2019/09/03/574562/1008x567.jpg"
 aantal: 269
 unieke: 175
+bron: NOS
 ---
 
 <p>Alexander Zverev heeft zich op de US Open in New York niet weten te plaatsen voor de kwartfinales. De Duitse nummer zes van de wereld moest na vier sets het hoofd buigen voor de Argentijn Diego Schwartzman: 6-3, 2-6, 4-6, 3-6.</p>

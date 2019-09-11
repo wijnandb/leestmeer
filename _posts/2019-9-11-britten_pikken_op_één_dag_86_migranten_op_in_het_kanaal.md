@@ -7,6 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/xfnK35wQj3U/2301197
 feature_image: "https://nos.nl/data/image/2019/09/11/576442/1008x567.jpg"
 aantal: 167
 unieke: 120
+bron: NOS
 ---
 
 <p>De Britse grenswacht heeft gisteren 86 migranten opgepikt in het Kanaal. Ze zaten op zes bootjes. De BBC schrijft dat het het hoogste aantal migranten is dat in een dag is opgepikt.</p>

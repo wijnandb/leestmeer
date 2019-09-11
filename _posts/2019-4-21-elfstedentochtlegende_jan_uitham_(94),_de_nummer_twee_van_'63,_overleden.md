@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/gAkoDYKwB_k/2281413"
 feature_image: "https://nos.nl/data/image/2019/04/21/545099/1008x567.jpg"
 aantal: 168
 unieke: 125
+bron: NOS
 ---
 
 <p>Jan Uitham is op 94-jarige leeftijd overleden. De Groninger schaatslegende kwam in de barre Elfstedentocht van 1963 als tweede over de finish, achter Reinier Paping.</p>

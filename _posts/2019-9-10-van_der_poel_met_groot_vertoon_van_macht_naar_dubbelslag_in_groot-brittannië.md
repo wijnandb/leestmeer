@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2301151"
 feature_image: "https://nos.nl/data/image/2019/09/10/576377/1008x567.jpg"
 aantal: 150
 unieke: 107
+bron: NOS
 ---
 
 <p>Mathieu van der Poel heeft de vierde etappe in de Ronde van Groot-Brittannië gewonnen. De renner van Corendon was in de finale van de zware rit naar Kendal superieur en pakte ook de leiderstrui.</p>

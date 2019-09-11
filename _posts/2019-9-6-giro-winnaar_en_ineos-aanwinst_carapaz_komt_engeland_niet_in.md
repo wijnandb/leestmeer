@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2300585"
 feature_image: "https://nos.nl/data/image/2019/09/06/575368/1008x567.jpg"
 aantal: 165
 unieke: 110
+bron: NOS
 ---
 
 <p>Een opvallend bericht van wielerploeg Movistar: Richard Carapaz, de winnaar van de Giro d'Italia en de nieuwe aanwinst van de Britse sterrenformatie Ineos, krijgt geen visum voor Groot-Brittannië.</p>

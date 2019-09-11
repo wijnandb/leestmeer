@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2300725"
 feature_image: "https://nos.nl/data/image/2019/09/07/575713/1008x567.jpg"
 aantal: 194
 unieke: 130
+bron: NOS
 ---
 
 <p>Franziska Koch heeft de vierde etappe in de Boels Ladies Tour gewonnen. Ze was in de rit over 135,6 kilometer haar medevluchtsters Christine Majerus en Riejanne Markus te snel af.</p>

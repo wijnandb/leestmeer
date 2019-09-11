@@ -7,6 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/xC3nxMiDEy4/2301220
 feature_image: "https://nos.nl/data/image/2019/09/11/576531/1008x567.jpg"
 aantal: 165
 unieke: 115
+bron: NOS
 ---
 
 <p>Drie wandelaars in de Amerikaanse staat Californië hebben deze zomer veel geluk gehad. Ze werden gered dankzij een briefje dat ze in een fles hadden gestopt en in het water hadden gegooid.</p>

@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/0UGS8l0m3GM/2300248"
 feature_image: "https://nos.nl/data/image/2019/09/04/574799/1008x567.jpg"
 aantal: 238
 unieke: 164
+bron: NOS
 ---
 
 <p>Met haar honderdste zege op de US Open heeft Serena Williams zich op indrukwekkende wijze geplaatst voor de halve finales in New York. Ze verpletterde de Chinese Wang Qiang met 6-1, 6-0.</p>

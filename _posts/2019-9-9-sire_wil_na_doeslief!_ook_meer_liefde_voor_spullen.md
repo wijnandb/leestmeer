@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2300915"
 feature_image: "https://nos.nl/data/image/2019/09/09/575983/1008x567.jpg"
 aantal: 261
 unieke: 178
+bron: NOS
 ---
 
 <p>Na de campagne #doeslief komt SIRE nu met een campagne die mensen oproept beter voor hun spullen te zorgen. "Waardeer het, repareer het", is het motto van de campagne die vandaag start.</p>

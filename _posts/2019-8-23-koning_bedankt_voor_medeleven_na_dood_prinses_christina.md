@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/HKBmfSb8IpQ/229867
 feature_image: "https://nos.nl/data/image/2019/08/23/572016/1008x567.jpg"
 aantal: 85
 unieke: 64
+bron: NOS
 ---
 
 <p>Koning Willem-Alexander heeft op de Facebookpagina van het Koninklijk Huis namens de familie iedereen bedankt die medeleven heeft getoond na het overlijden van prinses Christina, vorige week vrijdag.</p>

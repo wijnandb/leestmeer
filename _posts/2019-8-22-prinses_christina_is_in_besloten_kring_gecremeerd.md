@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/kLk_gwV_HD4/229849
 feature_image: "https://nos.nl/data/image/2019/08/22/571726/1008x567.jpg"
 aantal: 242
 unieke: 156
+bron: NOS
 ---
 
 <p>Het stoffelijk overschot van prinses Christina is in besloten kring gecremeerd. De crematie volgde na de eveneens besloten afscheidsbijeenkomst in het koetshuis van de Koninklijke Stallen die ruim een uur duurde.</p>

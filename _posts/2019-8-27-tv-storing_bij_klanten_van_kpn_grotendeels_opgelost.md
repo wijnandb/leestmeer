@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2299155"
 feature_image: "https://nos.nl/data/image/2019/08/27/572860/1008x567.jpg"
 aantal: 131
 unieke: 95
+bron: NOS
 ---
 
 <p>Klanten van KPN hebben in een groot deel van het land te maken gehad met een tv-storing. De problemen werden veroorzaakt door een kapotte server.</p>

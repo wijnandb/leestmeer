@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301213"
 feature_image: "https://nos.nl/data/image/2019/09/11/576469/1008x567.jpg"
 aantal: 343
 unieke: 194
+bron: NOS
 ---
 
 <p>Het kabinet stelt 285 miljoen euro beschikbaar voor de arbeidsvoorwaarden in het primair onderwijs. Het geld kan worden besteed aan hogere lonen voor leraren. Minister Slob wil wel dat de sociale partners snel weer met elkaar om de tafel gaan om afspraken te maken over de besteding.</p>

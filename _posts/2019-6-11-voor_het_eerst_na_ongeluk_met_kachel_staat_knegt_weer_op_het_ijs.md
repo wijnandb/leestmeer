@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/rM652jVwhuM/2288568"
 feature_image: "https://nos.nl/data/image/2019/06/11/556061/1008x567.jpg"
 aantal: 204
 unieke: 141
+bron: NOS
 ---
 
 <p>Precies vijf maanden na zijn ongeluk met een houtkachel, waarbij hij ernstige brandwonden opliep, heeft Sjinkie Knegt zijn eerste slagen op het ijs weer kunnen maken. Een volgende fase in het herstel van de shorttracker. Of dat op termijn ook gaat leiden tot een terugkeer op de wedstrijdbaan, is nog ongewis.</p>

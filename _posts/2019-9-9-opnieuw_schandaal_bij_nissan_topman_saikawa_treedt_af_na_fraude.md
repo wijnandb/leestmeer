@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2301001"
 feature_image: "https://nos.nl/data/image/2019/09/09/576136/1008x567.jpg"
 aantal: 225
 unieke: 162
+bron: NOS
 ---
 
 <p>Hiroto Saikawa, topman van het Japanse autoconcern Nissan Motor, treedt af na een beloningsschandaal binnen het bedrijf. Vorige week gaf Saikawa toe dat er gefraudeerd is bij het uitkeren van dividend.</p>

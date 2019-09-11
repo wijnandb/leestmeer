@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301159"
 feature_image: "https://nos.nl/data/image/2019/09/10/576384/1008x567.jpg"
 aantal: 425
 unieke: 262
+bron: NOS
 ---
 
 <p>Kinderen op salafistische moskeescholen leren dat mensen met een ander geloof of levensovertuiging de doodstraf verdienen. Ook leren zij zich af te keren van de Nederlandse samenleving en de beginselen van gelijkheid en vrijheid.</p>

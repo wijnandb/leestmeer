@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301184"
 feature_image: "https://nos.nl/data/image/2019/09/10/576421/1008x567.jpg"
 aantal: 312
 unieke: 193
+bron: NOS
 ---
 
 <p>Jong Oranje is de EK-kwalificatie begonnen met een simpele zege op Cyprus in Doetinchem: 5-1. Na een 1-0 achterstand stelden Teun Koopmeiners, Dani de Wit (twee keer), Kaj Sierhuis en Deyovaisio Zeefuik orde op zaken.</p>

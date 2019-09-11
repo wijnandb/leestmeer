@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2299963"
 feature_image: "https://nos.nl/data/image/2019/09/02/574338/1008x567.jpg"
 aantal: 406
 unieke: 266
+bron: NOS
 ---
 
 <p>ISDN, de techniek die het bijna dertig jaar geleden voor eerst mogelijk maakte om over één telefoonlijn zowel te bellen als te internetten, is bijna geschiedenis. KPN begint vanaf vandaag met het afsluiten van de meeste ISDN-lijnen.</p>

@@ -7,6 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/WAp7bIb25kQ/2301233
 feature_image: "https://nos.nl/data/image/2019/09/11/576511/1008x567.jpg"
 aantal: 102
 unieke: 82
+bron: NOS
 ---
 
 <p>Op tientallen plaatsen in het noorden van Duitsland heeft de politie een inval gedaan vanwege financiering van moslimterrorisme. Een onbekend aantal mensen is opgepakt, melden Duitse media.</p>

@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2301077"
 feature_image: "https://nos.nl/data/image/2019/09/10/576279/1008x567.jpg"
 aantal: 518
 unieke: 297
+bron: NOS
 ---
 
 <p>Hij was afgelopen zomerperiode de duurste aankoop van Liverpool. De Champions League-winnaar maakte bijna twee miljoen euro over naar PEC Zwolle om Sepp van den Berg binnen te halen. En dus staat de pas 17-jarige verdediger tegenwoordig op het veld tussen wereldsterren als Mo Salah, Virgil van Dijk en Roberto Firmino.</p>

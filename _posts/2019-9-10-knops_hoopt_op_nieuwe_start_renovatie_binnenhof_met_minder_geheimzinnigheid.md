@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301146"
 feature_image: "https://nos.nl/data/image/2019/09/10/576367/1008x567.jpg"
 aantal: 494
 unieke: 288
+bron: NOS
 ---
 
 <p>Staatssecretaris Knops hoopt dat de problemen met de renovatie van het Binnenhof voorbij zijn nu het Rotterdamse bureau OMA ermee is gestopt. Knops wil voortaan zo veel mogelijk openbaarheid van de ontwerpen voor het historische complex, maar het is niet duidelijk of de tekeningen nu wel openbaar worden.</p>

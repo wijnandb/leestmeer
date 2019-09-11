@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/ecmX249-R3g/2282000"
 feature_image: "https://nos.nl/data/image/2019/04/25/545933/1008x567.jpg"
 aantal: 607
 unieke: 348
+bron: NOS
 ---
 
 <p>Koen Verweij wil zich komende winter weer onder de internationale schaatselite mengen. De Noord-Hollander, die afgelopen seizoen een sabbatical nam, voegt zich bij Team Reggeborgh, de commerciële formatie van trainer Gerard van Velde en de sprinters Dai Dai Ntab, Kai Verbij en de broers Michel en Ronald Mulder.</p>

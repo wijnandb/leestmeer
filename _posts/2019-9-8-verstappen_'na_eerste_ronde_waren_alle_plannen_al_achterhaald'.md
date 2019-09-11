@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2300850"
 feature_image: "https://nos.nl/data/image/2019/08/31/573936/1008x567.jpg"
 aantal: 232
 unieke: 159
+bron: NOS
 ---
 
 <p>Al zijn plannen konden na de start van de Grand Prix van Italië direct de prullenbak in. Max Verstappen begon al achteraan, raakte bij de start even Sergio Perez en moest naar binnen voor een nieuwe voorvleugel. "Na die eerste ronde waren al onze plannen al achterhaald', constateerde de Nederlandse Formule 1-coureur.</p>

@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2299321"
 feature_image: "https://nos.nl/data/image/2019/08/28/573135/1008x567.jpg"
 aantal: 363
 unieke: 214
+bron: NOS
 ---
 
 <p>Het Amerikaanse ministerie van Justitie wil niet dat de aanleg van een nieuwe internetzeekabel tussen Los Angeles en Hongkong wordt voltooid. Dat zeggen bronnen tegen The Wall Street Journal.</p>

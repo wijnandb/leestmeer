@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2300688"
 feature_image: "https://nos.nl/data/image/2019/09/07/575586/1008x567.jpg"
 aantal: 635
 unieke: 347
+bron: NOS
 ---
 
 <p>Het Openbaar Ministerie maakt zich zorgen over zogeheten deepfakes. Dat zijn filmpjes die met behulp van slimme algoritmes zijn gemanipuleerd. Je kunt iemands hoofd vervangen door dat van iemand anders, of iemand hele andere dingen laten zeggen.</p>

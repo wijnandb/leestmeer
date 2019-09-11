@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301186"
 feature_image: "https://nos.nl/data/image/2019/08/15/570280/1008x567.jpg"
 aantal: 195
 unieke: 142
+bron: NOS
 ---
 
 <p>Het kan nog tot de zomer van 2021 duren voor het CBR de opgelopen wachttijden voor mensen die zich voor een rijbewijs laten keuren heeft weggewerkt, schrijft minister Van Nieuwenhuizen aan de Tweede Kamer. Om orde op zaken te stellen, heeft de minister Pier Eringa, tot voor kort directeur van ProRail, gevraagd het CBR te ondersteunen.</p>

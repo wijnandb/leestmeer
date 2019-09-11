@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2301062"
 feature_image: "https://nos.nl/data/image/2019/09/09/576251/1008x567.jpg"
 aantal: 492
 unieke: 289
+bron: NOS
 ---
 
 <p>Met zijn twee doelpunten tegen Estland (0-4) was Ryan Babel de gevierde man bij het Nederlands elftal. De 32-jarige aanvaller, die in 2005 zijn debuut voor Oranje maakte, lijkt bezig aan zijn tweede jeugd.</p>

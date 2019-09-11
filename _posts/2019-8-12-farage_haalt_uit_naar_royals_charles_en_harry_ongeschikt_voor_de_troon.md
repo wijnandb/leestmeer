@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/wvT85Jc3tec/229727
 feature_image: "https://nos.nl/data/image/2019/08/12/569738/1008x567.jpg"
 aantal: 350
 unieke: 221
+bron: NOS
 ---
 
 <p>De Britse politicus Nigel Farage heeft bij een toespraak in Australië uitgehaald naar meerdere leden van de Britse koninklijke familie. De in 2002 overleden moeder van koningin Elizabeth was volgens hem "een te dikke, kettingrokende gindrinker". Over prins Charles zei Farage: "Charlie Boy en klimaatverandering, lieve help, lieve help".</p>

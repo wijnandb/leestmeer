@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/49o4kY2M8hM/2300505"
 feature_image: "https://nos.nl/data/image/2019/09/05/575231/1008x567.jpg"
 aantal: 511
 unieke: 320
+bron: NOS
 ---
 
 <p>Kiki Bertens zet haar seizoen voort zonder haar vaste coach Raemon Sluiter aan haar zijde. Terwijl de tennisster zaterdag op het vliegtuig stapt voor vier toernooien in Azië, blijft Sluiter thuis.</p>

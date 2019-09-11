@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301110"
 feature_image: "https://nos.nl/data/image/2019/09/10/576308/1008x567.jpg"
 aantal: 382
 unieke: 226
+bron: NOS
 ---
 
 <p>Het kabinet wil dat er veel eerder een eind komt aan de gaswinning in Groningen dan eerder was gepland. Minister Wiebes gaat nu uit van medio 2022. Eerder was nog sprake van 2030. Wiebes zegt verder dat de gaswinning volgend jaar al onder het 'veilige niveau' van 12 miljard kubieke meter komt, namelijk 11,8 miljard, in plaats van de eerder gedachte 15,9 miljard.</p>

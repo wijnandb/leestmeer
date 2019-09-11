@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2300661"
 feature_image: "https://nos.nl/data/image/2019/09/06/575544/1008x567.jpg"
 aantal: 129
 unieke: 101
+bron: NOS
 ---
 
 <p>"We hadden het veel meer over de inhoud moeten hebben. Er was een gebrek aan communicatie." Dat zegt architect Ellen van Loon die was ingehuurd om het Binnenhof te verbouwen. "Ik had nooit verwacht dat we hier terecht zouden komen."</p>

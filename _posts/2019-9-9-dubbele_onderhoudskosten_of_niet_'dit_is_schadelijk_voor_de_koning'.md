@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/6gbUKj3OlNo/230102
 feature_image: "https://nos.nl/data/image/2019/09/09/576184/1008x567.jpg"
 aantal: 409
 unieke: 250
+bron: NOS
 ---
 
 <p>De Oranjes hebben niets verkeerd gedaan, de financiering van de inboedel lijkt in orde en is "verschrikkelijk ingewikkeld". Deze reactie van premier Rutte op het NRC-artikel over dubbele vergoeding voor onderhoud van paleisinventarissen maakt weinig indruk op sociale media.</p>

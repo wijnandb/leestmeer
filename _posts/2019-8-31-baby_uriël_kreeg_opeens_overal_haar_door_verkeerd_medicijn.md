@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2299779"
 feature_image: "https://nos.nl/data/image/2019/08/31/573968/1008x567.jpg"
 aantal: 149
 unieke: 101
+bron: NOS
 ---
 
 <p>Tien maanden oud is-ie, maar hij heeft het lichaamshaar van een volwassen man. De Spaanse baby Uriël heeft het weerwolfsyndroom oftewel hypertrichosis. En hij is niet de enige: zeker twintig kinderen in de leeftijd van enkele weken tot twee jaar hebben recent abnormale haargroei ontwikkeld in Spanje.</p>

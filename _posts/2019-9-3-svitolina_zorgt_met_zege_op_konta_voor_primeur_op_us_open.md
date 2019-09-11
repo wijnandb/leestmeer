@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/zQFja8NhD6s/2300225"
 feature_image: "https://nos.nl/data/image/2019/09/03/574755/1008x567.jpg"
 aantal: 154
 unieke: 112
+bron: NOS
 ---
 
 <p>Jelina Svitolina heeft als eerste Oekraïense de halve finales van de US Open gehaald. De als vijfde geplaatste speelster won in het Arthur Ashe-stadion met 6-4, 6-4 van Johanna Konta.</p>

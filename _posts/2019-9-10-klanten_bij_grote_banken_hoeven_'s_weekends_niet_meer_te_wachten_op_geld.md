@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2301091"
 feature_image: "https://nos.nl/data/image/2019/09/10/576287/1008x567.jpg"
 aantal: 179
 unieke: 118
+bron: NOS
 ---
 
 <p>Alle klanten van de grootste banken kunnen voortaan direct geld naar elkaar overmaken. Het staat binnen een paar seconden op de rekening van de ontvanger, ook 's avonds, in het weekend en op feestdagen.</p>

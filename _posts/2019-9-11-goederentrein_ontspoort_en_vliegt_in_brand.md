@@ -7,6 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/jQXC9hGMmRg/2301225
 feature_image: "https://nos.nl/data/image/2019/09/11/576499/1008x567.jpg"
 aantal: 75
 unieke: 59
+bron: NOS
 ---
 
 <p>In de Verenigde Staten is een goederentrein in brand gevlogen. De trein was naast de rails terecht gekomen en toen ging het mis.</p>

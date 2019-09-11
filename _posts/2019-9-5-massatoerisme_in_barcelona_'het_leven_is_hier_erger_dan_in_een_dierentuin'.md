@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2300463"
 feature_image: "https://nos.nl/data/image/2019/09/05/575152/1008x567.jpg"
 aantal: 643
 unieke: 354
+bron: NOS
 ---
 
 <p>Het aantal overnachtingen door toeristen in Barcelona is de twintig miljoen voorbij. Dat is een verdubbeling in vijftien jaar tijd en de druk van het massatoerisme laat zijn sporen in stad achter. Duizenden inwoners vertrokken al uit het centrum. In hun plaats komen vakantiewoningen en toeristenwinkels.</p>

@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2301228"
 feature_image: "https://nos.nl/data/image/2019/09/11/576503/1008x567.jpg"
 aantal: 336
 unieke: 203
+bron: NOS
 ---
 
 <p>De Amsterdamse wethouder en locoburgemeester Kock stapt op, omdat hij er met de rest van het college niet uitkomt over wat er met de noodlijdende afvalcentrale AEB moet gebeuren. Udo Kock (D66) wil dat de afvalcentrale volledig wordt geprivatiseerd.</p>

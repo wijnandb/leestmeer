@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2298831"
 feature_image: "https://nos.nl/data/image/2019/08/24/572269/1008x567.jpg"
 aantal: 431
 unieke: 260
+bron: NOS
 ---
 
 <p>NASA-astronaut Anne McClain heeft zich mogelijk schuldig gemaakt aan identiteitsfraude en het ongeoorloofd bekijken van de bankrekening van haar ex-vrouw. De inspecteur-generaal van de Amerikaanse ruimtevaartorganisatie doet daar onderzoek naar. De overtreding zou namelijk plaatsgevonden hebben in ruimtestation ISS.</p>

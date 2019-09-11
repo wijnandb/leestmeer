@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/xBAgyYtihzo/2288716"
 feature_image: "https://nos.nl/data/image/2019/03/10/536141/1008x567.jpg"
 aantal: 281
 unieke: 188
+bron: NOS
 ---
 
 <p>Drie maanden na het einde van het schaatsseizoen heeft Kjeld Nuis de Oscar Mathisen-trofee gewonnen. De prijs die ook wel bekend staat als de schaats-Oscar wordt elk jaar in de zomer uitgereikt en gaat voor de veertiende keer naar een Nederlander.</p>

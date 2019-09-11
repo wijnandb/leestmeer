@@ -7,6 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/r_5Ms2HN8Pw/2301223
 feature_image: "https://nos.nl/data/image/2019/09/11/576498/1008x567.jpg"
 aantal: 73
 unieke: 60
+bron: NOS
 ---
 
 <p>Opvallende beelden uit een Italiaanse dorpje. Er kwamen een paar dure auto's langs in een wilde achtervolging. En er was ook een helikopter bij.</p>

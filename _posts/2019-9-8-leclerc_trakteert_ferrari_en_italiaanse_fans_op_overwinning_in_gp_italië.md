@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2300845"
 feature_image: "https://nos.nl/data/image/2019/09/08/575909/1008x567.jpg"
 aantal: 395
 unieke: 260
+bron: NOS
 ---
 
 <p>Charles Leclerc heeft de Grand Prix van Italië gewonnen. De coureur van Ferrari bleef op het circuit in Monza Mercedes-coureurs Valtteri Bottas en Lewis Hamilton voor.</p>

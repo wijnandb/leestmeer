@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301241"
 feature_image: "https://nos.nl/data/image/2019/09/11/576531/1008x567.jpg"
 aantal: 359
 unieke: 238
+bron: NOS
 ---
 
 <p>Curtis Whitson liep en kampeerde samen met zijn vriendin en 13-jaar oude zoon al drie dagen in de ongerepte natuur bij de Californische Salinasrivier toen een metershoge waterval hen de weg versperde.</p>

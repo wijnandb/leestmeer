@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2300754"
 feature_image: "https://nos.nl/data/image/2019/09/07/575698/1008x567.jpg"
 aantal: 297
 unieke: 210
+bron: NOS
 ---
 
 <p>In aanloop naar de Grote Prijs van Italië voorzag Red Bull Racing de bolide van Max Verstappen voor de vierde keer dit seizoen van een nieuwe motor.</p>

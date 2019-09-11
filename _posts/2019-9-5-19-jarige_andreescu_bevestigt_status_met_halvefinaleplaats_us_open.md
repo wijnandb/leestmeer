@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/GGbydc0kv4A/2300393"
 feature_image: "https://nos.nl/data/image/2019/09/05/575030/1008x567.jpg"
 aantal: 211
 unieke: 137
+bron: NOS
 ---
 
 <p>Bianca Andreescu is momenteel niet te kloppen in het vrouwentennis. De 19-jarige Canadese bereikte bij de US Open de halve finales door tegen Elise Mertens haar elfde zege op rij te boeken: 3-6, 6-2, 6-3.</p>

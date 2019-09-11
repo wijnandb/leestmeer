@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/3AsKBZJ1A54/2300955"
 feature_image: "https://nos.nl/data/image/2019/09/09/575999/1008x567.jpg"
 aantal: 93
 unieke: 70
+bron: NOS
 ---
 
 <p>Rafael Nadal heeft in New York voor de vierde keer de US Open gewonnen. Hij was er zo blij mee, dat hij moest huilen.</p>

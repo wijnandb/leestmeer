@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2300739"
 feature_image: "https://nos.nl/data/image/2019/09/07/575672/1008x567.jpg"
 aantal: 177
 unieke: 129
+bron: NOS
 ---
 
 <p>Waar Caleb Ewan twee maanden geleden nog zijn meerdere moest erkennen in Mike Teunissen en Peter Sagan, was hij zaterdag wel de beste in Brussel. De Australiër van Lotto-Soudal was na 189 kilometer de snelste in de 99ste editie van de Brussels Cycling Classic.</p>

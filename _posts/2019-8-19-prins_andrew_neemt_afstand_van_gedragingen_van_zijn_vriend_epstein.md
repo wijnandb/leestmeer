@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/lbBjL7g51tw/229812
 feature_image: "https://nos.nl/data/image/2019/08/19/571174/1008x567.jpg"
 aantal: 251
 unieke: 166
+bron: NOS
 ---
 
 <p>De Britse prins Andrew is ontsteld over berichten over mogelijke misdaden van Jeffrey Epstein. Dat staat in een verklaring die is uitgegeven door Buckingham Palace. De multimiljonair, die zichzelf vorige week het leven benam, was een bekende van de prins.</p>

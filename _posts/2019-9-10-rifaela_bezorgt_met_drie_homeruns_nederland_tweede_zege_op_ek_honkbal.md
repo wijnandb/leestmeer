@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301188"
 feature_image: "https://nos.nl/data/image/2019/09/10/576426/1008x567.jpg"
 aantal: 234
 unieke: 153
+bron: NOS
 ---
 
 <p>De Nederlandse honkballers hebben bij het Europees kampioenschap in Duitsland hun tweede zege geboekt. De ploeg van bondscoach Evert-Jan 't Hoen was in Bonn met 8-1 een maatje te groot voor het gastland en is nu nagenoeg zeker van een plek bij de eerste vier in groep A.</p>

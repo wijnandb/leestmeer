@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/ZQI23StHoyU/2289270"
 feature_image: "https://nos.nl/data/image/2018/12/29/521886/1008x567.jpg"
 aantal: 62
 unieke: 48
+bron: NOS
 ---
 
 <p>De internationale schaatsfederatie ISU heeft een voorlopige schaatskalender voor de seizoenen 2020/2021 en 2021/2022 bekendgemaakt. Heerenveen heeft in het olympische jaar 2022 de Europese afstandskampioenschappen toebedeeld gekregen.</p>

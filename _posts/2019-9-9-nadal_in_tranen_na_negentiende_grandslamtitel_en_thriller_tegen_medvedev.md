@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/OMM0MPjBrds/2300914"
 feature_image: "https://nos.nl/data/image/2019/09/09/575981/1008x567.jpg"
 aantal: 489
 unieke: 281
+bron: NOS
 ---
 
 <p>Rafael Nadal heeft in New York voor de vierde keer de US Open gewonnen. De Spaanse nummer twee van de wereld rekende in een prachtig gevecht met 7-5, 6-3, 5-7, 4-6, 6-4 af met de Rus Daniil Medvedev.</p>

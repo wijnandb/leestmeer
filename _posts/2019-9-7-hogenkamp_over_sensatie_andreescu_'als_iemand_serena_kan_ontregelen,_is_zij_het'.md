@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/ZQgH8Qh2Z68/2300700"
 feature_image: "https://nos.nl/data/image/2019/09/07/575610/1008x567.jpg"
 aantal: 524
 unieke: 329
+bron: NOS
 ---
 
 <p>Winnaarsmentaliteit. Veelzijdig tennis. Niet bang. Volwassen. Dramaqueen. Het zijn etiketten die je moeiteloos op US Open-finaliste Bianca Andreescu kunt plakken. De pas 19-jarige Canadese is zaterdagavond een serieuze bedreiging voor opponente Serena Williams.</p>

@@ -7,6 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/U6wRwc4aWOU/2301217
 feature_image: "https://nos.nl/data/image/2019/09/11/576579/1008x567.jpg"
 aantal: 173
 unieke: 118
+bron: NOS
 ---
 
 <p>Het lichaam van de overleden oud-president Mugabe is aangekomen in Zimbabwe. De 95-jarige overleed afgelopen vrijdag in een ziekenhuis in Singapore, waar zijn lichaam tot vandaag werd bewaard.</p>

@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301273"
 feature_image: "https://nos.nl/data/image/2019/09/11/576572/1008x567.jpg"
 aantal: 582
 unieke: 350
+bron: NOS
 ---
 
 <p>Met het vliegtuig op stedentrip binnen Europa zonder gebruik te maken van fossiele brandstoffen. Als het aan de VVD en D66 ligt gaat Nederland dit mogelijk maken. De partijen willen dat Nederland koploper elektrisch vliegen wordt. Maar hoe ver zijn we eigenlijk al? </p>

@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301155"
 feature_image: "https://nos.nl/data/image/2019/09/10/576382/1008x567.jpg"
 aantal: 88
 unieke: 73
+bron: NOS
 ---
 
 <p>Bert van Marwijk is zijn eerste WK-kwalificatieduel als bondscoach van de Verenigde Arabische Emiraten zonder kleerscheuren doorgekomen. In en tegen Maleisië werd met 2-1 gewonnen.</p>

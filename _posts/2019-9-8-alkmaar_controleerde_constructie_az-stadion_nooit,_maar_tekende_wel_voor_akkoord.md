@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2300887"
 feature_image: "https://nos.nl/data/image/2019/08/30/573643/1008x567.jpg"
 aantal: 1069
 unieke: 531
+bron: NOS
 ---
 
 <p>Het AZ-stadion stortte een maand geleden in, er was dertien jaar niet naar omgekeken. Toch werd voor de controle op de constructie altijd voor akkoord getekend. Een reconstructie.</p>

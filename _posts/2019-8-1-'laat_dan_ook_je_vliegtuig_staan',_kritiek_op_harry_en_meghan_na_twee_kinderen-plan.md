@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/ePbkt7X8cxo/229596
 feature_image: "https://nos.nl/data/image/2019/08/01/567610/1008x567.jpg"
 aantal: 372
 unieke: 236
+bron: NOS
 ---
 
 <p>Het tv-programma Good Morning Britain liet een 'heel gelukkige' familie met 21 kinderen opdraven. The Guardian vraagt in een opiniestuk nu ook de privé-vliegtuigen aan de grond te laten en in de krant Express zegt een Royal-watcher dat prins Harry 'terug moet naar de basis'.</p>

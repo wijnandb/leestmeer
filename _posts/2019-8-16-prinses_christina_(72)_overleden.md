@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/e4bx49wsAes/229772
 feature_image: "https://nos.nl/data/image/2019/08/16/570466/1008x567.jpg"
 aantal: 450
 unieke: 270
+bron: NOS
 ---
 
 <p>Prinses Christina is op 72-jarige leeftijd overleden. Ze leed al enige jaren aan botkanker.</p>

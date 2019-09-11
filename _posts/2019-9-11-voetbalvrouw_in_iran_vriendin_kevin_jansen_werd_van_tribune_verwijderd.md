@@ -7,6 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/yVb_KuvbY0M/2301203
 feature_image: "https://nos.nl/data/image/2019/09/11/576451/1008x567.jpg"
 aantal: 463
 unieke: 249
+bron: NOS
 ---
 
 <p>Madelon Bosman moet nog even heel goed nadenken of ze haar vriend Kevin Jansen nog een keer gaat bezoeken in Iran. Vrouwen zijn niet welkom in Iraanse voetbalstadions, maar toch zat de vriendin van de oud-voetballer van Excelsior, ADO Den Haag en NEC op de tribune bij een wedstrijd van Jansen in Iran. Even dan. Toen werd ze verwijderd.</p>

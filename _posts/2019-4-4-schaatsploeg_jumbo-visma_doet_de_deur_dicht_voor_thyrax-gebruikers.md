@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/xez2y_ytGfk/2279016"
 feature_image: "https://nos.nl/data/image/2019/04/04/541456/1008x567.jpg"
 aantal: 553
 unieke: 341
+bron: NOS
 ---
 
 <p>Schaatsers die het middel Thyrax gebruiken vanwege schildklierproblemen maken geen kans op een plek bij schaatsploeg Jumbo-Visma. Dat heeft de grootste schaatsploeg van Nederland besloten op advies van haar teamarts. Ook wil men beginnen met haaranalyses om schaatsers verder door te lichten.</p>

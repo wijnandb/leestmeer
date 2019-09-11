@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/DraAJooUY9w/2279862"
 feature_image: "https://nos.nl/data/image/2019/04/10/542698/1008x567.jpg"
 aantal: 494
 unieke: 308
+bron: NOS
 ---
 
 <p>Een confrontatie tussen langebaanschaatsers en shorttrackers. Die strijd ziet iedereen helemaal zitten, zo werd woensdag tijdens de presentatie van de Icederby duidelijk. En dat enthousiasme heeft niet alleen een sportieve reden: er is straks namelijk 2 miljoen dollar te verdelen.</p>

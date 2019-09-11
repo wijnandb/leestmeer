@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2301074"
 feature_image: "https://nos.nl/data/image/2019/09/10/576264/1008x567.jpg"
 aantal: 396
 unieke: 241
+bron: NOS
 ---
 
 <p>Jaarlijks raken horecabedrijven 40 procent van hun personeel kwijt, waardoor ze steeds nieuwe mensen moeten aannemen. Dat grote verloop kost bedrijven zo'n 1,4 miljard euro per jaar, oftewel zo'n 6 procent van de totale omzet in de sector, heeft ABN Amro berekend.</p>

@@ -7,6 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/VDP2jeZND3U/2301205
 feature_image: "https://nos.nl/data/image/2019/09/11/576453/1008x567.jpg"
 aantal: 461
 unieke: 298
+bron: NOS
 ---
 
 <p>Goedemorgen! Vandaag doet de rechter uitspraak in eerste rechtszaak ooit tegen een arts die euthanasie uitvoerde. En in de Verenigde Staten wordt 9/11 herdacht. </p>

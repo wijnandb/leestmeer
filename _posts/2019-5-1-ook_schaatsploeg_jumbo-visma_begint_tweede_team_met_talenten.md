@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/Y9juFt-XGkU/2282862"
 feature_image: "https://nos.nl/data/image/2019/05/01/547256/1008x567.jpg"
 aantal: 170
 unieke: 130
+bron: NOS
 ---
 
 <p>Team Jumbo-Visma begint een tweede schaatsploeg voor talenten tussen de 19 en 23 jaar. Coach Jac Orie merkte dat daar veel behoefte aan was.</p>

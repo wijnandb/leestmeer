@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2300125"
 feature_image: "https://nos.nl/data/image/2019/09/03/574594/1008x567.jpg"
 aantal: 371
 unieke: 209
+bron: NOS
 ---
 
 <p>Het plan van KPN om het merk XS4ALL op te doeken krijgt felle kritiek van de ondernemingsraad van XS4ALL. De raad zegt dat er weinig klopt van de berekeningen achter het plan en dreigt met een gang naar de rechter als het plan niet van tafel gaat.</p>

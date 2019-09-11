@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nosnieuwskoningshuis/~3/LXjej-6Y-B0/229848
 feature_image: "https://nos.nl/data/image/2019/08/22/571700/1008x567.jpg"
 aantal: 117
 unieke: 88
+bron: NOS
 ---
 
 <p>De gemeente Baarn heeft het condoleanceregister voor prinses Christina overgedragen aan de koninklijke familie. De afgelopen dagen konden mensen in Baarn, waar de prinses is geboren, een boodschap achterlaten.</p>

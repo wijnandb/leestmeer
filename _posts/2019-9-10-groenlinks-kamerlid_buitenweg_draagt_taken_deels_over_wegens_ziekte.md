@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301142"
 feature_image: "https://nos.nl/data/image/2019/09/10/576361/1008x567.jpg"
 aantal: 193
 unieke: 130
+bron: NOS
 ---
 
 <p>GroenLinks-Kamerlid Kathalijne Buitenweg is ziek. GroenLinks heeft laten weten dat ze darmkanker heeft. Buitenweg blijft in de Kamer en zal waar mogelijk ook meedoen aan debatten, maar ze draagt voorlopig wel een deel van haar taken over aan collega's. Volgens GroenLinks gaat ze "een intensief traject in, gericht op volledig herstel".</p>

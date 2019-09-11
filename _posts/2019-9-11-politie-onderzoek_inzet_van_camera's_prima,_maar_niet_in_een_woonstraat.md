@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301276"
 feature_image: "https://nos.nl/data/image/2019/09/11/576586/1008x567.jpg"
 aantal: 383
 unieke: 235
+bron: NOS
 ---
 
 <p>De politie leunt steeds meer op slimme camera's, slimme microfoons en apparaatjes die je wifi-signaal peilen om te weten dat je langsloopt. Burgers vinden dat in stadscentra prima, maar bijvoorbeeld niet bij hun eigen woning. Ook mogen die slimme sensoren niet leiden tot minder blauw op straat.</p>

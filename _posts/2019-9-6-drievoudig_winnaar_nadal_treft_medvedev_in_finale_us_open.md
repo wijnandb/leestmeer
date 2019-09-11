@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/4SwaYxq06Jg/2300680"
 feature_image: "https://nos.nl/data/image/2019/09/07/575575/1008x567.jpg"
 aantal: 453
 unieke: 266
+bron: NOS
 ---
 
 <p>Rafael Nadal en Daniil Medvedev staan zondag in de finale van de US Open. De Spanjaard klopte Matteo Berrettini met 7-6 (6), 6-4, 6-1 en de Rus was Grigor Dimitrov met 7-6 (5), 6-4, 6-3 de baas.</p>

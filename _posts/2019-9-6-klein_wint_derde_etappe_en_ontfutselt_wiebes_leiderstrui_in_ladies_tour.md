@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2300604"
 feature_image: "https://nos.nl/data/image/2019/09/06/575403/1008x567.jpg"
 aantal: 128
 unieke: 88
+bron: NOS
 ---
 
 <p>Lisa Klein heeft de derde etappe van de Boels Ladies Tour gewonnen. De Duitse klopte Amy Pieters in de sprint van een fraaie kopgroep en is ook de nieuwe leidster in het algemeen klassement.</p>

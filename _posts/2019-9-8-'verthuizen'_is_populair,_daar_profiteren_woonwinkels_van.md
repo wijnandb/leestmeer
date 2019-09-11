@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2300877"
 feature_image: "https://nos.nl/data/image/2019/09/08/575934/1008x567.jpg"
 aantal: 235
 unieke: 178
+bron: NOS
 ---
 
 <p>De woonbranche doet het boven verwachting goed. De sector verwachtte een dip in de verkoopcijfers, maar laat juist een omzetgroei van ruim 6 procent zien. Brancheorganisatie INretail signaleert een nieuwe trend: "verthuizen".</p>

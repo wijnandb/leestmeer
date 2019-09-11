@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/PtXHT3k7ty4/2300386"
 feature_image: "https://nos.nl/data/image/2019/09/05/575039/1008x567.jpg"
 aantal: 313
 unieke: 217
+bron: NOS
 ---
 
 <p>Na de uitschakeling van Roger Federer ruikt Rafael Nadal bij de US Open zijn kans om zijn Zwitserse rivaal tot op een grandslamtitel te naderen. De als tweede geplaatste Spanjaard bereikte ten koste van Diego Schwartzman de laatste vier: 6-4, 7-5, 6-2.</p>

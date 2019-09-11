@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2301003"
 feature_image: "https://nos.nl/data/image/2019/09/09/576138/1008x567.jpg"
 aantal: 720
 unieke: 366
+bron: NOS
 ---
 
 <p>Ruim zes jaar nadat ze moest vertrekken als bestuursvoorzitter van het Slotervaartziekenhuis stond Aysel Erbudak vandaag voor de rechter. Het Openbaar Ministerie verdenkt haar van verduistering van 1,2 miljoen euro en valsheid in geschrifte.</p>

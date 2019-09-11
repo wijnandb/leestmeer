@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2299419"
 feature_image: "https://nos.nl/data/image/2019/08/29/573293/1008x567.jpg"
 aantal: 330
 unieke: 217
+bron: NOS
 ---
 
 <p>Om de concurrentie met Disney+ aan te kunnen is RTL van plan om het abonnement van zijn streamingdienst Videoland in 2021 goedkoper te maken dan dat van zijn nieuwe rivaal. Dat zegt RTL-topman Sven Sauvé in gesprek met de Volkskrant.</p>

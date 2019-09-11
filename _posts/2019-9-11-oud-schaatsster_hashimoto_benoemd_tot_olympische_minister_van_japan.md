@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301230"
 feature_image: "https://nos.nl/data/image/2019/09/11/576504/1008x567.jpg"
 aantal: 122
 unieke: 89
+bron: NOS
 ---
 
 <p>Seiko Hashimoto is woensdag door de Japanse premier Shinzo Abe benoemd tot nieuwe olympische minister. De voormalige schaatsster (54) vervangt Shunichi Suzuki een klein jaar voordat de Spelen in Tokio worden gehouden.</p>

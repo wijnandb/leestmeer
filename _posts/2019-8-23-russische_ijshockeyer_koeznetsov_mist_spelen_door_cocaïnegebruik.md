@@ -9,6 +9,7 @@ externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/M768adi1uQw/2298673"
 feature_image: "https://nos.nl/data/image/2019/08/23/572011/1008x567.jpg"
 aantal: 173
 unieke: 121
+bron: NOS
 ---
 
 <p>Jevgeni Koeznetsov is door de internationale ijshockeyfederatie voor vier jaar geschorst wegens het gebruik van cocaïne. De 27-jarige Russische ijshockeyer leverde in mei, na afloop van de WK-wedstrijd om brons tegen Tsjechië, een positieve test in.</p>

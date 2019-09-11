@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301263"
 feature_image: "https://nos.nl/data/image/2019/09/11/576559/1008x567.jpg"
 aantal: 153
 unieke: 107
+bron: NOS
 ---
 
 <p>Voor het vierde jaar op rij onderzoekt de NOS samen met de regionale omroepen wat jij belangrijk vindt, wat je bezighoudt en waar jij je zorgen over maakt.</p>

@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2301244"
 feature_image: "https://nos.nl/data/image/2019/09/11/576528/1008x567.jpg"
 aantal: 322
 unieke: 200
+bron: NOS
 ---
 
 <p>Rusland, Venezuela en Iran hebben gereageerd op het ontslag van de Amerikaanse Nationale Veiligheidsadviseur John Bolton. De landen waar de Verenigde Staten geregeld mee in de clinch liggen, hopen dat Boltons opvolger milder zal zijn.</p>

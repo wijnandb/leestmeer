@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2301049"
 feature_image: "https://nos.nl/data/image/2019/09/09/576222/1008x567.jpg"
 aantal: 300
 unieke: 196
+bron: NOS
 ---
 
 <p>In de kwalificatiegroep van het Nederlands elftal heeft Duitsland een benauwde zege geboekt op Noord-Ierland. Mede dankzij een prachtige goal van Marcel Halstenberg wonnen de Duitsers in Belfast met 2-0.</p>

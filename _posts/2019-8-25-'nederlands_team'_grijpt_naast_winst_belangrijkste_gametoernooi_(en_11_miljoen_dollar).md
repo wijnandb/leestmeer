@@ -7,6 +7,7 @@ externe_link: "https://nos.nl/l/2298914"
 feature_image: "https://nos.nl/data/image/2019/08/25/572426/1008x567.jpg"
 aantal: 321
 unieke: 208
+bron: NOS
 ---
 
 <p>Het Nederlandse e-sportsteam Team Liquid is er niet in geslaagd om het grootste gametoernooi ter wereld te winnen. In Shanghai was het eveneens uit Europa afkomstige team OG te sterk in de finale van de The International, het belangrijkste toernooi in de game Dota 2.</p>

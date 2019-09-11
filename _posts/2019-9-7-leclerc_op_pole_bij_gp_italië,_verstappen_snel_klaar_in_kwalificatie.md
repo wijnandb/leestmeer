@@ -9,6 +9,7 @@ externe_link: "https://nos.nl/l/2300736"
 feature_image: "https://nos.nl/data/image/2019/09/07/575716/1008x567.jpg"
 aantal: 445
 unieke: 270
+bron: NOS
 ---
 
 <p>Ferrari snakt naar een overwinning in een Formule 1-race voor eigen publiek. Charles Leclerc of Sebastian Vettel moet zondag de opvolger van Fernando Alonso worden. De Spanjaard was in 2010 de laatste die in de vuurrode bolide van de Italiaanse renstal de GP van Italië op zijn naam wist te schrijven. Voorlopig heeft Leclerc de beste papieren. De Monegask pakte zaterdag poleposition in de kwalificatie.</p>
