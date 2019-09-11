@@ -4,7 +4,7 @@ title: "Dansende Bibian Mentel laat jury en kijker huilen"
 date: Sun, 08 Sep 2019 13:54:00 +0200
 categories: 
 - entertainment 
-- opinie 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/1701575835/dansende-bibian-mentel-laat-jury-en-kijker-huilen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ab4d6a00-d22f-11e9-aeae-02d2fb1aa1d7.jpg"
 ---

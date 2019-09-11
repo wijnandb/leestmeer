@@ -3,8 +3,8 @@ layout: post
 title: "Video: Hamilton ziet live dodelijke crash Hubert"
 date: Tue, 03 Sep 2019 08:24:34 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- autosport 
 externe_link: "https://www.telegraaf.nl/sport/1923991837/video-hamilton-ziet-live-dodelijke-crash-hubert"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c3a4aa70-ce18-11e9-b75d-0218eaf05005.png"
 ---

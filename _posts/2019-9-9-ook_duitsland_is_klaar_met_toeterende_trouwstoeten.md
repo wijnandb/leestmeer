@@ -2,9 +2,7 @@
 layout: post
 title: "Ook Duitsland is klaar met toeterende trouwstoeten"
 date: Mon, 09 Sep 2019 16:14:53 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/639869635/ook-duitsland-is-klaar-met-toeterende-trouwstoeten"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b974864c-d30e-11e9-baff-02d2fb1aa1d7.png"
 ---

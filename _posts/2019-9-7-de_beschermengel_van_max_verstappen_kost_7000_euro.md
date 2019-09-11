@@ -3,8 +3,8 @@ layout: post
 title: "De beschermengel van Max Verstappen kost 7000 euro"
 date: Sat, 07 Sep 2019 06:15:00 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- autosport 
 externe_link: "https://www.telegraaf.nl/sport/1599992190/de-beschermengel-van-max-verstappen-kost-7000-euro"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/da225bbc-d0f7-11e9-9b97-0218eaf05005.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Verweij sluit aan bij schaatsploeg vriendin"
 date: Thu, 25 Apr 2019 14:04:59 +0200
-category: sport
+categories: 
+- sport 
+- schaatsen 
 externe_link: "https://www.telegraaf.nl/sport/3494669/verweij-sluit-aan-bij-schaatsploeg-vriendin"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e43715d6-6755-11e9-bf44-02d2fb1aa1d7.jpg"
 ---

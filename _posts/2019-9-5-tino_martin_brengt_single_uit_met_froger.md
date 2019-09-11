@@ -2,7 +2,9 @@
 layout: post
 title: "Tino Martin brengt single uit met Froger"
 date: Thu, 05 Sep 2019 19:34:01 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/2064153584/tino-martin-brengt-single-uit-met-froger"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/63475776-d003-11e9-9f6b-02d1dbdc35d1.jpg"
 ---

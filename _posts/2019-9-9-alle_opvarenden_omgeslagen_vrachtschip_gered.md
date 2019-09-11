@@ -2,9 +2,7 @@
 layout: post
 title: "Alle opvarenden omgeslagen vrachtschip gered"
 date: Tue, 10 Sep 2019 00:57:00 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/1678380006/alle-opvarenden-omgeslagen-vrachtschip-gered"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3eab9c9c-d355-11e9-a415-0255c322e81b.jpg"
 ---

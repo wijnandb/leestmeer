@@ -2,9 +2,11 @@
 layout: post
 title: "Wielrenster Van Dijk breekt bekken en bovenarm, WK uit zicht"
 date: Sat, 07 Sep 2019 15:23:04 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2300728"
-feature_image: "https://nos.nl/data/image/2019/09/07/575655/1008x567.jpg"
+feature_image: "https://nos.nl/data/image/2019/09/07/575669/1008x567.jpg"
 ---
 
 <p>Ellen van Dijk is in de vierde etappe van de Boels Ladies Tour hard onderuit gegaan. De regerend Europees kampioene tijdrijden moest de koers verlaten met een gebroken bekken en een gebroken bovenarm.</p>

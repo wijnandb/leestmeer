@@ -2,7 +2,9 @@
 layout: post
 title: "Depay staat voor mijlpaal: ’We willen Nederland trots maken’"
 date: Sun, 08 Sep 2019 17:30:07 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/1652241765/depay-staat-voor-mijlpaal-we-willen-nederland-trots-maken"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0304bb72-d24e-11e9-9f6b-02d1dbdc35d1.jpg"
 ---

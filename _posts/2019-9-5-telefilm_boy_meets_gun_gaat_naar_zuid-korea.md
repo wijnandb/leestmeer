@@ -2,7 +2,9 @@
 layout: post
 title: "Telefilm Boy Meets Gun gaat naar Zuid-Korea"
 date: Thu, 05 Sep 2019 15:03:30 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/577811364/telefilm-boy-meets-gun-gaat-naar-zuid-korea"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9dd7b4d8-cfdd-11e9-baff-02d2fb1aa1d7.jpg"
 ---

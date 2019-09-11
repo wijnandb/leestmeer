@@ -2,7 +2,9 @@
 layout: post
 title: "Disney sluit tienjarige deal met beroemde Britse Pinewood Studio"
 date: Sun, 08 Sep 2019 15:58:21 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1320310583/disney-sluit-tienjarige-deal-met-beroemde-britse-pinewood-studio"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b7a7fec6-d240-11e9-baff-02d2fb1aa1d7.jpg"
 ---

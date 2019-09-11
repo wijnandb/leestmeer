@@ -2,7 +2,9 @@
 layout: post
 title: "Mollema en Terpstra ondersteunen Van der Poel op WK"
 date: Mon, 09 Sep 2019 17:27:32 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2301005"
 feature_image: "https://nos.nl/data/image/2019/08/04/568172/1008x567.jpg"
 ---

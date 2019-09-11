@@ -2,9 +2,7 @@
 layout: post
 title: "Vogelspinnen overspoelen westen VS in paartijd"
 date: Sun, 08 Sep 2019 10:10:36 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/1949950759/vogelspinnen-overspoelen-westen-vs-in-paartijd"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/23142562-d210-11e9-bc1d-02d1dbdc35d1.jpg"
 ---

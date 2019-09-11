@@ -2,7 +2,9 @@
 layout: post
 title: "Oranje verslaat stug Estland met ruime cijfers in EK-kwalificatie"
 date: Mon, 09 Sep 2019 22:34:10 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://nos.nl/l/2301047"
 feature_image: "https://nos.nl/data/image/2019/09/09/576215/1008x567.jpg"
 ---

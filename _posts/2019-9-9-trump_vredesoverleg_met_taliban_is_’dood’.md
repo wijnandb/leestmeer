@@ -2,9 +2,7 @@
 layout: post
 title: "Trump: vredesoverleg met Taliban is ’dood’"
 date: Mon, 09 Sep 2019 23:14:37 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/1285133755/trump-vredesoverleg-met-taliban-is-dood"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/383386fa-d34f-11e9-ad49-0255c322e81b.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Duncan Laurence ontwaakt na uitkomen droom op Tuckerville"
 date: Sun, 08 Sep 2019 17:17:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1335904666/duncan-laurence-ontwaakt-na-uitkomen-droom-op-tuckerville"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f570a4c8-d246-11e9-aeae-02d2fb1aa1d7.jpg"
 ---

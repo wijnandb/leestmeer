@@ -2,7 +2,9 @@
 layout: post
 title: "Armin van Buuren kondigt nieuw album aan"
 date: Fri, 06 Sep 2019 14:29:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1831104035/armin-van-buuren-kondigt-nieuw-album-aan"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b29d4ec4-d09f-11e9-970a-0218eaf05005.jpg"
 ---

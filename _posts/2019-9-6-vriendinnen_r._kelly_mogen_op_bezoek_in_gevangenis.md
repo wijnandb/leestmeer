@@ -4,7 +4,7 @@ title: "Vriendinnen R. Kelly mogen op bezoek in gevangenis"
 date: Fri, 06 Sep 2019 07:27:36 +0200
 categories: 
 - entertainment 
-- opinie 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/1065341457/vriendinnen-r-kelly-mogen-op-bezoek-in-gevangenis"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7c08936a-d06c-11e9-a3e5-02d1dbdc35d1.jpg"
 ---

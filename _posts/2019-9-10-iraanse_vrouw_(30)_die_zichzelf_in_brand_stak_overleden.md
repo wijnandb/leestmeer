@@ -2,9 +2,7 @@
 layout: post
 title: "Iraanse vrouw (30) die zichzelf in brand stak overleden"
 date: Tue, 10 Sep 2019 20:21:28 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/1070179152/iraanse-vrouw-30-die-zichzelf-in-brand-stak-overleden"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/fa547948-d3f8-11e9-810a-0218eaf05005.jpg"
 ---

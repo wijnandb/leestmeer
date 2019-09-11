@@ -3,8 +3,8 @@ layout: post
 title: "Nadal jaagt op Federer en US Open-titel"
 date: Sat, 07 Sep 2019 10:50:42 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/1974409205/nadal-jaagt-op-federer-en-us-open-titel"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2df4f620-d15f-11e9-9d4d-0218eaf05005.jpg"
 ---

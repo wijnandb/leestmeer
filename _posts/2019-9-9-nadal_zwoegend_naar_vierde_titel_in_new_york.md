@@ -2,7 +2,9 @@
 layout: post
 title: "Nadal zwoegend naar vierde titel in New York"
 date: Mon, 09 Sep 2019 03:27:01 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/698631891/nadal-zwoegend-naar-vierde-titel-in-new-york"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e9f15a78-d2c0-11e9-9773-0255c322e81b.jpg"
 ---

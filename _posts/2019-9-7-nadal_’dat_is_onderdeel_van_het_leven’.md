@@ -2,7 +2,9 @@
 layout: post
 title: "Nadal: ’Dat is onderdeel van het leven’"
 date: Sat, 07 Sep 2019 20:23:06 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/422797310/nadal-dat-is-onderdeel-van-het-leven"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/89dd66b0-d19c-11e9-9b97-0218eaf05005.jpg"
 ---

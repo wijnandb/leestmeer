@@ -2,7 +2,9 @@
 layout: post
 title: "Jumbo-Visma jaagt op triomf in Vuelta"
 date: Sat, 24 Aug 2019 17:13:00 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/1734600368/jumbo-visma-jaagt-op-triomf-in-vuelta"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b1de4aba-c686-11e9-92ca-02d2fb1aa1d7.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Chantal Janzen niet benaderd voor presentatie Songfestival"
 date: Thu, 05 Sep 2019 22:03:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/2122800873/chantal-janzen-niet-benaderd-voor-presentatie-songfestival"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f24b8664-d016-11e9-896b-02c309bc01c1.jpg"
 ---

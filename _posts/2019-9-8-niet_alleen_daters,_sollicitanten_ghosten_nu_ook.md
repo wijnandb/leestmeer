@@ -3,8 +3,8 @@ layout: post
 title: "Niet alleen daters, sollicitanten ghosten nu ook"
 date: Sun, 08 Sep 2019 12:04:00 +0200
 categories: 
-- entertainment 
-- opinie 
+- financieel 
+- geld 
 externe_link: "https://www.telegraaf.nl/financieel/204300916/niet-alleen-daters-sollicitanten-ghosten-nu-ook"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/375f1f3a-d0ae-11e9-a3e5-02d1dbdc35d1.jpg"
 ---

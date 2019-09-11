@@ -2,7 +2,9 @@
 layout: post
 title: "Will Smith lanceert sneaker voor Amazonegebied"
 date: Thu, 05 Sep 2019 15:13:34 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1583445832/will-smith-lanceert-sneaker-voor-amazonegebied"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/0c912dae-cfdf-11e9-80b1-0217670beecd.jpg"
 ---

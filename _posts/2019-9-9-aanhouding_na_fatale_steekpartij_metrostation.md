@@ -2,9 +2,7 @@
 layout: post
 title: "Aanhouding na fatale steekpartij metrostation"
 date: Mon, 09 Sep 2019 22:26:38 +0200
-categories: 
-- entertainment 
-- opinie 
+category: binnenland
 externe_link: "https://www.telegraaf.nl/nieuws/2038710450/aanhouding-na-fatale-steekpartij-metrostation"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a9266b16-d345-11e9-bef6-02d1dbdc35d1.jpg"
 ---

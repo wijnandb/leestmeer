@@ -3,8 +3,8 @@ layout: post
 title: "Van Gerwen: ’Sorry dat het niet lukte’"
 date: Mon, 27 May 2019 07:38:49 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- darts 
 externe_link: "https://www.telegraaf.nl/sport/3651442/van-gerwen-sorry-dat-het-niet-lukte"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/56faba50-8042-11e9-85bf-0217670beecd.jpg"
 ---

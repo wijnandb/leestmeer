@@ -3,8 +3,8 @@ layout: post
 title: "Giro-winnaar komt Groot-Brittannië niet in"
 date: Fri, 06 Sep 2019 13:31:33 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/1464898309/giro-winnaar-komt-groot-brittannie-niet-in"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e13a2a6e-d099-11e9-8baa-0255c322e81b.jpg"
 ---

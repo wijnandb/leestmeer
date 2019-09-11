@@ -2,7 +2,9 @@
 layout: post
 title: "Supergrass doet maandag nog een reünieconcert"
 date: Sat, 07 Sep 2019 16:40:48 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1967476649/supergrass-doet-maandag-nog-een-reunieconcert"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7c0558c8-d17d-11e9-ab90-02d1dbdc35d1.jpg"
 ---

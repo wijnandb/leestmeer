@@ -4,7 +4,7 @@ title: "Demi Lovato showt haar ware bikinilijf mét cellulitis"
 date: Fri, 06 Sep 2019 10:17:00 +0200
 categories: 
 - entertainment 
-- opinie 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/1567516507/demi-lovato-showt-haar-ware-bikinilijf-met-cellulitis"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/534d1b0a-d06f-11e9-8f10-02d1dbdc35d1.jpg"
 ---

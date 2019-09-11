@@ -3,8 +3,8 @@ layout: post
 title: "Van Dijk loopt meerdere breuken op en moet WK missen"
 date: Sat, 07 Sep 2019 15:17:50 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/964411678/van-dijk-loopt-meerdere-breuken-op-en-moet-wk-missen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/47baf88a-d172-11e9-bcd0-0255c322e81b.jpg"
 ---

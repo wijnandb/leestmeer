@@ -1,9 +1,0 @@
----
-layout: post
-title: "Vermist - Rob Wijhers"
-date: Thu, 06 Jun 2019 17:45:32 GMT
-category: politieberichten
-externe_link: "https://www.politie.nl/gezocht-en-vermist/vermiste-volwassenen/2019/mei/rob-wijhers.html"
----
-
-De vermiste is vrachtautochauffeur en was voor zijn werk met de vrachtauto in Polen. Op 21/05/2019 is het laatste contact met hem geweest in Slubice Gorzow Wielkopolski. De vrachtauto is inmiddels door de eigenaar, een bedrijf in Nederlands Limburg, teruggehaald naar Nederland.

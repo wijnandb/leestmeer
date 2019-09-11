@@ -2,7 +2,9 @@
 layout: post
 title: "Koeman waarschuwt Oranje voor problemen in Estland"
 date: Sun, 08 Sep 2019 16:43:10 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/848493566/koeman-waarschuwt-oranje-voor-problemen-in-estland"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4db7aba4-d247-11e9-9773-0255c322e81b.jpg"
 ---

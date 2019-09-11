@@ -7,7 +7,7 @@ externe_link: "http://feeds.nos.nl/~r/jeugdjournaal/~3/3UoQpvW_NEQ/2301084"
 feature_image: "https://nos.nl/data/image/2019/09/10/576278/1008x567.jpg"
 ---
 
-<p>De lucht in Nederland is zo vies, dat kinderen er astma door kunnen krijgen. Dat schrijven wetenschappers. Volgens de krant het Algemeen Dagblad heeft 1 op de 5 kinderen met astma dat gekregen door luchtvervuiling.</p>
+<p>De lucht in Nederland is zo vies, dat kinderen er astma door kunnen krijgen. Het is zelfs zo dat 1 op de 5 kinderen met astma, dat gekregen heeft door luchtvervuiling. Dat schrijven wetenschappers.</p>
 <p>Kinderen met astma hebben moeite met ademhalen. Bij het sporten bijvoorbeeld, of als ze een stoffige kamer binnenkomen. Ze hebben daar allerlei medicijnen voor.</p>
 <p>Vooral in grote steden is het een groot probleem. Daar zit meer vervuiling in de lucht dan op het platteland.</p>
 <p>Snelwegen</p>

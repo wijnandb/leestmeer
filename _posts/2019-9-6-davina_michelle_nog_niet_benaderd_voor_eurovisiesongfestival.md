@@ -2,7 +2,9 @@
 layout: post
 title: "Davina Michelle nog niet benaderd voor Eurovisiesongfestival"
 date: Fri, 06 Sep 2019 23:05:30 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/36727869/davina-michelle-nog-niet-benaderd-voor-eurovisiesongfestival"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/28aee560-d0ea-11e9-8099-02c309bc01c1.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Spanje bijna zeker van EK; Scandinavisch onderonsje onbeslist"
 date: Sun, 08 Sep 2019 23:20:44 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/1918994612/spanje-bijna-zeker-van-ek-scandinavisch-onderonsje-onbeslist"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/84f83bce-d27e-11e9-896b-02c309bc01c1.jpg"
 ---

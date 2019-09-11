@@ -2,7 +2,9 @@
 layout: post
 title: "Tweede reeks The End of the F***ing World verschijnt in november"
 date: Fri, 06 Sep 2019 22:05:10 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/30225466/tweede-reeks-the-end-of-the-f-ing-world-verschijnt-in-november"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/baee25a2-d0e1-11e9-abac-02c309bc01c1.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Groeneveld: ’Schandalig en belachelijk’"
 date: Thu, 05 Sep 2019 07:26:49 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/1809717246/groeneveld-schandalig-en-belachelijk"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/64a0fdf2-cf9f-11e9-baff-02d2fb1aa1d7.jpg"
 ---

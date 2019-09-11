@@ -2,7 +2,9 @@
 layout: post
 title: "Ronnie Flex stopt ’hart, ziel en pijn’ in nieuw album"
 date: Fri, 06 Sep 2019 23:10:14 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/468405077/ronnie-flex-stopt-hart-ziel-en-pijn-in-nieuw-album"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c859b748-d0ea-11e9-baff-02d2fb1aa1d7.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "NOS Formule 1-podcast #17: 'Jarenlange Ferrari-frustratie kon worden weggejuicht'"
 date: Mon, 09 Sep 2019 15:02:06 +0200
-category: sport
+categories: 
+- sport 
+- autosport 
 externe_link: "https://nos.nl/l/2300987"
 feature_image: "https://nos.nl/data/image/2019/09/09/576119/1008x567.jpg"
 ---

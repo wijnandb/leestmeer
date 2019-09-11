@@ -4,7 +4,7 @@ title: "Fan zwaait prins Harry uit in Amsterdam"
 date: Tue, 03 Sep 2019 14:29:18 +0200
 categories: 
 - entertainment 
-- opinie 
+- royalty 
 externe_link: "https://www.telegraaf.nl/entertainment/1601557297/fan-zwaait-prins-harry-uit-in-amsterdam"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/72f7020c-ce46-11e9-88f1-0255c322e81b.jpg"
 ---

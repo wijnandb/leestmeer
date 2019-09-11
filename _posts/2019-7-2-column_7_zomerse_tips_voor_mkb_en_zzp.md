@@ -4,7 +4,7 @@ title: "Column: 7 zomerse tips voor mkb en zzp"
 date: Tue, 02 Jul 2019 11:01:13 +0200
 categories: 
 - financieel 
-- koersen 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/1766069009/column-7-zomerse-tips-voor-mkb-en-zzp"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/858db40e-9cc0-11e9-8cdb-0217670beecd.jpg"
 ---

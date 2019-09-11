@@ -1,9 +1,0 @@
----
-layout: post
-title: "NetBeans IDE 11.0"
-date: Mon, 15 Apr 2019 07:29:43 GMT
-category: tech
-externe_link: "https://tweakers.net/downloads/47780/netbeans-ide-110.html"
----
-
-NetBeans IDE is een in Java geschreven ontwikkelomgeving bedoeld om programma's te schrijven, compileren, debuggen en implementeren. Het biedt ondersteuning voor verschillende programmeertalen, zoals Java, C++ en PHP. Sinds eind 2016 valt het onder het beheer van de Apache Software Foundation nadat Oracle besloot het van de hand te doen, die het op zijn beurt weer verkregen had met de overname van Sun Microsystems. Versie 11.0 is vrijgegeven waar ondersteuning van JDK 12.0, Java EE en Gradle de focus hebben gekregen. De bijbehorende, beknopte aankondiging ziet er als volgt uit: Apache NetBeans (incubating) 11.0 Features Apache NetBeans (incubating) 11.0 is the third major release of the Apache NetBeans IDE. It was released in March, 2019. Click here to download this release. Laszlo Kishalmi has been our Release Manager. Maven First in New Project Wizard There’s been lots of discussion in the Apache NetBeans Community about how best to express the fact that Apache Maven and Gradle are more modern choices to be aware of than Apache Ant, while at the same time not implying that there’s anything wrong with using Apache Ant. Discussions started back in 2018, and culminated in 2019 with the new "New Project" wizard redesign. We have moved the previous wizard Java options to a subfolder named "Java with Ant", and added two new options: "Java with Maven" and "Java with Gradle". We hope this makes it easier for everybody to choose a build system of their liking (be it Maven, Gradle or Ant) for their projects. For more information about the discussion and the rationale behind these choices please see this blog post. JDK 12 support<img src="http://feeds.feedburner.com/~r/tweakers/mixed/~4/geCArjOuPao" height="1" width="1" alt=""/>

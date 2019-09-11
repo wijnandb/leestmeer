@@ -2,7 +2,9 @@
 layout: post
 title: "US Open: Weer topfavoriete naar huis"
 date: Sun, 01 Sep 2019 22:01:00 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/699865760/us-open-weer-topfavoriete-naar-huis"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/15210e4e-cd46-11e9-a0a1-0255c322e81b.jpg"
 ---

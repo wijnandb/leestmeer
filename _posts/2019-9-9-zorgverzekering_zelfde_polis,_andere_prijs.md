@@ -3,8 +3,8 @@ layout: post
 title: "Zorgverzekering: zelfde polis, andere prijs"
 date: Mon, 09 Sep 2019 16:45:25 +0200
 categories: 
-- entertainment 
-- opinie 
+- financieel 
+- geld 
 externe_link: "https://www.telegraaf.nl/financieel/1633315487/zorgverzekering-zelfde-polis-andere-prijs"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ebb6848a-d312-11e9-95b7-0217670beecd.jpg"
 ---

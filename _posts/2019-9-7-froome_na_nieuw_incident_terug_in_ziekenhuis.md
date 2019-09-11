@@ -3,8 +3,8 @@ layout: post
 title: "Froome na nieuw incident terug in ziekenhuis"
 date: Sat, 07 Sep 2019 17:13:03 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/636382980/froome-na-nieuw-incident-terug-in-ziekenhuis"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/fcb45358-d181-11e9-a85c-0218eaf05005.jpg"
 ---

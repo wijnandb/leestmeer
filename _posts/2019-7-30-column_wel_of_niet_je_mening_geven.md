@@ -4,7 +4,7 @@ title: "Column: Wel of niet je mening geven?"
 date: Tue, 30 Jul 2019 09:56:15 +0200
 categories: 
 - financieel 
-- koersen 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/878732255/column-wel-of-niet-je-mening-geven"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/81e452a0-b29f-11e9-921d-0255c322e81b.jpg"
 ---

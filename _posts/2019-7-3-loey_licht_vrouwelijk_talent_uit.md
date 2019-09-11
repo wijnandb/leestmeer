@@ -4,7 +4,7 @@ title: "Loey licht vrouwelijk talent uit"
 date: Wed, 03 Jul 2019 20:30:00 +0200
 categories: 
 - financieel 
-- koersen 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/1013680210/loey-licht-vrouwelijk-talent-uit"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/db5df9c0-9dce-11e9-b6da-0218eaf05005.png"
 ---

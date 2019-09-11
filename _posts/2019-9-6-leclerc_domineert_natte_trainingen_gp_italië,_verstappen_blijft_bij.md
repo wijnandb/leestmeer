@@ -2,7 +2,9 @@
 layout: post
 title: "Leclerc domineert natte trainingen GP Italië, Verstappen blijft bij"
 date: Fri, 06 Sep 2019 12:49:10 +0200
-category: sport
+categories: 
+- sport 
+- autosport 
 externe_link: "https://nos.nl/l/2300571"
 feature_image: "https://nos.nl/data/image/2019/09/06/575394/1008x567.jpg"
 ---

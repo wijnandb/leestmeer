@@ -2,9 +2,7 @@
 layout: post
 title: "Lagerhuis wil documenten no-dealbrexit inzien"
 date: Mon, 09 Sep 2019 22:20:55 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/741141982/lagerhuis-wil-documenten-no-dealbrexit-inzien"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/92e08310-d33f-11e9-a3f1-0217670beecd.jpg"
 ---

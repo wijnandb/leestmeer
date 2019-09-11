@@ -2,7 +2,7 @@
 layout: post
 title: "Daisy Mohr nieuwe NOS-correspondent Midden-Oosten"
 date: Fri, 06 Sep 2019 13:16:59 +0200
-category: nieuws
+category: cultuur
 externe_link: "https://nos.nl/l/2300576"
 feature_image: "https://nos.nl/data/image/2019/09/06/575353/1008x567.jpg"
 ---

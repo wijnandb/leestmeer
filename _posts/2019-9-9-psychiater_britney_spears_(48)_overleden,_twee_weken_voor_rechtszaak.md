@@ -4,7 +4,7 @@ title: "Psychiater Britney Spears (48) overleden, twee weken voor rechtszaak"
 date: Mon, 09 Sep 2019 19:04:24 +0200
 categories: 
 - entertainment 
-- opinie 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/1903622513/psychiater-britney-spears-48-overleden-twee-weken-voor-rechtszaak"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/62cbdc8a-d324-11e9-970a-0218eaf05005.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Vettel troeft Verstappen af in laatste training GP Italië"
 date: Sat, 07 Sep 2019 13:19:31 +0200
-category: sport
+categories: 
+- sport 
+- autosport 
 externe_link: "https://nos.nl/l/2300719"
 feature_image: "https://nos.nl/data/image/2019/09/07/575639/1008x567.jpg"
 ---

@@ -3,8 +3,8 @@ layout: post
 title: "Simpele conclusie Poels: ’Ik kon niet volgen’"
 date: Sun, 25 Aug 2019 20:09:59 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/1405236607/simpele-conclusie-poels-ik-kon-niet-volgen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a8537522-c764-11e9-b9ef-02c309bc01c1.jpg"
 ---

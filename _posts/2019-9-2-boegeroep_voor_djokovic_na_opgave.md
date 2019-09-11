@@ -2,7 +2,9 @@
 layout: post
 title: "Boegeroep voor Djokovic na opgave"
 date: Mon, 02 Sep 2019 07:09:56 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/854185819/boegeroep-voor-djokovic-na-opgave"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f685d43e-cd49-11e9-8073-0255c322e81b.jpg"
 ---

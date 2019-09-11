@@ -2,9 +2,7 @@
 layout: post
 title: "Voorzitter Bercow legt zijn functie neer"
 date: Mon, 09 Sep 2019 17:23:09 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/639207367/voorzitter-bercow-legt-zijn-functie-neer"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/048fcfba-d319-11e9-8538-0255c322e81b.jpg"
 ---

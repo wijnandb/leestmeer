@@ -2,7 +2,9 @@
 layout: post
 title: "Eindhoven Airport mag twee jaar niet verder groeien"
 date: Fri, 06 Sep 2019 22:40:26 +0200
-category: nieuws
+categories: 
+- financieel 
+- economie 
 externe_link: "https://nos.nl/l/2300656"
 feature_image: "https://nos.nl/data/image/2019/09/06/575534/1008x567.jpg"
 ---

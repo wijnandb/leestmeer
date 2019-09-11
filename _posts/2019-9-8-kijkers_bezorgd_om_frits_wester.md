@@ -2,7 +2,9 @@
 layout: post
 title: "Kijkers bezorgd om Frits Wester"
 date: Sun, 08 Sep 2019 20:05:33 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1517508307/kijkers-bezorgd-om-frits-wester"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f8fe27b2-d27a-11e9-b0b0-02c309bc01c1.jpg"
 ---

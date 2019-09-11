@@ -2,9 +2,7 @@
 layout: post
 title: "Haarlem - Gezocht - Woningoverval"
 date: Tue, 10 Sep 2019 08:57:00 GMT
-categories: 
-- noord-holland 
-- haarlem 
+category: politieberichten
 externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/juni/woningoverval-allanstraat.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/juli/04-nh/allan1.jpg"
 ---

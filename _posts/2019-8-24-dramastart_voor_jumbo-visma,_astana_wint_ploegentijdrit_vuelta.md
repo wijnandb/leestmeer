@@ -2,7 +2,9 @@
 layout: post
 title: "Dramastart voor Jumbo-Visma, Astana wint ploegentijdrit Vuelta"
 date: Sat, 24 Aug 2019 20:38:58 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/910309734/dramastart-voor-jumbo-visma-astana-wint-ploegentijdrit-vuelta"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b3777404-c6b9-11e9-a497-02d1dbdc35d1.jpg"
 ---

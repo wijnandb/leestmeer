@@ -23,5 +23,5 @@ feature_image: "https://nos.nl/data/image/2019/08/24/572089/1008x567.jpg"
 <p>Daarvoor gebruikte Joshi machine learning: daarbij worden ingewikkelde rekenkundige modellen gebruikt om computers zelf problemen op te laten lossen. Op die manier kunnen bijvoorbeeld verbanden en patronen worden herkend die mensen zelf niet zouden herkennen.</p>
 <p>Zo zouden bepaalde bewegingen die baby's in hun couveuses maken, kunnen worden herkend als potentieel gevaarlijk, terwijl andere bewegingen als onschuldig worden geclassificeerd. Dat komt doordat de rekenkundige modellen die bewegingen kunnen koppelen aan eerdere situaties.</p>
 <h2>Aantal jaar</h2>
-<p>Op 30 augustus verdedigt Joshi zijn proefschrift en hij werkt inmiddels bij een fabrikant van medische apparatuur. "Daar houd ik me onder meer met dit probleem bezig."</p>
+<p>Op 30 augustus verdedigt Joshi zijn proefschrift aan de TU Eindhoven en hij werkt inmiddels bij een fabrikant van medische apparatuur. "Daar houd ik me onder meer met dit probleem bezig."</p>
 <p>In sommige gevallen hebben zijn ideeën al resultaat, maar bij veel plannen kan dat nog jaren duren. Dat komt door strenge regels voor medische apparatuur. Desondanks is Brackel positief over de ideeën. "Dit kan echt helpen om de negatieve gevolgen van een intensive care-opname te voorkomen", zegt de voorzitter van de lotgenotengroep.</p>

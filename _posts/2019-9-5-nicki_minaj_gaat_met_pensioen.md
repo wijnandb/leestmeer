@@ -2,7 +2,9 @@
 layout: post
 title: "Nicki Minaj gaat met PENSIOEN"
 date: Thu, 05 Sep 2019 22:30:10 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/670201480/nicki-minaj-gaat-met-pensioen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/12e13a68-d01c-11e9-9211-02c309bc01c1.jpg"
 ---

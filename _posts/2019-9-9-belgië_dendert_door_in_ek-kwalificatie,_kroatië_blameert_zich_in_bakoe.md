@@ -2,7 +2,9 @@
 layout: post
 title: "België dendert door in EK-kwalificatie, Kroatië blameert zich in Bakoe"
 date: Mon, 09 Sep 2019 20:14:31 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://nos.nl/l/2301033"
 feature_image: "https://nos.nl/data/image/2019/09/09/576237/1008x567.jpg"
 ---

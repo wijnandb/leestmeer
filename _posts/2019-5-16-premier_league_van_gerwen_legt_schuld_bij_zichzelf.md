@@ -3,8 +3,8 @@ layout: post
 title: "Premier League: Van Gerwen legt schuld bij zichzelf"
 date: Thu, 16 May 2019 12:11:00 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- darts 
 externe_link: "https://www.telegraaf.nl/sport/3592997/premier-league-van-gerwen-legt-schuld-bij-zichzelf"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/27f641fe-77d0-11e9-9ef0-02d1dbdc35d1.jpg"
 ---

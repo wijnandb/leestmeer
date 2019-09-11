@@ -2,7 +2,9 @@
 layout: post
 title: "Benen van Jakobsen zeiden ’boem’"
 date: Sat, 07 Sep 2019 22:12:55 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/1212908149/benen-van-jakobsen-zeiden-boem"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e1388eee-d1ab-11e9-bcd0-0255c322e81b.jpg"
 ---

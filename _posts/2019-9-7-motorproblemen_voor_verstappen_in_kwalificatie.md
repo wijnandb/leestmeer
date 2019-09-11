@@ -3,8 +3,8 @@ layout: post
 title: "Motorproblemen voor Verstappen in kwalificatie"
 date: Sat, 07 Sep 2019 15:38:12 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- autosport 
 externe_link: "https://www.telegraaf.nl/sport/158784364/motorproblemen-voor-verstappen-in-kwalificatie"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bd0cb644-d174-11e9-83b3-0217670beecd.jpg"
 ---

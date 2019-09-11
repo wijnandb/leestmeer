@@ -3,8 +3,8 @@ layout: post
 title: "Eigenaar Blokker koopt Intertoys"
 date: Sat, 07 Sep 2019 05:30:00 +0200
 categories: 
-- entertainment 
-- opinie 
+- financieel 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/2079148524/eigenaar-blokker-koopt-intertoys"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d1097e88-d0d5-11e9-bc1d-02d1dbdc35d1.jpg"
 ---

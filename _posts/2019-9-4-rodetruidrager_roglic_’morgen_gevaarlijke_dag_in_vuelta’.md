@@ -2,7 +2,9 @@
 layout: post
 title: "Rodetruidrager Roglic: ’Morgen gevaarlijke dag in Vuelta’"
 date: Wed, 04 Sep 2019 21:33:47 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/1921220972/rodetruidrager-roglic-morgen-gevaarlijke-dag-in-vuelta"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b6732122-cf4b-11e9-8f10-02d1dbdc35d1.jpg"
 ---

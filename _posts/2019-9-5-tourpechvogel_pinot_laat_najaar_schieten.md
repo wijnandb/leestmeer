@@ -2,7 +2,9 @@
 layout: post
 title: "Tourpechvogel Pinot laat najaar schieten"
 date: Thu, 05 Sep 2019 21:00:23 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/1791925870/tourpechvogel-pinot-laat-najaar-schieten"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9f040a22-d010-11e9-bef6-02d1dbdc35d1.jpg"
 ---

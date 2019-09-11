@@ -4,7 +4,7 @@ title: "Belgische prins Amedeo opnieuw vader geworden"
 date: Sat, 07 Sep 2019 12:43:43 +0200
 categories: 
 - entertainment 
-- opinie 
+- royalty 
 externe_link: "https://www.telegraaf.nl/entertainment/693420378/belgische-prins-amedeo-opnieuw-vader-geworden"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/610902de-d15c-11e9-a59e-0218eaf05005.jpg"
 ---

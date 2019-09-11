@@ -2,9 +2,7 @@
 layout: post
 title: "Vermist - Antonius van Schaick"
 date: Tue, 10 Sep 2019 18:31:38 GMT
-categories: 
-- noord-holland 
-- hilversum 
+category: politieberichten
 externe_link: "https://www.politie.nl/gezocht-en-vermist/vermiste-volwassenen/2019/september/antonius-van-schaick.html"
 ---
 

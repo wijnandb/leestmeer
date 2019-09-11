@@ -4,7 +4,7 @@ title: "Groei aantal ondernemingen versnelt"
 date: Wed, 03 Jul 2019 08:24:32 +0200
 categories: 
 - financieel 
-- koersen 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/512881590/groei-aantal-ondernemingen-versnelt"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3843bdec-9d5b-11e9-b69d-0255c322e81b.jpg"
 ---

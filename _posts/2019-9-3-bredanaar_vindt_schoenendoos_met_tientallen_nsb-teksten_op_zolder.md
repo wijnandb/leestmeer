@@ -2,8 +2,8 @@
 layout: post
 title: "Bredanaar vindt schoenendoos met tientallen NSB-teksten op zolder"
 date: Tue, 03 Sep 2019 07:36:04 +0200
-category: binnenland
-externe_link: "http://feeds.nos.nl/~r/nosnieuwsbinnenland/~3/aSsfNWmulho/2300123"
+category: cultuur
+externe_link: "https://nos.nl/l/2300123"
 feature_image: "https://nos.nl/data/image/2019/09/03/574590/1008x567.jpg"
 ---
 
@@ -15,4 +15,4 @@ feature_image: "https://nos.nl/data/image/2019/09/03/574590/1008x567.jpg"
 <h2>Bijzonder, niet uniek</h2>
 <p>"Het is best bijzonder dat er nu nog radioscripts van Blokzijl worden gevonden", zegt René Kok van het Nederlandse Instituut voor Oorlogsdocumentatie (NIOD). "Al is het geen uniek materiaal."</p>
 <p>Veruit de meeste uitgeschreven teksten van Blokzijl zitten bij het NIOD in het archief. "Hij was een grote bekendheid. Zijn radioteksten werden naar kranten gestuurd, die drukten ze vaak af. Wellicht zijn ze zo in Breda terechtgekomen."</p>
-<p>De uitzendscripts die Guikink op zijn zolder heeft gevonden, lopen tot 4 september 1944. Dat is de dag voor Dolle Dinsdag, toen het gerucht ging dat de geallieerden Zuid-Nederland hadden bereikt. De vlaggen gingen uit, het Wilhelmus werd gezongen en veel NSB'ers sloegen op de vlucht. "Vermoedelijk is het toen op de zolder in de vloer verstopt", zegt Guikink. "Best bijzonder dat ik het 75 jaar later per toeval heb gevonden. "</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbinnenland/~4/aSsfNWmulho" height="1" width="1" alt=""/>
+<p>De uitzendscripts die Guikink op zijn zolder heeft gevonden, lopen tot 4 september 1944. Dat is de dag voor Dolle Dinsdag, toen het gerucht ging dat de geallieerden Zuid-Nederland hadden bereikt. De vlaggen gingen uit, het Wilhelmus werd gezongen en veel NSB'ers sloegen op de vlucht. "Vermoedelijk is het toen op de zolder in de vloer verstopt", zegt Guikink. "Best bijzonder dat ik het 75 jaar later per toeval heb gevonden. "</p>

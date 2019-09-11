@@ -2,9 +2,7 @@
 layout: post
 title: "Oranje: Volwassen en plichtsgetrouw"
 date: Mon, 09 Sep 2019 23:01:48 +0200
-categories: 
-- entertainment 
-- opinie 
+category: sport
 externe_link: "https://www.telegraaf.nl/sport/1000240475/oranje-volwassen-en-plichtsgetrouw"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/87143210-d354-11e9-810a-0218eaf05005.jpg"
 ---

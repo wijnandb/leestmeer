@@ -2,7 +2,7 @@
 layout: post
 title: "Hypnotiseur probeert vrouw te misbruiken met porno-smoes"
 date: Thu, 05 Sep 2019 12:16:42 +0200
-category: buitenland
+category: opmerkelijk
 externe_link: "https://www.telegraaf.nl/nieuws/999014337/hypnotiseur-probeert-vrouw-te-misbruiken-met-porno-smoes"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f9af5aaa-cfd2-11e9-a415-0255c322e81b.jpg"
 ---

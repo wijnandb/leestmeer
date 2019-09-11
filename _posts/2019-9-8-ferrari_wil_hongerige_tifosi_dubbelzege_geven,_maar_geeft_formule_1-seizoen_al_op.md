@@ -2,9 +2,11 @@
 layout: post
 title: "Ferrari wil hongerige tifosi dubbelzege geven, maar geeft Formule 1-seizoen al op"
 date: Sun, 08 Sep 2019 08:36:13 +0200
-category: sport
+categories: 
+- sport 
+- autosport 
 externe_link: "https://nos.nl/l/2300795"
-feature_image: "https://nos.nl/data/image/2019/09/08/575775/1008x567.jpg"
+feature_image: "https://nos.nl/data/image/2019/09/08/575785/1008x567.jpg"
 ---
 
 <p>Ferrari glimt van trots. Charles Leclerc won vorige week in België zijn eerste Grand Prix en start vandaag op het circuit van Monza van poleposition. Mooie cadeaus op het verjaardagsfeest van de Italiaanse renstal.</p>

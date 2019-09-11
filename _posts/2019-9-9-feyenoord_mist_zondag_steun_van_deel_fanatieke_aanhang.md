@@ -2,9 +2,7 @@
 layout: post
 title: "Feyenoord mist zondag steun van deel fanatieke aanhang"
 date: Mon, 09 Sep 2019 16:01:18 +0200
-categories: 
-- entertainment 
-- opinie 
+category: sport
 externe_link: "https://www.telegraaf.nl/sport/377108751/feyenoord-mist-zondag-steun-van-deel-fanatieke-aanhang"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4b7fd474-d30a-11e9-9773-0255c322e81b.jpg"
 ---

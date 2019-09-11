@@ -2,9 +2,7 @@
 layout: post
 title: "Koeman: ’Vier is hier voldoende’"
 date: Mon, 09 Sep 2019 22:33:58 +0200
-categories: 
-- entertainment 
-- opinie 
+category: sport
 externe_link: "https://www.telegraaf.nl/sport/1529740968/koeman-vier-is-hier-voldoende"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a9ed9c28-d38a-11e9-921d-0217670beecd.jpg"
 ---

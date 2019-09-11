@@ -2,7 +2,9 @@
 layout: post
 title: "Roglic vecht terug na val op gravelstrook"
 date: Sun, 01 Sep 2019 21:09:16 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/539885622/roglic-vecht-terug-na-val-op-gravelstrook"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/fde545b0-cceb-11e9-9a52-02d1dbdc35d1.jpg"
 ---

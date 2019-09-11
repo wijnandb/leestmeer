@@ -2,7 +2,9 @@
 layout: post
 title: "Agressie kost olympisch schaatskampioen (na diskwalificatie Kramer) de kop"
 date: Wed, 10 Jul 2019 09:37:29 +0200
-category: sport
+categories: 
+- sport 
+- schaatsen 
 externe_link: "https://www.telegraaf.nl/sport/923545012/agressie-kost-olympisch-schaatskampioen-na-diskwalificatie-kramer-de-kop"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c982eb04-a2e5-11e9-b258-02d2fb1aa1d7.jpg"
 ---

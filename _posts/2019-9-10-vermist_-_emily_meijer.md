@@ -2,7 +2,7 @@
 layout: post
 title: "Vermist - Emily Meijer"
 date: Tue, 10 Sep 2019 13:59:18 GMT
-category: groningen
+category: politieberichten
 externe_link: "https://www.politie.nl/gezocht-en-vermist/vermiste-kinderen/2019/september/emily-meijer.html"
 feature_image: "https://www.politie.nl/binaries/w98h130/content/gallery/politie/vermist/vermiste-kinderen/2019/september/emily-meijer.jpg"
 ---

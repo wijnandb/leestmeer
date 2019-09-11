@@ -2,9 +2,7 @@
 layout: post
 title: "’Langdurige zorg ouderen is onbetaalbaar’"
 date: Tue, 10 Sep 2019 08:17:14 +0200
-categories: 
-- entertainment 
-- opinie 
+category: binnenland
 externe_link: "https://www.telegraaf.nl/nieuws/240536019/langdurige-zorg-ouderen-is-onbetaalbaar"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/af95fd8e-d392-11e9-bfdc-0217670beecd.jpg"
 ---

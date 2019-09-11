@@ -2,8 +2,10 @@
 layout: post
 title: "Ontketende Williams naar US Open-finale; record bijna binnen"
 date: Fri, 06 Sep 2019 02:42:27 +0200
-category: sport
-externe_link: "https://nos.nl/l/2300520"
+categories: 
+- sport 
+- tennis 
+externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/T2FFIXFDiY8/2300520"
 feature_image: "https://nos.nl/data/image/2019/09/06/575257/1008x567.jpg"
 ---
 
@@ -17,4 +19,4 @@ feature_image: "https://nos.nl/data/image/2019/09/06/575257/1008x567.jpg"
 <p>Ook de 19-jarige debutante Andreescu bereikte de finale in New York. De als vijftiende geplaatste Canadese, die tegen Bencic haar twaalfde zege op rij boekte, was nog niet eens geboren toen Williams in 1999 haar eerste van zes US Open-titels won.</p>
 <p>Bekijk hieronder de beelden van Andreescu-Benci:</p>
 <p>Andreescu won dit jaar de grote hardcourttoernooien van Indian Wells en Toronto en was ook door Bencic niet af te stoppen, al speelde de Zwitserse nummer dertien van de wereld in beide sets wel zuiverder en had ze lang de overhand.</p>
-<p>In de eerste set liet ze zes breakpoints onbenut (een daarvan was een setpoint) en in de tweede set verspeelde ze een 5-2 voorsprong. Andreescu bleef vechten en risico's nemen en eindigde het duel met 40 winners en 38 onnodige fouten.</p>
+<p>In de eerste set liet ze zes breakpoints onbenut (een daarvan was een setpoint) en in de tweede set verspeelde ze een 5-2 voorsprong. Andreescu bleef vechten en risico's nemen en eindigde het duel met 40 winners en 38 onnodige fouten.</p><img src="http://feeds.feedburner.com/~r/nossporttennis/~4/T2FFIXFDiY8" height="1" width="1" alt=""/>

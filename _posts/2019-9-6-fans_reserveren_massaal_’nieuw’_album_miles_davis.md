@@ -2,7 +2,9 @@
 layout: post
 title: "Fans reserveren massaal ’nieuw’ album Miles Davis"
 date: Fri, 06 Sep 2019 17:28:31 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1846150914/fans-reserveren-massaal-nieuw-album-miles-davis"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/10fc0544-d0bb-11e9-80b1-0217670beecd.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Verstappen: 'Met regenrace kansrijker, maar droog ook competitief'"
 date: Fri, 06 Sep 2019 17:08:04 +0200
-category: sport
+categories: 
+- sport 
+- autosport 
 externe_link: "https://nos.nl/l/2300606"
 feature_image: "https://nos.nl/data/image/2019/09/06/575406/1008x567.jpg"
 ---

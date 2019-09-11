@@ -2,7 +2,9 @@
 layout: post
 title: "Eurovision in Concert vindt plaats op 4 april"
 date: Fri, 06 Sep 2019 20:53:28 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1416152791/eurovision-in-concert-vindt-plaats-op-4-april"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b07a3dfe-d0d7-11e9-b0b0-02c309bc01c1.jpg"
 ---

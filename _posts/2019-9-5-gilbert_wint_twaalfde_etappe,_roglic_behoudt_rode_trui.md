@@ -2,7 +2,9 @@
 layout: post
 title: "Gilbert wint twaalfde etappe, Roglic behoudt rode trui"
 date: Thu, 05 Sep 2019 17:51:26 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/1025346397/gilbert-wint-twaalfde-etappe-roglic-behoudt-rode-trui"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e4964472-cffe-11e9-ab85-0255c322e81b.jpg"
 ---

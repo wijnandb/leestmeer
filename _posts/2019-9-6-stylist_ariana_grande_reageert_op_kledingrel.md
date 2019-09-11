@@ -2,7 +2,9 @@
 layout: post
 title: "Stylist Ariana Grande reageert op kledingrel"
 date: Fri, 06 Sep 2019 09:26:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/157495137/stylist-ariana-grande-reageert-op-kledingrel"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c8b799e0-d06c-11e9-baff-02d2fb1aa1d7.jpg"
 ---

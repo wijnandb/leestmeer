@@ -2,9 +2,7 @@
 layout: post
 title: "Goirle - Bestuurder onder invloed knalt achterop vrachtwagen"
 date: Wed, 11 Sep 2019 08:28:00 GMT
-categories: 
-- noord-brabant 
-- goirle 
+category: politieberichten
 externe_link: "https://www.politie.nl/nieuws/2019/september/11/08-bestuurder-onder-invloed-knalt-achterop-vrachtwagen.html"
 ---
 

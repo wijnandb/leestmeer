@@ -2,7 +2,9 @@
 layout: post
 title: "Van der Poel denkt mee over WK-ploeg"
 date: Wed, 04 Sep 2019 18:54:13 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/283038498/van-der-poel-denkt-mee-over-wk-ploeg"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/52c56f04-cf37-11e9-83b3-0217670beecd.jpg"
 ---

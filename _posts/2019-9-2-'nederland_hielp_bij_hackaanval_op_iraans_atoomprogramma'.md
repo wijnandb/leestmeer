@@ -2,8 +2,8 @@
 layout: post
 title: "'Nederland hielp bij hackaanval op Iraans atoomprogramma'"
 date: Mon, 02 Sep 2019 18:00:10 +0200
-category: binnenland
-externe_link: "http://feeds.nos.nl/~r/nosnieuwsbinnenland/~3/4Hc6yXeyAxU/2300067"
+category: tech
+externe_link: "https://nos.nl/l/2300067"
 feature_image: "https://nos.nl/data/image/2019/09/02/574496/1008x567.jpg"
 ---
 
@@ -24,4 +24,4 @@ feature_image: "https://nos.nl/data/image/2019/09/02/574496/1008x567.jpg"
 <h2>Verrassend</h2>
 <p>Onderzoeker Sico van der Meer van Clingendael noemt de Nederlandse rol verrassend. "Het is best opvallend dat de Verenigde Staten en Israël dit aan Nederland toevertrouwen", zegt Van der Meer.</p>
 <p>Desondanks vraagt Van der Meer zich af hoe trots de AIVD mag zijn op de aanval. "Deze aanval heeft echt iets in gang gezet. Sindsdien voeren ook andere landen dit soort sabotage-acties uit", zegt Van der Meer. "Het was een beetje een vrijbrief voor andere landen om hetzelfde te doen, maar ook een voorbeeld."</p>
-<p>Als Iran al niet wist dat Nederland meehielp, zal de onthulling Nederland niet in dank worden afgenomen, denkt Van der Meer. "Het zou kunnen dat Iran gaat proberen om wraak te nemen en ook in Nederland infrastructuur gaat aanvallen."</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbinnenland/~4/4Hc6yXeyAxU" height="1" width="1" alt=""/>
+<p>Als Iran al niet wist dat Nederland meehielp, zal de onthulling Nederland niet in dank worden afgenomen, denkt Van der Meer. "Het zou kunnen dat Iran gaat proberen om wraak te nemen en ook in Nederland infrastructuur gaat aanvallen."</p>

@@ -2,7 +2,7 @@
 layout: post
 title: "Videoland belooft goedkoper abonnement in 2021 als antwoord op Disney+"
 date: Thu, 29 Aug 2019 11:16:34 +0200
-category: cultuur
+category: tech
 externe_link: "https://nos.nl/l/2299419"
 feature_image: "https://nos.nl/data/image/2019/08/29/573293/1008x567.jpg"
 ---

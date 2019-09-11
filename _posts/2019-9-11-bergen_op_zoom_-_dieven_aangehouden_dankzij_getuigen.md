@@ -2,9 +2,7 @@
 layout: post
 title: "Bergen op Zoom - Dieven aangehouden dankzij getuigen"
 date: Wed, 11 Sep 2019 11:24:00 GMT
-categories: 
-- noord-brabant 
-- bergen_op_zoom 
+category: politieberichten
 externe_link: "https://www.politie.nl/nieuws/2019/september/11/08-dieven-aangehouden-dankzij-getuigen.html"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Nederlandse regisseur Michiel ten Horn maakt internationale film"
 date: Sat, 07 Sep 2019 12:33:46 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1593817122/nederlandse-regisseur-michiel-ten-horn-maakt-internationale-film"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/10c9ab58-d15b-11e9-b0b0-02c309bc01c1.jpg"
 ---

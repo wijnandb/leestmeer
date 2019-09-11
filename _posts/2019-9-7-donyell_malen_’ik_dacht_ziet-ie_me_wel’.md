@@ -3,8 +3,8 @@ layout: post
 title: "Donyell Malen: ’Ik dacht: ziet-ie me wel?’"
 date: Sat, 07 Sep 2019 10:21:59 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/608207298/donyell-malen-ik-dacht-ziet-ie-me-wel"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/32f6286c-d149-11e9-a6c7-02d1dbdc35d1.jpg"
 ---

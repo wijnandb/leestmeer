@@ -2,7 +2,9 @@
 layout: post
 title: "Nieuwe hoofdrol voor Hadewych Minis in audiothriller"
 date: Thu, 05 Sep 2019 11:41:09 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/158366481/nieuwe-hoofdrol-voor-hadewych-minis-in-audiothriller"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/633a4f1e-cfc1-11e9-9b97-0218eaf05005.jpg"
 ---

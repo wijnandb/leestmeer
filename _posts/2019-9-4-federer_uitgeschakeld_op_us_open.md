@@ -2,7 +2,9 @@
 layout: post
 title: "Federer uitgeschakeld op US Open"
 date: Wed, 04 Sep 2019 07:10:02 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/1322311827/federer-uitgeschakeld-op-us-open"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d28bfd12-ced7-11e9-9182-02c309bc01c1.jpg"
 ---

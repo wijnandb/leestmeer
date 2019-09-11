@@ -2,12 +2,14 @@
 layout: post
 title: "Drievoudig winnaar Nadal treft Medvedev in finale US Open"
 date: Sat, 07 Sep 2019 01:15:13 +0200
-category: sport
-externe_link: "https://nos.nl/l/2300680"
+categories: 
+- sport 
+- tennis 
+externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/4SwaYxq06Jg/2300680"
 feature_image: "https://nos.nl/data/image/2019/09/07/575575/1008x567.jpg"
 ---
 
-<p>Rafael Nadal en Daniil Medvedev staan zondag in de finale van de US Open. De Spanjaard klopte Matteo Berretttini met 7-6 (6), 6-4, 6-1 en de Rus was Grigor Dimitrov met 7-6 (5), 6-4, 6-3 de baas.</p>
+<p>Rafael Nadal en Daniil Medvedev staan zondag in de finale van de US Open. De Spanjaard klopte Matteo Berrettini met 7-6 (6), 6-4, 6-1 en de Rus was Grigor Dimitrov met 7-6 (5), 6-4, 6-3 de baas.</p>
 <p>Berrettini (ATP-25) maakte dit toernooi grote indruk met zijn harde slagen en zat Nadal aanvankelijk flink in de weg. De Italiaan serveerde goed, kreeg desondanks zes breekpunten tegen, maar werkte die allemaal knap weg.</p>
 <p>Een aantal keer deed hij dat met een dropshot, een tactiek die hem punt na punt opleverde. In de tiebreak kwam hij met 4-0 en 6-4 voor, maar miste hij uitgerekend met z'n eerste mislukte dropshot een van zijn kansen op setwinst.</p>
 <h2>Verzet gebroken</h2>
@@ -20,4 +22,4 @@ feature_image: "https://nos.nl/data/image/2019/09/07/575575/1008x567.jpg"
 <h2>Geen gedenkwaardige avond</h2>
 <p>De twee maakten er op zijn zachtst gezegd geen gedenkwaardige avond van. De eerste set kende vrijwel geen hoogtepunten en de tiebreak was zelfs nauwelijks om aan te zien.</p>
 <p>In de tweede set bracht Dimitrov wat vertier met enkele prachtige punten. De solide spelende Rus - die in elk toernooi van het Amerikaanse hardcourtseizoen de finale haalde - trok echter opnieuw aan het langste eind.</p>
-<p>Na een vroege break in de derde set was alle spanning weg. Het publiek, dat zich dit toernooi zo heerlijk kon opwinden over de eerdere misdragingen van Medvedev, gunde hem dit keer een welgemeend applaus.</p>
+<p>Na een vroege break in de derde set was alle spanning weg. Het publiek, dat zich dit toernooi zo heerlijk kon opwinden over de eerdere misdragingen van Medvedev, gunde hem dit keer een welgemeend applaus.</p><img src="http://feeds.feedburner.com/~r/nossporttennis/~4/4SwaYxq06Jg" height="1" width="1" alt=""/>

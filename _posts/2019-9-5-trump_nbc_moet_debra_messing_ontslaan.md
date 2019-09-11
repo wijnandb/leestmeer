@@ -4,7 +4,7 @@ title: "Trump: NBC moet Debra Messing ontslaan"
 date: Fri, 06 Sep 2019 00:05:10 +0200
 categories: 
 - entertainment 
-- opinie 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/809245659/trump-nbc-moet-debra-messing-ontslaan"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5f7b0810-d042-11e9-83b3-0217670beecd.jpg"
 ---

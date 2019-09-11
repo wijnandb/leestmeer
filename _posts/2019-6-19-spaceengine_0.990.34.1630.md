@@ -1,9 +1,0 @@
----
-layout: post
-title: "SpaceEngine 0.990.34.1630"
-date: Wed, 19 Jun 2019 07:45:29 GMT
-category: tech
-externe_link: "https://tweakers.net/downloads/48596/spaceengine-0990341630.html"
----
-
-SpaceEngine is een 3d-astronomieprogramma dat wordt ontwikkeld door de Russische astronoom Vladimir Romanyuk. Het biedt een 3d-model van ons universum aan op basis van echte astronomische data en wetenschappelijk accurate procedurele algoritmen. Het is beschikbaar voor het Windows-platform; versies voor Linux en macOS staan op de planning. Voor meer informatie verwijzen we naar deze pagina en deze video op YouTube. De ontwikkelaar heeft na jaren van ontwikkelen versie 0.990 uitgebracht op Steam. Daarvoor moet vanaf heden wel worden betaald, maar de oudere versies zijn nog gratis beschikbaar via de eigen website. De laatste update kent 0.990.34.1630 als versienummer en werd als volgt aangekondigd: HOTFIX PATCH Hello SpaceEngine fans! We are thrilled about our successful launch on Steam! Not everything was perfect, and there have been some negative reviews and refunds, but this was expected! Those typically came from users with technical problems, and those with VR-related issues. The most overwhelming thing has been the volume of support messages we have to manage somehow. HarbingedDawn, DoctorOfSpace, Duke, Phunnie, retro-visor, BambusDude and other SE team guys have been replying to support messages for up to 12 hours a day each, but they can’t keep up! Please be patient – there are only a few of us and we’re dealing with a very heavy workload right now. Someone will respond to your message as soon as they can! I have not responded to many support messages myself because I am focusing on the code, sorry. Today’s patch fixes some issues that are easy/quick to fix: Build 0.990.33.1625 (this was a day 0 patch, but I didn’t made a post about it)<img src="http://feeds.feedburner.com/~r/tweakers/mixed/~4/0LBZuMsHJOk" height="1" width="1" alt=""/>

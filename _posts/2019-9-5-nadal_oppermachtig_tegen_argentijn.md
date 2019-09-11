@@ -2,7 +2,9 @@
 layout: post
 title: "Nadal oppermachtig tegen Argentijn"
 date: Thu, 05 Sep 2019 06:57:13 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/257219442/nadal-oppermachtig-tegen-argentijn"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/83b99186-cfb3-11e9-b751-02d1dbdc35d1.jpg"
 ---

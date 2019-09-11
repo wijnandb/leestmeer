@@ -2,7 +2,9 @@
 layout: post
 title: "Gilbert zet iedereen te kijk in Vuelta-etappe naar Bilbao"
 date: Thu, 05 Sep 2019 17:05:35 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2300470"
 feature_image: "https://nos.nl/data/image/2019/09/05/575176/1008x567.jpg"
 ---

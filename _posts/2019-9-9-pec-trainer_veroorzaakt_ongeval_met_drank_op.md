@@ -2,9 +2,7 @@
 layout: post
 title: "PEC-trainer veroorzaakt ongeval met drank op"
 date: Mon, 09 Sep 2019 15:14:21 +0200
-categories: 
-- entertainment 
-- opinie 
+category: sport
 externe_link: "https://www.telegraaf.nl/nieuws/658872440/pec-trainer-veroorzaakt-ongeval-met-drank-op"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a6f60628-d30c-11e9-bcd0-0255c322e81b.jpg"
 ---

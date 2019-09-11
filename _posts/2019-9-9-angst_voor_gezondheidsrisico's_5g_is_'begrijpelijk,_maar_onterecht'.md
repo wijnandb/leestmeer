@@ -2,7 +2,9 @@
 layout: post
 title: "Angst voor gezondheidsrisico's 5G is 'begrijpelijk, maar onterecht'"
 date: Mon, 09 Sep 2019 20:19:10 +0200
-category: nieuws
+categories: 
+- financieel 
+- economie 
 externe_link: "https://nos.nl/l/2301034"
 feature_image: "https://nos.nl/data/image/2019/09/09/576193/1008x567.jpg"
 ---
@@ -19,3 +21,4 @@ feature_image: "https://nos.nl/data/image/2019/09/09/576193/1008x567.jpg"
 <p>Van Rongen legt uit dat het begrijpelijk is dat straling leidt tot zorgen. "Straling is voor de meeste mensen een redelijk ongrijpbaar fenomeen. Je ziet het niet, je hoort het niet. Daarnaast heeft straling een negatieve connotatie, het wordt snel geassocieerd met nucleaire straling en de ramp in Tsjernobyl. Het wordt al snel als potentieel gevaarlijk ervaren."</p>
 <p>Maar straling is niet gevaarlijk zolang er rekening wordt gehouden met de limieten, zegt Van Rongen. "Zolang daaraan wordt voldaan, zullen er naar de huidige inzichten geen gezondheidseffecten optreden, ook niet bij blootstelling aan frequenties die tot nu toe niet zijn gebruikt.</p>
 <p>Bij 5G is dat de 26GHz-frequentie. Die is tot nu toe niet gebruikt. En het is een van de redenen dat mensen zich zorgen maken. Volgens Van Rongen zijn er geen redenen om te denken dat die hogere frequentie gaat leiden tot gezondheidsklachten.</p>
+<p>Van Rongen denkt dat de kans "niet zo heel groot is" dat het schadelijker is dan nu wordt gedacht. "Er is de afgelopen 20 jaar uitgebreid onderzoek gedaan en er zijn duizenden papers over geschreven. De kans dat we er met de conclusies naast zitten is niet zo groot. Waar we minder van weten zijn de heel langetermijneffecten. Die effecten zouden we beter moeten onderzoeken."</p>

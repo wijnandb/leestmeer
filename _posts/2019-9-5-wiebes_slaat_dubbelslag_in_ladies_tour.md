@@ -2,7 +2,9 @@
 layout: post
 title: "Wiebes slaat dubbelslag in Ladies Tour"
 date: Thu, 05 Sep 2019 16:48:29 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2300468"
 feature_image: "https://nos.nl/data/image/2019/09/05/575165/1008x567.jpg"
 ---

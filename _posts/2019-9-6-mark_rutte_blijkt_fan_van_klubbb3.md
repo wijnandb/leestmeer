@@ -2,7 +2,9 @@
 layout: post
 title: "Mark Rutte blijkt fan van Klubbb3"
 date: Fri, 06 Sep 2019 19:25:07 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/617415611/mark-rutte-blijkt-fan-van-klubbb3"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5e988182-d0cb-11e9-96b8-02d2fb1aa1d7.jpg"
 ---

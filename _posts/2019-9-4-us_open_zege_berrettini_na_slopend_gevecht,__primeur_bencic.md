@@ -2,7 +2,9 @@
 layout: post
 title: "US open: Zege Berrettini na slopend gevecht,  primeur Bencic"
 date: Thu, 05 Sep 2019 00:27:00 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/371136836/us-open-zege-berrettini-na-slopend-gevecht-primeur-bencic"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7e0180fa-cf63-11e9-bef6-02d1dbdc35d1.jpg"
 ---

@@ -2,9 +2,7 @@
 layout: post
 title: "’Spion terug om Trump’"
 date: Tue, 10 Sep 2019 05:30:00 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/1894290989/spion-terug-om-trump"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3f908044-d339-11e9-8f10-02d1dbdc35d1.jpg"
 ---

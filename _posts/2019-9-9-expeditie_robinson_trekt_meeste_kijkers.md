@@ -2,7 +2,9 @@
 layout: post
 title: "Expeditie Robinson trekt meeste kijkers"
 date: Mon, 09 Sep 2019 08:17:20 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/2122095443/expeditie-robinson-trekt-meeste-kijkers"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9054ea76-d2c9-11e9-9f6b-02d1dbdc35d1.jpg"
 ---

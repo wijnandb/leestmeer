@@ -2,7 +2,9 @@
 layout: post
 title: "Eddie Murphy kondigt stand-up tournee voor 2020 aan"
 date: Fri, 06 Sep 2019 08:12:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1902976038/eddie-murphy-kondigt-stand-up-tournee-voor-2020-aan"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9b878aba-d068-11e9-a3f1-0217670beecd.jpg"
 ---

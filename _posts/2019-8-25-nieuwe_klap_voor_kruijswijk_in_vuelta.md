@@ -3,8 +3,8 @@ layout: post
 title: "Nieuwe klap voor Kruijswijk in Vuelta"
 date: Sun, 25 Aug 2019 17:41:40 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/282595231/nieuwe-klap-voor-kruijswijk-in-vuelta"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8e56036e-c76f-11e9-bf11-0255c322e81b.jpg"
 ---

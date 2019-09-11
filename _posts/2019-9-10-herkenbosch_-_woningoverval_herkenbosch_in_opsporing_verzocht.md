@@ -2,7 +2,7 @@
 layout: post
 title: "Herkenbosch - Woningoverval Herkenbosch in Opsporing Verzocht"
 date: Tue, 10 Sep 2019 15:48:00 GMT
-category: limburg
+category: politieberichten
 externe_link: "https://www.politie.nl/nieuws/2019/september/10/10-woningoverval-herkenbosch-in-opsporing-verzocht.html"
 ---
 

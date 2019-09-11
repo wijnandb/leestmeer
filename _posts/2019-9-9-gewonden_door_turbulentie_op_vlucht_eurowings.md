@@ -2,9 +2,7 @@
 layout: post
 title: "Gewonden door turbulentie op vlucht Eurowings"
 date: Mon, 09 Sep 2019 19:05:22 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/1152676817/gewonden-door-turbulentie-op-vlucht-eurowings"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4d9710d2-d333-11e9-896b-02c309bc01c1.jpg"
 ---

@@ -3,8 +3,8 @@ layout: post
 title: "Aanpassingen Circuit Zandvoort beginnen"
 date: Fri, 06 Sep 2019 18:55:28 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- autosport 
 externe_link: "https://www.telegraaf.nl/sport/1500275101/aanpassingen-circuit-zandvoort-beginnen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/20f2f7da-d0c7-11e9-a3f1-0217670beecd.jpg"
 ---

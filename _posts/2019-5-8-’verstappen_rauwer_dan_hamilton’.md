@@ -4,7 +4,7 @@ title: "’Verstappen rauwer dan Hamilton’"
 date: Wed, 08 May 2019 06:20:00 +0200
 categories: 
 - sport 
-- autosport 
+- schaatsen 
 externe_link: "https://www.telegraaf.nl/sport/3551763/verstappen-rauwer-dan-hamilton"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8d93fef2-714f-11e9-9ee7-0218eaf05005.jpg"
 ---

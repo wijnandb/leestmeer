@@ -2,7 +2,9 @@
 layout: post
 title: "Roche nieuwe leider Vuelta: ’Enorme opluchting’"
 date: Sun, 25 Aug 2019 18:35:41 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/205318190/roche-nieuwe-leider-vuelta-enorme-opluchting"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/636b0532-c756-11e9-bd30-0217670beecd.jpg"
 ---

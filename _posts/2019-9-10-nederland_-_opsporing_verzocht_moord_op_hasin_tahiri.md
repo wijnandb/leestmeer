@@ -2,9 +2,7 @@
 layout: post
 title: "Nederland - Opsporing Verzocht: moord op Hasin Tahiri"
 date: Tue, 10 Sep 2019 17:29:00 GMT
-categories: 
-- flevoland 
-- almere 
+category: politieberichten
 externe_link: "https://www.politie.nl/nieuws/2019/september/10/00---opsporing-verzocht-moord-op-hasin-tahiri.html"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Woody Allen ligt niet wakker van minder klussen in Hollywood"
 date: Fri, 06 Sep 2019 23:44:58 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/771746338/woody-allen-ligt-niet-wakker-van-minder-klussen-in-hollywood"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ac668f48-d0ef-11e9-ad49-0255c322e81b.jpg"
 ---

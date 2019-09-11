@@ -2,9 +2,7 @@
 layout: post
 title: "Zwolle - Politie houdt jeugdige verdachte aan voor straatroof"
 date: Wed, 11 Sep 2019 12:56:00 GMT
-categories: 
-- overijssel 
-- zwolle 
+category: politieberichten
 externe_link: "https://www.politie.nl/nieuws/2019/september/11/02-zwolle-politie-houdt-jeugdige-verdachte-aan-voor-straatroof.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/cellen-politiebureau-4.jpg"
 ---

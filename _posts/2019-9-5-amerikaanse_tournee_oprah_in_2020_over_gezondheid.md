@@ -2,7 +2,9 @@
 layout: post
 title: "Amerikaanse tournee Oprah in 2020 over gezondheid"
 date: Thu, 05 Sep 2019 15:26:44 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1242199792/amerikaanse-tournee-oprah-in-2020-over-gezondheid"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e1e72156-cfe0-11e9-a8ab-0217670beecd.jpg"
 ---

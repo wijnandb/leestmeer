@@ -2,9 +2,7 @@
 layout: post
 title: "Meisje (5) belt 112 voor onwel geworden mama"
 date: Sat, 07 Sep 2019 19:23:34 +0200
-categories: 
-- entertainment 
-- opinie 
+category: opmerkelijk
 externe_link: "https://www.telegraaf.nl/nieuws/945711980/meisje-5-belt-112-voor-onwel-geworden-mama"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/dc13b458-d19b-11e9-ad49-0255c322e81b.jpg"
 ---

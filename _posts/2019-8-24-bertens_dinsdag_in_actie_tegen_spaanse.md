@@ -2,7 +2,9 @@
 layout: post
 title: "Bertens dinsdag in actie tegen Spaanse"
 date: Sat, 24 Aug 2019 13:38:12 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/1323825054/bertens-dinsdag-in-actie-tegen-spaanse"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ada4cfd2-c663-11e9-9f19-0218eaf05005.jpg"
 ---

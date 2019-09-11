@@ -4,7 +4,7 @@ title: "’Iedereen kan code leren’"
 date: Tue, 03 Sep 2019 10:31:00 +0200
 categories: 
 - financieel 
-- koersen 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/23642552/iedereen-kan-code-leren"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/351b2162-cda5-11e9-9f19-0218eaf05005.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Fans lyrisch over shoot Kim Kardashian voor Arabische Vogue"
 date: Sun, 08 Sep 2019 19:30:54 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/981113089/fans-lyrisch-over-shoot-kim-kardashian-voor-arabische-vogue"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/68ee78dc-d25e-11e9-810a-0218eaf05005.jpg"
 ---

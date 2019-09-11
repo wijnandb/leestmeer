@@ -3,8 +3,8 @@ layout: post
 title: "Frenkie de Jong: ’Ik zat er al even op te wachten’"
 date: Sat, 07 Sep 2019 09:59:00 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/1099001776/frenkie-de-jong-ik-zat-er-al-even-op-te-wachten"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5a2944a4-d145-11e9-8388-02d2fb1aa1d7.jpg"
 ---

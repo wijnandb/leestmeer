@@ -2,9 +2,7 @@
 layout: post
 title: "Oranje hockeyers treffen ’gevallen grootmacht’ in strijd om ticket naar Tokio"
 date: Mon, 09 Sep 2019 14:04:51 +0200
-categories: 
-- entertainment 
-- opinie 
+category: sport
 externe_link: "https://www.telegraaf.nl/sport/871326569/oranje-hockeyers-treffen-gevallen-grootmacht-in-strijd-om-ticket-naar-tokio"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b18e37ea-d302-11e9-896b-02c309bc01c1.jpg"
 ---

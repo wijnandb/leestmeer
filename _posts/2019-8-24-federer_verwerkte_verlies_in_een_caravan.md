@@ -2,7 +2,9 @@
 layout: post
 title: "Federer verwerkte verlies in een caravan"
 date: Sat, 24 Aug 2019 15:19:47 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/447918672/federer-verwerkte-verlies-in-een-caravan"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d838e086-c671-11e9-8073-0255c322e81b.jpg"
 ---

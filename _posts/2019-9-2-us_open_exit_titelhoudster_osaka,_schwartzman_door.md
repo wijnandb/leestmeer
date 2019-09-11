@@ -2,7 +2,9 @@
 layout: post
 title: "US Open: Exit titelhoudster Osaka, Schwartzman door"
 date: Mon, 02 Sep 2019 23:37:00 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/1938309214/us-open-exit-titelhoudster-osaka-schwartzman-door"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/cd4bdff0-cdd0-11e9-bef2-02c309bc01c1.jpg"
 ---

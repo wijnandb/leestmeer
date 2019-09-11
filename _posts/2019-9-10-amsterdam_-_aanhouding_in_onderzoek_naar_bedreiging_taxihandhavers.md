@@ -2,9 +2,7 @@
 layout: post
 title: "Amsterdam - Aanhouding in onderzoek naar bedreiging taxihandhavers"
 date: Tue, 10 Sep 2019 12:58:00 GMT
-categories: 
-- noord-holland 
-- amsterdam 
+category: politieberichten
 externe_link: "https://www.politie.nl/nieuws/2019/september/10/05-aanhouding-na-bedreiging.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/beeldredactie/2019/2019-04-23-dienstvoertuig-politieauto-mercedes-nieuwe-striping-pm/2019-04-23-politieauto-mercedes-pm008.jpg"
 ---

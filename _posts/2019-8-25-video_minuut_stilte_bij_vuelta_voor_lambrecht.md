@@ -3,8 +3,8 @@ layout: post
 title: "Video: Minuut stilte bij Vuelta voor Lambrecht"
 date: Sun, 25 Aug 2019 12:59:27 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/710835732/video-minuut-stilte-bij-vuelta-voor-lambrecht"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7f6ec842-c727-11e9-a671-02d2fb1aa1d7.jpg"
 ---

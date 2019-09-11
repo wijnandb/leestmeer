@@ -2,7 +2,9 @@
 layout: post
 title: "Giro-winnaar Carapaz voor drie jaar naar Team Ineos"
 date: Mon, 02 Sep 2019 19:09:10 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/44046657/giro-winnaar-carapaz-voor-drie-jaar-naar-team-ineos"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/621a8ab4-cda4-11e9-a0a1-0255c322e81b.jpg"
 ---

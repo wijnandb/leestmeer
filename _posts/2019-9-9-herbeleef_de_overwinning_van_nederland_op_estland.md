@@ -2,9 +2,7 @@
 layout: post
 title: "Herbeleef de overwinning van Nederland op Estland"
 date: Mon, 09 Sep 2019 22:39:00 +0200
-categories: 
-- entertainment 
-- opinie 
+category: sport
 externe_link: "https://www.telegraaf.nl/sport/1400869745/herbeleef-de-overwinning-van-nederland-op-estland"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b424b6a4-d353-11e9-b0b0-02c309bc01c1.jpg"
 ---

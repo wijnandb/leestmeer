@@ -3,8 +3,8 @@ layout: post
 title: "’De Jong wordt beste van wereld’"
 date: Sat, 07 Sep 2019 21:53:51 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/2142640800/de-jong-wordt-beste-van-wereld"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/36ffd0a6-d1a9-11e9-baff-02d2fb1aa1d7.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Van Vleuten wint proloog Ladies Tour"
 date: Tue, 03 Sep 2019 16:45:20 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/1564710873/van-vleuten-wint-proloog-ladies-tour"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/74407054-ce59-11e9-b5f2-0255c322e81b.jpg"
 ---

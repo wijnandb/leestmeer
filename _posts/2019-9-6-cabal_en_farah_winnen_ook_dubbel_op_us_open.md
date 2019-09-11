@@ -2,7 +2,9 @@
 layout: post
 title: "Cabal en Farah winnen ook dubbel op US Open"
 date: Fri, 06 Sep 2019 21:11:15 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/1285681911/cabal-en-farah-winnen-ook-dubbel-op-us-open"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/195d1fba-d0da-11e9-9f6b-02d1dbdc35d1.jpg"
 ---

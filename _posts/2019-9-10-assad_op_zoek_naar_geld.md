@@ -2,9 +2,7 @@
 layout: post
 title: "Assad op zoek naar geld"
 date: Tue, 10 Sep 2019 05:30:00 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/358681293/assad-op-zoek-naar-geld"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7db1a3ea-d338-11e9-896b-02c309bc01c1.jpg"
 ---

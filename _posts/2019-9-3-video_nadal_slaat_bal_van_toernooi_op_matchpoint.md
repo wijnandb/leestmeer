@@ -3,8 +3,8 @@ layout: post
 title: "Video: Nadal slaat bal van toernooi op matchpoint"
 date: Tue, 03 Sep 2019 08:53:31 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/856544053/video-nadal-slaat-bal-van-toernooi-op-matchpoint"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3fb2966a-ce2b-11e9-b75d-0218eaf05005.jpg"
 ---

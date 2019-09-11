@@ -2,7 +2,9 @@
 layout: post
 title: "Domper voor Gutiérrez en PSV"
 date: Sun, 08 Sep 2019 08:17:59 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/1306269107/domper-voor-gutierrez-en-psv"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b59540f4-d217-11e9-8538-0255c322e81b.jpg"
 ---

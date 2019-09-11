@@ -3,8 +3,8 @@ layout: post
 title: "Apple Pay ook bij ABN, Rabo en Bunq"
 date: Tue, 03 Sep 2019 08:56:00 +0200
 categories: 
-- entertainment 
-- opinie 
+- financieel 
+- geld 
 externe_link: "https://www.telegraaf.nl/financieel/1606840048/apple-pay-ook-bij-abn-rabo-en-bunq"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6f200804-ce1e-11e9-b90b-0217670beecd.jpg"
 ---

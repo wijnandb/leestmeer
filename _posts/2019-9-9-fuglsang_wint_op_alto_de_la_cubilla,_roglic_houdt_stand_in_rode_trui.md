@@ -2,7 +2,9 @@
 layout: post
 title: "Fuglsang wint op Alto de la Cubilla, Roglic houdt stand in rode trui"
 date: Mon, 09 Sep 2019 17:42:43 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2301010"
 feature_image: "https://nos.nl/data/image/2019/09/09/576149/1008x567.jpg"
 ---

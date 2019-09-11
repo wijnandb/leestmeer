@@ -2,7 +2,7 @@
 layout: post
 title: "Armin van Buuren: 'Aan dj-bestaan zit schaduwkant, die zien we steeds meer'"
 date: Tue, 10 Sep 2019 05:21:12 +0200
-category: nieuws
+category: cultuur
 externe_link: "https://nos.nl/l/2301071"
 feature_image: "https://nos.nl/data/image/2019/09/10/576260/1008x567.jpg"
 ---

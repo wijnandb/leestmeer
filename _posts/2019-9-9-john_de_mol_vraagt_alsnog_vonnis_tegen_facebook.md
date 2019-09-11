@@ -4,7 +4,7 @@ title: "John de Mol vraagt alsnog vonnis tegen Facebook"
 date: Mon, 09 Sep 2019 16:16:00 +0200
 categories: 
 - entertainment 
-- opinie 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/2139358386/john-de-mol-vraagt-alsnog-vonnis-tegen-facebook"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/98bebe06-d339-11e9-a8e1-02c309bc01c1.jpg"
 ---

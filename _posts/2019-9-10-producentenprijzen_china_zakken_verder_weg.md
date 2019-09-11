@@ -2,9 +2,7 @@
 layout: post
 title: "Producentenprijzen China zakken verder weg"
 date: Tue, 10 Sep 2019 07:47:10 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
 externe_link: "https://www.telegraaf.nl/financieel/311034322/producentenprijzen-china-zakken-verder-weg"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9326f67a-d38e-11e9-8baa-0255c322e81b.jpg"
 ---

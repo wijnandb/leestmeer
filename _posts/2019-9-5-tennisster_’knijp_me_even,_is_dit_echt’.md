@@ -2,7 +2,9 @@
 layout: post
 title: "Tennisster: ’Knijp me even, is dit echt’"
 date: Thu, 05 Sep 2019 10:11:00 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/812904306/tennisster-knijp-me-even-is-dit-echt"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5214629a-cfb9-11e9-b751-02d1dbdc35d1.jpg"
 ---

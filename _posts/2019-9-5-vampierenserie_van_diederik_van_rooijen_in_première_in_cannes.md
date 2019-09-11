@@ -2,7 +2,9 @@
 layout: post
 title: "Vampierenserie van Diederik van Rooijen in première in Cannes"
 date: Thu, 05 Sep 2019 16:38:38 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1045761957/vampierenserie-van-diederik-van-rooijen-in-premiere-in-cannes"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/fa41c38c-cfea-11e9-b66a-0218eaf05005.jpg"
 ---

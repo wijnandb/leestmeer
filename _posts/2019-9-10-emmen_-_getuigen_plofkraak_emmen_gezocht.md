@@ -2,9 +2,7 @@
 layout: post
 title: "Emmen - Getuigen plofkraak Emmen gezocht"
 date: Tue, 10 Sep 2019 11:49:00 GMT
-categories: 
-- drenthe 
-- emmen 
+category: politieberichten
 externe_link: "https://www.politie.nl/nieuws/2019/september/10/getuigen-plofkraak-gezocht.html"
 ---
 

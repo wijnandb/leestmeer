@@ -4,7 +4,7 @@ title: "Ed Sheeran maakt zich klaar voor tweede bruiloft"
 date: Sun, 08 Sep 2019 15:03:00 +0200
 categories: 
 - entertainment 
-- opinie 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/1306803191/ed-sheeran-maakt-zich-klaar-voor-tweede-bruiloft"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6ed0bf32-d239-11e9-896b-02c309bc01c1.jpg"
 ---

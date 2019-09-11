@@ -3,8 +3,8 @@ layout: post
 title: "Gebroken rug na ongelooflijk ongeval"
 date: Sat, 07 Sep 2019 18:37:00 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- autosport 
 externe_link: "https://www.telegraaf.nl/sport/799651660/gebroken-rug-na-ongelooflijk-ongeval"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/cc8ef5c8-d19c-11e9-baff-02d2fb1aa1d7.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Kindertijd passeert half miljoen abonnees op YouTube"
 date: Thu, 05 Sep 2019 16:55:03 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/492246626/kindertijd-passeert-half-miljoen-abonnees-op-you-tube"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/353be182-cfed-11e9-810a-0218eaf05005.jpg"
 ---

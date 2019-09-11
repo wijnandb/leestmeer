@@ -2,9 +2,7 @@
 layout: post
 title: "Vermist - Claudine Davina Ernstzen"
 date: Wed, 04 Sep 2019 16:00:00 GMT
-categories: 
-- fryslan 
-- leeuwarden 
+category: politieberichten
 externe_link: "https://www.politie.nl/gezocht-en-vermist/vermiste-volwassenen/2019/september/caluidine-davina-ernstzen.html"
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: "Valpartij Jumbo-Visma bij start Vuelta"
 date: Sat, 24 Aug 2019 20:28:20 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/2034913289/valpartij-jumbo-visma-bij-start-vuelta"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5ba1c7cc-c6a3-11e9-8534-02c309bc01c1.jpg"
 ---

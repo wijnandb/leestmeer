@@ -2,7 +2,9 @@
 layout: post
 title: "Lange Frans en Baas B weer samen"
 date: Thu, 05 Sep 2019 19:00:11 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/789879454/lange-frans-en-baas-b-weer-samen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9fa011fe-d003-11e9-a3f1-0217670beecd.jpg"
 ---

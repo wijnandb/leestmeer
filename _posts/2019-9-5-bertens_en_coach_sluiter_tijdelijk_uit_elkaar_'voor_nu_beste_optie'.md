@@ -2,8 +2,10 @@
 layout: post
 title: "Bertens en coach Sluiter tijdelijk uit elkaar: 'Voor nu beste optie'"
 date: Thu, 05 Sep 2019 21:39:20 +0200
-category: sport
-externe_link: "https://nos.nl/l/2300505"
+categories: 
+- sport 
+- tennis 
+externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/49o4kY2M8hM/2300505"
 feature_image: "https://nos.nl/data/image/2019/09/05/575231/1008x567.jpg"
 ---
 
@@ -19,4 +21,4 @@ feature_image: "https://nos.nl/data/image/2019/09/05/575231/1008x567.jpg"
 <h2>Shenzhen of Zhuhai</h2>
 <p>In Azië wacht haar drie toernooien in China en eentje in Japan. "En dan ligt het eraan hoeveel punten ik eventueel nog nodig hebt of waar ik sta op de wereldranglijst. Maar in principe is het een week vrij, daarna Moskou en dan nog een toernooi in China."</p>
 <p>Ongewis is nog of die afsluiter Bertens in Shenzhen brengt of in Zhuhai. Die eerste locatie heeft de WTA Finals in huis, het evenement waarvoor de beste acht tennissters van dit jaar worden uitgenodigd - het officicieuze wereldkampioenschap. De mondiale subtop wordt naar Zhuhai verwezen voor WTA Elite Trophy.</p>
-<p>Zorgen of ze WTA Finals wel gaat halen, maakt ze zich vooralsnog niet. "Nee, we gaan er gewoon alles aan doen om dat te halen. Of dat lukt, zien we dan wel. Ik ga gewoon mijn best doen."</p>
+<p>Zorgen of ze WTA Finals wel gaat halen, maakt ze zich vooralsnog niet. "Nee, we gaan er gewoon alles aan doen om dat te halen. Of dat lukt, zien we dan wel. Ik ga gewoon mijn best doen."</p><img src="http://feeds.feedburner.com/~r/nossporttennis/~4/49o4kY2M8hM" height="1" width="1" alt=""/>

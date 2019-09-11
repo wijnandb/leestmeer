@@ -2,9 +2,7 @@
 layout: post
 title: "Almere - Gezocht - Dader(s) steekincident Almere gezocht"
 date: Tue, 10 Sep 2019 13:05:00 GMT
-categories: 
-- flevoland 
-- almere 
+category: politieberichten
 externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/september/03-daders-steekincident-almere-gezocht.html"
 ---
 

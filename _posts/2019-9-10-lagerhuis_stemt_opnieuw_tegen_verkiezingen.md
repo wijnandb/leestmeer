@@ -2,9 +2,7 @@
 layout: post
 title: "Lagerhuis stemt opnieuw tegen verkiezingen"
 date: Tue, 10 Sep 2019 02:40:29 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/299309520/lagerhuis-stemt-opnieuw-tegen-verkiezingen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/cede6efc-d364-11e9-baff-02d2fb1aa1d7.jpg"
 ---

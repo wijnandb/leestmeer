@@ -2,9 +2,7 @@
 layout: post
 title: "Messi krijgt eigen show van Cirque du Soleil"
 date: Mon, 09 Sep 2019 20:18:39 +0200
-categories: 
-- entertainment 
-- opinie 
+category: entertainment
 externe_link: "https://www.telegraaf.nl/entertainment/1343092994/messi-krijgt-eigen-show-van-cirque-du-soleil"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3f2f5752-d32e-11e9-9a49-02d2fb1aa1d7.jpg"
 ---

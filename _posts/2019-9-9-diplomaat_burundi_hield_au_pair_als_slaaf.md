@@ -2,9 +2,7 @@
 layout: post
 title: "Diplomaat Burundi hield au pair als slaaf"
 date: Mon, 09 Sep 2019 20:44:07 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/2088740325/diplomaat-burundi-hield-au-pair-als-slaaf"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e573ed96-d331-11e9-bc1d-02d1dbdc35d1.jpg"
 ---

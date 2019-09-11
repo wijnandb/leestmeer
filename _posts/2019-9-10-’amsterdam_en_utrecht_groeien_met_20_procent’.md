@@ -2,9 +2,7 @@
 layout: post
 title: "’Amsterdam en Utrecht groeien met 20 procent’"
 date: Tue, 10 Sep 2019 06:51:20 +0200
-categories: 
-- entertainment 
-- opinie 
+category: binnenland
 externe_link: "https://www.telegraaf.nl/nieuws/473812499/amsterdam-en-utrecht-groeien-met-20-procent"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ab053610-d386-11e9-ab85-0255c322e81b.jpg"
 ---

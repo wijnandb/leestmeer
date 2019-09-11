@@ -2,7 +2,9 @@
 layout: post
 title: "Nightwish komt naar Ziggo Dome"
 date: Thu, 05 Sep 2019 15:41:27 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/528495114/nightwish-komt-naar-ziggo-dome"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e9d012f4-cfe2-11e9-a85c-0218eaf05005.jpg"
 ---

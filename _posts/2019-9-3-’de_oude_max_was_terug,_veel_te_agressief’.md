@@ -3,8 +3,8 @@ layout: post
 title: "’De oude Max was terug, veel te agressief’"
 date: Tue, 03 Sep 2019 12:37:45 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- autosport 
 externe_link: "https://www.telegraaf.nl/sport/1341669090/de-oude-max-was-terug-veel-te-agressief"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b3703512-ce4e-11e9-b90b-0217670beecd.jpg"
 ---

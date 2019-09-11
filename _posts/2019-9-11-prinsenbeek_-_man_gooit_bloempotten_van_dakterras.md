@@ -2,9 +2,7 @@
 layout: post
 title: "Prinsenbeek - Man gooit bloempotten van dakterras"
 date: Wed, 11 Sep 2019 08:05:00 GMT
-categories: 
-- noord-brabant 
-- breda 
+category: politieberichten
 externe_link: "https://www.politie.nl/nieuws/2019/september/11/08-man-gooit-bloempotten-van-dakterras.html"
 ---
 

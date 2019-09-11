@@ -3,8 +3,8 @@ layout: post
 title: "’Eerder zekerheid over AOW-leeftijd’"
 date: Fri, 06 Sep 2019 06:45:00 +0200
 categories: 
-- entertainment 
-- opinie 
+- financieel 
+- geld 
 externe_link: "https://www.telegraaf.nl/financieel/1024801326/eerder-zekerheid-over-aow-leeftijd"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/00940cfa-d021-11e9-bef6-02d1dbdc35d1.jpg"
 ---

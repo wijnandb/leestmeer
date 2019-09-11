@@ -2,9 +2,7 @@
 layout: post
 title: "Babel opvallend kritisch op ’Oranje 2010’"
 date: Tue, 10 Sep 2019 00:03:43 +0200
-categories: 
-- entertainment 
-- opinie 
+category: sport
 externe_link: "https://www.telegraaf.nl/sport/1582950534/babel-opvallend-kritisch-op-oranje-2010"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6df01e08-d353-11e9-aeae-02d2fb1aa1d7.jpg"
 ---

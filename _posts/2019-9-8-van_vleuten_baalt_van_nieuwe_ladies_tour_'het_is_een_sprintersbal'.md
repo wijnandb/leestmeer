@@ -2,7 +2,9 @@
 layout: post
 title: "Van Vleuten baalt van nieuwe Ladies Tour: 'Het is een sprintersbal'"
 date: Sun, 08 Sep 2019 09:19:01 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2300797"
 feature_image: "https://nos.nl/data/image/2019/09/08/575787/1008x567.jpg"
 ---

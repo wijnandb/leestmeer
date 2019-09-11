@@ -2,9 +2,7 @@
 layout: post
 title: "Geannuleerd bezoek Trump kost Denen tonnen"
 date: Mon, 09 Sep 2019 14:45:41 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/541135639/geannuleerd-bezoek-trump-kost-denen-tonnen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bb64ae7e-d30d-11e9-a6c7-02d1dbdc35d1.jpg"
 ---

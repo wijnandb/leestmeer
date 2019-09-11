@@ -2,9 +2,7 @@
 layout: post
 title: "Wetenschap kan tomatenplant van verdrinkingsdood redden - en misoogsten beperken"
 date: Thu, 05 Sep 2019 18:44:00 +0200
-categories: 
-- financieel 
-- economie 
+category: tech
 externe_link: "https://nos.nl/l/2300482"
 feature_image: "https://nos.nl/data/image/2019/09/05/575201/1008x567.jpg"
 ---

@@ -3,8 +3,8 @@ layout: post
 title: "Haas stopt met hoofdsponsor"
 date: Mon, 09 Sep 2019 15:35:41 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- autosport 
 externe_link: "https://www.telegraaf.nl/sport/108109974/haas-stopt-met-hoofdsponsor"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b7d8b9fa-d306-11e9-9f6b-02d1dbdc35d1.jpg"
 ---

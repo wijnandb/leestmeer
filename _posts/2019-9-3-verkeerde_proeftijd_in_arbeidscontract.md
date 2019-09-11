@@ -3,8 +3,8 @@ layout: post
 title: "Verkeerde proeftijd in arbeidscontract?"
 date: Tue, 03 Sep 2019 09:45:00 +0200
 categories: 
-- entertainment 
-- opinie 
+- financieel 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/2085889358/verkeerde-proeftijd-in-arbeidscontract"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1c76502a-cda8-11e9-ae50-02d1dbdc35d1.jpg"
 ---

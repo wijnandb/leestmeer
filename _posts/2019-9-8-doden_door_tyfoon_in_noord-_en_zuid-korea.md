@@ -2,9 +2,7 @@
 layout: post
 title: "Doden door tyfoon in Noord- en Zuid-Korea"
 date: Sun, 08 Sep 2019 08:44:43 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/556922856/doden-door-tyfoon-in-noord-en-zuid-korea"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3832b0b2-d224-11e9-921d-0217670beecd.jpg"
 ---

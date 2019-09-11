@@ -2,8 +2,10 @@
 layout: post
 title: "Een Turks resort en foute facturen: oud-topvrouw Slotervaart voor rechter"
 date: Mon, 09 Sep 2019 17:14:26 +0200
-category: binnenland
-externe_link: "http://feeds.nos.nl/~r/nosnieuwsbinnenland/~3/hbVWlXymarg/2301003"
+categories: 
+- financieel 
+- economie 
+externe_link: "https://nos.nl/l/2301003"
 feature_image: "https://nos.nl/data/image/2019/09/09/576138/1008x567.jpg"
 ---
 
@@ -27,4 +29,4 @@ feature_image: "https://nos.nl/data/image/2019/09/09/576138/1008x567.jpg"
 <p>"U vertelt gepassioneerd", zei de rechter nadat Erbudak de verklaring had voorgelezen. "Maar het roept toch nog allerlei vragen op. We hebben het vandaag niet over de ondergang van het Slotervaartziekenhuis en niet over dromen. We hebben het over mogelijke malversaties."</p>
 <p>Gemalverseerd is er mogelijk ook met drimpy.com. Het Slotervaartziekenhuis kocht voor twee ton aan aandelen van dit e-healthplatform, maar die kwamen op naam te staan van bedrijven van Erbudak.</p>
 <p>De voormalige bestuursvoorzitter werd eerder veroordeeld tot het terugbetalen van 1,7 miljoen euro aan het ziekenhuis.</p>
-<p>Woensdag gaat de zaak verder en in oktober doet de rechter uitspraak.</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbinnenland/~4/hbVWlXymarg" height="1" width="1" alt=""/>
+<p>Woensdag gaat de zaak verder en in oktober doet de rechter uitspraak.</p>

@@ -2,7 +2,9 @@
 layout: post
 title: "Williams stuit op wonderkind"
 date: Sat, 07 Sep 2019 08:39:53 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/1605320400/williams-stuit-op-wonderkind"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5c2338f6-d13a-11e9-96b8-02d2fb1aa1d7.jpg"
 ---

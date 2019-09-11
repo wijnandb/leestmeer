@@ -4,7 +4,7 @@ title: "’Alarmsystemen uit na stoppen ISDN’"
 date: Mon, 02 Sep 2019 10:15:39 +0200
 categories: 
 - financieel 
-- koersen 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/382834266/alarmsystemen-uit-na-stoppen-isdn"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d9abd54c-cd59-11e9-bd30-0217670beecd.jpg"
 ---

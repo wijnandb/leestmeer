@@ -2,7 +2,9 @@
 layout: post
 title: "BN’ers het water in om te vechten tegen ALS"
 date: Sun, 08 Sep 2019 16:26:30 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1340250048/bn-ers-het-water-in-om-te-vechten-tegen-als"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d5e8aa8a-d244-11e9-baff-02d2fb1aa1d7.jpg"
 ---

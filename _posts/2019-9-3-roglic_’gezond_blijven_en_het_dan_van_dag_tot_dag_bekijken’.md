@@ -2,7 +2,9 @@
 layout: post
 title: "Roglic: ’Gezond blijven en het dan van dag tot dag bekijken’"
 date: Tue, 03 Sep 2019 19:29:22 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/501212950/roglic-gezond-blijven-en-het-dan-van-dag-tot-dag-bekijken"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/448c8740-ce80-11e9-92ca-02d2fb1aa1d7.jpg"
 ---

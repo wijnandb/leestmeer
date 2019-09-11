@@ -2,8 +2,8 @@
 layout: post
 title: "Celstraf geëist tegen oud-topvrouw Slotervaartziekenhuis"
 date: Wed, 11 Sep 2019 10:12:27 +0200
-category: nieuws
-externe_link: "https://nos.nl/l/2301226"
+category: binnenland
+externe_link: "http://feeds.nos.nl/~r/nosnieuwsbinnenland/~3/YdTm8BYgh5A/2301226"
 feature_image: "https://nos.nl/data/image/2019/09/11/576510/1008x567.jpg"
 ---
 
@@ -14,4 +14,4 @@ feature_image: "https://nos.nl/data/image/2019/09/11/576510/1008x567.jpg"
 <h2>Verdachte constructie</h2>
 <p>Een bouwbedrijf wilde garant staan voor een bedrag van een miljoen euro. Het bedrijf stuurde daarop twee facturen van samen een miljoen euro naar het Slotervaartziekenhuis. Op de facturen stond dat het ging om goederen voor de afdeling radiologie, maar die afdeling heeft nooit goederen bij het bouwbedrijf gekocht. De facturen werden wel door het ziekenhuis betaald.</p>
 <p>Volgens het OM werd met een verdachte constructie geprobeerd om geld voor het Turkse project binnen te halen, maar uiteindelijk kwam de financiering niet rond en ging het project niet door.</p>
-<p>De verkoper van de Turkse grond beriep zich op de garantieafspraak en eiste zijn geld bij het bouwbedrijf op. Het OM zegt dat er sprake is van valsheid in geschrifte, omdat Erbudak geld van het Slotervaartziekenhuis gebruikte voor privé-doeleinden.</p>
+<p>De verkoper van de Turkse grond beriep zich op de garantieafspraak en eiste zijn geld bij het bouwbedrijf op. Het OM zegt dat er sprake is van valsheid in geschrifte, omdat Erbudak geld van het Slotervaartziekenhuis gebruikte voor privé-doeleinden.</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbinnenland/~4/YdTm8BYgh5A" height="1" width="1" alt=""/>

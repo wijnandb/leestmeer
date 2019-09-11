@@ -4,7 +4,7 @@ title: "Amazon groeide in 25 jaar naar een biljoen dollar"
 date: Fri, 05 Jul 2019 06:00:00 +0200
 categories: 
 - financieel 
-- koersen 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/1137741778/amazon-groeide-in-25-jaar-naar-een-biljoen-dollar"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9af59e88-9e78-11e9-baee-0217670beecd.jpg"
 ---

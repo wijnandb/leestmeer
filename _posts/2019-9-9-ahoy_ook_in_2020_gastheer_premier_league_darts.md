@@ -3,8 +3,8 @@ layout: post
 title: "Ahoy ook in 2020 gastheer Premier League Darts"
 date: Mon, 09 Sep 2019 14:41:22 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- darts 
 externe_link: "https://www.telegraaf.nl/sport/947322690/ahoy-ook-in-2020-gastheer-premier-league-darts"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/215cda80-d2ff-11e9-9211-02c309bc01c1.jpg"
 ---

@@ -2,9 +2,7 @@
 layout: post
 title: "Depay scoort beter dan Grote Vier"
 date: Tue, 10 Sep 2019 08:13:58 +0200
-categories: 
-- entertainment 
-- opinie 
+category: sport
 externe_link: "https://www.telegraaf.nl/sport/1192614979/depay-scoort-beter-dan-grote-vier"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2cde6ec6-d392-11e9-ab85-0255c322e81b.jpg"
 ---

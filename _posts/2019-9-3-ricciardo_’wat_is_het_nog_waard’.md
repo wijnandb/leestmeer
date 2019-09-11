@@ -3,8 +3,8 @@ layout: post
 title: "Ricciardo: ’Wat is het nog waard?’"
 date: Tue, 03 Sep 2019 10:01:10 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- autosport 
 externe_link: "https://www.telegraaf.nl/sport/121141916/ricciardo-wat-is-het-nog-waard"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/67b5bca6-ce39-11e9-b0f3-0218eaf05005.jpg"
 ---

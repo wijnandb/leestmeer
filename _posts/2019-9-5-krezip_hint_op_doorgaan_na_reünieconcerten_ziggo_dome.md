@@ -2,7 +2,9 @@
 layout: post
 title: "Krezip hint op doorgaan na reünieconcerten Ziggo Dome"
 date: Thu, 05 Sep 2019 14:50:44 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1020379287/krezip-hint-op-doorgaan-na-reunieconcerten-ziggo-dome"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/dd802a22-cfdb-11e9-a59e-0218eaf05005.jpg"
 ---

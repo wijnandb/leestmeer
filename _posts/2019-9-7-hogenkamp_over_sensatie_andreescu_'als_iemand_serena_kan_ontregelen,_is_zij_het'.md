@@ -2,8 +2,10 @@
 layout: post
 title: "Hogenkamp over sensatie Andreescu: 'Als iemand Serena kan ontregelen, is zij het'"
 date: Sat, 07 Sep 2019 10:23:52 +0200
-category: sport
-externe_link: "https://nos.nl/l/2300700"
+categories: 
+- sport 
+- tennis 
+externe_link: "http://feeds.nos.nl/~r/nossporttennis/~3/ZQgH8Qh2Z68/2300700"
 feature_image: "https://nos.nl/data/image/2019/09/07/575610/1008x567.jpg"
 ---
 
@@ -20,4 +22,4 @@ feature_image: "https://nos.nl/data/image/2019/09/07/575610/1008x567.jpg"
 <p>Andreescu is opnieuw een topproduct uit de momenteel bewierookte jeugdopleiding van Canada, waaruit eerder bij de mannen supertalenten Denis Shapovalov (20 jaar) en Felix Auger-Aliassime (19 jaar) naar de mondiale tennistop wisten door te stoten.</p>
 <p>Hogenkamp trof Andreescu in februari in de Fed Cup, verloor vrij kansloos en merkte toen al hoe snel het supertalent is gegroeid. "In onze eerste ontmoeting (op Roland Garros in 2018, red.) was ze nog veel minder constant en makkelijk uit haar spel te halen. Dat was tijdens de Fed Cup heel anders."</p>
 <p>"Ze was toen de kopvrouw van Canada, als achttienjarige! Dat kan voor behoorlijk wat druk zorgen, maar Andreescu ging er heel soepel mee om. Je merkte toen al dat ze heel erg met haar eigen ding bezig was. Ze zocht niet echt contact met anderen. Ergens kenmerkt dat een kampioen ook wel weer."</p>
-<p>Hogenkamp voorspelt dan ook een grote toekomst voor Andreescu. "Mits ze fit blijft, gaat Andreescu na deze US Open absoluut doorpakken. Ze heeft zoveel mogelijkheden met haar spel. Ze heeft het totaalpakket."</p>
+<p>Hogenkamp voorspelt dan ook een grote toekomst voor Andreescu. "Mits ze fit blijft, gaat Andreescu na deze US Open absoluut doorpakken. Ze heeft zoveel mogelijkheden met haar spel. Ze heeft het totaalpakket."</p><img src="http://feeds.feedburner.com/~r/nossporttennis/~4/ZQgH8Qh2Z68" height="1" width="1" alt=""/>

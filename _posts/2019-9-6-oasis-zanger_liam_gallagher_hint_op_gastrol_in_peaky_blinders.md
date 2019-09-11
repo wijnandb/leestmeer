@@ -2,7 +2,9 @@
 layout: post
 title: "Oasis-zanger Liam Gallagher hint op gastrol in Peaky Blinders"
 date: Fri, 06 Sep 2019 22:59:43 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1765801297/oasis-zanger-liam-gallagher-hint-op-gastrol-in-peaky-blinders"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/64b0d524-d0e9-11e9-bef6-02d1dbdc35d1.jpg"
 ---

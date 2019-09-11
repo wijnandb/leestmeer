@@ -3,8 +3,8 @@ layout: post
 title: "Ongelukkige Van Aert weer op de fiets"
 date: Sun, 08 Sep 2019 13:38:07 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/259758947/ongelukkige-van-aert-weer-op-de-fiets"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/21d4ce46-d22d-11e9-80b1-0217670beecd.jpg"
 ---

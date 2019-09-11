@@ -3,8 +3,8 @@ layout: post
 title: "US Open: Ontketende Serena in finale tegen verrassing"
 date: Fri, 06 Sep 2019 07:16:03 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/1676634107/us-open-ontketende-serena-in-finale-tegen-verrassing"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6e0940cc-d065-11e9-9a49-02d2fb1aa1d7.png"
 ---

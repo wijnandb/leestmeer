@@ -2,9 +2,7 @@
 layout: post
 title: "Hoog verloop personeel kostbaar voor horeca"
 date: Tue, 10 Sep 2019 07:48:07 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
 externe_link: "https://www.telegraaf.nl/financieel/522068985/hoog-verloop-personeel-kostbaar-voor-horeca"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/919099c4-d38e-11e9-859e-0218eaf05005.jpg"
 ---

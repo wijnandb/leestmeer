@@ -2,7 +2,7 @@
 layout: post
 title: "Slob: miljoenen voor basisonderwijs als sociale partners afspraken maken"
 date: Wed, 11 Sep 2019 08:27:35 +0200
-category: nieuws
+category: politiek
 externe_link: "https://nos.nl/l/2301213"
 feature_image: "https://nos.nl/data/image/2019/09/11/576469/1008x567.jpg"
 ---

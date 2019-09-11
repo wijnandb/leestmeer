@@ -2,7 +2,7 @@
 layout: post
 title: "Bah! Scholieren stoppen sperma en urine in pannenkoeken voor docenten"
 date: Thu, 05 Sep 2019 09:29:32 +0200
-category: buitenland
+category: opmerkelijk
 externe_link: "https://www.telegraaf.nl/nieuws/2039623256/bah-scholieren-stoppen-sperma-en-urine-in-pannenkoeken-voor-docenten"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2d4876fe-cfaf-11e9-9773-0255c322e81b.jpg"
 ---

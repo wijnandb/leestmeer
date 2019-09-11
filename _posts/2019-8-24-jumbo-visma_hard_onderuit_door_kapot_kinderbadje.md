@@ -2,7 +2,9 @@
 layout: post
 title: "Jumbo-Visma hard onderuit door kapot kinderbadje"
 date: Sat, 24 Aug 2019 23:02:40 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/2106382480/jumbo-visma-hard-onderuit-door-kapot-kinderbadje"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d809e6c6-c6b9-11e9-92ca-02d2fb1aa1d7.jpg"
 ---

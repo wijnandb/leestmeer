@@ -2,9 +2,7 @@
 layout: post
 title: "’iPhone-fabriek China lapt regels aan laars’"
 date: Mon, 09 Sep 2019 08:38:05 +0200
-categories: 
-- financieel 
-- koersen 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/financieel/1181230766/i-phone-fabriek-china-lapt-regels-aan-laars"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/61469d62-d2cc-11e9-a956-02d2fb1aa1d7.JPG"
 ---

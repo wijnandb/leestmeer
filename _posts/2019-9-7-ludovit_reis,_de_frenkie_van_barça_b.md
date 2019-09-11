@@ -2,7 +2,9 @@
 layout: post
 title: "Ludovit Reis, de Frenkie van Barça B"
 date: Sat, 07 Sep 2019 06:30:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/357935888/ludovit-reis-de-frenkie-van-barca-b"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f8bd4766-d0f8-11e9-96f8-02d2fb1aa1d7.jpg"
 ---

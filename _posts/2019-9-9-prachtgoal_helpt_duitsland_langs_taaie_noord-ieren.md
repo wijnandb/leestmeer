@@ -2,7 +2,9 @@
 layout: post
 title: "Prachtgoal helpt Duitsland langs taaie Noord-Ieren"
 date: Mon, 09 Sep 2019 22:37:13 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://nos.nl/l/2301049"
 feature_image: "https://nos.nl/data/image/2019/09/09/576222/1008x567.jpg"
 ---

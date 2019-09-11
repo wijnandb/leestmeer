@@ -3,8 +3,8 @@ layout: post
 title: "Verrassend verlies Van Gerwen"
 date: Sun, 12 May 2019 21:10:54 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- darts 
 externe_link: "https://www.telegraaf.nl/sport/3575492/verrassend-verlies-van-gerwen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9d36a280-74ef-11e9-8aa7-02d1dbdc35d1.jpg"
 ---

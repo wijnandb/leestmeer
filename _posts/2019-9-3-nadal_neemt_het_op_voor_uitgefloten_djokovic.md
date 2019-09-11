@@ -3,8 +3,8 @@ layout: post
 title: "Nadal neemt het op voor uitgefloten Djokovic"
 date: Tue, 03 Sep 2019 14:08:48 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/663430791/nadal-neemt-het-op-voor-uitgefloten-djokovic"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/29a280c0-ce48-11e9-9c40-0218eaf05005.jpg"
 ---

@@ -2,9 +2,7 @@
 layout: post
 title: "Spanning in Moskou: Russen naar de stembus"
 date: Sun, 08 Sep 2019 07:35:04 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/1867253162/spanning-in-moskou-russen-naar-de-stembus"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6948411e-d1fa-11e9-ab90-02d1dbdc35d1.jpg"
 ---

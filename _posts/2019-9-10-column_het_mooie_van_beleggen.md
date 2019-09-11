@@ -3,8 +3,8 @@ layout: post
 title: "Column: Het mooie van beleggen"
 date: Tue, 10 Sep 2019 06:35:00 +0200
 categories: 
-- entertainment 
-- opinie 
+- financieel 
+- geld 
 externe_link: "https://www.telegraaf.nl/financieel/979452144/column-het-mooie-van-beleggen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3b57c628-d2f7-11e9-80b1-0217670beecd.jpg"
 ---

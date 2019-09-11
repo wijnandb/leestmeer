@@ -2,7 +2,7 @@
 layout: post
 title: "Passagier verstopt baby in bagage"
 date: Wed, 04 Sep 2019 10:27:49 +0200
-category: buitenland
+category: opmerkelijk
 externe_link: "https://www.telegraaf.nl/nieuws/2009594459/passagier-verstopt-baby-in-bagage"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e157c8a6-ceed-11e9-b7bf-02d1dbdc35d1.jpg"
 ---

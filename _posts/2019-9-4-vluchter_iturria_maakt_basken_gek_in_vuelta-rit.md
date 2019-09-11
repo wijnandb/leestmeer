@@ -2,7 +2,9 @@
 layout: post
 title: "Vluchter Iturria maakt Basken gek in Vuelta-rit"
 date: Wed, 04 Sep 2019 18:06:02 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/27316028/vluchter-iturria-maakt-basken-gek-in-vuelta-rit"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d0f281ec-cf31-11e9-921d-0217670beecd.jpg"
 ---

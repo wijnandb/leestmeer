@@ -3,8 +3,8 @@ layout: post
 title: "Verstappen: ’Niet hetzelfde probleem, wel hetzelfde effect’"
 date: Sat, 07 Sep 2019 16:58:00 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- autosport 
 externe_link: "https://www.telegraaf.nl/sport/1491214327/verstappen-niet-hetzelfde-probleem-wel-hetzelfde-effect"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e2c6ac22-d17f-11e9-acd1-0255c322e81b.jpg"
 ---

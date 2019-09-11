@@ -2,7 +2,9 @@
 layout: post
 title: "Mazraoui valt in Marokko uit met blessure"
 date: Sun, 08 Sep 2019 10:15:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/2091610840/mazraoui-valt-in-marokko-uit-met-blessure"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/82708926-d213-11e9-8f10-02d1dbdc35d1.jpg"
 ---

@@ -3,8 +3,8 @@ layout: post
 title: "Ondernemers: geen extra vrije dag"
 date: Fri, 06 Sep 2019 19:48:04 +0200
 categories: 
-- entertainment 
-- opinie 
+- financieel 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/1212298044/ondernemers-geen-extra-vrije-dag"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7a541cc6-d0ce-11e9-bcd0-0255c322e81b.jpg"
 ---

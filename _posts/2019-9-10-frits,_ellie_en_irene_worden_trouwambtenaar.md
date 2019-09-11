@@ -2,9 +2,7 @@
 layout: post
 title: "FRITS, ELLIE en IRENE worden trouwambtenaar"
 date: Tue, 10 Sep 2019 05:30:00 +0200
-categories: 
-- entertainment 
-- opinie 
+category: entertainment
 externe_link: "https://www.telegraaf.nl/entertainment/797542223/frits-ellie-en-irene-worden-trouwambtenaar"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2e261d6a-d34c-11e9-9a49-02d2fb1aa1d7.jpg"
 ---

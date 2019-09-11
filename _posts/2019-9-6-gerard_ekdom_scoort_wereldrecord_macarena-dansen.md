@@ -2,7 +2,9 @@
 layout: post
 title: "Gerard Ekdom scoort wereldrecord Macarena-dansen"
 date: Fri, 06 Sep 2019 22:32:25 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1319251229/gerard-ekdom-scoort-wereldrecord-macarena-dansen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/95c1071e-d0e5-11e9-b66a-0218eaf05005.png"
 ---

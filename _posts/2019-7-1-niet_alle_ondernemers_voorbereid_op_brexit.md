@@ -4,7 +4,7 @@ title: "Niet alle ondernemers voorbereid op Brexit"
 date: Mon, 01 Jul 2019 09:26:06 +0200
 categories: 
 - financieel 
-- koersen 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/1638857860/niet-alle-ondernemers-voorbereid-op-brexit"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7d64c140-9bd1-11e9-82fa-0255c322e81b.jpg"
 ---

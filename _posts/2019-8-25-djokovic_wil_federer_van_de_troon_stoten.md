@@ -2,7 +2,9 @@
 layout: post
 title: "Djokovic wil Federer van de troon stoten"
 date: Sun, 25 Aug 2019 10:40:36 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/1749499265/djokovic-wil-federer-van-de-troon-stoten"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/805446aa-c719-11e9-aa74-0217670beecd.jpg"
 ---

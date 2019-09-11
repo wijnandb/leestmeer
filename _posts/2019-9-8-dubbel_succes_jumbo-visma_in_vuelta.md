@@ -2,7 +2,9 @@
 layout: post
 title: "Dubbel succes Jumbo-Visma in Vuelta"
 date: Sun, 08 Sep 2019 17:47:50 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/57675375/dubbel-succes-jumbo-visma-in-vuelta"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1239c9e2-d268-11e9-9a49-02d2fb1aa1d7.jpg"
 ---

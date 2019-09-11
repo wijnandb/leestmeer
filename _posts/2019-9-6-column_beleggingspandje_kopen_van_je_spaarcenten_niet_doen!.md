@@ -3,8 +3,8 @@ layout: post
 title: "Column: Beleggingspandje kopen van je spaarcenten? Niet doen!"
 date: Fri, 06 Sep 2019 16:55:00 +0200
 categories: 
-- entertainment 
-- opinie 
+- financieel 
+- geld 
 externe_link: "https://www.telegraaf.nl/financieel/1000747411/column-beleggingspandje-kopen-van-je-spaarcenten-niet-doen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2b095044-d0a8-11e9-baff-02d2fb1aa1d7.jpg"
 ---

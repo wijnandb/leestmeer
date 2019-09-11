@@ -2,9 +2,7 @@
 layout: post
 title: "Albert Heijn haakt in op commotie Rob Geus"
 date: Mon, 09 Sep 2019 17:30:10 +0200
-categories: 
-- entertainment 
-- opinie 
+category: entertainment
 externe_link: "https://www.telegraaf.nl/entertainment/527774259/albert-heijn-haakt-in-op-commotie-rob-geus"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9296bfd2-d344-11e9-8538-0255c322e81b.jpg"
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Eerste misdaad in de ruimte?"
 date: Sun, 25 Aug 2019 00:47:57 +0200
-category: buitenland
+category: opmerkelijk
 externe_link: "https://www.telegraaf.nl/nieuws/1761925054/eerste-misdaad-in-de-ruimte"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/37c07fc4-c6c1-11e9-9726-0217670beecd.jpg"
 ---

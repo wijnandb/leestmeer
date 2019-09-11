@@ -2,7 +2,7 @@
 layout: post
 title: "Kind stuurt burgemeester brief na doodrijden poes"
 date: Fri, 23 Aug 2019 23:33:16 +0200
-category: binnenland
+category: opmerkelijk
 externe_link: "https://www.telegraaf.nl/nieuws/183651065/kind-stuurt-burgemeester-brief-na-doodrijden-poes"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d2930398-c5f2-11e9-b0f3-0218eaf05005.jpg"
 ---

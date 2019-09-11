@@ -2,7 +2,9 @@
 layout: post
 title: "Keizer bescheiden naar Dancing With The Stars"
 date: Fri, 06 Sep 2019 09:49:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1998991019/keizer-bescheiden-naar-dancing-with-the-stars"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e1e90f1a-d06d-11e9-abac-02c309bc01c1.jpg"
 ---

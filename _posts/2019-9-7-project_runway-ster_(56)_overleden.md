@@ -4,7 +4,7 @@ title: "Project Runway-ster (56) overleden"
 date: Sat, 07 Sep 2019 21:00:47 +0200
 categories: 
 - entertainment 
-- opinie 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/1370349012/project-runway-ster-56-overleden"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/06667852-d1a2-11e9-acd1-0255c322e81b.png"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Brexit-muurschildering Banksy in Dover overgeschilderd"
 date: Mon, 26 Aug 2019 08:55:50 +0200
-category: nieuws
+categories: 
+- entertainment 
+- opmerkelijk 
 externe_link: "https://nos.nl/l/2299008"
 feature_image: "https://nos.nl/data/image/2019/08/26/572623/1008x567.jpg"
 ---
@@ -13,5 +15,5 @@ feature_image: "https://nos.nl/data/image/2019/08/26/572623/1008x567.jpg"
 <h2>In één nacht</h2>
 <p>Kunstenaar Banksy schilderde het werk in mei 2017 op de muur van het gebouw, waarschijnlijk in één nacht tijd. Het pand staat vlak bij het terrein waar veerboten aankomen die varen tussen het Verenigd Koninkrijk en het vasteland van Europa.</p>
 <p>Het werk werd een toeristische trekpleister. Veel mensen gingen ermee op de foto. De kunstenaar zelf heeft nog niet op het verdwijnen van de muurschildering gereageerd.</p>
-<p>Het is nog altijd niet bekend wie Banksy precies is. Waarschijnlijk is hij Brits en komt hij uit Bristol. Bansky verwerkt vaak confronterende politieke boodschappen in zijn werken. Volgens een hardnekkig gerucht is muzikant Robert Del Naja van de triphopgroep Massive Attack de man achter de kunstenaar.</p>
+<p>Het is nog altijd niet bekend wie Banksy precies is. Waarschijnlijk is hij Brits en komt hij uit Bristol. Banksy verwerkt vaak confronterende politieke boodschappen in zijn werken. Volgens een hardnekkig gerucht is muzikant Robert Del Naja van de triphopgroep Massive Attack de man achter de kunstenaar.</p>
 <p>Op Twitter reageren mensen teleurgesteld op het verdwijnen van het kunstwerk:</p>

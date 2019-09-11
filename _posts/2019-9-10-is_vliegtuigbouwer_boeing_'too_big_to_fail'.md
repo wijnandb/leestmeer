@@ -2,13 +2,15 @@
 layout: post
 title: "Is vliegtuigbouwer Boeing 'too big to fail'?"
 date: Tue, 10 Sep 2019 07:36:13 +0200
-category: nieuws
+categories: 
+- financieel 
+- economie 
 externe_link: "https://nos.nl/l/2301081"
 feature_image: "https://nos.nl/data/image/2019/09/10/576273/1008x567.jpg"
 ---
 
-<p>Bovenop de problemen met de 737 MAX kreeg vliegtuigbouwer Boeing deze week te maken met een nieuw euvel. Tijdens een stresstest met een prototype van de nieuwe 777X sprong de vrachtdeur van het vliegtuig open. Waarom gaat er de laatste tijd zoveel mis bij het Amerikaanse bedrijf?</p>
-<p>Het mankement aan de 777X, wat de opvolger van de sinds 1995 gebouwde 777 moet worden, is wederom een tegenslag voor de vliegtuigfabrikant. De proef met het nieuwe toestel is voorlopig opgeschort. Dat kost tijd en geld, weet luchtvaartdeskundige Joris Melkert van de TU Delft. Toch staat het probleem volgens hem niet in verhouding tot de softwareproblemen van de 737 MAX.</p>
+<p>Boven op de problemen met de 737 MAX kreeg vliegtuigbouwer Boeing deze week te maken met een nieuw euvel. Tijdens een stresstest met een prototype van de nieuwe 777X sprong de vrachtdeur van het vliegtuig open. Waarom gaat er de laatste tijd zoveel mis bij het Amerikaanse bedrijf?</p>
+<p>Het mankement aan de 777X, die de opvolger van de sinds 1995 gebouwde 777 moet worden, is wederom een tegenslag voor de vliegtuigfabrikant. De proef met het nieuwe toestel is voorlopig opgeschort. Dat kost tijd en geld, weet luchtvaartdeskundige Joris Melkert van de TU Delft. Toch staat het probleem volgens hem niet in verhouding tot de softwareproblemen van de 737 MAX.</p>
 <p>"Deze uitkomst is vervelend, maar juist hierom doen vliegtuigbouwers zulke testen. De grenzen van wat een toestel aankan worden expres opgezocht. In dit geval is er grote druk op de romp gezet, zoals hoog in de lucht ook gebeurt. De romp van het toestel is als een ballon die wordt opgeblazen. Er komt veel druk op de deuren te staan. Als een deur niet goed dicht zit of als er sprake is van een ontwerpfout, kan hij openklappen."</p>
 <p>Luchtvaartmaatschappijen willen het nieuwe (zuiniger) vliegtuigtype graag aan hun vloot toevoegen; ze hebben al voor tientallen miljarden dollars aan bestellingen geplaatst. Door de vertraging komt de 777X waarschijnlijk niet voor 2021 beschikbaar.</p>
 <h2>Bestverkochte toestel</h2>

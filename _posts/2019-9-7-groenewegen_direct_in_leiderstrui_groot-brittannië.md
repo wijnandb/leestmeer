@@ -2,7 +2,9 @@
 layout: post
 title: "Groenewegen direct in leiderstrui Groot-Brittannië"
 date: Sat, 07 Sep 2019 17:27:13 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/1835688149/groenewegen-direct-in-leiderstrui-groot-brittannie"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f748b83a-d183-11e9-859e-0218eaf05005.jpg"
 ---

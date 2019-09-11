@@ -3,8 +3,8 @@ layout: post
 title: "’Schumacher voor geheime behandeling naar Parijs’"
 date: Mon, 09 Sep 2019 21:32:26 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- autosport 
 externe_link: "https://www.telegraaf.nl/sport/36430457/schumacher-voor-geheime-behandeling-naar-parijs"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a5ccd508-d34b-11e9-ab85-0255c322e81b.jpg"
 ---

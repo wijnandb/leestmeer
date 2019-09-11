@@ -2,9 +2,7 @@
 layout: post
 title: "Desnoods rechtszaak om uitstel Brexit"
 date: Sat, 07 Sep 2019 18:18:09 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/1436581040/desnoods-rechtszaak-om-uitstel-brexit"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4d90bcae-d18b-11e9-9a49-02d2fb1aa1d7.jpg"
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Vermist - Marcel Nuijten"
 date: Tue, 27 Aug 2019 10:21:00 GMT
-category: limburg
+category: politieberichten
 externe_link: "https://www.politie.nl/gezocht-en-vermist/vermiste-volwassenen/2019/augustus/marcel-nuijten.html"
 ---
 

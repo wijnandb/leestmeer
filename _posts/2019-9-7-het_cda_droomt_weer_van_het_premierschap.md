@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2300740"
 feature_image: "https://nos.nl/data/image/2019/09/07/575674/1008x567.jpg"
 ---
 
-<p>"We willen gaan winnen. We willen gewoon de volgende verkiezingen winnen." Dat zegt de nieuwe CDA-voorzitter Rutger Ploum tegen Nieuwuur. Het vertrouwen lijkt helemaal terug bij de partij, aangewakkerd door de discussie wie de nieuwe partijleider moet worden.</p>
+<p>"We willen gaan winnen. We willen gewoon de volgende verkiezingen winnen." Dat zegt de nieuwe CDA-voorzitter Rutger Ploum tegen Nieuwsuur. Het vertrouwen lijkt helemaal terug bij de partij, aangewakkerd door de discussie wie de nieuwe partijleider moet worden.</p>
 <p>Volgens Ploum is de sfeer als nooit te voren, en melden zich veel nieuwe leden aan. Afgelopen week was er weer veel aandacht voor de speeches van Wopke Hoekstra en Hugo de Jonge.</p>
 <h2>Een nieuwe koers</h2>
 <p>Toch was er ook kritiek: de speeches bevatten weinig concrete plannen en waren weinig vernieuwend. Ook de CDA-jongeren hadden er meer van verwacht, zegt CDJA-voorzitter Hielke Onnink. "We hadden op meer gehoopt, maar ze zijn beiden ook minister, dus kunnen niet alles zeggen wat ze willen. Het was een repetitie voor een nieuwe koers."</p>

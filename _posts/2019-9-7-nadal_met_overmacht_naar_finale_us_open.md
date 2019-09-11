@@ -3,8 +3,8 @@ layout: post
 title: "Nadal met overmacht naar finale US Open"
 date: Sat, 07 Sep 2019 06:46:38 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/677550911/nadal-met-overmacht-naar-finale-us-open"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7a741cc2-d12a-11e9-9b97-0218eaf05005.jpg"
 ---

@@ -2,8 +2,10 @@
 layout: post
 title: "Elfstedentochtlegende Jan Uitham (94), de nummer twee van '63, overleden"
 date: Sun, 21 Apr 2019 12:15:21 +0200
-category: sport
-externe_link: "https://nos.nl/l/2281413"
+categories: 
+- sport 
+- schaatsen 
+externe_link: "http://feeds.nos.nl/~r/nossportschaatsen/~3/gAkoDYKwB_k/2281413"
 feature_image: "https://nos.nl/data/image/2019/04/21/545099/1008x567.jpg"
 ---
 
@@ -12,4 +14,4 @@ feature_image: "https://nos.nl/data/image/2019/04/21/545099/1008x567.jpg"
 <p>Op 3 juni 2009 kreeg Uitham een koninklijke onderscheiding. De voormalig landbouwer, badmeester en gemeenteambtenaar werd benoemd tot lid in de Orde van Oranje-Nassau.</p>
 <p>In de vroege ochtend van 18 januari 1963 lag de temperatuur in Friesland rond de 18 graden onder nul. Er stond een matige wind en in het ijs zaten scheuren.</p>
 <p>Door de sneeuw was de route nauwelijks te zien. De witte massa leidde ertoe dat veel schaatsers sneeuwblind werden en moesten afhaken.</p>
-<p>Na bijna elf uur en 196 kilometer kwam Paping als eerste over de finish, gevolgd door Uitham en nummer drie Van den Berg. Slechts 129 deelnemers reden de tocht uit.</p>
+<p>Na bijna elf uur en 196 kilometer kwam Paping als eerste over de finish, gevolgd door Uitham en nummer drie Van den Berg. Slechts 129 deelnemers reden de tocht uit.</p><img src="http://feeds.feedburner.com/~r/nossportschaatsen/~4/gAkoDYKwB_k" height="1" width="1" alt=""/>

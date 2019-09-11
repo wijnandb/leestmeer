@@ -2,8 +2,8 @@
 layout: post
 title: "Moslim en geboren in 2001: 'Die vragen over de islam, die ben ik wel zat'"
 date: Wed, 11 Sep 2019 08:55:32 +0200
-category: nieuws
-externe_link: "https://nos.nl/l/2301218"
+category: binnenland
+externe_link: "http://feeds.nos.nl/~r/nosnieuwsbinnenland/~3/yoZSSlRMdx0/2301218"
 feature_image: "https://nos.nl/data/image/2019/09/11/576479/1008x567.jpg"
 ---
 
@@ -33,4 +33,4 @@ feature_image: "https://nos.nl/data/image/2019/09/11/576479/1008x567.jpg"
 <p>Met name Nawaf heeft het hinderlijk gevonden dat hij vaak gezien werd als onderdeel van een groep. "Toen ik op de basisschool zat wilde ik dolfijnbioloog worden en mezelf zijn." Voor zijn gevoel werd hij door de andere kinderen telkens in een hokje geduwd. "De jongens van Marokkaanse afkomst vonden mij een 'nep-Marokkaan', omdat ik mezelf ABN had aangeleerd. En de andere kinderen stelden telkens vragen als: 'waarom gaan jullie naar de moskee?' 'Of waarom praat jij niet met zo'n accent als die 'andere Marokkanen'?"</p>
 <p>Steun had hij aan twee kinderen die ook niet in een hokje pasten. "Er was een jongetje van Indonesisch-Filipijnse afkomst en een meisje met Indonesisch-Marokkaanse roots. Met zijn drieën vormden wij een 'niet-typisch clubje'."</p>
 <p>Dat hij nu, jaren later, op de theaterschool nog steeds dezelfde vragen krijgt over zijn religie vindt hij vervelend. "Ik ben die vragen wel zat. Ik ben gewoon een individu in plaats van onderdeel van een groep."</p>
-<p>Ook Faries voelt zich volledig autonoom. Hij heeft vrienden van allerlei soorten achtergronden en schoolniveaus. "En ook met hele andere politieke opvattingen, zoals Forum voor Democratie, ik zou daar veel meer moeite mee hebben", zegt zijn moeder Faura. "Ik zou niet weten waarom dat niet zou kunnen", reageert Faries. "Dat mensen andere ideeën hebben over bijvoorbeeld vluchtelingen, staat wat mij betreft een vriendschap niet in de weg."</p>
+<p>Ook Faries voelt zich volledig autonoom. Hij heeft vrienden van allerlei soorten achtergronden en schoolniveaus. "En ook met hele andere politieke opvattingen, zoals Forum voor Democratie, ik zou daar veel meer moeite mee hebben", zegt zijn moeder Faura. "Ik zou niet weten waarom dat niet zou kunnen", reageert Faries. "Dat mensen andere ideeën hebben over bijvoorbeeld vluchtelingen, staat wat mij betreft een vriendschap niet in de weg."</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbinnenland/~4/yoZSSlRMdx0" height="1" width="1" alt=""/>

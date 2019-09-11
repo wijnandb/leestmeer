@@ -4,7 +4,7 @@ title: "’Zo kwam Epstein-madam in het geheim Buckingham Palace binnen’"
 date: Sat, 24 Aug 2019 11:30:23 +0200
 categories: 
 - entertainment 
-- gossip 
+- royalty 
 externe_link: "https://www.telegraaf.nl/entertainment/1677901927/zo-kwam-epstein-madam-in-het-geheim-buckingham-palace-binnen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/be2d94c2-c656-11e9-968a-0217670beecd.jpg"
 ---

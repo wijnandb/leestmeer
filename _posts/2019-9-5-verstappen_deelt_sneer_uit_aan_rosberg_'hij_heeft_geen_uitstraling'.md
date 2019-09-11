@@ -2,7 +2,9 @@
 layout: post
 title: "Verstappen deelt sneer uit aan Rosberg: 'Hij heeft geen uitstraling'"
 date: Thu, 05 Sep 2019 19:57:35 +0200
-category: sport
+categories: 
+- sport 
+- autosport 
 externe_link: "https://nos.nl/l/2300495"
 feature_image: "https://nos.nl/data/image/2019/09/05/575217/1008x567.jpg"
 ---

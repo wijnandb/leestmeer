@@ -2,7 +2,9 @@
 layout: post
 title: "Film over leven Tom Jones in de maak"
 date: Thu, 05 Sep 2019 15:55:31 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/317911604/film-over-leven-tom-jones-in-de-maak"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e4453a60-cfe4-11e9-9d4d-0218eaf05005.jpg"
 ---

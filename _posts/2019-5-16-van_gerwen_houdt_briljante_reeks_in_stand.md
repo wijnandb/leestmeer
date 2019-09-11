@@ -3,8 +3,8 @@ layout: post
 title: "Van Gerwen houdt briljante reeks in stand"
 date: Thu, 16 May 2019 22:44:00 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- darts 
 externe_link: "https://www.telegraaf.nl/sport/3601235/van-gerwen-houdt-briljante-reeks-in-stand"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/875efdd2-781d-11e9-ac2b-0217670beecd.jpg"
 ---

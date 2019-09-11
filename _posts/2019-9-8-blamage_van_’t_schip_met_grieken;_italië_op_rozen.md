@@ -2,7 +2,9 @@
 layout: post
 title: "Blamage Van ’t Schip met Grieken; Italië op rozen"
 date: Sun, 08 Sep 2019 23:00:13 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/21237957/blamage-van-t-schip-met-grieken-italie-op-rozen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/aa8b4230-d27b-11e9-a6c7-02d1dbdc35d1.jpg"
 ---

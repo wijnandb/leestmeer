@@ -2,7 +2,9 @@
 layout: post
 title: "Roda JC eindelijk van laatste plaats af"
 date: Sun, 08 Sep 2019 18:55:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/122119230/roda-jc-eindelijk-van-laatste-plaats-af"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/040e71a0-d25a-11e9-baff-02d2fb1aa1d7.jpg"
 ---

@@ -4,7 +4,7 @@ title: "Sunweb-oprichter investeert €5 miljoen in Vakanties.nl"
 date: Mon, 29 Jul 2019 16:12:49 +0200
 categories: 
 - financieel 
-- koersen 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/1834609167/sunweb-oprichter-investeert-5-miljoen-in-vakanties-nl"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f1f936fe-b20a-11e9-b5ae-02d1dbdc35d1.jpg"
 ---

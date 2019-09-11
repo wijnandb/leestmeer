@@ -2,7 +2,9 @@
 layout: post
 title: "De bizarre streken van typetjeskoning Sacha Baron Cohen"
 date: Sun, 08 Sep 2019 16:09:26 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1555373499/de-bizarre-streken-van-typetjeskoning-sacha-baron-cohen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/aeed5a9a-d242-11e9-896b-02c309bc01c1.jpg"
 ---

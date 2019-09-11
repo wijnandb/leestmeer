@@ -4,7 +4,7 @@ title: "Prins Harry verslagen na dood vriend (37)"
 date: Sun, 25 Aug 2019 17:01:43 +0200
 categories: 
 - entertainment 
-- opinie 
+- royalty 
 externe_link: "https://www.telegraaf.nl/entertainment/2104243358/prins-harry-verslagen-na-dood-vriend-37"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3ff84392-c749-11e9-9a52-02d1dbdc35d1.jpg"
 ---

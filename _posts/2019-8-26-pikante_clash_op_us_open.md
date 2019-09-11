@@ -3,8 +3,8 @@ layout: post
 title: "Pikante clash op US Open"
 date: Mon, 26 Aug 2019 07:50:29 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/1743082147/pikante-clash-op-us-open"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f0f979fe-c7c6-11e9-b091-02d1dbdc35d1.jpg"
 ---

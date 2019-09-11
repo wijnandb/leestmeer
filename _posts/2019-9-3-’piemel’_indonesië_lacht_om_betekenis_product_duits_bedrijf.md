@@ -2,9 +2,7 @@
 layout: post
 title: "’Piemel’: Indonesië lacht om betekenis product Duits bedrijf"
 date: Tue, 03 Sep 2019 14:21:01 +0200
-categories: 
-- entertainment 
-- opinie 
+category: opmerkelijk
 externe_link: "https://www.telegraaf.nl/nieuws/119244569/piemel-indonesie-lacht-om-betekenis-product-duits-bedrijf"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d34c8966-ce4a-11e9-bef2-02c309bc01c1.jpg"
 ---

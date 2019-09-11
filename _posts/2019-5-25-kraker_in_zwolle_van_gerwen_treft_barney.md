@@ -3,8 +3,8 @@ layout: post
 title: "Kraker in Zwolle: Van Gerwen treft Barney"
 date: Sat, 25 May 2019 23:52:47 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- darts 
 externe_link: "https://www.telegraaf.nl/sport/3647285/kraker-in-zwolle-van-gerwen-treft-barney"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/815899f4-7f37-11e9-abbd-0217670beecd.jpg"
 ---

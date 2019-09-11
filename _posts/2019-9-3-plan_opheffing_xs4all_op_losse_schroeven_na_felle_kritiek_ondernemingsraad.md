@@ -2,9 +2,7 @@
 layout: post
 title: "Plan opheffing XS4ALL op losse schroeven na felle kritiek ondernemingsraad"
 date: Tue, 03 Sep 2019 07:55:59 +0200
-categories: 
-- financieel 
-- economie 
+category: tech
 externe_link: "https://nos.nl/l/2300125"
 feature_image: "https://nos.nl/data/image/2019/09/03/574594/1008x567.jpg"
 ---

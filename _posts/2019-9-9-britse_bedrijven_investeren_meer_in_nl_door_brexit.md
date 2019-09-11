@@ -4,7 +4,7 @@ title: "Britse bedrijven investeren meer in NL door Brexit"
 date: Mon, 09 Sep 2019 07:50:32 +0200
 categories: 
 - financieel 
-- koersen 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/1169370123/britse-bedrijven-investeren-meer-in-nl-door-brexit"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bc816f1a-d2c5-11e9-8f10-02d1dbdc35d1.jpg"
 ---

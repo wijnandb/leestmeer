@@ -2,7 +2,9 @@
 layout: post
 title: "Alsnog schorsing gestopte wielrenner voor dopinggebruik"
 date: Sat, 24 Aug 2019 11:55:06 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/474488495/alsnog-schorsing-gestopte-wielrenner-voor-dopinggebruik"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/75b8c202-c656-11e9-92ca-02d2fb1aa1d7.jpg"
 ---

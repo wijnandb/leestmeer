@@ -3,8 +3,8 @@ layout: post
 title: "Van Barneveld trekt zich terug voor toernooien"
 date: Mon, 17 Jun 2019 20:03:17 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- darts 
 externe_link: "https://www.telegraaf.nl/sport/828682884/van-barneveld-trekt-zich-terug-voor-toernooien"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/5f1416aa-912c-11e9-bad4-0217670beecd.jpg"
 ---

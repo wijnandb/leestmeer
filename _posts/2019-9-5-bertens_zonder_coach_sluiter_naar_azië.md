@@ -3,8 +3,8 @@ layout: post
 title: "Bertens zonder coach Sluiter naar Azië"
 date: Thu, 05 Sep 2019 21:51:17 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/1037149213/bertens-zonder-coach-sluiter-naar-azie"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9b8bf0e8-d043-11e9-9773-0255c322e81b.jpg"
 ---

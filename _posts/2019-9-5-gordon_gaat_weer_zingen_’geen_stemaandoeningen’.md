@@ -4,7 +4,7 @@ title: "Gordon gaat weer zingen: ’Geen stemaandoeningen’"
 date: Thu, 05 Sep 2019 21:48:27 +0200
 categories: 
 - entertainment 
-- opinie 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1112941916/gordon-gaat-weer-zingen-geen-stemaandoeningen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/896f8bf2-d018-11e9-baff-02d2fb1aa1d7.jpg"
 ---

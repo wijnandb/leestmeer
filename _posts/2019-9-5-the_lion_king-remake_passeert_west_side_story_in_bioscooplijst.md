@@ -2,7 +2,9 @@
 layout: post
 title: "The Lion King-remake passeert West Side Story in bioscooplijst"
 date: Thu, 05 Sep 2019 15:37:37 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/2101948977/the-lion-king-remake-passeert-west-side-story-in-bioscooplijst"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/60d08506-cfe2-11e9-a6c7-02d1dbdc35d1.jpg"
 ---

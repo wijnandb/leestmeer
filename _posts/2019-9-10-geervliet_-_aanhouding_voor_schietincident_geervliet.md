@@ -2,9 +2,7 @@
 layout: post
 title: "Geervliet - Aanhouding voor schietincident Geervliet"
 date: Tue, 10 Sep 2019 10:32:00 GMT
-categories: 
-- zuid-holland 
-- bernisse 
+category: nieuws
 externe_link: "https://www.politie.nl/nieuws/2019/september/10/07-aanhouding-voor-schietincident-geervliet.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stockfotos/algemeen/man-wordt-geboeid-afgevoerd.jpg"
 ---

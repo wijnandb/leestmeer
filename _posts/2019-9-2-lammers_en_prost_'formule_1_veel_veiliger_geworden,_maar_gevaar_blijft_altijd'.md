@@ -2,7 +2,9 @@
 layout: post
 title: "Lammers en Prost: 'Formule 1 veel veiliger geworden, maar gevaar blijft altijd'"
 date: Mon, 02 Sep 2019 18:49:59 +0200
-category: sport
+categories: 
+- sport 
+- autosport 
 externe_link: "https://nos.nl/l/2300076"
 feature_image: "https://nos.nl/data/image/2019/09/02/574508/1008x567.jpg"
 ---

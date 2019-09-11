@@ -2,7 +2,9 @@
 layout: post
 title: "Ronaldo doet Tadic pijn"
 date: Sat, 07 Sep 2019 22:46:29 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/944538736/ronaldo-doet-tadic-pijn"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/917e3fc0-d1b0-11e9-a415-0255c322e81b.jpg"
 ---

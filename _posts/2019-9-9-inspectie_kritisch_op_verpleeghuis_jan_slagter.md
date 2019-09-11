@@ -2,9 +2,7 @@
 layout: post
 title: "Inspectie kritisch op verpleeghuis Jan Slagter"
 date: Mon, 09 Sep 2019 17:55:43 +0200
-categories: 
-- entertainment 
-- opinie 
+category: entertainment
 externe_link: "https://www.telegraaf.nl/nieuws/318544631/inspectie-kritisch-op-verpleeghuis-jan-slagter"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/615d6684-d31a-11e9-bc1d-02d1dbdc35d1.jpg"
 ---

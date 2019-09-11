@@ -12,4 +12,5 @@ feature_image: "https://nos.nl/data/image/2019/09/07/575738/1008x567.jpg"
 <p>Zijn enige uitweg lijken nieuwe verkiezingen. Maar die kan Johnson alleen uitschrijven met steun van een tweederde meerderheid in het Lagerhuis.</p>
 <h2>Plan</h2>
 <p>In de peilingen staan de Conservatieven er goed voor: ze zouden bij verkiezingen 37 procent van de stemmen krijgen. Labour staat op 30 procent.</p>
-<p>Hoe kijkt de achterban van Johnson naar alle ontwikkelingen? Was het echt totale chaos, zoals zijn tegenstanders zeggen, of is hier een man met een plan aan het werk - zoals zijn achterban denkt?</p>
+<p>Hoe kijkt de achterban van Johnson naar alle ontwikkelingen? Was het echt totale chaos, zoals zijn tegenstanders zeggen, of is hier een man met een plan aan het werk - zoals zijn aanhangers denken?</p>
+<p>We bezochten de Conservatieven in Maidstone, Kent:</p>

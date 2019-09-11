@@ -2,7 +2,9 @@
 layout: post
 title: "Bernard Haitink legt dirigeerstok neer"
 date: Fri, 06 Sep 2019 09:09:00 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/822203749/bernard-haitink-legt-dirigeerstok-neer"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f9d21ce0-d06b-11e9-a8e1-02c309bc01c1.jpg"
 ---

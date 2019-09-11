@@ -2,9 +2,7 @@
 layout: post
 title: "Kijkers kunnen niet uit over rijgedrag Martien"
 date: Mon, 09 Sep 2019 22:53:40 +0200
-categories: 
-- entertainment 
-- opinie 
+category: entertainment
 externe_link: "https://www.telegraaf.nl/entertainment/1923882733/kijkers-kunnen-niet-uit-over-rijgedrag-martien"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2d68fe4e-d345-11e9-baff-02d2fb1aa1d7.png"
 ---

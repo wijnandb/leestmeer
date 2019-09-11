@@ -3,8 +3,8 @@ layout: post
 title: "Noodkreet bouwers: woningtekort wordt ramp"
 date: Fri, 06 Sep 2019 05:30:00 +0200
 categories: 
-- entertainment 
-- opinie 
+- financieel 
+- geld 
 externe_link: "https://www.telegraaf.nl/financieel/879998786/noodkreet-bouwers-woningtekort-wordt-ramp"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/43bbed68-d06c-11e9-859e-0218eaf05005.jpg"
 ---

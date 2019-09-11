@@ -2,9 +2,7 @@
 layout: post
 title: "Frimpong heeft weer uitzicht op Peking 2022"
 date: Mon, 09 Sep 2019 21:14:45 +0200
-categories: 
-- entertainment 
-- opinie 
+category: sport
 externe_link: "https://www.telegraaf.nl/sport/155677657/frimpong-heeft-weer-uitzicht-op-peking-2022"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/174ce530-d336-11e9-9773-0255c322e81b.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Neymar scoort en baalt bij Brazilië"
 date: Sat, 07 Sep 2019 08:47:37 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/758313246/neymar-scoort-en-baalt-bij-brazilie"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/788a8b74-d13b-11e9-bfdc-0217670beecd.jpg"
 ---

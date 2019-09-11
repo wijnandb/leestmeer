@@ -2,9 +2,7 @@
 layout: post
 title: "Loos alarm rond Tadic"
 date: Mon, 09 Sep 2019 14:48:31 +0200
-categories: 
-- entertainment 
-- opinie 
+category: sport
 externe_link: "https://www.telegraaf.nl/sport/907357394/loos-alarm-rond-tadic"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/20e30722-d300-11e9-acd1-0255c322e81b.jpg"
 ---

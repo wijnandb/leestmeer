@@ -4,7 +4,7 @@ title: "Mag werknemer met rugklachten op autovakantie?"
 date: Wed, 10 Jul 2019 10:45:00 +0200
 categories: 
 - financieel 
-- koersen 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/307980241/mag-werknemer-met-rugklachten-op-autovakantie"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d690abc0-a262-11e9-9974-0217670beecd.jpg"
 ---

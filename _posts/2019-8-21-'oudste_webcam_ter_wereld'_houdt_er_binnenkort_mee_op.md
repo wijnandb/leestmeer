@@ -2,7 +2,9 @@
 layout: post
 title: "'Oudste webcam ter wereld' houdt er binnenkort mee op"
 date: Wed, 21 Aug 2019 09:48:34 +0200
-category: cultuur
+categories: 
+- entertainment 
+- opmerkelijk 
 externe_link: "https://nos.nl/l/2298366"
 feature_image: "https://nos.nl/data/image/2019/08/21/571510/1008x567.jpg"
 ---

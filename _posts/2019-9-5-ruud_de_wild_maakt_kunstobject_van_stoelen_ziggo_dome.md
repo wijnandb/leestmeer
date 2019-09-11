@@ -2,7 +2,9 @@
 layout: post
 title: "Ruud de Wild maakt kunstobject van stoelen Ziggo Dome"
 date: Thu, 05 Sep 2019 13:05:51 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/80341845/ruud-de-wild-maakt-kunstobject-van-stoelen-ziggo-dome"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4343317e-cfcd-11e9-a59e-0218eaf05005.jpg"
 ---

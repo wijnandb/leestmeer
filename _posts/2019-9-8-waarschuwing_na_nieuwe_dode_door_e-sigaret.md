@@ -2,9 +2,7 @@
 layout: post
 title: "Waarschuwing na nieuwe dode door e-sigaret"
 date: Sun, 08 Sep 2019 08:41:41 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/1359242467/waarschuwing-na-nieuwe-dode-door-e-sigaret"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/03b09b0c-d22d-11e9-ab85-0255c322e81b.jpg"
 ---

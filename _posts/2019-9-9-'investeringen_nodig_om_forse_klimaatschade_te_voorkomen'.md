@@ -2,7 +2,7 @@
 layout: post
 title: "'Investeringen nodig om forse klimaatschade te voorkomen'"
 date: Tue, 10 Sep 2019 00:01:55 +0200
-category: nieuws
+category: politiek
 externe_link: "https://nos.nl/l/2301064"
 feature_image: "https://nos.nl/data/image/2019/09/10/576254/1008x567.jpg"
 ---

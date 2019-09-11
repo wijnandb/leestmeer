@@ -4,7 +4,7 @@ title: "Groningse groeibriljant in surseance"
 date: Tue, 30 Jul 2019 11:11:22 +0200
 categories: 
 - financieel 
-- koersen 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/1087249220/groningse-groeibriljant-in-surseance"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9715fa1a-b2aa-11e9-a50a-0255c322e81b.jpg"
 ---

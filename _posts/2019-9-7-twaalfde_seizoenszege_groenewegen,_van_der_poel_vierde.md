@@ -2,7 +2,9 @@
 layout: post
 title: "Twaalfde seizoenszege Groenewegen, Van der Poel vierde"
 date: Sat, 07 Sep 2019 16:55:58 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2300741"
 feature_image: "https://nos.nl/data/image/2019/09/07/575675/1008x567.jpg"
 ---

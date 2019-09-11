@@ -2,9 +2,7 @@
 layout: post
 title: "Malen, Veltman en Pröpper in basis Oranje"
 date: Mon, 09 Sep 2019 19:00:08 +0200
-categories: 
-- entertainment 
-- opinie 
+category: sport
 externe_link: "https://www.telegraaf.nl/sport/786309219/malen-veltman-en-propper-in-basis-oranje"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/92092c26-d32b-11e9-bc1d-02d1dbdc35d1.jpg"
 ---

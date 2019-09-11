@@ -2,7 +2,9 @@
 layout: post
 title: "Personeelsverloop strop voor Nederlandse horeca: 1,4 miljard per jaar"
 date: Tue, 10 Sep 2019 06:00:02 +0200
-category: nieuws
+categories: 
+- financieel 
+- economie 
 externe_link: "https://nos.nl/l/2301074"
 feature_image: "https://nos.nl/data/image/2019/09/10/576264/1008x567.jpg"
 ---

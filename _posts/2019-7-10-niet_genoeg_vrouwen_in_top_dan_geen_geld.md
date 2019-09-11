@@ -4,7 +4,7 @@ title: "Niet genoeg vrouwen in top? Dan geen geld"
 date: Wed, 10 Jul 2019 09:06:37 +0200
 categories: 
 - financieel 
-- koersen 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/511486153/niet-genoeg-vrouwen-in-top-dan-geen-geld"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/dd7bc970-a2e8-11e9-baee-0217670beecd.jpg"
 ---

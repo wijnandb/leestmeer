@@ -2,9 +2,11 @@
 layout: post
 title: "Klein wint derde etappe en ontfutselt Wiebes leiderstrui in Ladies Tour"
 date: Fri, 06 Sep 2019 16:59:22 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2300604"
-feature_image: "https://nos.nl/data/image/2019/09/06/575399/1008x567.jpg"
+feature_image: "https://nos.nl/data/image/2019/09/06/575403/1008x567.jpg"
 ---
 
 <p>Lisa Klein heeft de derde etappe van de Boels Ladies Tour gewonnen. De Duitse klopte Amy Pieters in de sprint van een fraaie kopgroep en is ook de nieuwe leidster in het algemeen klassement.</p>

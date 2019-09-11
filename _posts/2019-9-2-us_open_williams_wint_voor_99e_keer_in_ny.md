@@ -2,7 +2,9 @@
 layout: post
 title: "US Open: Williams wint voor 99e keer in NY"
 date: Mon, 02 Sep 2019 07:51:26 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/1775883460/us-open-williams-wint-voor-99e-keer-in-ny"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1ad4dbe0-cd46-11e9-ad0b-02c309bc01c1.jpg"
 ---

@@ -2,9 +2,7 @@
 layout: post
 title: "Van museum Londen geduwd jongetje ’lacht weer’"
 date: Sat, 07 Sep 2019 18:57:03 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/237347512/van-museum-londen-geduwd-jongetje-lacht-weer"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4a3a8958-d191-11e9-a956-02d2fb1aa1d7.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Mertens en Sabalenka veroveren dubbeltitel US Open"
 date: Sun, 08 Sep 2019 21:21:42 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/972808269/mertens-en-sabalenka-veroveren-dubbeltitel-us-open"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e3e1495c-d26d-11e9-810a-0218eaf05005.jpg"
 ---

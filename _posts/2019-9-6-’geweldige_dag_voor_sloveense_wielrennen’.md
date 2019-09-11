@@ -2,7 +2,9 @@
 layout: post
 title: "’Geweldige dag voor Sloveense wielrennen’"
 date: Fri, 06 Sep 2019 21:33:11 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/500301699/geweldige-dag-voor-sloveense-wielrennen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/2957a982-d0dd-11e9-a85c-0218eaf05005.jpg"
 ---

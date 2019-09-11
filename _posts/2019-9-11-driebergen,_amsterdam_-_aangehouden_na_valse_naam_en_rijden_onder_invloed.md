@@ -2,9 +2,7 @@
 layout: post
 title: "Driebergen, Amsterdam - Aangehouden na valse naam en rijden onder invloed"
 date: Wed, 11 Sep 2019 08:32:00 GMT
-categories: 
-- noord-holland 
-- diemen 
+category: politieberichten
 externe_link: "https://www.politie.nl/nieuws/2019/september/11/11-aangehouden-na-valse-naam-en-rijden-onder-invloed.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/stock-afbeeldingen/11-landelijke-eenheid/a6.jpg"
 ---

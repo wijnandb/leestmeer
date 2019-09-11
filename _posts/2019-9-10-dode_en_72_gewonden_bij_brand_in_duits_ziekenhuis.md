@@ -2,9 +2,7 @@
 layout: post
 title: "Dode en 72 gewonden bij brand in Duits ziekenhuis"
 date: Tue, 10 Sep 2019 06:57:33 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/1772032965/dode-en-72-gewonden-bij-brand-in-duits-ziekenhuis"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/838bacda-d387-11e9-96f8-02d2fb1aa1d7.jpg"
 ---

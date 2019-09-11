@@ -2,7 +2,9 @@
 layout: post
 title: "Selma Blair deelt spraakmakende foto in blote kont"
 date: Sun, 08 Sep 2019 21:16:39 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1732116625/selma-blair-deelt-spraakmakende-foto-in-blote-kont"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/59a81d4c-d26d-11e9-ab90-02d1dbdc35d1.jpg"
 ---

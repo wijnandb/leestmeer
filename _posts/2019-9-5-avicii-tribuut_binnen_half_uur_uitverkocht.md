@@ -2,7 +2,9 @@
 layout: post
 title: "Avicii-tribuut binnen half uur uitverkocht"
 date: Thu, 05 Sep 2019 20:55:23 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/894212836/avicii-tribuut-binnen-half-uur-uitverkocht"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b7902776-d00e-11e9-baff-02d2fb1aa1d7.jpg"
 ---

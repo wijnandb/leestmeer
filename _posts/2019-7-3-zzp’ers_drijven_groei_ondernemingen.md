@@ -4,7 +4,7 @@ title: "Zzp’ers drijven groei ondernemingen"
 date: Wed, 03 Jul 2019 10:59:19 +0200
 categories: 
 - financieel 
-- koersen 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/596944592/zzp-ers-drijven-groei-ondernemingen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d8284f16-9d70-11e9-b577-0217670beecd.jpg"
 ---

@@ -4,7 +4,7 @@ title: "Countryduo Bellamy Brothers woest op KLM-medewerkers"
 date: Thu, 05 Sep 2019 19:42:06 +0200
 categories: 
 - entertainment 
-- opinie 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/568036993/countryduo-bellamy-brothers-woest-op-klm-medewerkers"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7a9cc16c-d004-11e9-bfdc-0217670beecd.jpg"
 ---

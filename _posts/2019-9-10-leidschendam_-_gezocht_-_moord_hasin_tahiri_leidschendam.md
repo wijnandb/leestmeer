@@ -2,9 +2,7 @@
 layout: post
 title: "Leidschendam - Gezocht - Moord Hasin Tahiri Leidschendam"
 date: Tue, 10 Sep 2019 11:10:00 GMT
-categories: 
-- zuid-holland 
-- leidschendam-voorburg 
+category: politieberichten
 externe_link: "https://www.politie.nl/gezocht-en-vermist/gezochte-personen/2019/september/06-dh/tw-10-09/moord-hasin-tahiri-leidschendam.html"
 feature_image: "https://www.politie.nl/binaries/content/gallery/politie/gezocht/verdachten/2019/september/06-dh/tw-10-09/190910_team_moord-hasin-tahiri-1.jpg"
 ---

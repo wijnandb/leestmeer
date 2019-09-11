@@ -2,7 +2,9 @@
 layout: post
 title: "US Open: Opvallende statistiek vrouwenfinale"
 date: Fri, 06 Sep 2019 08:23:49 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/1293709136/us-open-opvallende-statistiek-vrouwenfinale"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e48dcdd6-d06e-11e9-ab85-0255c322e81b.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Haase en Koolhof stomen op"
 date: Mon, 02 Sep 2019 07:11:46 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/1328525799/haase-en-koolhof-stomen-op"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b16efcf8-cd40-11e9-9ae0-02c309bc01c1.jpg"
 ---

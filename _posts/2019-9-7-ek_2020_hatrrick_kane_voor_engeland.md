@@ -2,7 +2,9 @@
 layout: post
 title: "EK 2020: Hatrrick Kane voor Engeland"
 date: Sat, 07 Sep 2019 20:11:42 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/1857523278/ek-2020-hatrrick-kane-voor-engeland"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f1ac1d6a-d19a-11e9-aeae-02d2fb1aa1d7.jpg"
 ---

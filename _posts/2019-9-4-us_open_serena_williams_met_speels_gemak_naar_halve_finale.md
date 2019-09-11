@@ -2,7 +2,9 @@
 layout: post
 title: "US Open: Serena Williams met speels gemak naar halve finale"
 date: Wed, 04 Sep 2019 07:16:40 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/887112809/us-open-serena-williams-met-speels-gemak-naar-halve-finale"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/32bb89a6-ced7-11e9-a497-02d1dbdc35d1.jpg"
 ---

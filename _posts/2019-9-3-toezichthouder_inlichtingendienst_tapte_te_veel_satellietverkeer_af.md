@@ -2,7 +2,7 @@
 layout: post
 title: "Toezichthouder: inlichtingendienst tapte te veel satellietverkeer af"
 date: Tue, 03 Sep 2019 12:04:07 +0200
-category: nieuws
+category: tech
 externe_link: "https://nos.nl/l/2300147"
 feature_image: "https://nos.nl/data/image/2019/09/03/574634/1008x567.jpg"
 ---

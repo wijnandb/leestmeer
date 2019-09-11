@@ -2,7 +2,9 @@
 layout: post
 title: "Van der Poel: ’Wegwedstrijd Spelen in Tokio geen optie’"
 date: Wed, 04 Sep 2019 07:15:00 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/1176994115/van-der-poel-wegwedstrijd-spelen-in-tokio-geen-optie"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/aa0592fa-ced6-11e9-bef2-02c309bc01c1.jpg"
 ---

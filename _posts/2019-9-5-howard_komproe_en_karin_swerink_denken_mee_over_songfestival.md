@@ -2,7 +2,9 @@
 layout: post
 title: "Howard Komproe en Karin Swerink denken mee over songfestival"
 date: Thu, 05 Sep 2019 11:36:17 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/139149385/howard-komproe-en-karin-swerink-denken-mee-over-songfestival"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/ae41d6f4-cfc0-11e9-8538-0255c322e81b.jpg"
 ---

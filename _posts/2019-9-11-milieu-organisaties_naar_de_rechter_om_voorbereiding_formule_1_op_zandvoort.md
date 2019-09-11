@@ -7,7 +7,7 @@ externe_link: "https://nos.nl/l/2301255"
 feature_image: "https://nos.nl/data/image/2019/09/11/576548/1008x567.jpg"
 ---
 
-<p>De eerste juridische procedures rond de terugkeer van de Formule 1 naar het circuit van Zandvoort nemen een aanvang. Stichting Duinbehoud kondigt samen met onder meer Milieudefensie aan naar de rechter te stappen. Ze vinden dat de werkzaamheden stilgelegd moeten worden omdat die kunnen leiden tot onherstelbare natuurschade.</p>
+<p>De eerste juridische procedures rond de terugkeer van de Formule 1 naar het circuit van Zandvoort nemen een aanvang. Stichting Duinbehoud kondigt samen met onder meer Milieudefensie Haarlem aan naar de rechter te stappen. Ze vinden dat de werkzaamheden stilgelegd moeten worden omdat die kunnen leiden tot onherstelbare natuurschade.</p>
 <p>"Hier dreigt leefgebied van padden en zandhagedissen blijvend te worden vernield", zegt Marc Janssen van Stichting Duinbehoud bij NH Nieuws.</p>
 <p>Zandvoort wil volgend jaar voor het eerst in decennia weer een Grand Prix organiseren. Om de grote bezoekersstroom aan te kunnen, zijn aanpassingen nodig op en rond het circuit. Duinbehoud wijst onder meer op graafwerkzaamheden voor een nieuwe weg, die in het beschermde duingebied Zuid-Kennemerland wordt aangelegd.</p>
 <p>Op dit moment worden de laatste voorbereidingen getroffen voor de werkzaamheden. "Het hele verhaal zal vanaf de derde of vierde week september gaan beginnen," zei sportief directeur Jan Lammers van het circuit onlangs.</p>

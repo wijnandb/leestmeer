@@ -2,9 +2,7 @@
 layout: post
 title: "Moeder daagt Staat voor afstaan baby"
 date: Tue, 10 Sep 2019 07:08:56 +0200
-categories: 
-- entertainment 
-- opinie 
+category: binnenland
 externe_link: "https://www.telegraaf.nl/nieuws/1681690508/moeder-daagt-staat-voor-afstaan-baby"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bb936ff2-d38a-11e9-a3e5-02d1dbdc35d1.jpg"
 ---

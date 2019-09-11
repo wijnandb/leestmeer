@@ -3,8 +3,8 @@ layout: post
 title: "Löw: ’We staan onder druk’"
 date: Sun, 08 Sep 2019 13:49:04 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/1639180526/low-we-staan-onder-druk"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a810d774-d22e-11e9-b0b0-02c309bc01c1.jpg"
 ---

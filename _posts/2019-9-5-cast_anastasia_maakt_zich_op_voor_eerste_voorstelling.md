@@ -2,7 +2,9 @@
 layout: post
 title: "Cast Anastasia maakt zich op voor eerste voorstelling"
 date: Thu, 05 Sep 2019 15:29:49 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1557866441/cast-anastasia-maakt-zich-op-voor-eerste-voorstelling"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4d8afb3a-cfe1-11e9-859e-0218eaf05005.jpg"
 ---

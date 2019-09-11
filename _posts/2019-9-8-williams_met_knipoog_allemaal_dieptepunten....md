@@ -2,7 +2,9 @@
 layout: post
 title: "Williams met knipoog: allemaal dieptepunten..."
 date: Sun, 08 Sep 2019 07:12:55 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/1858149829/williams-met-knipoog-allemaal-dieptepunten"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f57996b4-d1fb-11e9-b751-02d1dbdc35d1.jpg"
 ---

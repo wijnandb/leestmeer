@@ -2,7 +2,9 @@
 layout: post
 title: "Tomorrowland viert 15e verjaardag in Amsterdam tijdens ADE"
 date: Thu, 05 Sep 2019 16:52:28 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1466365978/tomorrowland-viert-15e-verjaardag-in-amsterdam-tijdens-ade"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d56458b6-cfec-11e9-a6c7-02d1dbdc35d1.jpg"
 ---

@@ -2,9 +2,7 @@
 layout: post
 title: "Grondtest Boeing 777X mislukt: vrachtdeur springt open"
 date: Sun, 08 Sep 2019 09:12:55 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/401012601/grondtest-boeing-777-x-mislukt-vrachtdeur-springt-open"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/143c17e6-d208-11e9-a3e5-02d1dbdc35d1.jpg"
 ---

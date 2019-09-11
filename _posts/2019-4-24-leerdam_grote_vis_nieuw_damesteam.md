@@ -2,7 +2,9 @@
 layout: post
 title: "Leerdam grote vis nieuw damesteam"
 date: Wed, 24 Apr 2019 18:38:53 +0200
-category: sport
+categories: 
+- sport 
+- schaatsen 
 externe_link: "https://www.telegraaf.nl/sport/3491111/leerdam-grote-vis-nieuw-damesteam"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/72366a82-66af-11e9-9405-0218eaf05005.JPG"
 ---

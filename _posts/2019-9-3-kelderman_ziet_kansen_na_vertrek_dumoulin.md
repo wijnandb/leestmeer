@@ -3,8 +3,8 @@ layout: post
 title: "Kelderman ziet kansen na vertrek Dumoulin"
 date: Tue, 03 Sep 2019 10:51:37 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/536119633/kelderman-ziet-kansen-na-vertrek-dumoulin"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/eb468a78-ce39-11e9-bf11-0255c322e81b.jpg"
 ---

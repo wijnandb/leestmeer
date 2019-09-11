@@ -2,7 +2,9 @@
 layout: post
 title: "Stanley Burleson en Anastacia in We Will Rock You"
 date: Thu, 05 Sep 2019 12:58:06 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/220751457/stanley-burleson-en-anastacia-in-we-will-rock-you"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/cf6a1504-cfce-11e9-b66a-0218eaf05005.jpg"
 ---

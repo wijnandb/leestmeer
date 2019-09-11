@@ -2,7 +2,9 @@
 layout: post
 title: "Recensie Netflix-serie ’The Spy’: Morsecode krijgt mega-impact"
 date: Sun, 08 Sep 2019 13:47:35 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1495317090/recensie-netflix-serie-the-spy-morsecode-krijgt-mega-impact"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/03f8cd4a-d23d-11e9-9b97-0218eaf05005.jpg"
 ---

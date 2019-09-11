@@ -2,7 +2,9 @@
 layout: post
 title: "Otter ook in Peking bondscoach shorttrackers"
 date: Thu, 06 Jun 2019 14:27:41 +0200
-category: sport
+categories: 
+- sport 
+- schaatsen 
 externe_link: "https://www.telegraaf.nl/sport/400733372/otter-ook-in-peking-bondscoach-shorttrackers"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7a3a5996-8856-11e9-983a-02d2fb1aa1d7.jpg"
 ---

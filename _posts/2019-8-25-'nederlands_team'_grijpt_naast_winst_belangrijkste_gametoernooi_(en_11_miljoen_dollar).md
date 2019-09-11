@@ -2,7 +2,7 @@
 layout: post
 title: "'Nederlands team' grijpt naast winst belangrijkste gametoernooi (en 11 miljoen dollar)"
 date: Sun, 25 Aug 2019 14:55:30 +0200
-category: cultuur
+category: tech
 externe_link: "https://nos.nl/l/2298914"
 feature_image: "https://nos.nl/data/image/2019/08/25/572426/1008x567.jpg"
 ---

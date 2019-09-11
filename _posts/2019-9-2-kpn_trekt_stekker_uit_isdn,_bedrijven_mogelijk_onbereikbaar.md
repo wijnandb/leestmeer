@@ -2,9 +2,7 @@
 layout: post
 title: "KPN trekt stekker uit ISDN, bedrijven mogelijk onbereikbaar"
 date: Mon, 02 Sep 2019 07:04:24 +0200
-categories: 
-- financieel 
-- economie 
+category: tech
 externe_link: "https://nos.nl/l/2299963"
 feature_image: "https://nos.nl/data/image/2019/09/02/574338/1008x567.jpg"
 ---

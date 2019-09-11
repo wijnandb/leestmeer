@@ -2,9 +2,7 @@
 layout: post
 title: "Opnieuw dode bij stierenrennen in Spanje"
 date: Mon, 09 Sep 2019 21:50:36 +0200
-categories: 
-- entertainment 
-- opinie 
+category: buitenland
 externe_link: "https://www.telegraaf.nl/nieuws/484662596/opnieuw-dode-bij-stierenrennen-in-spanje"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/287be716-d33b-11e9-ab90-02d1dbdc35d1.jpg"
 ---

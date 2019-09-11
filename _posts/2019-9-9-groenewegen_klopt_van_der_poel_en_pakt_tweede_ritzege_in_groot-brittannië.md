@@ -2,7 +2,9 @@
 layout: post
 title: "Groenewegen klopt Van der Poel en pakt tweede ritzege in Groot-Brittannië"
 date: Mon, 09 Sep 2019 17:34:29 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2301008"
 feature_image: "https://nos.nl/data/image/2019/09/09/576142/1008x567.jpg"
 ---

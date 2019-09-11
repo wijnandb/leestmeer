@@ -2,8 +2,8 @@
 layout: post
 title: "Schilder Jan van der Kooi is 'de nieuwe Rembrandt'"
 date: Sat, 07 Sep 2019 15:42:09 +0200
-category: binnenland
-externe_link: "http://feeds.nos.nl/~r/nosnieuwsbinnenland/~3/3-4AkdmJ0eQ/2300730"
+category: nieuws
+externe_link: "https://nos.nl/l/2300730"
 feature_image: "https://nos.nl/data/image/2019/09/07/575659/1008x567.jpg"
 ---
 
@@ -26,4 +26,4 @@ feature_image: "https://nos.nl/data/image/2019/09/07/575659/1008x567.jpg"
 <p>In de tentoonstelling hangt het werk van Rembrandt en Van der Kooi steeds om en om. Uiterst nauwkeurige tekeningen, met een enorme precisie op papier gezet. De horizonnen hangen op gelijke hoogte en overbruggen, nauwelijks merkbaar, vier eeuwen. De gelijkenis in stijl is frappant.</p>
 <p>Otto legt uit: "Als je een combinatie maakt met de beroemdste kunstenaar ter wereld dan gaat iedereen kijken wie 'de beste is'. Ons gaat het juist om de vergelijking en hoe we zien dat deze twee kunstenaars zielsverwanten zijn. Voor beiden is het werk een obsessie, ze léven ervoor, en hun werkwijze is haast identiek. Je zou kunnen zeggen dat Jan van der Kooi ons laat zien hoe Rembrandt vroeger werkte."</p>
 <p>Van der Kooi zelf moet nog even wennen aan alle belangstelling. "Het is vleiend, maar nodig heb ik het niet, financieel dan. Ik heb maar één ambitie en dat is beter worden dan Jan van der Kooi. Het allerliefst zit ik in een weiland met naast me een thermoskan met thee, zelfgemaakte inkt en een vel papier. Daar word ik pas gelukkig van."</p>
-<p>De tentoonstelling 'Das Wesen der Landschaft' is vanaf 6 september te zien in Museum Draiflessen in Mettingen, Duitsland (vlakbij Osnabrück). Er wordt ook Nederlands gesproken in het museum.</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbinnenland/~4/3-4AkdmJ0eQ" height="1" width="1" alt=""/>
+<p>De tentoonstelling 'Vom Wesen der Landschaft' is vanaf 6 september te zien in Museum Draiflessen in Mettingen, Duitsland (vlakbij Osnabrück). Er wordt ook Nederlands gesproken in het museum.</p>

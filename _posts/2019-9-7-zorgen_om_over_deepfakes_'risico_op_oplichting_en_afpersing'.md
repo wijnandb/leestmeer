@@ -2,7 +2,7 @@
 layout: post
 title: "Zorgen OM over deepfakes: 'Risico op oplichting en afpersing'"
 date: Sat, 07 Sep 2019 08:30:07 +0200
-category: nieuws
+category: tech
 externe_link: "https://nos.nl/l/2300688"
 feature_image: "https://nos.nl/data/image/2019/09/07/575586/1008x567.jpg"
 ---

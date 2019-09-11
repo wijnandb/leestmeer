@@ -2,7 +2,9 @@
 layout: post
 title: "Onderzoek naar verdachte beurstransactie nieuwe topvrouw KPN"
 date: Fri, 06 Sep 2019 21:53:26 +0200
-category: nieuws
+categories: 
+- financieel 
+- economie 
 externe_link: "https://nos.nl/l/2300646"
 feature_image: "https://nos.nl/data/image/2019/09/06/575512/1008x567.jpg"
 ---

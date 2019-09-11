@@ -3,8 +3,8 @@ layout: post
 title: "Verstappen: ’Sport staat niet voor aap’"
 date: Sat, 07 Sep 2019 18:21:20 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- autosport 
 externe_link: "https://www.telegraaf.nl/sport/1157446929/verstappen-sport-staat-niet-voor-aap"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/86a8df4e-d18b-11e9-baff-02d2fb1aa1d7.jpg"
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Strijd om kijker steeds heviger: kies jij Disney, Netflix of toch Videoland?"
 date: Sun, 25 Aug 2019 11:33:27 +0200
-category: cultuur
+category: tech
 externe_link: "https://nos.nl/l/2298892"
 feature_image: "https://nos.nl/data/image/2019/08/25/572382/1008x567.jpg"
 ---

@@ -4,7 +4,7 @@ title: "Taylor Swift geeft fan geld voor medische rekeningen"
 date: Fri, 06 Sep 2019 08:52:00 +0200
 categories: 
 - entertainment 
-- opinie 
+- gossip 
 externe_link: "https://www.telegraaf.nl/entertainment/2016876324/taylor-swift-geeft-fan-geld-voor-medische-rekeningen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/888ed1f8-d06c-11e9-a956-02d2fb1aa1d7.jpg"
 ---

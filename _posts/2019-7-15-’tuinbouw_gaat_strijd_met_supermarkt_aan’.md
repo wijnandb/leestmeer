@@ -4,7 +4,7 @@ title: "’Tuinbouw gaat strijd met supermarkt aan’"
 date: Mon, 15 Jul 2019 08:32:03 +0200
 categories: 
 - financieel 
-- koersen 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/544638135/tuinbouw-gaat-strijd-met-supermarkt-aan"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/420324f8-a6ca-11e9-92d9-02c309bc01c1.jpg"
 ---

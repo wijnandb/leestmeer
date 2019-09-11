@@ -2,9 +2,7 @@
 layout: post
 title: "Geweld tegen politie speelt rol in nieuw boek De Cock"
 date: Mon, 09 Sep 2019 21:31:22 +0200
-categories: 
-- entertainment 
-- opinie 
+category: entertainment
 externe_link: "https://www.telegraaf.nl/entertainment/628184151/geweld-tegen-politie-speelt-rol-in-nieuw-boek-de-cock"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1bf3d398-d339-11e9-a85c-0218eaf05005.jpg"
 ---

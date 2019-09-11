@@ -4,7 +4,7 @@ title: "Duizenden werkenden gedupeerd door faillissement"
 date: Fri, 06 Sep 2019 00:01:00 +0200
 categories: 
 - financieel 
-- koersen 
+- ondernemen 
 externe_link: "https://www.telegraaf.nl/financieel/1101568992/duizenden-werkenden-gedupeerd-door-faillissement"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/c12dca74-cfda-11e9-95b7-0217670beecd.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Janmaat heeft plots nieuwe trainer"
 date: Sat, 07 Sep 2019 19:37:00 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/145542030/janmaat-heeft-plots-nieuwe-trainer"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/3d775926-d196-11e9-a8e1-02c309bc01c1.jpg"
 ---

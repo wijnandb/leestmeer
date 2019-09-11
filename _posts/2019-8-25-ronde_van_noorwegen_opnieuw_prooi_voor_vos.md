@@ -2,7 +2,9 @@
 layout: post
 title: "Ronde van Noorwegen opnieuw prooi voor Vos"
 date: Sun, 25 Aug 2019 15:51:02 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/913310429/ronde-van-noorwegen-opnieuw-prooi-voor-vos"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/60ab9b5c-c73f-11e9-92ca-02d2fb1aa1d7.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "US open: Svitolina blijft zonder setverlies, Medvedev door"
 date: Tue, 03 Sep 2019 23:33:00 +0200
-category: sport
+categories: 
+- sport 
+- tennis 
 externe_link: "https://www.telegraaf.nl/sport/2061222892/us-open-svitolina-blijft-zonder-setverlies-medvedev-door"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b3c2158c-ce92-11e9-9ae0-02c309bc01c1.jpg"
 ---

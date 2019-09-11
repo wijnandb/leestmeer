@@ -2,7 +2,9 @@
 layout: post
 title: "Breukjes bij Movistar, rood lonkt voor Roglic"
 date: Mon, 02 Sep 2019 13:00:00 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/109777372/breukjes-bij-movistar-rood-lonkt-voor-roglic"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8d2d3262-cd70-11e9-8073-0255c322e81b.jpg"
 ---

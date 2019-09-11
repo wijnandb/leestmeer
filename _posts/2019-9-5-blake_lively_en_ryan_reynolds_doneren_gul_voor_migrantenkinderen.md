@@ -2,7 +2,9 @@
 layout: post
 title: "Blake Lively en Ryan Reynolds doneren gul voor migrantenkinderen"
 date: Thu, 05 Sep 2019 15:16:28 +0200
-category: entertainment
+categories: 
+- entertainment 
+- sterren 
 externe_link: "https://www.telegraaf.nl/entertainment/1074948869/blake-lively-en-ryan-reynolds-doneren-gul-voor-migrantenkinderen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6fb3943a-cfdf-11e9-9211-02c309bc01c1.jpg"
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Jong stel verongelukt 2 minuten na eigen bruiloft"
 date: Sat, 24 Aug 2019 22:48:23 +0200
-category: buitenland
+category: opmerkelijk
 externe_link: "https://www.telegraaf.nl/nieuws/1102481145/jong-stel-verongelukt-2-minuten-na-eigen-bruiloft"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a12e078a-c6b0-11e9-b0f3-0218eaf05005.png"
 ---

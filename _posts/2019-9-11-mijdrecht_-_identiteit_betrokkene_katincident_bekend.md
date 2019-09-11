@@ -2,9 +2,7 @@
 layout: post
 title: "Mijdrecht - Identiteit betrokkene katincident bekend"
 date: Wed, 11 Sep 2019 12:22:00 GMT
-categories: 
-- utrecht 
-- de_ronde_venen 
+category: politieberichten
 externe_link: "https://www.politie.nl/nieuws/2019/september/11/03-mijdrecht-identiteit-betrokkene-katincident-bekend.html"
 feature_image: "https://www.politie.nl/binaries/w400h225/content/gallery/politie/nieuws/2019/februari/07-rt/kat1.jpg"
 ---

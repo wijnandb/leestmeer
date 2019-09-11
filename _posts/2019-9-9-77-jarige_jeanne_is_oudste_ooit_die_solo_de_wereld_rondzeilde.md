@@ -2,7 +2,9 @@
 layout: post
 title: "77-jarige Jeanne is oudste ooit die solo de wereld rondzeilde"
 date: Mon, 09 Sep 2019 22:09:45 +0200
-category: nieuws
+categories: 
+- entertainment 
+- opmerkelijk 
 externe_link: "https://nos.nl/l/2301044"
 feature_image: "https://nos.nl/data/image/2019/09/09/576213/1008x567.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Barça-preses: ’PSG vroeg teveel voor Neymar’"
 date: Sat, 07 Sep 2019 00:37:26 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/910104375/barca-preses-psg-vroeg-teveel-voor-neymar"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e6da1274-d0f6-11e9-a415-0255c322e81b.jpg"
 ---
