@@ -2,7 +2,7 @@
 layout: post
 title: "Journalist heeft straks toestemming nodig om te werken in terreurgebied"
 date: Tue, 10 Sep 2019 23:38:05 +0200
-category: cultuur
+category: politiek
 externe_link: "https://nos.nl/l/2301194"
 feature_image: "https://nos.nl/data/image/2019/09/10/576439/1008x567.jpg"
 ---

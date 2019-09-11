@@ -2,7 +2,9 @@
 layout: post
 title: "’Puzzel’ Urán weer compleet na operatie van 7 uur"
 date: Tue, 10 Sep 2019 12:26:25 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/685022332/puzzel-uran-weer-compleet-na-operatie-van-7-uur"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/710f8d00-d3b5-11e9-8099-02c309bc01c1.jpg"
 ---

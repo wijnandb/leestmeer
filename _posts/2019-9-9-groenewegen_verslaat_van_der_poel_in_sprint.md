@@ -2,7 +2,9 @@
 layout: post
 title: "Groenewegen verslaat Van der Poel in sprint"
 date: Mon, 09 Sep 2019 17:49:47 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/1332241868/groenewegen-verslaat-van-der-poel-in-sprint"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/88fcc05a-d31e-11e9-a415-0255c322e81b.jpg"
 ---

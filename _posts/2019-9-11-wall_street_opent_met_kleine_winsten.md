@@ -2,9 +2,7 @@
 layout: post
 title: "Wall Street opent met kleine winsten"
 date: Wed, 11 Sep 2019 15:47:37 +0200
-categories: 
-- financieel 
-- koersen 
+category: financieel
 externe_link: "https://www.telegraaf.nl/financieel/1021407249/wall-street-opent-met-kleine-winsten"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/cbaad658-d49a-11e9-896b-02c309bc01c1.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Video: ’Frenkie’ en Sven Kramer kunnen Roglic niet overtuigen"
 date: Tue, 10 Sep 2019 14:49:32 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/445972330/video-frenkie-en-sven-kramer-kunnen-roglic-niet-overtuigen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d01dbc32-d3cd-11e9-abac-02c309bc01c1.jpg"
 ---

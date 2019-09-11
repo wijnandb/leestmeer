@@ -2,7 +2,9 @@
 layout: post
 title: "Video: Van der Poel verpulvert concurrentie"
 date: Tue, 10 Sep 2019 16:52:54 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/1873155616/video-van-der-poel-verpulvert-concurrentie"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/98e157ee-d3e9-11e9-baff-02d2fb1aa1d7.png"
 ---

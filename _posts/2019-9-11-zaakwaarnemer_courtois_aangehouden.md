@@ -2,7 +2,9 @@
 layout: post
 title: "Zaakwaarnemer Courtois aangehouden"
 date: Wed, 11 Sep 2019 11:20:46 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/2014838820/zaakwaarnemer-courtois-aangehouden"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/cc563110-d477-11e9-baff-02d2fb1aa1d7.jpg"
 ---

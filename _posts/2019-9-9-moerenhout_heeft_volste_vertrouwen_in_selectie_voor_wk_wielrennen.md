@@ -2,7 +2,9 @@
 layout: post
 title: "Moerenhout heeft volste vertrouwen in selectie voor WK wielrennen"
 date: Mon, 09 Sep 2019 16:40:16 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/2102203263/moerenhout-heeft-volste-vertrouwen-in-selectie-voor-wk-wielrennen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/bd7eb4e6-d30f-11e9-9b97-0218eaf05005.jpg"
 ---

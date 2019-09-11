@@ -2,8 +2,8 @@
 layout: post
 title: "Nieuwe sidderaalsoort geeft sterkste stroomstoot van allemaal"
 date: Wed, 11 Sep 2019 10:49:50 +0200
-category: nieuws
-externe_link: "https://nos.nl/l/2301232"
+category: buitenland
+externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/DERlqlO3Ob0/2301232"
 feature_image: "https://nos.nl/data/image/2019/09/11/576509/1008x567.jpg"
 ---
 
@@ -16,4 +16,4 @@ feature_image: "https://nos.nl/data/image/2019/09/11/576509/1008x567.jpg"
 <p>De wetenschappers denken dat de drie soorten geëvolueerd zijn uit een hoofdsoort. De voltai is aangepast aan het leven in de hooglanden van het regenwoud. De varii leeft in de laaglanden en de electricus in het noordelijke deel van de Amazonedelta.</p>
 <h2>Bosbranden</h2>
 <p>De vondst illustreert de enorme biodiversiteit van het natuurgebied, waarover nog maar weinig bekend is, zegt het onderzoeksteam. "Ondanks de impact van de mensheid op het regenwoud de afgelopen 50 jaar kunnen we nog steeds grote nieuwe vissoorten ontdekken", zegt hoofdonderzoeker Carlos David de Santana.</p>
-<p>Het is volgens hem erg belangrijk om de Amazone te beschermen tegen ontbossing. Daarmee verwijst hij naar de vele bosbranden in de Zuid-Amerikaanse jungle. Volgens NASA zijn de jaarlijkse bosbranden in de Amazone sinds 2010 niet meer zo talrijk en intens geweest als dit jaar.</p>
+<p>Het is volgens hem erg belangrijk om de Amazone te beschermen tegen ontbossing. Daarmee verwijst hij naar de vele bosbranden in de Zuid-Amerikaanse jungle. Volgens NASA zijn de jaarlijkse bosbranden in de Amazone sinds 2010 niet meer zo talrijk en intens geweest als dit jaar.</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbuitenland/~4/DERlqlO3Ob0" height="1" width="1" alt=""/>

@@ -2,7 +2,9 @@
 layout: post
 title: "Vuelta-leider Roglic verlengt bij Jumbo-Visma tot eind 2023"
 date: Tue, 10 Sep 2019 15:37:42 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2301141"
 feature_image: "https://nos.nl/data/image/2019/09/10/576350/1008x567.jpg"
 ---

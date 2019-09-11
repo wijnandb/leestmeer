@@ -2,7 +2,9 @@
 layout: post
 title: "Wiebes gepasseerd voor WK wielrennen"
 date: Mon, 09 Sep 2019 13:58:38 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/1539160441/wiebes-gepasseerd-voor-wk-wielrennen"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/28e5d85c-d2f9-11e9-9773-0255c322e81b.jpg"
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: "Dennis ging door zware periode na plotselinge Tour-opgave"
 date: Tue, 10 Sep 2019 15:56:17 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://nos.nl/l/2301143"
 feature_image: "https://nos.nl/data/image/2019/09/10/576362/1008x567.jpg"
 ---

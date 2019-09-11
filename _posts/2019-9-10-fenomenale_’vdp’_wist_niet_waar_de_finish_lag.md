@@ -2,7 +2,9 @@
 layout: post
 title: "Fenomenale ’VDP’ wist niet waar de finish lag"
 date: Tue, 10 Sep 2019 18:31:06 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/1537536054/fenomenale-vdp-wist-niet-waar-de-finish-lag"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d1a9755c-d3e9-11e9-bcd0-0255c322e81b.jpg"
 ---

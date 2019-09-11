@@ -2,9 +2,7 @@
 layout: post
 title: "Eekhoorn van visboer Dick gaat de wereld over"
 date: Tue, 10 Sep 2019 21:20:56 +0200
-categories: 
-- entertainment 
-- opinie 
+category: opmerkelijk
 externe_link: "https://www.telegraaf.nl/lifestyle/1398414956/eekhoorn-van-visboer-dick-gaat-de-wereld-over"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/6a76136c-d471-11e9-8388-02d2fb1aa1d7.jpg"
 ---

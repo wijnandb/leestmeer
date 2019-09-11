@@ -2,7 +2,9 @@
 layout: post
 title: "Amsterdamse wethouder stapt op na onenigheid over afvalcentrale AEB"
 date: Wed, 11 Sep 2019 10:29:04 +0200
-category: nieuws
+categories: 
+- financieel 
+- economie 
 externe_link: "https://nos.nl/l/2301228"
 feature_image: "https://nos.nl/data/image/2019/09/11/576503/1008x567.jpg"
 ---

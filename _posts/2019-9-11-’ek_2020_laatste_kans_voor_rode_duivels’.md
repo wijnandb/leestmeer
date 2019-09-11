@@ -2,7 +2,9 @@
 layout: post
 title: "’EK 2020 laatste kans voor Rode Duivels’"
 date: Wed, 11 Sep 2019 12:04:09 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/1200302921/ek-2020-laatste-kans-voor-rode-duivels"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/7f82622e-d47b-11e9-80b1-0217670beecd.jpg"
 ---

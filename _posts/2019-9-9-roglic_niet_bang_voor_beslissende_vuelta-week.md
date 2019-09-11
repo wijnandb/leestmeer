@@ -2,7 +2,9 @@
 layout: post
 title: "Roglic niet bang voor beslissende Vuelta-week"
 date: Mon, 09 Sep 2019 20:36:52 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/1097513871/roglic-niet-bang-voor-beslissende-vuelta-week"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/9ad57d12-d332-11e9-a59e-0218eaf05005.jpg"
 ---

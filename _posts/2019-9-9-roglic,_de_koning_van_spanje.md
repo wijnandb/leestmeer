@@ -2,7 +2,9 @@
 layout: post
 title: "Roglic, de koning van Spanje"
 date: Mon, 09 Sep 2019 08:50:00 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/128478172/roglic-de-koning-van-spanje"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/e2b68692-d2cb-11e9-bec0-02c309bc01c1.jpg"
 ---

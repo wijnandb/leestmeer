@@ -2,7 +2,9 @@
 layout: post
 title: "Fuglsang soleert naar ritzege Vuelta"
 date: Mon, 09 Sep 2019 17:49:22 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/1868392677/fuglsang-soleert-naar-ritzege-vuelta"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/b4aac9b4-d31d-11e9-9f6b-02d1dbdc35d1.jpg"
 ---

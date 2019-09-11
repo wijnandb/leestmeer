@@ -2,7 +2,9 @@
 layout: post
 title: "Jumbo-Visma over winnen grote ronde: ’Tijd dat het lukt’"
 date: Tue, 10 Sep 2019 16:28:51 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/935738722/jumbo-visma-over-winnen-grote-ronde-tijd-dat-het-lukt"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/506123c6-d3d7-11e9-921d-0217670beecd.jpg"
 ---

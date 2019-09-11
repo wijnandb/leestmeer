@@ -2,7 +2,9 @@
 layout: post
 title: "Grootverdiener De Ligt hoeft alleen Ronaldo voor zich te dulden in Serie A"
 date: Tue, 10 Sep 2019 14:40:38 +0200
-category: sport
+categories: 
+- sport 
+- voetbal 
 externe_link: "https://nos.nl/l/2301137"
 feature_image: "https://nos.nl/data/image/2019/09/10/576348/1008x567.jpg"
 ---

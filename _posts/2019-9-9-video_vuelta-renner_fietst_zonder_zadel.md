@@ -2,7 +2,9 @@
 layout: post
 title: "Video: Vuelta-renner fietst zonder zadel"
 date: Mon, 09 Sep 2019 18:44:56 +0200
-category: sport
+categories: 
+- sport 
+- wielrennen 
 externe_link: "https://www.telegraaf.nl/sport/2121799263/video-vuelta-renner-fietst-zonder-zadel"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/f975caf8-d39f-11e9-a59e-0218eaf05005.png"
 ---

@@ -3,8 +3,8 @@ layout: post
 title: "Bacuna eert overleden doelman Curaçao"
 date: Wed, 11 Sep 2019 08:56:21 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- voetbal 
 externe_link: "https://www.telegraaf.nl/sport/1583757951/bacuna-eert-overleden-doelman-curacao"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/42e264dc-d461-11e9-bfdc-0217670beecd.jpg"
 ---

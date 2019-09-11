@@ -2,8 +2,8 @@
 layout: post
 title: "Wekdienst 11_9: uitspraak in euthanasie-zaak en herdenkingsdienst 9_11"
 date: Wed, 11 Sep 2019 06:54:37 +0200
-category: binnenland
-externe_link: "http://feeds.nos.nl/~r/nosnieuwsbinnenland/~3/VDP2jeZND3U/2301205"
+category: buitenland
+externe_link: "http://feeds.nos.nl/~r/nosnieuwsbuitenland/~3/VDP2jeZND3U/2301205"
 feature_image: "https://nos.nl/data/image/2019/09/11/576453/1008x567.jpg"
 ---
 
@@ -19,4 +19,4 @@ feature_image: "https://nos.nl/data/image/2019/09/11/576453/1008x567.jpg"
 <p> De kroongetuige in het grote liquidatieproces dat deze zomer begon, heeft zijn contract met justitie over bescherming opgezegd. Dat schrijft De Telegraaf. Het gaat om Nabil B. Zijn onschuldige broer werd vorig jaar in Amsterdam doodgeschoten, enkele maanden nadat het Openbaar Ministerie had bekendgemaakt dat B. zou getuigen in het proces. Een journalist of hulpverlener heeft straks toestemming nodig van het ministerie van Justitie en Veiligheid om te kunnen werken in een gebied dat door terroristen wordt gecontroleerd. Het omstreden wetsvoorstel van minister Grapperhaus moet verblijf in terreurgebied zonder toestemming strafbaar maken. Dit maakt het makkelijker om Syriëgangers langer vast te houden terwijl het onderzoek naar terroristische activiteiten loopt. De Britse grenswacht heeft gisteren 86 migranten opgepikt in het Kanaal. Ze zaten op zes bootjes. Mensensmokkelaars zouden momenteel druk uitoefenen op migranten om snel de oversteek te maken, in verband met de naderende brexit-datum. </p>
 <h2>En dan nog even dit:</h2>
 <p>Het Groningse gas was een bron van welvaart, maar de laatste jaren ging het vooral over de negatieve gevolgen: aardbevingen, schade en heel veel frustratie. Gisteren werd bekendgemaakt dat de gaskraan in 2022 dichtgaat. In de onderstaande video een overzicht van de gaswinning in Groningen.</p>
-<p>Fijne dag!</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbinnenland/~4/VDP2jeZND3U" height="1" width="1" alt=""/>
+<p>Fijne dag!</p><img src="http://feeds.feedburner.com/~r/nosnieuwsbuitenland/~4/VDP2jeZND3U" height="1" width="1" alt=""/>

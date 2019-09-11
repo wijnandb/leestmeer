@@ -10,12 +10,13 @@ feature_image: "https://nos.nl/data/image/2019/09/11/576563/1008x567.jpg"
 <p>Multinationals als Shell, Philips en AkzoNobel, die in ons land nauwelijks of geen winstbelasting betalen worden vanaf 2021 aangepakt. De belastingafdracht van deze bedrijven gaat op de schop.</p>
 <p>Het kabinet neemt een initiatiefwet daartoe van GroenLinks over, zo bevestigen bronnen tegen de NOS.</p>
 <p>Daarmee komt een einde aan de situatie waarbij multinationals buitenlandse verliezen als aftrekpost kunnen opvoeren waardoor ze in Nederland nauwelijks winstbelasting betalen.</p>
-<p>De verandering kan de schatkist zo'n 250 miljoen euro opleveren. Het geld wordt volgens bronnen waarschijnlijk gebruikt voor lastenverlichting.</p>
+<p>De verandering kan de schatkist enkele honderden miljoenen euro's opleveren. Bekend is dat Shell Nederland de afgelopen jaren telkens zo'n 1 miljard euro winst maakte. Daarover zou het bedrijf nu zo'n 250 miljoen euro belasting moeten gaan betalen. Ook Philips en Akzo Nobel betaalden niet of nauwelijks belasting. Zij zouden enkele tientallen miljoenen gaan betalen. Van andere multinationals zijn hierover geen cijfers bekend.</p>
+<p>Het geld wordt volgens bronnen waarschijnlijk gebruikt voor lastenverlichting.</p>
 <h2>Politieke verontwaardiging</h2>
 <p>Vorig jaar onthulde dagblad Trouw dat Shell in Nederland geen winstbelasting betaalt. De olie- en gasreus gaf dat in mei in Elsevier Weekblad toe.</p>
 <p>De politieke verontwaardiging was groot, in een hoorzitting vroeg de Tweede Kamer om tekst en uitleg over de aantrekkelijke fiscale regelingen.</p>
 <h2>Slim</h2>
-<p>Over de circa 1 à 1,5 miljard euro winst die Shell Nederland tussen 2016 en 2018 jaarlijks maakte bleek geen belasting te zijn betaald. Dat was geen ontduiking of een truc, maar kon door het slim gebruiken van fiscale regels voor multinationals.</p>
+<p>Over de winst die Shell Nederland tussen 2016 en 2018 jaarlijks maakte bleek geen belasting te zijn betaald. Dat was geen ontduiking of een truc, maar kon door het slim gebruiken van fiscale regels voor multinationals.</p>
 <p>De regels werden bedacht in het kader van industrie-politiek om grote bedrijven naar Nederland te halen en hier te houden, in het kader van economie en werkgelegenheid.</p>
 <p>In de video hieronder legt NOS op 3 uit hoe het precies zit, en waarom Nederland deze regelingen heeft getroffen.</p>
 <h2>Bijzondere aftrekposten</h2>

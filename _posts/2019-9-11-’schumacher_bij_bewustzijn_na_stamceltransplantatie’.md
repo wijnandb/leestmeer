@@ -3,8 +3,8 @@ layout: post
 title: "’Schumacher bij bewustzijn na stamceltransplantatie’"
 date: Wed, 11 Sep 2019 13:39:50 +0200
 categories: 
-- entertainment 
-- opinie 
+- sport 
+- autosport 
 externe_link: "https://www.telegraaf.nl/sport/681891225/schumacher-bij-bewustzijn-na-stamceltransplantatie"
 feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/a8c47160-d48d-11e9-80b1-0217670beecd.jpg"
 ---
