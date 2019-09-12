@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Sport Kort: Bayern mist Goretzka in topper"
+date: Thu, 12 Sep 2019 10:11:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1272802558/sport-kort-bayern-mist-goretzka-in-topper"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/4ea1d1d4-d535-11e9-896b-02c309bc01c1.jpg"
+aantal: 348
+unieke: 237
+bron: "De Telegraaf"
+---
+
+<p class="intro">In de rubriek Sport Kort heeft Telesport aandacht voor de meest uiteenlopende gebeurtenissen in de sportwereld: van voetbal tot darts, van tennis tot golf en van atletiek tot wielrennen.</p> <p>Dagelijks verzamelen we in Sport Kort het korte nieuws van alle kanten. Bekijk hieronder het overzicht van donderdag 12 september.</p><p>Bayern zonder geopereerde middenvelder</p><p>09.18 uur: Bayern München moet het zaterdag in de Duitse topper tegen RB Leipzig doen zonder Leon Goretzka. De middenvelder heeft een kleine operatie moeten ondergaan om een bloeduitstorting in zijn linkerbovenbeen te verhelpen. Goretzka liep die blessure vorige week op bij de nationale ploeg en miste daardoor de EK-kwalificatiewedstrijden tegen Oranje (2-4) en Noord-Ierland (2-0-zege).</p><p>De 24-jarige Duitser heeft dit seizoen in de Bundesliga nog geen speelminuten gemaakt. Goretzka miste de eerste competitieduels vanwege een gekneusd dijbeen. Hij zat kort voor de interlandperiode wel weer op de bank tijdens de gewonnen wedstrijd tegen 1. FSV Mainz 05 (6-1).</p><p>Bayern München heeft na drie duels zeven punten, Leipzig gaat aan kop met de maximale negen punten. "Ons doel is zaterdag de eerste plaats over te nemen met een zege in Leipzig", zei bestuursvoorzitter Karl-Heinz Rummenigge van Bayern. Trainer Julian Nagelsmann van de trotse koploper heeft andere ambities. "Bayern is de favoriet voor de titel, omdat ze de beste selectie hebben. Maar als wij alles goed doen, staan we straks misschien wel vijf punten voor.”</p><p>Golf: Luiten vroeg aan de beurt in KLM Open</p><p>07.00 uur: Joost Luiten moet donderdag al vroeg de baan op voor zijn eerste ronde in het honderdste KLM Open. De tweevoudig winnaar (2013 en 2016) slaat even voor 8.30 uur zijn eerste bal op golfbaan The International, pal naast Schiphol.</p><p>Luiten werkt zijn ronde over achttien holes af in het gezelschap van de Spaanse topspeler Sergio Garcia en de Chinese titelverdediger Ashun Wu. De Amerikaan Patrick Reed, de nummer zeventien van de wereld en daarmee de hoogst genoteerde golfer in het KLM Open, komt vanaf 13.15 uur in actie. Hij zit in een zogeheten ‘flight’ met de Belgische oud-winnaar Thomas Pieters en de Brit Matt Wallace.</p><p>In totaal spelen negentien Nederlanders mee in het oudste golftoernooi van Nederland.</p>
