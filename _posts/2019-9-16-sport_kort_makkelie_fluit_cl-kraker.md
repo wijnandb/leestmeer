@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Sport Kort: Makkelie fluit CL-kraker"
+date: Mon, 16 Sep 2019 10:57:00 +0200
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/775588577/sport-kort-makkelie-fluit-cl-kraker"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/00970d8c-d860-11e9-bec0-02c309bc01c1.jpg"
+aantal: 334
+unieke: 218
+bron: "De Telegraaf"
+---
+
+<p class="intro">In de rubriek Sport Kort heeft Telesport aandacht voor de meest uiteenlopende gebeurtenissen in de sportwereld: van voetbal tot darts, van tennis tot golf, van atletiek tot wielrennen en alles daar tussenin. Dagelijks verzamelen we in Sport Kort het korte nieuws van alle kanten. Bekijk hieronder het overzicht van maandag 16 september.</p> <p>Makkelie fluit Atlético Madrid - Juventus</p><p>10.50 uur Scheidsrechter Danny Makkelie heeft woensdag de leiding over het duel tussen Atlético Madrid en Juventus in de Champions League. De Europese voetbalbond UEFA wees de 36-jarige Makkelie aan voor de wedstrijd uit groep D. Makkelie komt bij Juventus met verdediger Matthijs de Ligt een landgenoot tegen.</p><p>Het duel in het Estadio Metropolitano in de Spaanse hoofdstad begint om 21.00 uur. Jochem Kamphuis en Bas Nijhuis fungeren als respectievelijk videoscheidsrechter en assistent-VAR.</p><p>Pliskova weer naar WTA Finals</p><p>Tennisster Karolina Pliskova heeft zich verzekerd van deelname aan de WTA Finals in Shenzhen. De 27-jarige Tsjechische boekte afgelopen week in Zhengzhou haar vierde toernooizege van dit jaar. Pliskova is daardoor zeker van een startbewijs voor het eindejaarstoernooi met de acht beste tennissters van het seizoen.</p><p>Pliskova bereikte de afgelopen twee jaar steeds de halve finales van het toernooi dat toen nog in Singapore werd gehouden. In 2017 verloor ze van Caroline Wozniacki, vorig jaar van Sloane Stephens. Met de verhuizing van Singapore naar Shenzhen is het prijzengeld ook verdubbeld naar 14 miljoen dollar, omgerekend zo'n 12,5 miljoen euro.</p><p>Bertens blijft nummer 8</p><p>08.25 uur Hoewel tennisster Kiki Bertens afgelopen week in Zhengzhou direct werd uitgeschakeld, blijft ze de nummer 8 van de wereld. Bertens had geen punten te verdedigen en leverde daarom niets in. De beste Nederlandse tennisster van dit moment speelt deze week in Osaka. Vorig jaar schreef ze in dezelfde periode van het seizoen het toernooi van Seoul op haar naam.</p><p>De Australische Ashleigh Barty voert de wereldranglijst aan, gevolgd door Karolina Pliskova. De Tsjechische pakte afgelopen week de titel op het Chinese hardcourt in Zhengzhou. Bianca Andreescu, de 19-jarige winnares van de US Open, staat nog steeds op de vijfde plek.</p>
