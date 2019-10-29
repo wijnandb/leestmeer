@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Eerste bouwmachines dinsdagavond op Malieveld"
+date: Tue, 29 Oct 2019 16:24:11 +0100
+category: nieuws
+externe_link: "https://www.telegraaf.nl/nieuws/1088115259/eerste-bouwmachines-dinsdagavond-op-malieveld"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/d9dbd9d2-fa62-11e9-868f-0217670beecd.jpg"
+aantal: 330
+unieke: 215
+bron: "De Telegraaf"
+---
+
+<p class="intro">De eerste bouwmachines rijden dinsdagavond al het Malieveld in Den Haag op voor het grote ondernemersprotest van woensdag. Actiegroep Grond in Verzet heeft met diverse bedrijven afgesproken dat ze in totaal zo'n duizend voertuigen naar het veld brengen. Ze willen laten zien wat voor materieel volgens hen stilstaat door problematisch uitpakkende regelgeving over stikstof en chemische stoffen die onder de noemer PFAS vallen.</p> <p>De verwachting is dat in de loop van de avond al allerlei voertuigen arriveren. Zo staat rond 22.00 uur de aankomst gepland van een twintigtal vrachtwagens met diepladers uit Groningen, vertelt Sjoerd Vogelzang van Grond in Verzet. Hij is zelf ondernemer in het grondverzet en transport en eigenaar van een aantal daarvan. "De diepladers brengen onder meer graafmachines en machines die heipalen bewerken."</p><p>In de nacht en vroege ochtend komen meer voertuigen aan, met een piek tussen 5.00 en 6.00 uur. Het is de bedoeling dat ze voor de ochtendspits ter plaatse zijn.</p><p>Het officiële programma begint om 9.55 uur en duurt tot circa 15.00 uur. Na de opening laten bouwers en ook schippers in het land een minuut lang hun toeters en hoorns klinken. Een halfuur later wordt een manifest overhandigd aan bewindslieden die naar de demonstratie van bouwers, baggeraars, grondverzetters en andere ondernemers komen. Volgens Bouwend Nederland komen minister Eric Wiebes (Economische Zaken) en de staatssecretarissen Stientje van Veldhoven (Infrastructuur en Waterstaat) en Raymond Knops (Binnenlandse Zaken).</p><p>De gemeente Den Haag en eigenaar van het Malieveld Staatsbosbeheer hebben afspraken gemaakt met de actievoerders. "Het gaat anders dan met de boeren, het is een strakke organisatie", zegt een woordvoerder van Staatsbosbeheer.</p><p>Hoewel de organisatie deelnemers heeft opgeroepen om vooral niet met eigen voertuigen te komen, staan op sociale media diverse berichten van mensen die dat toch van plan zijn. "We roepen op dat niet te doen", reageert Klaas Kooiker van Grond in Verzet. "Maar we hebben niet heel Nederland aan een touwtje."</p><p>Bouwend Nederland noemt het "gewoon jammer" als mensen toch op eigen houtje met machines naar Den Haag gaan.</p>
