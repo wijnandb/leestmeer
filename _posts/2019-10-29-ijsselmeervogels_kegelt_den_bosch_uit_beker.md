@@ -1,0 +1,13 @@
+---
+layout: post
+title: "IJsselmeervogels kegelt Den Bosch uit beker"
+date: Tue, 29 Oct 2019 21:58:17 +0100
+category: sport
+externe_link: "https://www.telegraaf.nl/sport/1014015981/i-jsselmeervogels-kegelt-den-bosch-uit-beker"
+feature_image: "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/1eb22f1e-fa97-11e9-8df9-0217670beecd.jpg"
+aantal: 358
+unieke: 231
+bron: "De Telegraaf"
+---
+
+<p class="intro">IJsselmeervogels heeft FC Den Bosch uit de KNVB-beker gewerkt. De koploper van de tweede divisie klopte de nummer veertien van de eerste divisie met 3-0.</p> <p>Danny van den Meiracker benutte in de 24e minuut een strafschop. Verdediger Leo Vaisanen van FC Den Bosch, de veroorzaker van de penalty, moest met een rode kaart van het veld. Maikel de Harder bracht de thuisploeg uit Spakenburg in de 62e minuut op 2-0. Ahmed el Azzouti haalde acht minuten later het laatste beetje spanning uit de wedstrijd (3-0).</p><p>GVVV, net als IJsselmeervogels actief in de tweede divisie, schakelde Helmond Sport (2-1) uit. Berry Powel en Wesley Goeman scoorden in Veenendaal tegen de nummer vijftien van de eerste divisie.</p><p>PEC Zwolle had het lang lastig met HSV Hoek, dat tweede staat in de derde divisie. De komende tegenstander van Ajax in de eredivisie zegevierde uiteindelijk met 3-0, met dank aan treffers van Lennart Thy (2) en Dennis Johnsen. PEC leidde na 89 minuten nog maar met 1-0.</p><p>Hattrick Achahbar</p><p>Anass Achahbar had met drie treffers een groot aandeel in de bekerzege van FC Dordrecht op MVV Maastricht (3-1). Almere City werd voor eigen publiek uitgeschakeld door Go Ahead Eagles: 1-3. Excelsior won na verlenging van NEC (4-2). Thomas Verhaar maakte in de 88e minuut gelijk voor de thuisploeg uit Rotterdam (2-2). Vervolgens braken Thomas Oude Kotte (105e minuut) en Verhaar (107e minuut) het verzet van NEC.</p><p>SC Cambuur (5-0 tegen Goes), TOP Oss (2-1 tegen Oss'20), Telstar (2-1 tegen Koninklijke HFC), Roda JC (2-0 Achilles Veen), FC Eindhoven (4-0 Rijnsburgse Boys), Katwijk (3-0 Flevo Boys) plaatsten zich ook voor de tweede ronde.</p><p>Emmen snel klaar</p><p>Voor FC Emmen is het bekeravontuur al na een ronde voorbij. De nummer veertien van de eredivisie liet zich verrassen in de uitwedstrijd bij NAC Breda (3-2)</p><p>De nummer vier van de eerste divisie kwam driemaal op voorsprong. Sydney van Hooijdonk opende de score (1-0) en Roger Riera tekende na de gelijkmaker van Michael Chacón voor 2-1. Michael de Leeuw bracht FC Emmen in de zestigste minuut voor de tweede keer op gelijke hoogte (2-2).</p><p>Finn Stokkers maakte in de 74e minuut het winnende doelpunt. De aanvaller kopte fraai raak op aangeven van Othman Boussaid.</p>
